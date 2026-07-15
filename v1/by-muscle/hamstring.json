@@ -1,10 +1,95 @@
 {
-  "muscle": "hamstring",
+  "muscle": {
+    "id": "hamstring",
+    "es": "Femoral",
+    "en": "Hamstrings"
+  },
+  "count": 5,
   "exercises": [
-    "barbell-hip-thrust",
-    "box-squat",
-    "leg-press",
-    "lying-leg-curls",
-    "seated-leg-curl"
+    {
+      "slug": "leg-press",
+      "name": {
+        "es": "Prensa de piernas",
+        "en": "Leg press"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/leg-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/leg-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/leg-press.json"
+    },
+    {
+      "slug": "seated-leg-curl",
+      "name": {
+        "es": "Curl de piernas sentado",
+        "en": "Seated leg curl"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/seated-leg-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/seated-leg-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-leg-curl.json"
+    },
+    {
+      "slug": "lying-leg-curls",
+      "name": {
+        "es": "Curl de piernas tumbado",
+        "en": "Lying leg curl"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/lying-leg-curls-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/lying-leg-curls-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/lying-leg-curls.json"
+    },
+    {
+      "slug": "barbell-hip-thrust",
+      "name": {
+        "es": "Hip thrust con barra",
+        "en": "Barbell hip thrust"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-hip-thrust-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-hip-thrust-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-hip-thrust.json"
+    },
+    {
+      "slug": "box-squat",
+      "name": {
+        "es": "Sentadilla al cajón",
+        "en": "Box squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/box-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/box-squat-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/box-squat.json"
+    }
   ]
 }

@@ -78,7 +78,7 @@ def main():
     client = OpenAI(api_key=load_key())
     seed = json.load(open(os.path.join(ROOT,"exercises_seed.json"),encoding="utf-8"))
 
-    for d in ("v1","v1/exercises","v1/by-muscle","images","muscle-maps"):
+    for d in ("v1","v1/exercises","v1/by-muscle","v1/by-group","images","muscle-maps"):
         os.makedirs(os.path.join(ROOT,d), exist_ok=True)
 
     def copy_img(slug, gender, suffix):
@@ -92,7 +92,8 @@ def main():
         rel = f"images/{slug}-{suffix}.jpg"; im.save(os.path.join(ROOT,rel),quality=85)
         return f"{BASE}/{rel}"
 
-    index=[]; by_muscle={}
+    index=[]; by_muscle={}; by_group={}
+    def dump(path, obj): json.dump(obj, open(os.path.join(ROOT,path),"w",encoding="utf-8"), ensure_ascii=False, indent=2)
     for ex in seed:
         slug=ex["slug"]
         instr = get_instructions(client, ex)
@@ -104,29 +105,34 @@ def main():
         full = {
           "slug":slug,
           "name":{"es":ex["es"],"en":ex["en"]},
-          "group":{"es":ex["group_es"],"en":ex["group_en"]},
+          "group":{"id":ex["group_en"].lower(),"es":ex["group_es"],"en":ex["group_en"]},
           "primaryMuscles":mlist(ex["primary"]),
           "secondaryMuscles":mlist(ex["secondary"]),
           "instructions":instr,
           "images":{"male":img_m,"female":img_f},
           "muscleMap":f"{BASE}/{svg_rel}",
         }
-        json.dump(full, open(os.path.join(ROOT,"v1/exercises",slug+".json"),"w",encoding="utf-8"),
-                  ensure_ascii=False, indent=2)
-        index.append({"slug":slug,"name":full["name"],"group":full["group"],
-                      "primaryMuscles":[m["id"] for m in full["primaryMuscles"]],
-                      "image":full["images"],"url":f"{BASE}/v1/exercises/{slug}.json"})
-        for m in ex["primary"]+ex["secondary"]:
-            by_muscle.setdefault(m,[]).append(slug)
+        dump(f"v1/exercises/{slug}.json", full)
+        # resumen reutilizable (índice, por grupo, por músculo)
+        summ = {"slug":slug,"name":full["name"],"group":full["group"],
+                "image":full["images"],"url":f"{BASE}/v1/exercises/{slug}.json"}
+        index.append({**summ,"primaryMuscles":[m["id"] for m in full["primaryMuscles"]]})
+        g = ex["group_en"].lower()
+        by_group.setdefault(g,{"group":full["group"],"exercises":[]})["exercises"].append(summ)
+        for m in dict.fromkeys(ex["primary"]+ex["secondary"]):
+            by_muscle.setdefault(m,[]).append(summ)
 
-    json.dump({"count":len(index),"exercises":index},
-              open(os.path.join(ROOT,"v1/exercises.json"),"w",encoding="utf-8"), ensure_ascii=False, indent=2)
-    json.dump([{"id":k,**v} for k,v in MUSCLES.items()],
-              open(os.path.join(ROOT,"v1/muscles.json"),"w",encoding="utf-8"), ensure_ascii=False, indent=2)
-    for m,slugs in by_muscle.items():
-        json.dump({"muscle":m,"exercises":sorted(set(slugs))},
-                  open(os.path.join(ROOT,"v1/by-muscle",m+".json"),"w",encoding="utf-8"), ensure_ascii=False, indent=2)
-    print(f"\nOK · {len(index)} ejercicios · imágenes+mapas+JSON en {ROOT}")
+    dump("v1/exercises.json", {"count":len(index),"exercises":index})
+    dump("v1/muscles.json", [{"id":k,**v} for k,v in MUSCLES.items()])
+    dump("v1/groups.json", [{"id":g,"es":d["group"]["es"],"en":d["group"]["en"],
+                             "count":len(d["exercises"]),"url":f"{BASE}/v1/by-group/{g}.json"}
+                            for g,d in by_group.items()])
+    for g,d in by_group.items():
+        dump(f"v1/by-group/{g}.json", {"group":d["group"],"count":len(d["exercises"]),"exercises":d["exercises"]})
+    for m,arr in by_muscle.items():
+        dump(f"v1/by-muscle/{m}.json",
+             {"muscle":{"id":m,**MUSCLES[m]},"count":len(arr),"exercises":arr})
+    print(f"\nOK · {len(index)} ejercicios · {len(by_group)} grupos · imágenes+mapas+JSON en {ROOT}")
 
 if __name__=="__main__":
     main()

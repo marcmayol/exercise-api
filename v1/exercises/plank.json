@@ -5,6 +5,7 @@
     "en": "Plank"
   },
   "group": {
+    "id": "core",
     "es": "Core",
     "en": "Core"
   },

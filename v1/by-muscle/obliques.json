@@ -1,7 +1,44 @@
 {
-  "muscle": "obliques",
+  "muscle": {
+    "id": "obliques",
+    "es": "Oblicuos",
+    "en": "Obliques"
+  },
+  "count": 2,
   "exercises": [
-    "plank",
-    "side-plank"
+    {
+      "slug": "plank",
+      "name": {
+        "es": "Plancha",
+        "en": "Plank"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/plank-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/plank-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/plank.json"
+    },
+    {
+      "slug": "side-plank",
+      "name": {
+        "es": "Plancha lateral",
+        "en": "Side plank"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/side-plank-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/side-plank-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/side-plank.json"
+    }
   ]
 }

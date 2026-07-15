@@ -5,6 +5,7 @@
     "en": "Dumbbell hammer curl"
   },
   "group": {
+    "id": "arms",
     "es": "Brazos",
     "en": "Arms"
   },

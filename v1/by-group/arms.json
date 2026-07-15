@@ -1,10 +1,10 @@
 {
-  "muscle": {
-    "id": "forearm",
-    "es": "Antebrazo",
-    "en": "Forearm"
+  "group": {
+    "id": "arms",
+    "es": "Brazos",
+    "en": "Arms"
   },
-  "count": 2,
+  "count": 4,
   "exercises": [
     {
       "slug": "alternating-dumbbell-biceps-curl",
@@ -39,6 +39,40 @@
         "female": "https://marcmayol.com/exercise-api/images/dumbbell-hammer-biceps-curl-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-hammer-biceps-curl.json"
+    },
+    {
+      "slug": "triceps-pushdown",
+      "name": {
+        "es": "Extensión de tríceps en polea",
+        "en": "Triceps pushdown"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/triceps-pushdown-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/triceps-pushdown-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/triceps-pushdown.json"
+    },
+    {
+      "slug": "dips-machine",
+      "name": {
+        "es": "Fondos en máquina",
+        "en": "Dips machine"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dips-machine-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dips-machine-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dips-machine.json"
     }
   ]
 }

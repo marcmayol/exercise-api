@@ -5,6 +5,7 @@
     "en": "Box squat"
   },
   "group": {
+    "id": "legs",
     "es": "Piernas",
     "en": "Legs"
   },

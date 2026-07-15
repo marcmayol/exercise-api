@@ -5,6 +5,7 @@
     "en": "Incline chest press machine"
   },
   "group": {
+    "id": "chest",
     "es": "Pecho",
     "en": "Chest"
   },

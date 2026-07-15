@@ -1,62 +1,11 @@
 {
-  "muscle": {
-    "id": "deltoids",
+  "group": {
+    "id": "shoulders",
     "es": "Hombros",
     "en": "Shoulders"
   },
-  "count": 8,
+  "count": 4,
   "exercises": [
-    {
-      "slug": "seated-chest-press",
-      "name": {
-        "es": "Press de pecho en máquina",
-        "en": "Seated chest press"
-      },
-      "group": {
-        "id": "chest",
-        "es": "Pecho",
-        "en": "Chest"
-      },
-      "image": {
-        "male": "https://marcmayol.com/exercise-api/images/seated-chest-press-m.jpg",
-        "female": "https://marcmayol.com/exercise-api/images/seated-chest-press-f.jpg"
-      },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-chest-press.json"
-    },
-    {
-      "slug": "incline-chest-press-machine",
-      "name": {
-        "es": "Press de pecho inclinado en máquina",
-        "en": "Incline chest press machine"
-      },
-      "group": {
-        "id": "chest",
-        "es": "Pecho",
-        "en": "Chest"
-      },
-      "image": {
-        "male": "https://marcmayol.com/exercise-api/images/incline-chest-press-machine-m.jpg",
-        "female": "https://marcmayol.com/exercise-api/images/incline-chest-press-machine-f.jpg"
-      },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/incline-chest-press-machine.json"
-    },
-    {
-      "slug": "butterflies",
-      "name": {
-        "es": "Aperturas en máquina (pec deck)",
-        "en": "Machine chest fly (pec deck)"
-      },
-      "group": {
-        "id": "chest",
-        "es": "Pecho",
-        "en": "Chest"
-      },
-      "image": {
-        "male": "https://marcmayol.com/exercise-api/images/butterflies-m.jpg",
-        "female": "https://marcmayol.com/exercise-api/images/butterflies-f.jpg"
-      },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/butterflies.json"
-    },
     {
       "slug": "seated-dumbbell-overhead-shoulder-press",
       "name": {
@@ -124,23 +73,6 @@
         "female": "https://marcmayol.com/exercise-api/images/face-pull-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/face-pull.json"
-    },
-    {
-      "slug": "dips-machine",
-      "name": {
-        "es": "Fondos en máquina",
-        "en": "Dips machine"
-      },
-      "group": {
-        "id": "arms",
-        "es": "Brazos",
-        "en": "Arms"
-      },
-      "image": {
-        "male": "https://marcmayol.com/exercise-api/images/dips-machine-m.jpg",
-        "female": "https://marcmayol.com/exercise-api/images/dips-machine-f.jpg"
-      },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/dips-machine.json"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "muscle": {
+  "group": {
     "id": "chest",
-    "es": "Pectoral",
+    "es": "Pecho",
     "en": "Chest"
   },
-  "count": 4,
+  "count": 3,
   "exercises": [
     {
       "slug": "seated-chest-press",
@@ -56,23 +56,6 @@
         "female": "https://marcmayol.com/exercise-api/images/butterflies-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/butterflies.json"
-    },
-    {
-      "slug": "dips-machine",
-      "name": {
-        "es": "Fondos en máquina",
-        "en": "Dips machine"
-      },
-      "group": {
-        "id": "arms",
-        "es": "Brazos",
-        "en": "Arms"
-      },
-      "image": {
-        "male": "https://marcmayol.com/exercise-api/images/dips-machine-m.jpg",
-        "female": "https://marcmayol.com/exercise-api/images/dips-machine-f.jpg"
-      },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/dips-machine.json"
     }
   ]
 }

@@ -1,8 +1,61 @@
 {
-  "muscle": "trapezius",
+  "muscle": {
+    "id": "trapezius",
+    "es": "Trapecio",
+    "en": "Trapezius"
+  },
+  "count": 3,
   "exercises": [
-    "face-pull",
-    "seated-cable-back-rows",
-    "seated-row-machine"
+    {
+      "slug": "seated-row-machine",
+      "name": {
+        "es": "Remo sentado en máquina",
+        "en": "Seated row machine"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/seated-row-machine-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/seated-row-machine-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-row-machine.json"
+    },
+    {
+      "slug": "seated-cable-back-rows",
+      "name": {
+        "es": "Remo en polea sentado",
+        "en": "Seated cable row"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/seated-cable-back-rows-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/seated-cable-back-rows-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-cable-back-rows.json"
+    },
+    {
+      "slug": "face-pull",
+      "name": {
+        "es": "Face pull",
+        "en": "Face pull"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/face-pull-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/face-pull-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/face-pull.json"
+    }
   ]
 }

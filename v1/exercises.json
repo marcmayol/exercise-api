@@ -8,17 +8,18 @@
         "en": "Seated chest press"
       },
       "group": {
+        "id": "chest",
         "es": "Pecho",
         "en": "Chest"
       },
-      "primaryMuscles": [
-        "chest"
-      ],
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/seated-chest-press-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/seated-chest-press-f.jpg"
       },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-chest-press.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-chest-press.json",
+      "primaryMuscles": [
+        "chest"
+      ]
     },
     {
       "slug": "incline-chest-press-machine",
@@ -27,17 +28,18 @@
         "en": "Incline chest press machine"
       },
       "group": {
+        "id": "chest",
         "es": "Pecho",
         "en": "Chest"
       },
-      "primaryMuscles": [
-        "chest"
-      ],
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/incline-chest-press-machine-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/incline-chest-press-machine-f.jpg"
       },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/incline-chest-press-machine.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/incline-chest-press-machine.json",
+      "primaryMuscles": [
+        "chest"
+      ]
     },
     {
       "slug": "butterflies",
@@ -46,17 +48,18 @@
         "en": "Machine chest fly (pec deck)"
       },
       "group": {
+        "id": "chest",
         "es": "Pecho",
         "en": "Chest"
       },
-      "primaryMuscles": [
-        "chest"
-      ],
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/butterflies-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/butterflies-f.jpg"
       },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/butterflies.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/butterflies.json",
+      "primaryMuscles": [
+        "chest"
+      ]
     },
     {
       "slug": "chest-pulldown",
@@ -65,17 +68,18 @@
         "en": "Lat pulldown"
       },
       "group": {
+        "id": "back",
         "es": "Espalda",
         "en": "Back"
       },
-      "primaryMuscles": [
-        "upper-back"
-      ],
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/chest-pulldown-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/chest-pulldown-f.jpg"
       },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/chest-pulldown.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/chest-pulldown.json",
+      "primaryMuscles": [
+        "upper-back"
+      ]
     },
     {
       "slug": "close-grip-chest-pulldown",
@@ -84,17 +88,18 @@
         "en": "Close-grip lat pulldown"
       },
       "group": {
+        "id": "back",
         "es": "Espalda",
         "en": "Back"
       },
-      "primaryMuscles": [
-        "upper-back"
-      ],
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/close-grip-chest-pulldown-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/close-grip-chest-pulldown-f.jpg"
       },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/close-grip-chest-pulldown.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/close-grip-chest-pulldown.json",
+      "primaryMuscles": [
+        "upper-back"
+      ]
     },
     {
       "slug": "seated-row-machine",
@@ -103,18 +108,19 @@
         "en": "Seated row machine"
       },
       "group": {
+        "id": "back",
         "es": "Espalda",
         "en": "Back"
       },
-      "primaryMuscles": [
-        "upper-back",
-        "trapezius"
-      ],
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/seated-row-machine-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/seated-row-machine-f.jpg"
       },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-row-machine.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-row-machine.json",
+      "primaryMuscles": [
+        "upper-back",
+        "trapezius"
+      ]
     },
     {
       "slug": "seated-cable-back-rows",
@@ -123,18 +129,19 @@
         "en": "Seated cable row"
       },
       "group": {
+        "id": "back",
         "es": "Espalda",
         "en": "Back"
       },
-      "primaryMuscles": [
-        "upper-back",
-        "trapezius"
-      ],
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/seated-cable-back-rows-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/seated-cable-back-rows-f.jpg"
       },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-cable-back-rows.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-cable-back-rows.json",
+      "primaryMuscles": [
+        "upper-back",
+        "trapezius"
+      ]
     },
     {
       "slug": "seated-dumbbell-overhead-shoulder-press",
@@ -143,17 +150,18 @@
         "en": "Seated dumbbell shoulder press"
       },
       "group": {
+        "id": "shoulders",
         "es": "Hombros",
         "en": "Shoulders"
       },
-      "primaryMuscles": [
-        "deltoids"
-      ],
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/seated-dumbbell-overhead-shoulder-press-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/seated-dumbbell-overhead-shoulder-press-f.jpg"
       },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-dumbbell-overhead-shoulder-press.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-dumbbell-overhead-shoulder-press.json",
+      "primaryMuscles": [
+        "deltoids"
+      ]
     },
     {
       "slug": "machine-shoulder-press",
@@ -162,17 +170,18 @@
         "en": "Machine shoulder press"
       },
       "group": {
+        "id": "shoulders",
         "es": "Hombros",
         "en": "Shoulders"
       },
-      "primaryMuscles": [
-        "deltoids"
-      ],
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/machine-shoulder-press-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/machine-shoulder-press-f.jpg"
       },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/machine-shoulder-press.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/machine-shoulder-press.json",
+      "primaryMuscles": [
+        "deltoids"
+      ]
     },
     {
       "slug": "dumbbell-lateral-raises",
@@ -181,17 +190,18 @@
         "en": "Dumbbell lateral raises"
       },
       "group": {
+        "id": "shoulders",
         "es": "Hombros",
         "en": "Shoulders"
       },
-      "primaryMuscles": [
-        "deltoids"
-      ],
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/dumbbell-lateral-raises-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/dumbbell-lateral-raises-f.jpg"
       },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-lateral-raises.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-lateral-raises.json",
+      "primaryMuscles": [
+        "deltoids"
+      ]
     },
     {
       "slug": "face-pull",
@@ -200,18 +210,19 @@
         "en": "Face pull"
       },
       "group": {
+        "id": "shoulders",
         "es": "Hombros",
         "en": "Shoulders"
       },
-      "primaryMuscles": [
-        "deltoids",
-        "trapezius"
-      ],
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/face-pull-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/face-pull-f.jpg"
       },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/face-pull.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/face-pull.json",
+      "primaryMuscles": [
+        "deltoids",
+        "trapezius"
+      ]
     },
     {
       "slug": "alternating-dumbbell-biceps-curl",
@@ -220,17 +231,18 @@
         "en": "Alternating dumbbell biceps curl"
       },
       "group": {
+        "id": "arms",
         "es": "Brazos",
         "en": "Arms"
       },
-      "primaryMuscles": [
-        "biceps"
-      ],
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/alternating-dumbbell-biceps-curl-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/alternating-dumbbell-biceps-curl-f.jpg"
       },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/alternating-dumbbell-biceps-curl.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/alternating-dumbbell-biceps-curl.json",
+      "primaryMuscles": [
+        "biceps"
+      ]
     },
     {
       "slug": "dumbbell-hammer-biceps-curl",
@@ -239,17 +251,18 @@
         "en": "Dumbbell hammer curl"
       },
       "group": {
+        "id": "arms",
         "es": "Brazos",
         "en": "Arms"
       },
-      "primaryMuscles": [
-        "biceps"
-      ],
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/dumbbell-hammer-biceps-curl-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/dumbbell-hammer-biceps-curl-f.jpg"
       },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-hammer-biceps-curl.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-hammer-biceps-curl.json",
+      "primaryMuscles": [
+        "biceps"
+      ]
     },
     {
       "slug": "triceps-pushdown",
@@ -258,17 +271,18 @@
         "en": "Triceps pushdown"
       },
       "group": {
+        "id": "arms",
         "es": "Brazos",
         "en": "Arms"
       },
-      "primaryMuscles": [
-        "triceps"
-      ],
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/triceps-pushdown-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/triceps-pushdown-f.jpg"
       },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/triceps-pushdown.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/triceps-pushdown.json",
+      "primaryMuscles": [
+        "triceps"
+      ]
     },
     {
       "slug": "dips-machine",
@@ -277,17 +291,18 @@
         "en": "Dips machine"
       },
       "group": {
+        "id": "arms",
         "es": "Brazos",
         "en": "Arms"
       },
-      "primaryMuscles": [
-        "triceps"
-      ],
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/dips-machine-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/dips-machine-f.jpg"
       },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/dips-machine.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dips-machine.json",
+      "primaryMuscles": [
+        "triceps"
+      ]
     },
     {
       "slug": "leg-press",
@@ -296,18 +311,19 @@
         "en": "Leg press"
       },
       "group": {
+        "id": "legs",
         "es": "Piernas",
         "en": "Legs"
       },
-      "primaryMuscles": [
-        "quadriceps",
-        "gluteal"
-      ],
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/leg-press-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/leg-press-f.jpg"
       },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/leg-press.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/leg-press.json",
+      "primaryMuscles": [
+        "quadriceps",
+        "gluteal"
+      ]
     },
     {
       "slug": "seated-leg-curl",
@@ -316,17 +332,18 @@
         "en": "Seated leg curl"
       },
       "group": {
+        "id": "legs",
         "es": "Piernas",
         "en": "Legs"
       },
-      "primaryMuscles": [
-        "hamstring"
-      ],
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/seated-leg-curl-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/seated-leg-curl-f.jpg"
       },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-leg-curl.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-leg-curl.json",
+      "primaryMuscles": [
+        "hamstring"
+      ]
     },
     {
       "slug": "lying-leg-curls",
@@ -335,17 +352,18 @@
         "en": "Lying leg curl"
       },
       "group": {
+        "id": "legs",
         "es": "Piernas",
         "en": "Legs"
       },
-      "primaryMuscles": [
-        "hamstring"
-      ],
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/lying-leg-curls-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/lying-leg-curls-f.jpg"
       },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/lying-leg-curls.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/lying-leg-curls.json",
+      "primaryMuscles": [
+        "hamstring"
+      ]
     },
     {
       "slug": "seated-leg-extensions",
@@ -354,17 +372,18 @@
         "en": "Leg extension"
       },
       "group": {
+        "id": "legs",
         "es": "Piernas",
         "en": "Legs"
       },
-      "primaryMuscles": [
-        "quadriceps"
-      ],
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/seated-leg-extensions-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/seated-leg-extensions-f.jpg"
       },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-leg-extensions.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-leg-extensions.json",
+      "primaryMuscles": [
+        "quadriceps"
+      ]
     },
     {
       "slug": "barbell-hip-thrust",
@@ -373,17 +392,18 @@
         "en": "Barbell hip thrust"
       },
       "group": {
+        "id": "legs",
         "es": "Piernas",
         "en": "Legs"
       },
-      "primaryMuscles": [
-        "gluteal"
-      ],
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/barbell-hip-thrust-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/barbell-hip-thrust-f.jpg"
       },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-hip-thrust.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-hip-thrust.json",
+      "primaryMuscles": [
+        "gluteal"
+      ]
     },
     {
       "slug": "box-squat",
@@ -392,18 +412,19 @@
         "en": "Box squat"
       },
       "group": {
+        "id": "legs",
         "es": "Piernas",
         "en": "Legs"
       },
-      "primaryMuscles": [
-        "quadriceps",
-        "gluteal"
-      ],
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/box-squat-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/box-squat-f.jpg"
       },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/box-squat.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/box-squat.json",
+      "primaryMuscles": [
+        "quadriceps",
+        "gluteal"
+      ]
     },
     {
       "slug": "goblet-squats",
@@ -412,18 +433,19 @@
         "en": "Goblet squat"
       },
       "group": {
+        "id": "legs",
         "es": "Piernas",
         "en": "Legs"
       },
-      "primaryMuscles": [
-        "quadriceps",
-        "gluteal"
-      ],
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/goblet-squats-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/goblet-squats-f.jpg"
       },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/goblet-squats.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/goblet-squats.json",
+      "primaryMuscles": [
+        "quadriceps",
+        "gluteal"
+      ]
     },
     {
       "slug": "seated-calf-raises",
@@ -432,17 +454,18 @@
         "en": "Seated calf raise"
       },
       "group": {
+        "id": "legs",
         "es": "Piernas",
         "en": "Legs"
       },
-      "primaryMuscles": [
-        "calves"
-      ],
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/seated-calf-raises-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/seated-calf-raises-f.jpg"
       },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-calf-raises.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-calf-raises.json",
+      "primaryMuscles": [
+        "calves"
+      ]
     },
     {
       "slug": "plank",
@@ -451,17 +474,18 @@
         "en": "Plank"
       },
       "group": {
+        "id": "core",
         "es": "Core",
         "en": "Core"
       },
-      "primaryMuscles": [
-        "abs"
-      ],
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/plank-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/plank-f.jpg"
       },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/plank.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/plank.json",
+      "primaryMuscles": [
+        "abs"
+      ]
     },
     {
       "slug": "side-plank",
@@ -470,17 +494,18 @@
         "en": "Side plank"
       },
       "group": {
+        "id": "core",
         "es": "Core",
         "en": "Core"
       },
-      "primaryMuscles": [
-        "obliques"
-      ],
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/side-plank-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/side-plank-f.jpg"
       },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/side-plank.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/side-plank.json",
+      "primaryMuscles": [
+        "obliques"
+      ]
     },
     {
       "slug": "dead-bug",
@@ -489,17 +514,18 @@
         "en": "Dead bug"
       },
       "group": {
+        "id": "core",
         "es": "Core",
         "en": "Core"
       },
-      "primaryMuscles": [
-        "abs"
-      ],
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/dead-bug-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/dead-bug-f.jpg"
       },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/dead-bug.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dead-bug.json",
+      "primaryMuscles": [
+        "abs"
+      ]
     }
   ]
 }

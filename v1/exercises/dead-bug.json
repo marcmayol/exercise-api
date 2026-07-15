@@ -5,6 +5,7 @@
     "en": "Dead bug"
   },
   "group": {
+    "id": "core",
     "es": "Core",
     "en": "Core"
   },

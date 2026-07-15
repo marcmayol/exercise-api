@@ -1,10 +1,10 @@
 {
-  "muscle": {
-    "id": "biceps",
-    "es": "Bíceps",
-    "en": "Biceps"
+  "group": {
+    "id": "back",
+    "es": "Espalda",
+    "en": "Back"
   },
-  "count": 6,
+  "count": 4,
   "exercises": [
     {
       "slug": "chest-pulldown",
@@ -73,40 +73,6 @@
         "female": "https://marcmayol.com/exercise-api/images/seated-cable-back-rows-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-cable-back-rows.json"
-    },
-    {
-      "slug": "alternating-dumbbell-biceps-curl",
-      "name": {
-        "es": "Curl de bíceps alterno con mancuernas",
-        "en": "Alternating dumbbell biceps curl"
-      },
-      "group": {
-        "id": "arms",
-        "es": "Brazos",
-        "en": "Arms"
-      },
-      "image": {
-        "male": "https://marcmayol.com/exercise-api/images/alternating-dumbbell-biceps-curl-m.jpg",
-        "female": "https://marcmayol.com/exercise-api/images/alternating-dumbbell-biceps-curl-f.jpg"
-      },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/alternating-dumbbell-biceps-curl.json"
-    },
-    {
-      "slug": "dumbbell-hammer-biceps-curl",
-      "name": {
-        "es": "Curl martillo con mancuernas",
-        "en": "Dumbbell hammer curl"
-      },
-      "group": {
-        "id": "arms",
-        "es": "Brazos",
-        "en": "Arms"
-      },
-      "image": {
-        "male": "https://marcmayol.com/exercise-api/images/dumbbell-hammer-biceps-curl-m.jpg",
-        "female": "https://marcmayol.com/exercise-api/images/dumbbell-hammer-biceps-curl-f.jpg"
-      },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-hammer-biceps-curl.json"
     }
   ]
 }

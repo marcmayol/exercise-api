@@ -1,28 +1,11 @@
 {
-  "muscle": {
-    "id": "abs",
-    "es": "Abdomen",
-    "en": "Abs"
+  "group": {
+    "id": "core",
+    "es": "Core",
+    "en": "Core"
   },
-  "count": 4,
+  "count": 3,
   "exercises": [
-    {
-      "slug": "goblet-squats",
-      "name": {
-        "es": "Sentadilla goblet",
-        "en": "Goblet squat"
-      },
-      "group": {
-        "id": "legs",
-        "es": "Piernas",
-        "en": "Legs"
-      },
-      "image": {
-        "male": "https://marcmayol.com/exercise-api/images/goblet-squats-m.jpg",
-        "female": "https://marcmayol.com/exercise-api/images/goblet-squats-f.jpg"
-      },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/goblet-squats.json"
-    },
     {
       "slug": "plank",
       "name": {

@@ -55,6 +55,11 @@
           <td style="padding:12px 14px;text-align:right;white-space:nowrap"><a href="v1/muscles.json">probar ↗</a></td>
         </tr>
         <tr style="border-bottom:1px solid #20202A">
+          <td style="padding:12px 14px;white-space:nowrap"><span class="mono" style="color:#5FD08A;font-weight:600">GET</span> <span class="mono">/v1/by-group/&lt;group&gt;.json</span></td>
+          <td style="padding:12px 14px;color:#A0A0AC">Ejercicios por grupo (legs, chest, back…)</td>
+          <td style="padding:12px 14px;text-align:right;white-space:nowrap"><a href="v1/by-group/legs.json">legs ↗</a></td>
+        </tr>
+        <tr style="border-bottom:1px solid #20202A">
           <td style="padding:12px 14px;white-space:nowrap"><span class="mono" style="color:#5FD08A;font-weight:600">GET</span> <span class="mono">/v1/by-muscle/&lt;muscle&gt;.json</span></td>
           <td style="padding:12px 14px;color:#A0A0AC">Ejercicios por músculo</td>
           <td style="padding:12px 14px;text-align:right;white-space:nowrap"><a href="v1/by-muscle/gluteal.json">gluteal ↗</a></td>
@@ -120,6 +125,9 @@ ex.images.female;           // .../leg-press-f.jpg</pre>
       <button class="chip" id="g-f" onclick="setGender('f')">Mujer</button>
     </div>
   </div>
+  <div id="groups" style="display:flex;gap:9px;flex-wrap:wrap;align-items:center;margin-bottom:20px">
+    <span style="font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:#6E6A76;font-weight:600;margin-right:4px" id="lbl-group">Grupo</span>
+  </div>
   <div id="grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px"></div>
 
   <footer style="margin-top:48px;padding-top:22px;border-top:1px solid #22222B;text-align:center">
@@ -131,18 +139,36 @@ ex.images.female;           // .../leg-press-f.jpg</pre>
 </div>
 
 <script>
-let gender='m', lang='es', MUS={}, EX=[];
-const T={es:{gender:'Género',m:'Hombre',f:'Mujer'},en:{gender:'Gender',m:'Male',f:'Female'}};
+let gender='m', lang='es', group='all', MUS={}, EX=[], GROUPS=[];
+const T={es:{gender:'Género',group:'Grupo',all:'Todos',m:'Hombre',f:'Mujer'},
+         en:{gender:'Gender',group:'Group',all:'All',m:'Male',f:'Female'}};
 function labels(){
   document.getElementById('lbl-gender').textContent=T[lang].gender;
+  document.getElementById('lbl-group').textContent=T[lang].group;
   document.getElementById('g-m').textContent=T[lang].m;
   document.getElementById('g-f').textContent=T[lang].f;
+  buildGroups();
 }
+function buildGroups(){
+  const box=document.getElementById('groups');
+  box.querySelectorAll('button').forEach(b=>b.remove());
+  const add=(id,label,count)=>{
+    const b=document.createElement('button');
+    b.className='chip'+(id===group?' on':'');
+    b.innerHTML=label+(count!=null?` <span style="opacity:.55;font-weight:500">${count}</span>`:'');
+    b.onclick=()=>setGroup(id); box.appendChild(b);
+  };
+  add('all',T[lang].all,EX.length);
+  GROUPS.forEach(g=>add(g.id,g[lang],g.count));
+}
+function setGroup(g){group=g;buildGroups();render();}
 function setGender(g){gender=g;document.getElementById('g-m').classList.toggle('on',g==='m');document.getElementById('g-f').classList.toggle('on',g==='f');render();}
 function setLang(l){lang=l;document.getElementById('l-es').classList.toggle('on',l==='es');document.getElementById('l-en').classList.toggle('on',l==='en');labels();render();}
 function render(){
   const other=lang==='es'?'en':'es';
-  document.getElementById('grid').innerHTML=EX.map(e=>{
+  const list = group==='all' ? EX : EX.filter(e=>e.group.id===group);
+  document.getElementById('count').textContent=`(${list.length}${group!=='all'?' / '+EX.length:''})`;
+  document.getElementById('grid').innerHTML=list.map(e=>{
     const img=gender==='m'?e.image.male:e.image.female;
     const musc=(e.primaryMuscles||[]).map(m=>`<span style="font-size:12px;font-weight:600;color:#0E0E12;background:#FF6A3D;padding:3px 9px;border-radius:999px">${(MUS[m]||{})[lang]||m}</span>`).join(' ');
     return `<a href="v1/exercises/${e.slug}.json" class="card" style="overflow:hidden;display:flex;flex-direction:column;color:inherit">
@@ -154,11 +180,14 @@ function render(){
       </div></a>`;
   }).join('');
 }
-Promise.all([fetch('v1/exercises.json').then(r=>r.json()), fetch('v1/muscles.json').then(r=>r.json())])
-  .then(([data,muscles])=>{
-    muscles.forEach(m=>MUS[m.id]=m); EX=data.exercises;
-    document.getElementById('count').textContent=`(${data.count})`;
-    document.getElementById('live').textContent='● en vivo'; render();
+Promise.all([
+  fetch('v1/exercises.json').then(r=>r.json()),
+  fetch('v1/muscles.json').then(r=>r.json()),
+  fetch('v1/groups.json').then(r=>r.json())
+]).then(([data,muscles,groups])=>{
+    muscles.forEach(m=>MUS[m.id]=m); EX=data.exercises; GROUPS=groups;
+    document.getElementById('live').textContent='● en vivo';
+    buildGroups(); render();
   }).catch(e=>{document.getElementById('live').textContent='● error';});
 </script>
 </body>

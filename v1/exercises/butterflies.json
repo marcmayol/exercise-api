@@ -5,6 +5,7 @@
     "en": "Machine chest fly (pec deck)"
   },
   "group": {
+    "id": "chest",
     "es": "Pecho",
     "en": "Chest"
   },

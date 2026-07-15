@@ -1,10 +1,95 @@
 {
-  "muscle": "upper-back",
+  "muscle": {
+    "id": "upper-back",
+    "es": "Dorsal",
+    "en": "Upper back"
+  },
+  "count": 5,
   "exercises": [
-    "chest-pulldown",
-    "close-grip-chest-pulldown",
-    "face-pull",
-    "seated-cable-back-rows",
-    "seated-row-machine"
+    {
+      "slug": "chest-pulldown",
+      "name": {
+        "es": "Jalón al pecho",
+        "en": "Lat pulldown"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/chest-pulldown-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/chest-pulldown-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/chest-pulldown.json"
+    },
+    {
+      "slug": "close-grip-chest-pulldown",
+      "name": {
+        "es": "Jalón al pecho agarre estrecho",
+        "en": "Close-grip lat pulldown"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/close-grip-chest-pulldown-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/close-grip-chest-pulldown-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/close-grip-chest-pulldown.json"
+    },
+    {
+      "slug": "seated-row-machine",
+      "name": {
+        "es": "Remo sentado en máquina",
+        "en": "Seated row machine"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/seated-row-machine-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/seated-row-machine-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-row-machine.json"
+    },
+    {
+      "slug": "seated-cable-back-rows",
+      "name": {
+        "es": "Remo en polea sentado",
+        "en": "Seated cable row"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/seated-cable-back-rows-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/seated-cable-back-rows-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-cable-back-rows.json"
+    },
+    {
+      "slug": "face-pull",
+      "name": {
+        "es": "Face pull",
+        "en": "Face pull"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/face-pull-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/face-pull-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/face-pull.json"
+    }
   ]
 }

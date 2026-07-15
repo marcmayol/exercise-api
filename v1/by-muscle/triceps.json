@@ -1,11 +1,112 @@
 {
-  "muscle": "triceps",
+  "muscle": {
+    "id": "triceps",
+    "es": "Tríceps",
+    "en": "Triceps"
+  },
+  "count": 6,
   "exercises": [
-    "dips-machine",
-    "incline-chest-press-machine",
-    "machine-shoulder-press",
-    "seated-chest-press",
-    "seated-dumbbell-overhead-shoulder-press",
-    "triceps-pushdown"
+    {
+      "slug": "seated-chest-press",
+      "name": {
+        "es": "Press de pecho en máquina",
+        "en": "Seated chest press"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/seated-chest-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/seated-chest-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-chest-press.json"
+    },
+    {
+      "slug": "incline-chest-press-machine",
+      "name": {
+        "es": "Press de pecho inclinado en máquina",
+        "en": "Incline chest press machine"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/incline-chest-press-machine-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/incline-chest-press-machine-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/incline-chest-press-machine.json"
+    },
+    {
+      "slug": "seated-dumbbell-overhead-shoulder-press",
+      "name": {
+        "es": "Press de hombros con mancuernas",
+        "en": "Seated dumbbell shoulder press"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/seated-dumbbell-overhead-shoulder-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/seated-dumbbell-overhead-shoulder-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-dumbbell-overhead-shoulder-press.json"
+    },
+    {
+      "slug": "machine-shoulder-press",
+      "name": {
+        "es": "Press de hombros en máquina",
+        "en": "Machine shoulder press"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/machine-shoulder-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/machine-shoulder-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/machine-shoulder-press.json"
+    },
+    {
+      "slug": "triceps-pushdown",
+      "name": {
+        "es": "Extensión de tríceps en polea",
+        "en": "Triceps pushdown"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/triceps-pushdown-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/triceps-pushdown-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/triceps-pushdown.json"
+    },
+    {
+      "slug": "dips-machine",
+      "name": {
+        "es": "Fondos en máquina",
+        "en": "Dips machine"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dips-machine-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dips-machine-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dips-machine.json"
+    }
   ]
 }

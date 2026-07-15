@@ -1,7 +1,44 @@
 {
-  "muscle": "calves",
+  "muscle": {
+    "id": "calves",
+    "es": "Gemelos",
+    "en": "Calves"
+  },
+  "count": 2,
   "exercises": [
-    "leg-press",
-    "seated-calf-raises"
+    {
+      "slug": "leg-press",
+      "name": {
+        "es": "Prensa de piernas",
+        "en": "Leg press"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/leg-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/leg-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/leg-press.json"
+    },
+    {
+      "slug": "seated-calf-raises",
+      "name": {
+        "es": "Elevación de gemelos sentado",
+        "en": "Seated calf raise"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/seated-calf-raises-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/seated-calf-raises-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-calf-raises.json"
+    }
   ]
 }
