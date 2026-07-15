@@ -1,0 +1,252 @@
+{
+  "equipment": {
+    "id": "dumbbell",
+    "es": "Mancuerna",
+    "en": "Dumbbell"
+  },
+  "count": 11,
+  "exercises": [
+    {
+      "slug": "seated-dumbbell-overhead-shoulder-press",
+      "name": {
+        "es": "Press de hombros con mancuernas",
+        "en": "Seated dumbbell shoulder press"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/seated-dumbbell-overhead-shoulder-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/seated-dumbbell-overhead-shoulder-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-dumbbell-overhead-shoulder-press.json"
+    },
+    {
+      "slug": "dumbbell-lateral-raises",
+      "name": {
+        "es": "Elevaciones laterales con mancuernas",
+        "en": "Dumbbell lateral raises"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dumbbell-lateral-raises-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dumbbell-lateral-raises-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-lateral-raises.json"
+    },
+    {
+      "slug": "alternating-dumbbell-biceps-curl",
+      "name": {
+        "es": "Curl de bíceps alterno con mancuernas",
+        "en": "Alternating dumbbell biceps curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/alternating-dumbbell-biceps-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/alternating-dumbbell-biceps-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/alternating-dumbbell-biceps-curl.json"
+    },
+    {
+      "slug": "dumbbell-hammer-biceps-curl",
+      "name": {
+        "es": "Curl martillo con mancuernas",
+        "en": "Dumbbell hammer curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dumbbell-hammer-biceps-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dumbbell-hammer-biceps-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-hammer-biceps-curl.json"
+    },
+    {
+      "slug": "goblet-squats",
+      "name": {
+        "es": "Sentadilla goblet",
+        "en": "Goblet squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/goblet-squats-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/goblet-squats-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/goblet-squats.json"
+    },
+    {
+      "slug": "bulgarian-split-squat",
+      "name": {
+        "es": "Sentadilla búlgara",
+        "en": "Bulgarian split squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/bulgarian-split-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/bulgarian-split-squat-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/bulgarian-split-squat.json"
+    },
+    {
+      "slug": "dumbbell-bench-press",
+      "name": {
+        "es": "Press de banca con mancuernas",
+        "en": "Dumbbell bench press"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dumbbell-bench-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dumbbell-bench-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-bench-press.json"
+    },
+    {
+      "slug": "incline-dumbbell-press",
+      "name": {
+        "es": "Press inclinado con mancuernas",
+        "en": "Incline dumbbell press"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/incline-dumbbell-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/incline-dumbbell-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/incline-dumbbell-press.json"
+    },
+    {
+      "slug": "dumbbell-flyes",
+      "name": {
+        "es": "Aperturas con mancuernas",
+        "en": "Dumbbell flyes"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dumbbell-flyes-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dumbbell-flyes-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-flyes.json"
+    },
+    {
+      "slug": "dumbbell-row",
+      "name": {
+        "es": "Remo con mancuerna",
+        "en": "Bent-over dumbbell row"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dumbbell-row-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dumbbell-row-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-row.json"
+    },
+    {
+      "slug": "overhead-triceps-extension",
+      "name": {
+        "es": "Extensión de tríceps sobre la cabeza",
+        "en": "Overhead triceps extension"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/overhead-triceps-extension-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/overhead-triceps-extension-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/overhead-triceps-extension.json"
+    }
+  ]
+}

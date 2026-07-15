@@ -1,0 +1,55 @@
+{
+  "slug": "bulgarian-split-squat",
+  "name": {
+    "es": "Sentadilla búlgara",
+    "en": "Bulgarian split squat"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "dumbbell",
+    "es": "Mancuerna",
+    "en": "Dumbbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    },
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Coloca un pie detrás de ti sobre un banco o plataforma elevada.",
+      "Da un paso adelante con el otro pie, asegurándote de que el torso esté erguido.",
+      "Baja lentamente la rodilla trasera hacia el suelo, manteniendo la rodilla delantera alineada con el tobillo.",
+      "Empuja con el talón del pie delantero para regresar a la posición inicial."
+    ],
+    "en": [
+      "Place one foot behind you on a bench or elevated platform.",
+      "Step forward with the other foot, ensuring your torso remains upright.",
+      "Slowly lower the back knee toward the ground, keeping the front knee aligned with the ankle.",
+      "Push through the heel of the front foot to return to the starting position."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/bulgarian-split-squat-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/bulgarian-split-squat-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/bulgarian-split-squat.svg"
+}

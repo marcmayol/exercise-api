@@ -1,0 +1,55 @@
+{
+  "slug": "upright-row",
+  "name": {
+    "es": "Remo al mentón (elevación al cuello)",
+    "en": "Barbell upright row"
+  },
+  "group": {
+    "id": "shoulders",
+    "es": "Hombros",
+    "en": "Shoulders"
+  },
+  "equipment": {
+    "id": "barbell",
+    "es": "Barra",
+    "en": "Barbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "trapezius",
+      "es": "Trapecio",
+      "en": "Trapezius"
+    },
+    {
+      "id": "biceps",
+      "es": "Bíceps",
+      "en": "Biceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "1. Párate con los pies al ancho de los hombros y sujeta la barra con un agarre prono, manos ligeramente más estrechas que los hombros.",
+      "2. Mantén la espalda recta y levanta la barra hacia arriba, manteniéndola cerca del cuerpo.",
+      "3. Lleva los codos hacia arriba y hacia afuera hasta que la barra llegue a la altura del pecho.",
+      "4. Baja la barra lentamente a la posición inicial, controlando el movimiento."
+    ],
+    "en": [
+      "1. Stand with feet shoulder-width apart and grip the barbell with an overhand grip, hands slightly narrower than shoulder-width.",
+      "2. Keep your back straight and lift the barbell upwards, keeping it close to your body.",
+      "3. Raise your elbows up and out until the bar reaches chest height.",
+      "4. Lower the barbell slowly back to the starting position, controlling the movement."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/upright-row-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/upright-row-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/upright-row.svg"
+}

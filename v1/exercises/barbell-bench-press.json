@@ -1,0 +1,55 @@
+{
+  "slug": "barbell-bench-press",
+  "name": {
+    "es": "Press de banca",
+    "en": "Barbell bench press"
+  },
+  "group": {
+    "id": "chest",
+    "es": "Pecho",
+    "en": "Chest"
+  },
+  "equipment": {
+    "id": "barbell",
+    "es": "Barra",
+    "en": "Barbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "chest",
+      "es": "Pectoral",
+      "en": "Chest"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    },
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Acuéstate en el banco con los pies firmes en el suelo.",
+      "Agarra la barra con las manos un poco más anchas que los hombros.",
+      "Baja la barra lentamente hasta que toque ligeramente el pecho.",
+      "Empuja la barra hacia arriba hasta extender completamente los brazos."
+    ],
+    "en": [
+      "Lie on the bench with your feet firmly on the ground.",
+      "Grip the bar with hands slightly wider than shoulder-width.",
+      "Lower the bar slowly until it lightly touches your chest.",
+      "Push the bar up until your arms are fully extended."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/barbell-bench-press-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/barbell-bench-press-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/barbell-bench-press.svg"
+}

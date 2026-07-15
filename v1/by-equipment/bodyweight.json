@@ -1,0 +1,98 @@
+{
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "count": 4,
+  "exercises": [
+    {
+      "slug": "box-squat",
+      "name": {
+        "es": "Sentadilla al cajón",
+        "en": "Box squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/box-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/box-squat-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/box-squat.json"
+    },
+    {
+      "slug": "plank",
+      "name": {
+        "es": "Plancha",
+        "en": "Plank"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/plank-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/plank-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/plank.json"
+    },
+    {
+      "slug": "side-plank",
+      "name": {
+        "es": "Plancha lateral",
+        "en": "Side plank"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/side-plank-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/side-plank-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/side-plank.json"
+    },
+    {
+      "slug": "dead-bug",
+      "name": {
+        "es": "Dead bug",
+        "en": "Dead bug"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dead-bug-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dead-bug-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dead-bug.json"
+    }
+  ]
+}

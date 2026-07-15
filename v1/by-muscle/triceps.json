@@ -4,7 +4,7 @@
     "es": "Tríceps",
     "en": "Triceps"
   },
-  "count": 6,
+  "count": 11,
   "exercises": [
     {
       "slug": "seated-chest-press",
@@ -16,6 +16,11 @@
         "id": "chest",
         "es": "Pecho",
         "en": "Chest"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
       },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/seated-chest-press-m.jpg",
@@ -34,6 +39,11 @@
         "es": "Pecho",
         "en": "Chest"
       },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/incline-chest-press-machine-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/incline-chest-press-machine-f.jpg"
@@ -50,6 +60,11 @@
         "id": "shoulders",
         "es": "Hombros",
         "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
       },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/seated-dumbbell-overhead-shoulder-press-m.jpg",
@@ -68,6 +83,11 @@
         "es": "Hombros",
         "en": "Shoulders"
       },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/machine-shoulder-press-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/machine-shoulder-press-f.jpg"
@@ -84,6 +104,11 @@
         "id": "arms",
         "es": "Brazos",
         "en": "Arms"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
       },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/triceps-pushdown-m.jpg",
@@ -102,11 +127,126 @@
         "es": "Brazos",
         "en": "Arms"
       },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/dips-machine-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/dips-machine-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/dips-machine.json"
+    },
+    {
+      "slug": "barbell-bench-press",
+      "name": {
+        "es": "Press de banca",
+        "en": "Barbell bench press"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-bench-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-bench-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-bench-press.json"
+    },
+    {
+      "slug": "dumbbell-bench-press",
+      "name": {
+        "es": "Press de banca con mancuernas",
+        "en": "Dumbbell bench press"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dumbbell-bench-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dumbbell-bench-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-bench-press.json"
+    },
+    {
+      "slug": "incline-dumbbell-press",
+      "name": {
+        "es": "Press inclinado con mancuernas",
+        "en": "Incline dumbbell press"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/incline-dumbbell-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/incline-dumbbell-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/incline-dumbbell-press.json"
+    },
+    {
+      "slug": "barbell-overhead-press",
+      "name": {
+        "es": "Press militar con barra",
+        "en": "Barbell overhead press"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-overhead-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-overhead-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-overhead-press.json"
+    },
+    {
+      "slug": "overhead-triceps-extension",
+      "name": {
+        "es": "Extensión de tríceps sobre la cabeza",
+        "en": "Overhead triceps extension"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/overhead-triceps-extension-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/overhead-triceps-extension-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/overhead-triceps-extension.json"
     }
   ]
 }

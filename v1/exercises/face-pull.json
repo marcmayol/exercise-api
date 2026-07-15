@@ -9,6 +9,11 @@
     "es": "Hombros",
     "en": "Shoulders"
   },
+  "equipment": {
+    "id": "cable",
+    "es": "Polea",
+    "en": "Cable"
+  },
   "primaryMuscles": [
     {
       "id": "deltoids",

@@ -4,7 +4,7 @@
     "es": "Antebrazo",
     "en": "Forearm"
   },
-  "count": 2,
+  "count": 3,
   "exercises": [
     {
       "slug": "alternating-dumbbell-biceps-curl",
@@ -16,6 +16,11 @@
         "id": "arms",
         "es": "Brazos",
         "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
       },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/alternating-dumbbell-biceps-curl-m.jpg",
@@ -34,11 +39,38 @@
         "es": "Brazos",
         "en": "Arms"
       },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/dumbbell-hammer-biceps-curl-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/dumbbell-hammer-biceps-curl-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-hammer-biceps-curl.json"
+    },
+    {
+      "slug": "barbell-biceps-curl",
+      "name": {
+        "es": "Curl de bíceps con barra",
+        "en": "Barbell biceps curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-biceps-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-biceps-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-biceps-curl.json"
     }
   ]
 }

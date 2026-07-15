@@ -9,6 +9,11 @@
     "es": "Brazos",
     "en": "Arms"
   },
+  "equipment": {
+    "id": "dumbbell",
+    "es": "Mancuerna",
+    "en": "Dumbbell"
+  },
   "primaryMuscles": [
     {
       "id": "biceps",

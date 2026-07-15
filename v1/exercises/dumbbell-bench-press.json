@@ -1,0 +1,55 @@
+{
+  "slug": "dumbbell-bench-press",
+  "name": {
+    "es": "Press de banca con mancuernas",
+    "en": "Dumbbell bench press"
+  },
+  "group": {
+    "id": "chest",
+    "es": "Pecho",
+    "en": "Chest"
+  },
+  "equipment": {
+    "id": "dumbbell",
+    "es": "Mancuerna",
+    "en": "Dumbbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "chest",
+      "es": "Pectoral",
+      "en": "Chest"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    },
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Acuéstate boca arriba en un banco plano con una mancuerna en cada mano.",
+      "Coloca las mancuernas a la altura del pecho con los codos doblados en un ángulo de 90 grados.",
+      "Empuja las mancuernas hacia arriba hasta que los brazos estén completamente extendidos.",
+      "Baja lentamente las mancuernas de vuelta a la posición inicial."
+    ],
+    "en": [
+      "Lie back on a flat bench with a dumbbell in each hand.",
+      "Position the dumbbells at chest level with elbows bent at a 90-degree angle.",
+      "Press the dumbbells upward until your arms are fully extended.",
+      "Slowly lower the dumbbells back to the starting position."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/dumbbell-bench-press-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/dumbbell-bench-press-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-bench-press.svg"
+}

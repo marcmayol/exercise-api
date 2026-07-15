@@ -49,6 +49,7 @@
       <tr style="border-bottom:1px solid #20202A"><td style="padding:12px 14px;white-space:nowrap"><span class="mono" style="color:#5FD08A;font-weight:600">GET</span> <span class="mono">/v1/muscles.json</span></td><td class="epd" data-i18n="ep3">Taxonomía de músculos (ES/EN)</td><td style="padding:12px 14px;text-align:right;white-space:nowrap"><a data-i18n="try" href="v1/muscles.json">probar ↗</a></td></tr>
       <tr style="border-bottom:1px solid #20202A"><td style="padding:12px 14px;white-space:nowrap"><span class="mono" style="color:#5FD08A;font-weight:600">GET</span> <span class="mono">/v1/by-group/&lt;group&gt;.json</span></td><td class="epd" data-i18n="ep4">Ejercicios por grupo (legs, chest, back…)</td><td style="padding:12px 14px;text-align:right;white-space:nowrap"><a href="v1/by-group/legs.json">legs ↗</a></td></tr>
       <tr style="border-bottom:1px solid #20202A"><td style="padding:12px 14px;white-space:nowrap"><span class="mono" style="color:#5FD08A;font-weight:600">GET</span> <span class="mono">/v1/by-muscle/&lt;muscle&gt;.json</span></td><td class="epd" data-i18n="ep5">Ejercicios por músculo</td><td style="padding:12px 14px;text-align:right;white-space:nowrap"><a href="v1/by-muscle/gluteal.json">gluteal ↗</a></td></tr>
+      <tr style="border-bottom:1px solid #20202A"><td style="padding:12px 14px;white-space:nowrap"><span class="mono" style="color:#5FD08A;font-weight:600">GET</span> <span class="mono">/v1/by-equipment/&lt;type&gt;.json</span></td><td class="epd" data-i18n="ep_eq">Ejercicios por equipamiento (machine, barbell…)</td><td style="padding:12px 14px;text-align:right;white-space:nowrap"><a href="v1/by-equipment/machine.json">machine ↗</a></td></tr>
       <tr style="border-bottom:1px solid #20202A"><td style="padding:12px 14px;white-space:nowrap"><span class="mono">/images/&lt;slug&gt;-m.jpg | -f.jpg</span></td><td class="epd" data-i18n="ep6">Ilustración (hombre / mujer)</td><td style="padding:12px 14px;text-align:right;white-space:nowrap"><a data-i18n="female" href="images/leg-press-f.jpg">mujer ↗</a></td></tr>
       <tr><td style="padding:12px 14px;white-space:nowrap"><span class="mono">/muscle-maps/&lt;slug&gt;.svg</span></td><td class="epd" data-i18n="ep7">Mapa muscular resaltado</td><td style="padding:12px 14px;text-align:right;white-space:nowrap"><a href="muscle-maps/leg-press.svg">SVG ↗</a></td></tr>
     </tbody></table>
@@ -94,8 +95,11 @@ ex.images.female;           // .../leg-press-f.jpg</pre>
     <button class="chip on" id="g-m" onclick="setGender('m')">Hombre</button>
     <button class="chip" id="g-f" onclick="setGender('f')">Mujer</button>
   </div>
-  <div id="groups" style="display:flex;gap:9px;flex-wrap:wrap;align-items:center;margin-bottom:20px">
+  <div id="groups" style="display:flex;gap:9px;flex-wrap:wrap;align-items:center;margin-bottom:12px">
     <span class="lbl" id="lbl-group">Grupo</span>
+  </div>
+  <div id="equips" style="display:flex;gap:9px;flex-wrap:wrap;align-items:center;margin-bottom:20px">
+    <span class="lbl" id="lbl-equip">Equipo</span>
   </div>
   <div id="grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px"></div>
 
@@ -106,14 +110,14 @@ ex.images.female;           // .../leg-press-f.jpg</pre>
 </div>
 
 <script>
-let gender='m', lang='es', group='all', MUS={}, EX=[], GROUPS=[];
-const T={es:{gender:'Género',group:'Grupo',all:'Todos',m:'Hombre',f:'Mujer'},
-         en:{gender:'Gender',group:'Group',all:'All',m:'Male',f:'Female'}};
+let gender='m', lang='es', group='all', equip='all', MUS={}, EX=[], GROUPS=[], EQUIPS=[];
+const T={es:{gender:'Género',group:'Grupo',equip:'Equipo',all:'Todos',m:'Hombre',f:'Mujer'},
+         en:{gender:'Gender',group:'Group',equip:'Equipment',all:'All',m:'Male',f:'Female'}};
 const I18N={
   es:{title:"API de ejercicios abierta, gratuita y multiidioma",
       desc:'Datos estáticos servidos por GitHub Pages (CDN, HTTPS, CORS abierto). Cada ejercicio incluye nombre en <b>ES/EN</b>, músculos principal/secundario, instrucciones, ilustración <b>masculina y femenina</b> y un <b>mapa muscular</b> SVG. Sin claves, sin límites.',
       ep1:"Índice de todos los ejercicios",ep2:"Ficha completa de un ejercicio",ep3:"Taxonomía de músculos (ES/EN)",
-      ep4:"Ejercicios por grupo (legs, chest, back…)",ep5:"Ejercicios por músculo",ep6:"Ilustración (hombre / mujer)",ep7:"Mapa muscular resaltado",
+      ep4:"Ejercicios por grupo (legs, chest, back…)",ep5:"Ejercicios por músculo",ep_eq:"Ejercicios por equipamiento (machine, barbell…)",ep6:"Ilustración (hombre / mujer)",ep7:"Mapa muscular resaltado",
       try:"probar ↗",female:"mujer ↗",usage:"Ejemplo de uso",response:"Respuesta (extracto)",
       c_pick:"// un ejercicio, en el idioma que quieras",h_ex:"Ejercicios",
       made:'Hecho por <b style="color:#EDEDF2">Marc Mayol</b> con <span style="color:#FF2E6E">❤</span> desde <b style="color:#FF6A3D">Mallorca</b>',
@@ -121,7 +125,7 @@ const I18N={
   en:{title:"Open, free and multilingual exercise API",
       desc:'Static data served by GitHub Pages (CDN, HTTPS, open CORS). Every exercise includes an <b>EN/ES</b> name, primary/secondary muscles, instructions, <b>male and female</b> illustration and an SVG <b>muscle map</b>. No keys, no limits.',
       ep1:"Index of all exercises",ep2:"Full detail of one exercise",ep3:"Muscle taxonomy (ES/EN)",
-      ep4:"Exercises by group (legs, chest, back…)",ep5:"Exercises by muscle",ep6:"Illustration (male / female)",ep7:"Highlighted muscle map",
+      ep4:"Exercises by group (legs, chest, back…)",ep5:"Exercises by muscle",ep_eq:"Exercises by equipment (machine, barbell…)",ep6:"Illustration (male / female)",ep7:"Highlighted muscle map",
       try:"try ↗",female:"female ↗",usage:"Example usage",response:"Response (excerpt)",
       c_pick:"// an exercise, in whatever language you want",h_ex:"Exercises",
       made:'Made by <b style="color:#EDEDF2">Marc Mayol</b> with <span style="color:#FF2E6E">❤</span> from <b style="color:#FF6A3D">Mallorca</b>',
@@ -134,9 +138,10 @@ function applyLang(){
   document.getElementById('l-en').classList.toggle('on',lang==='en');
   document.getElementById('lbl-gender').textContent=T[lang].gender;
   document.getElementById('lbl-group').textContent=T[lang].group;
+  document.getElementById('lbl-equip').textContent=T[lang].equip;
   document.getElementById('g-m').textContent=T[lang].m;
   document.getElementById('g-f').textContent=T[lang].f;
-  buildGroups();
+  buildGroups(); buildEquips();
 }
 function buildGroups(){
   const box=document.getElementById('groups');
@@ -150,13 +155,29 @@ function buildGroups(){
   add('all',T[lang].all,EX.length);
   GROUPS.forEach(g=>add(g.id,g[lang],g.count));
 }
+function buildEquips(){
+  const box=document.getElementById('equips');
+  box.querySelectorAll('button').forEach(b=>b.remove());
+  const add=(id,label,count)=>{
+    const b=document.createElement('button');
+    b.className='chip'+(id===equip?' on':'');
+    b.innerHTML=label+(count!=null?` <span style="opacity:.55;font-weight:500">${count}</span>`:'');
+    b.onclick=()=>setEquip(id); box.appendChild(b);
+  };
+  add('all',T[lang].all,EX.length);
+  EQUIPS.forEach(e=>add(e.id,e[lang],e.count));
+}
+function setEquip(e){equip=e;buildEquips();render();}
 function setGroup(g){group=g;buildGroups();render();}
 function setGender(g){gender=g;document.getElementById('g-m').classList.toggle('on',g==='m');document.getElementById('g-f').classList.toggle('on',g==='f');render();}
 function setLang(l){lang=l;applyLang();render();}
 function render(){
   const other=lang==='es'?'en':'es';
-  const list = group==='all' ? EX : EX.filter(e=>e.group.id===group);
-  document.getElementById('count').textContent=`(${list.length}${group!=='all'?' / '+EX.length:''})`;
+  let list = EX;
+  if(group!=='all') list=list.filter(e=>e.group.id===group);
+  if(equip!=='all') list=list.filter(e=>e.equipment.id===equip);
+  const filtered = (group!=='all'||equip!=='all');
+  document.getElementById('count').textContent=`(${list.length}${filtered?' / '+EX.length:''})`;
   document.getElementById('grid').innerHTML=list.map(e=>{
     const img=gender==='m'?e.image.male:e.image.female;
     const musc=(e.primaryMuscles||[]).map(m=>`<span style="font-size:12px;font-weight:600;color:#0E0E12;background:#FF6A3D;padding:3px 9px;border-radius:999px">${(MUS[m]||{})[lang]||m}</span>`).join(' ');
@@ -172,9 +193,10 @@ function render(){
 Promise.all([
   fetch('v1/exercises.json').then(r=>r.json()),
   fetch('v1/muscles.json').then(r=>r.json()),
-  fetch('v1/groups.json').then(r=>r.json())
-]).then(([data,muscles,groups])=>{
-    muscles.forEach(m=>MUS[m.id]=m); EX=data.exercises; GROUPS=groups;
+  fetch('v1/groups.json').then(r=>r.json()),
+  fetch('v1/equipment.json').then(r=>r.json())
+]).then(([data,muscles,groups,equips])=>{
+    muscles.forEach(m=>MUS[m.id]=m); EX=data.exercises; GROUPS=groups; EQUIPS=equips;
     document.getElementById('live').textContent='● en vivo';
     applyLang(); render();
   }).catch(e=>{document.getElementById('live').textContent='● error';});

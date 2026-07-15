@@ -9,6 +9,11 @@
     "es": "Piernas",
     "en": "Legs"
   },
+  "equipment": {
+    "id": "machine",
+    "es": "Máquina",
+    "en": "Machine"
+  },
   "primaryMuscles": [
     {
       "id": "quadriceps",

@@ -1,0 +1,318 @@
+{
+  "equipment": {
+    "id": "machine",
+    "es": "Máquina",
+    "en": "Machine"
+  },
+  "count": 14,
+  "exercises": [
+    {
+      "slug": "seated-chest-press",
+      "name": {
+        "es": "Press de pecho en máquina",
+        "en": "Seated chest press"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/seated-chest-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/seated-chest-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-chest-press.json"
+    },
+    {
+      "slug": "incline-chest-press-machine",
+      "name": {
+        "es": "Press de pecho inclinado en máquina",
+        "en": "Incline chest press machine"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/incline-chest-press-machine-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/incline-chest-press-machine-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/incline-chest-press-machine.json"
+    },
+    {
+      "slug": "butterflies",
+      "name": {
+        "es": "Aperturas en máquina (pec deck)",
+        "en": "Machine chest fly (pec deck)"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/butterflies-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/butterflies-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/butterflies.json"
+    },
+    {
+      "slug": "chest-pulldown",
+      "name": {
+        "es": "Jalón al pecho",
+        "en": "Lat pulldown"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/chest-pulldown-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/chest-pulldown-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/chest-pulldown.json"
+    },
+    {
+      "slug": "close-grip-chest-pulldown",
+      "name": {
+        "es": "Jalón al pecho agarre estrecho",
+        "en": "Close-grip lat pulldown"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/close-grip-chest-pulldown-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/close-grip-chest-pulldown-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/close-grip-chest-pulldown.json"
+    },
+    {
+      "slug": "seated-row-machine",
+      "name": {
+        "es": "Remo sentado en máquina",
+        "en": "Seated row machine"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/seated-row-machine-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/seated-row-machine-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-row-machine.json"
+    },
+    {
+      "slug": "machine-shoulder-press",
+      "name": {
+        "es": "Press de hombros en máquina",
+        "en": "Machine shoulder press"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/machine-shoulder-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/machine-shoulder-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/machine-shoulder-press.json"
+    },
+    {
+      "slug": "dips-machine",
+      "name": {
+        "es": "Fondos en máquina",
+        "en": "Dips machine"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dips-machine-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dips-machine-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dips-machine.json"
+    },
+    {
+      "slug": "leg-press",
+      "name": {
+        "es": "Prensa de piernas",
+        "en": "Leg press"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/leg-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/leg-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/leg-press.json"
+    },
+    {
+      "slug": "seated-leg-curl",
+      "name": {
+        "es": "Curl de piernas sentado",
+        "en": "Seated leg curl"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/seated-leg-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/seated-leg-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-leg-curl.json"
+    },
+    {
+      "slug": "lying-leg-curls",
+      "name": {
+        "es": "Curl de piernas tumbado",
+        "en": "Lying leg curl"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/lying-leg-curls-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/lying-leg-curls-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/lying-leg-curls.json"
+    },
+    {
+      "slug": "seated-leg-extensions",
+      "name": {
+        "es": "Extensión de piernas",
+        "en": "Leg extension"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/seated-leg-extensions-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/seated-leg-extensions-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-leg-extensions.json"
+    },
+    {
+      "slug": "seated-calf-raises",
+      "name": {
+        "es": "Elevación de gemelos sentado",
+        "en": "Seated calf raise"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/seated-calf-raises-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/seated-calf-raises-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-calf-raises.json"
+    },
+    {
+      "slug": "neutral-grip-pulldown",
+      "name": {
+        "es": "Jalón al pecho agarre neutro",
+        "en": "Neutral-grip lat pulldown"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/neutral-grip-pulldown-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/neutral-grip-pulldown-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/neutral-grip-pulldown.json"
+    }
+  ]
+}

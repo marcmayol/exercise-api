@@ -1,0 +1,98 @@
+{
+  "equipment": {
+    "id": "cable",
+    "es": "Polea",
+    "en": "Cable"
+  },
+  "count": 4,
+  "exercises": [
+    {
+      "slug": "seated-cable-back-rows",
+      "name": {
+        "es": "Remo en polea sentado",
+        "en": "Seated cable row"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/seated-cable-back-rows-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/seated-cable-back-rows-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-cable-back-rows.json"
+    },
+    {
+      "slug": "face-pull",
+      "name": {
+        "es": "Face pull",
+        "en": "Face pull"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/face-pull-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/face-pull-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/face-pull.json"
+    },
+    {
+      "slug": "triceps-pushdown",
+      "name": {
+        "es": "Extensión de tríceps en polea",
+        "en": "Triceps pushdown"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/triceps-pushdown-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/triceps-pushdown-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/triceps-pushdown.json"
+    },
+    {
+      "slug": "cable-lateral-raises",
+      "name": {
+        "es": "Elevaciones laterales en polea",
+        "en": "Cable lateral raises"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-lateral-raises-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-lateral-raises-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-lateral-raises.json"
+    }
+  ]
+}

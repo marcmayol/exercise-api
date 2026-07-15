@@ -4,7 +4,7 @@
     "es": "Brazos",
     "en": "Arms"
   },
-  "count": 4,
+  "count": 6,
   "exercises": [
     {
       "slug": "alternating-dumbbell-biceps-curl",
@@ -16,6 +16,11 @@
         "id": "arms",
         "es": "Brazos",
         "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
       },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/alternating-dumbbell-biceps-curl-m.jpg",
@@ -34,6 +39,11 @@
         "es": "Brazos",
         "en": "Arms"
       },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/dumbbell-hammer-biceps-curl-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/dumbbell-hammer-biceps-curl-f.jpg"
@@ -50,6 +60,11 @@
         "id": "arms",
         "es": "Brazos",
         "en": "Arms"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
       },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/triceps-pushdown-m.jpg",
@@ -68,11 +83,60 @@
         "es": "Brazos",
         "en": "Arms"
       },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/dips-machine-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/dips-machine-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/dips-machine.json"
+    },
+    {
+      "slug": "barbell-biceps-curl",
+      "name": {
+        "es": "Curl de bíceps con barra",
+        "en": "Barbell biceps curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-biceps-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-biceps-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-biceps-curl.json"
+    },
+    {
+      "slug": "overhead-triceps-extension",
+      "name": {
+        "es": "Extensión de tríceps sobre la cabeza",
+        "en": "Overhead triceps extension"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/overhead-triceps-extension-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/overhead-triceps-extension-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/overhead-triceps-extension.json"
     }
   ]
 }

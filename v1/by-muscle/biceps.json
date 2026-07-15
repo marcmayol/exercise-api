@@ -4,7 +4,7 @@
     "es": "Bíceps",
     "en": "Biceps"
   },
-  "count": 6,
+  "count": 11,
   "exercises": [
     {
       "slug": "chest-pulldown",
@@ -16,6 +16,11 @@
         "id": "back",
         "es": "Espalda",
         "en": "Back"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
       },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/chest-pulldown-m.jpg",
@@ -34,6 +39,11 @@
         "es": "Espalda",
         "en": "Back"
       },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/close-grip-chest-pulldown-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/close-grip-chest-pulldown-f.jpg"
@@ -50,6 +60,11 @@
         "id": "back",
         "es": "Espalda",
         "en": "Back"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
       },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/seated-row-machine-m.jpg",
@@ -68,6 +83,11 @@
         "es": "Espalda",
         "en": "Back"
       },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/seated-cable-back-rows-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/seated-cable-back-rows-f.jpg"
@@ -84,6 +104,11 @@
         "id": "arms",
         "es": "Brazos",
         "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
       },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/alternating-dumbbell-biceps-curl-m.jpg",
@@ -102,11 +127,126 @@
         "es": "Brazos",
         "en": "Arms"
       },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/dumbbell-hammer-biceps-curl-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/dumbbell-hammer-biceps-curl-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-hammer-biceps-curl.json"
+    },
+    {
+      "slug": "neutral-grip-pulldown",
+      "name": {
+        "es": "Jalón al pecho agarre neutro",
+        "en": "Neutral-grip lat pulldown"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/neutral-grip-pulldown-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/neutral-grip-pulldown-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/neutral-grip-pulldown.json"
+    },
+    {
+      "slug": "upright-row",
+      "name": {
+        "es": "Remo al mentón (elevación al cuello)",
+        "en": "Barbell upright row"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/upright-row-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/upright-row-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/upright-row.json"
+    },
+    {
+      "slug": "barbell-row",
+      "name": {
+        "es": "Remo con barra",
+        "en": "Bent-over barbell row"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-row-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-row-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-row.json"
+    },
+    {
+      "slug": "dumbbell-row",
+      "name": {
+        "es": "Remo con mancuerna",
+        "en": "Bent-over dumbbell row"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dumbbell-row-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dumbbell-row-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-row.json"
+    },
+    {
+      "slug": "barbell-biceps-curl",
+      "name": {
+        "es": "Curl de bíceps con barra",
+        "en": "Barbell biceps curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-biceps-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-biceps-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-biceps-curl.json"
     }
   ]
 }

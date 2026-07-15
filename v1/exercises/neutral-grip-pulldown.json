@@ -1,0 +1,50 @@
+{
+  "slug": "neutral-grip-pulldown",
+  "name": {
+    "es": "Jalón al pecho agarre neutro",
+    "en": "Neutral-grip lat pulldown"
+  },
+  "group": {
+    "id": "back",
+    "es": "Espalda",
+    "en": "Back"
+  },
+  "equipment": {
+    "id": "machine",
+    "es": "Máquina",
+    "en": "Machine"
+  },
+  "primaryMuscles": [
+    {
+      "id": "upper-back",
+      "es": "Dorsal",
+      "en": "Upper back"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "biceps",
+      "es": "Bíceps",
+      "en": "Biceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta el asiento y la almohadilla para las piernas según tu altura.",
+      "Sujeta la barra con un agarre neutral, las palmas enfrentadas.",
+      "Tira de la barra hacia abajo hasta que toque la parte superior del pecho, manteniendo la espalda recta.",
+      "Regresa lentamente a la posición inicial con control."
+    ],
+    "en": [
+      "Adjust the seat and thigh pad according to your height.",
+      "Grip the bar with a neutral grip, palms facing each other.",
+      "Pull the bar down until it touches the top of your chest, keeping your back straight.",
+      "Slowly return to the starting position with control."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/neutral-grip-pulldown-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/neutral-grip-pulldown-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/neutral-grip-pulldown.svg"
+}

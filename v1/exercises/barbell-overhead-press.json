@@ -1,0 +1,50 @@
+{
+  "slug": "barbell-overhead-press",
+  "name": {
+    "es": "Press militar con barra",
+    "en": "Barbell overhead press"
+  },
+  "group": {
+    "id": "shoulders",
+    "es": "Hombros",
+    "en": "Shoulders"
+  },
+  "equipment": {
+    "id": "barbell",
+    "es": "Barra",
+    "en": "Barbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Coloca los pies a la anchura de los hombros y agarra la barra con las manos un poco más anchas que los hombros.",
+      "Levanta la barra hasta la altura del pecho, asegurando que las muñecas estén rectas.",
+      "Empuja la barra hacia arriba hasta que los brazos estén completamente extendidos, manteniendo el núcleo firme.",
+      "Baja la barra lentamente de nuevo a la posición inicial, controlando el movimiento."
+    ],
+    "en": [
+      "Stand with feet shoulder-width apart and grip the barbell with hands slightly wider than shoulder-width.",
+      "Lift the barbell to chest height, ensuring wrists are straight.",
+      "Press the barbell overhead until arms are fully extended, keeping the core tight.",
+      "Lower the barbell slowly back to the starting position, controlling the movement."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/barbell-overhead-press-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/barbell-overhead-press-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/barbell-overhead-press.svg"
+}

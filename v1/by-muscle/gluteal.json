@@ -4,7 +4,7 @@
     "es": "Glúteo",
     "en": "Glutes"
   },
-  "count": 6,
+  "count": 8,
   "exercises": [
     {
       "slug": "leg-press",
@@ -16,6 +16,11 @@
         "id": "legs",
         "es": "Piernas",
         "en": "Legs"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
       },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/leg-press-m.jpg",
@@ -34,6 +39,11 @@
         "es": "Piernas",
         "en": "Legs"
       },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/seated-leg-curl-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/seated-leg-curl-f.jpg"
@@ -50,6 +60,11 @@
         "id": "legs",
         "es": "Piernas",
         "en": "Legs"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
       },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/lying-leg-curls-m.jpg",
@@ -68,6 +83,11 @@
         "es": "Piernas",
         "en": "Legs"
       },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/barbell-hip-thrust-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/barbell-hip-thrust-f.jpg"
@@ -84,6 +104,11 @@
         "id": "legs",
         "es": "Piernas",
         "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
       },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/box-squat-m.jpg",
@@ -102,11 +127,60 @@
         "es": "Piernas",
         "en": "Legs"
       },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/goblet-squats-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/goblet-squats-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/goblet-squats.json"
+    },
+    {
+      "slug": "barbell-squat",
+      "name": {
+        "es": "Sentadilla con barra",
+        "en": "Barbell squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-squat-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-squat.json"
+    },
+    {
+      "slug": "bulgarian-split-squat",
+      "name": {
+        "es": "Sentadilla búlgara",
+        "en": "Bulgarian split squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/bulgarian-split-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/bulgarian-split-squat-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/bulgarian-split-squat.json"
     }
   ]
 }

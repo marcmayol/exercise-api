@@ -9,6 +9,11 @@
     "es": "Pecho",
     "en": "Chest"
   },
+  "equipment": {
+    "id": "machine",
+    "es": "Máquina",
+    "en": "Machine"
+  },
   "primaryMuscles": [
     {
       "id": "chest",

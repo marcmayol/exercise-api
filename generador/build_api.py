@@ -24,6 +24,25 @@ MUSCLES = {
   "hamstring":{"es":"Femoral","en":"Hamstrings"}, "calves":{"es":"Gemelos","en":"Calves"},
 }
 
+EQUIP = {  # tipos de equipamiento (ES/EN)
+  "machine":{"es":"Máquina","en":"Machine"}, "cable":{"es":"Polea","en":"Cable"},
+  "barbell":{"es":"Barra","en":"Barbell"}, "dumbbell":{"es":"Mancuerna","en":"Dumbbell"},
+  "bodyweight":{"es":"Peso corporal","en":"Bodyweight"},
+}
+EQUIPMENT = {  # slug -> tipo de equipamiento
+  "seated-chest-press":"machine","incline-chest-press-machine":"machine","butterflies":"machine",
+  "barbell-bench-press":"barbell","chest-pulldown":"machine","close-grip-chest-pulldown":"machine",
+  "neutral-grip-pulldown":"machine","seated-row-machine":"machine","seated-cable-back-rows":"cable",
+  "seated-dumbbell-overhead-shoulder-press":"dumbbell","machine-shoulder-press":"machine",
+  "dumbbell-lateral-raises":"dumbbell","face-pull":"cable","upright-row":"barbell",
+  "alternating-dumbbell-biceps-curl":"dumbbell","dumbbell-hammer-biceps-curl":"dumbbell",
+  "triceps-pushdown":"cable","dips-machine":"machine","leg-press":"machine",
+  "seated-leg-curl":"machine","lying-leg-curls":"machine","seated-leg-extensions":"machine",
+  "barbell-hip-thrust":"barbell","box-squat":"bodyweight","goblet-squats":"dumbbell",
+  "barbell-squat":"barbell","bulgarian-split-squat":"dumbbell","seated-calf-raises":"machine",
+  "plank":"bodyweight","side-plank":"bodyweight","dead-bug":"bodyweight",
+}
+
 # ---------------------------------------------------------------- mapas musculares (SVG)
 def parse_body(fn):
     txt = open(os.path.join(HERE, fn), encoding="utf-8").read()
@@ -78,7 +97,7 @@ def main():
     client = OpenAI(api_key=load_key())
     seed = json.load(open(os.path.join(ROOT,"exercises_seed.json"),encoding="utf-8"))
 
-    for d in ("v1","v1/exercises","v1/by-muscle","v1/by-group","images","muscle-maps"):
+    for d in ("v1","v1/exercises","v1/by-muscle","v1/by-group","v1/by-equipment","images","muscle-maps"):
         os.makedirs(os.path.join(ROOT,d), exist_ok=True)
 
     def copy_img(slug, gender, suffix):
@@ -92,10 +111,11 @@ def main():
         rel = f"images/{slug}-{suffix}.jpg"; im.save(os.path.join(ROOT,rel),quality=85)
         return f"{BASE}/{rel}"
 
-    index=[]; by_muscle={}; by_group={}
+    index=[]; by_muscle={}; by_group={}; by_equipment={}
     def dump(path, obj): json.dump(obj, open(os.path.join(ROOT,path),"w",encoding="utf-8"), ensure_ascii=False, indent=2)
     for ex in seed:
         slug=ex["slug"]
+        eq = ex.get("equipment") or EQUIPMENT.get(slug,"machine"); eqobj={"id":eq,**EQUIP[eq]}
         instr = get_instructions(client, ex)
         img_m = copy_img(slug,"male","m"); img_f = copy_img(slug,"female","f")
         svg_rel = f"muscle-maps/{slug}.svg"
@@ -106,6 +126,7 @@ def main():
           "slug":slug,
           "name":{"es":ex["es"],"en":ex["en"]},
           "group":{"id":ex["group_en"].lower(),"es":ex["group_es"],"en":ex["group_en"]},
+          "equipment":eqobj,
           "primaryMuscles":mlist(ex["primary"]),
           "secondaryMuscles":mlist(ex["secondary"]),
           "instructions":instr,
@@ -114,11 +135,12 @@ def main():
         }
         dump(f"v1/exercises/{slug}.json", full)
         # resumen reutilizable (índice, por grupo, por músculo)
-        summ = {"slug":slug,"name":full["name"],"group":full["group"],
+        summ = {"slug":slug,"name":full["name"],"group":full["group"],"equipment":eqobj,
                 "image":full["images"],"url":f"{BASE}/v1/exercises/{slug}.json"}
         index.append({**summ,"primaryMuscles":[m["id"] for m in full["primaryMuscles"]]})
         g = ex["group_en"].lower()
         by_group.setdefault(g,{"group":full["group"],"exercises":[]})["exercises"].append(summ)
+        by_equipment.setdefault(eq,{"equipment":eqobj,"exercises":[]})["exercises"].append(summ)
         for m in dict.fromkeys(ex["primary"]+ex["secondary"]):
             by_muscle.setdefault(m,[]).append(summ)
 
@@ -132,7 +154,12 @@ def main():
     for m,arr in by_muscle.items():
         dump(f"v1/by-muscle/{m}.json",
              {"muscle":{"id":m,**MUSCLES[m]},"count":len(arr),"exercises":arr})
-    print(f"\nOK · {len(index)} ejercicios · {len(by_group)} grupos · imágenes+mapas+JSON en {ROOT}")
+    dump("v1/equipment.json", [{"id":e,"es":EQUIP[e]["es"],"en":EQUIP[e]["en"],
+                                "count":len(d["exercises"]),"url":f"{BASE}/v1/by-equipment/{e}.json"}
+                               for e,d in by_equipment.items()])
+    for e,d in by_equipment.items():
+        dump(f"v1/by-equipment/{e}.json", {"equipment":d["equipment"],"count":len(d["exercises"]),"exercises":d["exercises"]})
+    print(f"\nOK · {len(index)} ejercicios · {len(by_group)} grupos · {len(by_equipment)} equipamientos · en {ROOT}")
 
 if __name__=="__main__":
     main()

@@ -9,6 +9,11 @@
     "es": "Espalda",
     "en": "Back"
   },
+  "equipment": {
+    "id": "machine",
+    "es": "Máquina",
+    "en": "Machine"
+  },
   "primaryMuscles": [
     {
       "id": "upper-back",

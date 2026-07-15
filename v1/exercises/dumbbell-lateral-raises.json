@@ -9,6 +9,11 @@
     "es": "Hombros",
     "en": "Shoulders"
   },
+  "equipment": {
+    "id": "dumbbell",
+    "es": "Mancuerna",
+    "en": "Dumbbell"
+  },
   "primaryMuscles": [
     {
       "id": "deltoids",

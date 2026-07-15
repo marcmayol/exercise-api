@@ -1,0 +1,44 @@
+{
+  "slug": "cable-lateral-raises",
+  "name": {
+    "es": "Elevaciones laterales en polea",
+    "en": "Cable lateral raises"
+  },
+  "group": {
+    "id": "shoulders",
+    "es": "Hombros",
+    "en": "Shoulders"
+  },
+  "equipment": {
+    "id": "cable",
+    "es": "Polea",
+    "en": "Cable"
+  },
+  "primaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "es": [
+      "Ajusta la polea a la posición más baja y sujeta el mango con una mano.",
+      "Párate de lado a la máquina con los pies separados al ancho de los hombros.",
+      "Levanta el brazo lateralmente hasta que esté a la altura del hombro, manteniendo el codo ligeramente doblado.",
+      "Baja lentamente el brazo a la posición inicial y repite."
+    ],
+    "en": [
+      "Set the pulley to the lowest position and grab the handle with one hand.",
+      "Stand sideways to the machine with feet shoulder-width apart.",
+      "Raise your arm laterally until it is shoulder height, keeping the elbow slightly bent.",
+      "Slowly lower the arm back to the starting position and repeat."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/cable-lateral-raises-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/cable-lateral-raises-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-lateral-raises.svg"
+}

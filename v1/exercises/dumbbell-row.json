@@ -1,0 +1,50 @@
+{
+  "slug": "dumbbell-row",
+  "name": {
+    "es": "Remo con mancuerna",
+    "en": "Bent-over dumbbell row"
+  },
+  "group": {
+    "id": "back",
+    "es": "Espalda",
+    "en": "Back"
+  },
+  "equipment": {
+    "id": "dumbbell",
+    "es": "Mancuerna",
+    "en": "Dumbbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "upper-back",
+      "es": "Dorsal",
+      "en": "Upper back"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "biceps",
+      "es": "Bíceps",
+      "en": "Biceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "1. Colócate de pie con los pies a la altura de los hombros y sostén una mancuerna en cada mano.",
+      "2. Inclina el torso hacia adelante desde las caderas, manteniendo la espalda recta y las rodillas ligeramente flexionadas.",
+      "3. Con los brazos extendidos hacia abajo, tira de las mancuernas hacia tu cintura, manteniendo los codos cerca del cuerpo.",
+      "4. Baja las mancuernas de manera controlada y repite el movimiento."
+    ],
+    "en": [
+      "1. Stand with feet shoulder-width apart, holding a dumbbell in each hand.",
+      "2. Bend your torso forward at the hips, keeping your back straight and knees slightly bent.",
+      "3. With arms extended downward, pull the dumbbells towards your waist, keeping elbows close to your body.",
+      "4. Lower the dumbbells in a controlled manner and repeat the movement."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/dumbbell-row-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/dumbbell-row-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-row.svg"
+}

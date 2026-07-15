@@ -9,6 +9,11 @@
     "es": "Hombros",
     "en": "Shoulders"
   },
+  "equipment": {
+    "id": "machine",
+    "es": "Máquina",
+    "en": "Machine"
+  },
   "primaryMuscles": [
     {
       "id": "deltoids",

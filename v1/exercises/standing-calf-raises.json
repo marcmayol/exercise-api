@@ -1,0 +1,42 @@
+{
+  "slug": "standing-calf-raises",
+  "name": {
+    "es": "Elevación de gemelos de pie",
+    "en": "Standing calf raise"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "barbell",
+    "es": "Barra",
+    "en": "Barbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "calves",
+      "es": "Gemelos",
+      "en": "Calves"
+    }
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "es": [
+      "1. Párate con los pies separados al ancho de los hombros y las puntas de los pies apuntando hacia adelante.",
+      "2. Mantén la espalda recta y el abdomen contraído mientras te elevas lentamente sobre las puntas de los pies.",
+      "3. Sostén la posición elevada por un segundo, luego baja los talones de manera controlada."
+    ],
+    "en": [
+      "1. Stand with feet shoulder-width apart and toes pointing forward.",
+      "2. Keep your back straight and core engaged as you slowly rise onto the balls of your feet.",
+      "3. Hold the elevated position for a second, then lower your heels in a controlled manner."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/standing-calf-raises-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/standing-calf-raises-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/standing-calf-raises.svg"
+}

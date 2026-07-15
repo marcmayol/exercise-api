@@ -9,6 +9,11 @@
     "es": "Piernas",
     "en": "Legs"
   },
+  "equipment": {
+    "id": "dumbbell",
+    "es": "Mancuerna",
+    "en": "Dumbbell"
+  },
   "primaryMuscles": [
     {
       "id": "quadriceps",

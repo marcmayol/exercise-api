@@ -9,6 +9,11 @@
     "es": "Espalda",
     "en": "Back"
   },
+  "equipment": {
+    "id": "cable",
+    "es": "Polea",
+    "en": "Cable"
+  },
   "primaryMuscles": [
     {
       "id": "upper-back",

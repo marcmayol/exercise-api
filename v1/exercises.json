@@ -1,5 +1,5 @@
 {
-  "count": 26,
+  "count": 41,
   "exercises": [
     {
       "slug": "seated-chest-press",
@@ -11,6 +11,11 @@
         "id": "chest",
         "es": "Pecho",
         "en": "Chest"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
       },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/seated-chest-press-m.jpg",
@@ -32,6 +37,11 @@
         "es": "Pecho",
         "en": "Chest"
       },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/incline-chest-press-machine-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/incline-chest-press-machine-f.jpg"
@@ -51,6 +61,11 @@
         "id": "chest",
         "es": "Pecho",
         "en": "Chest"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
       },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/butterflies-m.jpg",
@@ -72,6 +87,11 @@
         "es": "Espalda",
         "en": "Back"
       },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/chest-pulldown-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/chest-pulldown-f.jpg"
@@ -92,6 +112,11 @@
         "es": "Espalda",
         "en": "Back"
       },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/close-grip-chest-pulldown-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/close-grip-chest-pulldown-f.jpg"
@@ -111,6 +136,11 @@
         "id": "back",
         "es": "Espalda",
         "en": "Back"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
       },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/seated-row-machine-m.jpg",
@@ -133,6 +163,11 @@
         "es": "Espalda",
         "en": "Back"
       },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/seated-cable-back-rows-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/seated-cable-back-rows-f.jpg"
@@ -154,6 +189,11 @@
         "es": "Hombros",
         "en": "Shoulders"
       },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/seated-dumbbell-overhead-shoulder-press-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/seated-dumbbell-overhead-shoulder-press-f.jpg"
@@ -173,6 +213,11 @@
         "id": "shoulders",
         "es": "Hombros",
         "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
       },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/machine-shoulder-press-m.jpg",
@@ -194,6 +239,11 @@
         "es": "Hombros",
         "en": "Shoulders"
       },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/dumbbell-lateral-raises-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/dumbbell-lateral-raises-f.jpg"
@@ -213,6 +263,11 @@
         "id": "shoulders",
         "es": "Hombros",
         "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
       },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/face-pull-m.jpg",
@@ -235,6 +290,11 @@
         "es": "Brazos",
         "en": "Arms"
       },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/alternating-dumbbell-biceps-curl-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/alternating-dumbbell-biceps-curl-f.jpg"
@@ -254,6 +314,11 @@
         "id": "arms",
         "es": "Brazos",
         "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
       },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/dumbbell-hammer-biceps-curl-m.jpg",
@@ -275,6 +340,11 @@
         "es": "Brazos",
         "en": "Arms"
       },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/triceps-pushdown-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/triceps-pushdown-f.jpg"
@@ -295,6 +365,11 @@
         "es": "Brazos",
         "en": "Arms"
       },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/dips-machine-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/dips-machine-f.jpg"
@@ -314,6 +389,11 @@
         "id": "legs",
         "es": "Piernas",
         "en": "Legs"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
       },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/leg-press-m.jpg",
@@ -336,6 +416,11 @@
         "es": "Piernas",
         "en": "Legs"
       },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/seated-leg-curl-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/seated-leg-curl-f.jpg"
@@ -355,6 +440,11 @@
         "id": "legs",
         "es": "Piernas",
         "en": "Legs"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
       },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/lying-leg-curls-m.jpg",
@@ -376,6 +466,11 @@
         "es": "Piernas",
         "en": "Legs"
       },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/seated-leg-extensions-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/seated-leg-extensions-f.jpg"
@@ -396,6 +491,11 @@
         "es": "Piernas",
         "en": "Legs"
       },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/barbell-hip-thrust-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/barbell-hip-thrust-f.jpg"
@@ -415,6 +515,11 @@
         "id": "legs",
         "es": "Piernas",
         "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
       },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/box-squat-m.jpg",
@@ -437,6 +542,11 @@
         "es": "Piernas",
         "en": "Legs"
       },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/goblet-squats-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/goblet-squats-f.jpg"
@@ -458,6 +568,11 @@
         "es": "Piernas",
         "en": "Legs"
       },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/seated-calf-raises-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/seated-calf-raises-f.jpg"
@@ -477,6 +592,11 @@
         "id": "core",
         "es": "Core",
         "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
       },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/plank-m.jpg",
@@ -498,6 +618,11 @@
         "es": "Core",
         "en": "Core"
       },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/side-plank-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/side-plank-f.jpg"
@@ -518,6 +643,11 @@
         "es": "Core",
         "en": "Core"
       },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/dead-bug-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/dead-bug-f.jpg"
@@ -525,6 +655,384 @@
       "url": "https://marcmayol.com/exercise-api/v1/exercises/dead-bug.json",
       "primaryMuscles": [
         "abs"
+      ]
+    },
+    {
+      "slug": "neutral-grip-pulldown",
+      "name": {
+        "es": "Jalón al pecho agarre neutro",
+        "en": "Neutral-grip lat pulldown"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/neutral-grip-pulldown-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/neutral-grip-pulldown-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/neutral-grip-pulldown.json",
+      "primaryMuscles": [
+        "upper-back"
+      ]
+    },
+    {
+      "slug": "upright-row",
+      "name": {
+        "es": "Remo al mentón (elevación al cuello)",
+        "en": "Barbell upright row"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/upright-row-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/upright-row-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/upright-row.json",
+      "primaryMuscles": [
+        "deltoids"
+      ]
+    },
+    {
+      "slug": "barbell-squat",
+      "name": {
+        "es": "Sentadilla con barra",
+        "en": "Barbell squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-squat-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-squat.json",
+      "primaryMuscles": [
+        "quadriceps",
+        "gluteal"
+      ]
+    },
+    {
+      "slug": "bulgarian-split-squat",
+      "name": {
+        "es": "Sentadilla búlgara",
+        "en": "Bulgarian split squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/bulgarian-split-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/bulgarian-split-squat-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/bulgarian-split-squat.json",
+      "primaryMuscles": [
+        "quadriceps",
+        "gluteal"
+      ]
+    },
+    {
+      "slug": "barbell-bench-press",
+      "name": {
+        "es": "Press de banca",
+        "en": "Barbell bench press"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-bench-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-bench-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-bench-press.json",
+      "primaryMuscles": [
+        "chest"
+      ]
+    },
+    {
+      "slug": "dumbbell-bench-press",
+      "name": {
+        "es": "Press de banca con mancuernas",
+        "en": "Dumbbell bench press"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dumbbell-bench-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dumbbell-bench-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-bench-press.json",
+      "primaryMuscles": [
+        "chest"
+      ]
+    },
+    {
+      "slug": "incline-dumbbell-press",
+      "name": {
+        "es": "Press inclinado con mancuernas",
+        "en": "Incline dumbbell press"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/incline-dumbbell-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/incline-dumbbell-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/incline-dumbbell-press.json",
+      "primaryMuscles": [
+        "chest"
+      ]
+    },
+    {
+      "slug": "dumbbell-flyes",
+      "name": {
+        "es": "Aperturas con mancuernas",
+        "en": "Dumbbell flyes"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dumbbell-flyes-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dumbbell-flyes-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-flyes.json",
+      "primaryMuscles": [
+        "chest"
+      ]
+    },
+    {
+      "slug": "barbell-row",
+      "name": {
+        "es": "Remo con barra",
+        "en": "Bent-over barbell row"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-row-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-row-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-row.json",
+      "primaryMuscles": [
+        "upper-back",
+        "trapezius"
+      ]
+    },
+    {
+      "slug": "dumbbell-row",
+      "name": {
+        "es": "Remo con mancuerna",
+        "en": "Bent-over dumbbell row"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dumbbell-row-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dumbbell-row-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-row.json",
+      "primaryMuscles": [
+        "upper-back"
+      ]
+    },
+    {
+      "slug": "barbell-overhead-press",
+      "name": {
+        "es": "Press militar con barra",
+        "en": "Barbell overhead press"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-overhead-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-overhead-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-overhead-press.json",
+      "primaryMuscles": [
+        "deltoids"
+      ]
+    },
+    {
+      "slug": "cable-lateral-raises",
+      "name": {
+        "es": "Elevaciones laterales en polea",
+        "en": "Cable lateral raises"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-lateral-raises-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-lateral-raises-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-lateral-raises.json",
+      "primaryMuscles": [
+        "deltoids"
+      ]
+    },
+    {
+      "slug": "barbell-biceps-curl",
+      "name": {
+        "es": "Curl de bíceps con barra",
+        "en": "Barbell biceps curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-biceps-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-biceps-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-biceps-curl.json",
+      "primaryMuscles": [
+        "biceps"
+      ]
+    },
+    {
+      "slug": "overhead-triceps-extension",
+      "name": {
+        "es": "Extensión de tríceps sobre la cabeza",
+        "en": "Overhead triceps extension"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/overhead-triceps-extension-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/overhead-triceps-extension-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/overhead-triceps-extension.json",
+      "primaryMuscles": [
+        "triceps"
+      ]
+    },
+    {
+      "slug": "standing-calf-raises",
+      "name": {
+        "es": "Elevación de gemelos de pie",
+        "en": "Standing calf raise"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/standing-calf-raises-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/standing-calf-raises-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/standing-calf-raises.json",
+      "primaryMuscles": [
+        "calves"
       ]
     }
   ]

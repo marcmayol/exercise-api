@@ -1,0 +1,50 @@
+{
+  "slug": "barbell-biceps-curl",
+  "name": {
+    "es": "Curl de bíceps con barra",
+    "en": "Barbell biceps curl"
+  },
+  "group": {
+    "id": "arms",
+    "es": "Brazos",
+    "en": "Arms"
+  },
+  "equipment": {
+    "id": "barbell",
+    "es": "Barra",
+    "en": "Barbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "biceps",
+      "es": "Bíceps",
+      "en": "Biceps"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "forearm",
+      "es": "Antebrazo",
+      "en": "Forearm"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Párate derecho con los pies al ancho de los hombros.",
+      "Sujeta la barra con las palmas hacia arriba y los codos cerca del cuerpo.",
+      "Levanta la barra hacia los hombros, manteniendo los codos inmóviles.",
+      "Baja lentamente la barra a la posición inicial."
+    ],
+    "en": [
+      "Stand upright with feet shoulder-width apart.",
+      "Hold the bar with palms facing up and elbows close to your body.",
+      "Lift the bar towards your shoulders, keeping elbows still.",
+      "Slowly lower the bar back to the starting position."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/barbell-biceps-curl-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/barbell-biceps-curl-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/barbell-biceps-curl.svg"
+}

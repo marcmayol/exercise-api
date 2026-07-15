@@ -1,0 +1,55 @@
+{
+  "slug": "incline-dumbbell-press",
+  "name": {
+    "es": "Press inclinado con mancuernas",
+    "en": "Incline dumbbell press"
+  },
+  "group": {
+    "id": "chest",
+    "es": "Pecho",
+    "en": "Chest"
+  },
+  "equipment": {
+    "id": "dumbbell",
+    "es": "Mancuerna",
+    "en": "Dumbbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "chest",
+      "es": "Pectoral",
+      "en": "Chest"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    },
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta el banco a un ángulo de 30-45 grados.",
+      "Siéntate y coloca los pies firmemente en el suelo.",
+      "Sujeta las mancuernas con un agarre neutro y llévalas al nivel del pecho.",
+      "Empuja las mancuernas hacia arriba hasta que los brazos estén casi extendidos, luego baja lentamente."
+    ],
+    "en": [
+      "Adjust the bench to a 30-45 degree angle.",
+      "Sit down and place your feet firmly on the floor.",
+      "Hold the dumbbells with a neutral grip and bring them to chest level.",
+      "Press the dumbbells upward until your arms are nearly extended, then lower slowly."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/incline-dumbbell-press-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/incline-dumbbell-press-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/incline-dumbbell-press.svg"
+}

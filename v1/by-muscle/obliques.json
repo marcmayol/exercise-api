@@ -17,6 +17,11 @@
         "es": "Core",
         "en": "Core"
       },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/plank-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/plank-f.jpg"
@@ -33,6 +38,11 @@
         "id": "core",
         "es": "Core",
         "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
       },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/side-plank-m.jpg",

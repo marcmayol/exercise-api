@@ -1,0 +1,55 @@
+{
+  "slug": "barbell-row",
+  "name": {
+    "es": "Remo con barra",
+    "en": "Bent-over barbell row"
+  },
+  "group": {
+    "id": "back",
+    "es": "Espalda",
+    "en": "Back"
+  },
+  "equipment": {
+    "id": "barbell",
+    "es": "Barra",
+    "en": "Barbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "upper-back",
+      "es": "Dorsal",
+      "en": "Upper back"
+    },
+    {
+      "id": "trapezius",
+      "es": "Trapecio",
+      "en": "Trapezius"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "biceps",
+      "es": "Bíceps",
+      "en": "Biceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Coloca los pies a la anchura de los hombros y agarra la barra con un agarre por encima.",
+      "Inclina el torso hacia adelante manteniendo la espalda recta y las rodillas ligeramente flexionadas.",
+      "Levanta la barra hacia el abdomen, manteniendo los codos cerca del cuerpo.",
+      "Baja la barra de manera controlada y repite."
+    ],
+    "en": [
+      "Stand with feet shoulder-width apart and grip the barbell with an overhand grip.",
+      "Bend your torso forward, keeping your back straight and knees slightly bent.",
+      "Pull the barbell towards your abdomen, keeping elbows close to your body.",
+      "Lower the barbell in a controlled manner and repeat."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/barbell-row-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/barbell-row-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/barbell-row.svg"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "overhead-triceps-extension",
+  "name": {
+    "es": "Extensión de tríceps sobre la cabeza",
+    "en": "Overhead triceps extension"
+  },
+  "group": {
+    "id": "arms",
+    "es": "Brazos",
+    "en": "Arms"
+  },
+  "equipment": {
+    "id": "dumbbell",
+    "es": "Mancuerna",
+    "en": "Dumbbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    }
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "es": [
+      "Sujeta una mancuerna con ambas manos y levántala por encima de tu cabeza, manteniendo los codos cerca de las orejas.",
+      "Baja la mancuerna detrás de la cabeza doblando los codos, manteniendo los brazos estables.",
+      "Extiende los brazos de nuevo hacia arriba para regresar a la posición inicial."
+    ],
+    "en": [
+      "Hold a dumbbell with both hands and lift it above your head, keeping your elbows close to your ears.",
+      "Lower the dumbbell behind your head by bending your elbows, keeping your arms stable.",
+      "Extend your arms back up to return to the starting position."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/overhead-triceps-extension-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/overhead-triceps-extension-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/overhead-triceps-extension.svg"
+}

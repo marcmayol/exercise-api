@@ -1,0 +1,50 @@
+{
+  "slug": "dumbbell-flyes",
+  "name": {
+    "es": "Aperturas con mancuernas",
+    "en": "Dumbbell flyes"
+  },
+  "group": {
+    "id": "chest",
+    "es": "Pecho",
+    "en": "Chest"
+  },
+  "equipment": {
+    "id": "dumbbell",
+    "es": "Mancuerna",
+    "en": "Dumbbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "chest",
+      "es": "Pectoral",
+      "en": "Chest"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Acuéstate boca arriba en un banco plano con una mancuerna en cada mano.",
+      "Extiende los brazos hacia arriba, con las palmas enfrentadas y una ligera flexión en los codos.",
+      "Baja las mancuernas lentamente hacia los lados en un arco amplio hasta sentir un estiramiento en el pecho.",
+      "Regresa a la posición inicial apretando el pecho y repite."
+    ],
+    "en": [
+      "Lie flat on a bench with a dumbbell in each hand.",
+      "Extend your arms above you with palms facing each other and a slight bend in the elbows.",
+      "Lower the dumbbells slowly to the sides in a wide arc until you feel a stretch in the chest.",
+      "Return to the starting position by squeezing your chest and repeat."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/dumbbell-flyes-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/dumbbell-flyes-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-flyes.svg"
+}

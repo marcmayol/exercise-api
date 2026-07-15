@@ -9,6 +9,11 @@
     "es": "Piernas",
     "en": "Legs"
   },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
   "primaryMuscles": [
     {
       "id": "quadriceps",

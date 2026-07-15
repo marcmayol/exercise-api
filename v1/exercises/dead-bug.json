@@ -9,6 +9,11 @@
     "es": "Core",
     "en": "Core"
   },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
   "primaryMuscles": [
     {
       "id": "abs",

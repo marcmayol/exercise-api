@@ -4,7 +4,7 @@
     "es": "Pecho",
     "en": "Chest"
   },
-  "count": 3,
+  "count": 7,
   "exercises": [
     {
       "slug": "seated-chest-press",
@@ -16,6 +16,11 @@
         "id": "chest",
         "es": "Pecho",
         "en": "Chest"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
       },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/seated-chest-press-m.jpg",
@@ -34,6 +39,11 @@
         "es": "Pecho",
         "en": "Chest"
       },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/incline-chest-press-machine-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/incline-chest-press-machine-f.jpg"
@@ -51,11 +61,104 @@
         "es": "Pecho",
         "en": "Chest"
       },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
       "image": {
         "male": "https://marcmayol.com/exercise-api/images/butterflies-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/butterflies-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/butterflies.json"
+    },
+    {
+      "slug": "barbell-bench-press",
+      "name": {
+        "es": "Press de banca",
+        "en": "Barbell bench press"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-bench-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-bench-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-bench-press.json"
+    },
+    {
+      "slug": "dumbbell-bench-press",
+      "name": {
+        "es": "Press de banca con mancuernas",
+        "en": "Dumbbell bench press"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dumbbell-bench-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dumbbell-bench-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-bench-press.json"
+    },
+    {
+      "slug": "incline-dumbbell-press",
+      "name": {
+        "es": "Press inclinado con mancuernas",
+        "en": "Incline dumbbell press"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/incline-dumbbell-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/incline-dumbbell-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/incline-dumbbell-press.json"
+    },
+    {
+      "slug": "dumbbell-flyes",
+      "name": {
+        "es": "Aperturas con mancuernas",
+        "en": "Dumbbell flyes"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dumbbell-flyes-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dumbbell-flyes-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-flyes.json"
     }
   ]
 }

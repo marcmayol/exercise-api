@@ -1,0 +1,186 @@
+{
+  "equipment": {
+    "id": "barbell",
+    "es": "Barra",
+    "en": "Barbell"
+  },
+  "count": 8,
+  "exercises": [
+    {
+      "slug": "barbell-hip-thrust",
+      "name": {
+        "es": "Hip thrust con barra",
+        "en": "Barbell hip thrust"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-hip-thrust-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-hip-thrust-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-hip-thrust.json"
+    },
+    {
+      "slug": "upright-row",
+      "name": {
+        "es": "Remo al mentón (elevación al cuello)",
+        "en": "Barbell upright row"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/upright-row-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/upright-row-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/upright-row.json"
+    },
+    {
+      "slug": "barbell-squat",
+      "name": {
+        "es": "Sentadilla con barra",
+        "en": "Barbell squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-squat-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-squat.json"
+    },
+    {
+      "slug": "barbell-bench-press",
+      "name": {
+        "es": "Press de banca",
+        "en": "Barbell bench press"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-bench-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-bench-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-bench-press.json"
+    },
+    {
+      "slug": "barbell-row",
+      "name": {
+        "es": "Remo con barra",
+        "en": "Bent-over barbell row"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-row-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-row-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-row.json"
+    },
+    {
+      "slug": "barbell-overhead-press",
+      "name": {
+        "es": "Press militar con barra",
+        "en": "Barbell overhead press"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-overhead-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-overhead-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-overhead-press.json"
+    },
+    {
+      "slug": "barbell-biceps-curl",
+      "name": {
+        "es": "Curl de bíceps con barra",
+        "en": "Barbell biceps curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-biceps-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-biceps-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-biceps-curl.json"
+    },
+    {
+      "slug": "standing-calf-raises",
+      "name": {
+        "es": "Elevación de gemelos de pie",
+        "en": "Standing calf raise"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/standing-calf-raises-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/standing-calf-raises-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/standing-calf-raises.json"
+    }
+  ]
+}
