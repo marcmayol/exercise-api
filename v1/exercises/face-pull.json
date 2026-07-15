@@ -42,8 +42,8 @@
     ]
   },
   "images": {
-    "male": "https://marcmayol.github.io/exercise-api/images/face-pull-m.jpg",
-    "female": "https://marcmayol.github.io/exercise-api/images/face-pull-f.jpg"
+    "male": "https://marcmayol.com/exercise-api/images/face-pull-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/face-pull-f.jpg"
   },
-  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/face-pull.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/face-pull.svg"
 }

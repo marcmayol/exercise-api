@@ -40,8 +40,8 @@
     ]
   },
   "images": {
-    "male": "https://marcmayol.github.io/exercise-api/images/plank-m.jpg",
-    "female": "https://marcmayol.github.io/exercise-api/images/plank-f.jpg"
+    "male": "https://marcmayol.com/exercise-api/images/plank-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/plank-f.jpg"
   },
-  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/plank.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/plank.svg"
 }

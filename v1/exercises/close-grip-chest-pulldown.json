@@ -37,8 +37,8 @@
     ]
   },
   "images": {
-    "male": "https://marcmayol.github.io/exercise-api/images/close-grip-chest-pulldown-m.jpg",
-    "female": "https://marcmayol.github.io/exercise-api/images/close-grip-chest-pulldown-f.jpg"
+    "male": "https://marcmayol.com/exercise-api/images/close-grip-chest-pulldown-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/close-grip-chest-pulldown-f.jpg"
   },
-  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/close-grip-chest-pulldown.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/close-grip-chest-pulldown.svg"
 }

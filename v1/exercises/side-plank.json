@@ -37,8 +37,8 @@
     ]
   },
   "images": {
-    "male": "https://marcmayol.github.io/exercise-api/images/side-plank-m.jpg",
-    "female": "https://marcmayol.github.io/exercise-api/images/side-plank-f.jpg"
+    "male": "https://marcmayol.com/exercise-api/images/side-plank-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/side-plank-f.jpg"
   },
-  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/side-plank.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/side-plank.svg"
 }

@@ -42,8 +42,8 @@
     ]
   },
   "images": {
-    "male": "https://marcmayol.github.io/exercise-api/images/dips-machine-m.jpg",
-    "female": "https://marcmayol.github.io/exercise-api/images/dips-machine-f.jpg"
+    "male": "https://marcmayol.com/exercise-api/images/dips-machine-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/dips-machine-f.jpg"
   },
-  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/dips-machine.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dips-machine.svg"
 }

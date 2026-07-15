@@ -37,8 +37,8 @@
     ]
   },
   "images": {
-    "male": "https://marcmayol.github.io/exercise-api/images/machine-shoulder-press-m.jpg",
-    "female": "https://marcmayol.github.io/exercise-api/images/machine-shoulder-press-f.jpg"
+    "male": "https://marcmayol.com/exercise-api/images/machine-shoulder-press-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/machine-shoulder-press-f.jpg"
   },
-  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/machine-shoulder-press.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/machine-shoulder-press.svg"
 }

@@ -42,8 +42,8 @@
     ]
   },
   "images": {
-    "male": "https://marcmayol.github.io/exercise-api/images/goblet-squats-m.jpg",
-    "female": "https://marcmayol.github.io/exercise-api/images/goblet-squats-f.jpg"
+    "male": "https://marcmayol.com/exercise-api/images/goblet-squats-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/goblet-squats-f.jpg"
   },
-  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/goblet-squats.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/goblet-squats.svg"
 }

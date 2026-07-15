@@ -47,8 +47,8 @@
     ]
   },
   "images": {
-    "male": "https://marcmayol.github.io/exercise-api/images/leg-press-m.jpg",
-    "female": "https://marcmayol.github.io/exercise-api/images/leg-press-f.jpg"
+    "male": "https://marcmayol.com/exercise-api/images/leg-press-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/leg-press-f.jpg"
   },
-  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/leg-press.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/leg-press.svg"
 }

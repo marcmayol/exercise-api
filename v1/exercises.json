@@ -15,10 +15,10 @@
         "chest"
       ],
       "image": {
-        "male": "https://marcmayol.github.io/exercise-api/images/seated-chest-press-m.jpg",
-        "female": "https://marcmayol.github.io/exercise-api/images/seated-chest-press-f.jpg"
+        "male": "https://marcmayol.com/exercise-api/images/seated-chest-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/seated-chest-press-f.jpg"
       },
-      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/seated-chest-press.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-chest-press.json"
     },
     {
       "slug": "incline-chest-press-machine",
@@ -34,10 +34,10 @@
         "chest"
       ],
       "image": {
-        "male": "https://marcmayol.github.io/exercise-api/images/incline-chest-press-machine-m.jpg",
-        "female": "https://marcmayol.github.io/exercise-api/images/incline-chest-press-machine-f.jpg"
+        "male": "https://marcmayol.com/exercise-api/images/incline-chest-press-machine-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/incline-chest-press-machine-f.jpg"
       },
-      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/incline-chest-press-machine.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/incline-chest-press-machine.json"
     },
     {
       "slug": "butterflies",
@@ -53,10 +53,10 @@
         "chest"
       ],
       "image": {
-        "male": "https://marcmayol.github.io/exercise-api/images/butterflies-m.jpg",
-        "female": "https://marcmayol.github.io/exercise-api/images/butterflies-f.jpg"
+        "male": "https://marcmayol.com/exercise-api/images/butterflies-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/butterflies-f.jpg"
       },
-      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/butterflies.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/butterflies.json"
     },
     {
       "slug": "chest-pulldown",
@@ -72,10 +72,10 @@
         "upper-back"
       ],
       "image": {
-        "male": "https://marcmayol.github.io/exercise-api/images/chest-pulldown-m.jpg",
-        "female": "https://marcmayol.github.io/exercise-api/images/chest-pulldown-f.jpg"
+        "male": "https://marcmayol.com/exercise-api/images/chest-pulldown-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/chest-pulldown-f.jpg"
       },
-      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/chest-pulldown.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/chest-pulldown.json"
     },
     {
       "slug": "close-grip-chest-pulldown",
@@ -91,10 +91,10 @@
         "upper-back"
       ],
       "image": {
-        "male": "https://marcmayol.github.io/exercise-api/images/close-grip-chest-pulldown-m.jpg",
-        "female": "https://marcmayol.github.io/exercise-api/images/close-grip-chest-pulldown-f.jpg"
+        "male": "https://marcmayol.com/exercise-api/images/close-grip-chest-pulldown-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/close-grip-chest-pulldown-f.jpg"
       },
-      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/close-grip-chest-pulldown.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/close-grip-chest-pulldown.json"
     },
     {
       "slug": "seated-row-machine",
@@ -111,10 +111,10 @@
         "trapezius"
       ],
       "image": {
-        "male": "https://marcmayol.github.io/exercise-api/images/seated-row-machine-m.jpg",
-        "female": "https://marcmayol.github.io/exercise-api/images/seated-row-machine-f.jpg"
+        "male": "https://marcmayol.com/exercise-api/images/seated-row-machine-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/seated-row-machine-f.jpg"
       },
-      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/seated-row-machine.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-row-machine.json"
     },
     {
       "slug": "seated-cable-back-rows",
@@ -131,10 +131,10 @@
         "trapezius"
       ],
       "image": {
-        "male": "https://marcmayol.github.io/exercise-api/images/seated-cable-back-rows-m.jpg",
-        "female": "https://marcmayol.github.io/exercise-api/images/seated-cable-back-rows-f.jpg"
+        "male": "https://marcmayol.com/exercise-api/images/seated-cable-back-rows-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/seated-cable-back-rows-f.jpg"
       },
-      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/seated-cable-back-rows.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-cable-back-rows.json"
     },
     {
       "slug": "seated-dumbbell-overhead-shoulder-press",
@@ -150,10 +150,10 @@
         "deltoids"
       ],
       "image": {
-        "male": "https://marcmayol.github.io/exercise-api/images/seated-dumbbell-overhead-shoulder-press-m.jpg",
-        "female": "https://marcmayol.github.io/exercise-api/images/seated-dumbbell-overhead-shoulder-press-f.jpg"
+        "male": "https://marcmayol.com/exercise-api/images/seated-dumbbell-overhead-shoulder-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/seated-dumbbell-overhead-shoulder-press-f.jpg"
       },
-      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/seated-dumbbell-overhead-shoulder-press.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-dumbbell-overhead-shoulder-press.json"
     },
     {
       "slug": "machine-shoulder-press",
@@ -169,10 +169,10 @@
         "deltoids"
       ],
       "image": {
-        "male": "https://marcmayol.github.io/exercise-api/images/machine-shoulder-press-m.jpg",
-        "female": "https://marcmayol.github.io/exercise-api/images/machine-shoulder-press-f.jpg"
+        "male": "https://marcmayol.com/exercise-api/images/machine-shoulder-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/machine-shoulder-press-f.jpg"
       },
-      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/machine-shoulder-press.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/machine-shoulder-press.json"
     },
     {
       "slug": "dumbbell-lateral-raises",
@@ -188,10 +188,10 @@
         "deltoids"
       ],
       "image": {
-        "male": "https://marcmayol.github.io/exercise-api/images/dumbbell-lateral-raises-m.jpg",
-        "female": "https://marcmayol.github.io/exercise-api/images/dumbbell-lateral-raises-f.jpg"
+        "male": "https://marcmayol.com/exercise-api/images/dumbbell-lateral-raises-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dumbbell-lateral-raises-f.jpg"
       },
-      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/dumbbell-lateral-raises.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-lateral-raises.json"
     },
     {
       "slug": "face-pull",
@@ -208,10 +208,10 @@
         "trapezius"
       ],
       "image": {
-        "male": "https://marcmayol.github.io/exercise-api/images/face-pull-m.jpg",
-        "female": "https://marcmayol.github.io/exercise-api/images/face-pull-f.jpg"
+        "male": "https://marcmayol.com/exercise-api/images/face-pull-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/face-pull-f.jpg"
       },
-      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/face-pull.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/face-pull.json"
     },
     {
       "slug": "alternating-dumbbell-biceps-curl",
@@ -227,10 +227,10 @@
         "biceps"
       ],
       "image": {
-        "male": "https://marcmayol.github.io/exercise-api/images/alternating-dumbbell-biceps-curl-m.jpg",
-        "female": "https://marcmayol.github.io/exercise-api/images/alternating-dumbbell-biceps-curl-f.jpg"
+        "male": "https://marcmayol.com/exercise-api/images/alternating-dumbbell-biceps-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/alternating-dumbbell-biceps-curl-f.jpg"
       },
-      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/alternating-dumbbell-biceps-curl.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/alternating-dumbbell-biceps-curl.json"
     },
     {
       "slug": "dumbbell-hammer-biceps-curl",
@@ -246,10 +246,10 @@
         "biceps"
       ],
       "image": {
-        "male": "https://marcmayol.github.io/exercise-api/images/dumbbell-hammer-biceps-curl-m.jpg",
-        "female": "https://marcmayol.github.io/exercise-api/images/dumbbell-hammer-biceps-curl-f.jpg"
+        "male": "https://marcmayol.com/exercise-api/images/dumbbell-hammer-biceps-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dumbbell-hammer-biceps-curl-f.jpg"
       },
-      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/dumbbell-hammer-biceps-curl.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-hammer-biceps-curl.json"
     },
     {
       "slug": "triceps-pushdown",
@@ -265,10 +265,10 @@
         "triceps"
       ],
       "image": {
-        "male": "https://marcmayol.github.io/exercise-api/images/triceps-pushdown-m.jpg",
-        "female": "https://marcmayol.github.io/exercise-api/images/triceps-pushdown-f.jpg"
+        "male": "https://marcmayol.com/exercise-api/images/triceps-pushdown-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/triceps-pushdown-f.jpg"
       },
-      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/triceps-pushdown.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/triceps-pushdown.json"
     },
     {
       "slug": "dips-machine",
@@ -284,10 +284,10 @@
         "triceps"
       ],
       "image": {
-        "male": "https://marcmayol.github.io/exercise-api/images/dips-machine-m.jpg",
-        "female": "https://marcmayol.github.io/exercise-api/images/dips-machine-f.jpg"
+        "male": "https://marcmayol.com/exercise-api/images/dips-machine-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dips-machine-f.jpg"
       },
-      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/dips-machine.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dips-machine.json"
     },
     {
       "slug": "leg-press",
@@ -304,10 +304,10 @@
         "gluteal"
       ],
       "image": {
-        "male": "https://marcmayol.github.io/exercise-api/images/leg-press-m.jpg",
-        "female": "https://marcmayol.github.io/exercise-api/images/leg-press-f.jpg"
+        "male": "https://marcmayol.com/exercise-api/images/leg-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/leg-press-f.jpg"
       },
-      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/leg-press.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/leg-press.json"
     },
     {
       "slug": "seated-leg-curl",
@@ -323,10 +323,10 @@
         "hamstring"
       ],
       "image": {
-        "male": "https://marcmayol.github.io/exercise-api/images/seated-leg-curl-m.jpg",
-        "female": "https://marcmayol.github.io/exercise-api/images/seated-leg-curl-f.jpg"
+        "male": "https://marcmayol.com/exercise-api/images/seated-leg-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/seated-leg-curl-f.jpg"
       },
-      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/seated-leg-curl.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-leg-curl.json"
     },
     {
       "slug": "lying-leg-curls",
@@ -342,10 +342,10 @@
         "hamstring"
       ],
       "image": {
-        "male": "https://marcmayol.github.io/exercise-api/images/lying-leg-curls-m.jpg",
-        "female": "https://marcmayol.github.io/exercise-api/images/lying-leg-curls-f.jpg"
+        "male": "https://marcmayol.com/exercise-api/images/lying-leg-curls-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/lying-leg-curls-f.jpg"
       },
-      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/lying-leg-curls.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/lying-leg-curls.json"
     },
     {
       "slug": "seated-leg-extensions",
@@ -361,10 +361,10 @@
         "quadriceps"
       ],
       "image": {
-        "male": "https://marcmayol.github.io/exercise-api/images/seated-leg-extensions-m.jpg",
-        "female": "https://marcmayol.github.io/exercise-api/images/seated-leg-extensions-f.jpg"
+        "male": "https://marcmayol.com/exercise-api/images/seated-leg-extensions-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/seated-leg-extensions-f.jpg"
       },
-      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/seated-leg-extensions.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-leg-extensions.json"
     },
     {
       "slug": "barbell-hip-thrust",
@@ -380,10 +380,10 @@
         "gluteal"
       ],
       "image": {
-        "male": "https://marcmayol.github.io/exercise-api/images/barbell-hip-thrust-m.jpg",
-        "female": "https://marcmayol.github.io/exercise-api/images/barbell-hip-thrust-f.jpg"
+        "male": "https://marcmayol.com/exercise-api/images/barbell-hip-thrust-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-hip-thrust-f.jpg"
       },
-      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/barbell-hip-thrust.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-hip-thrust.json"
     },
     {
       "slug": "box-squat",
@@ -400,10 +400,10 @@
         "gluteal"
       ],
       "image": {
-        "male": "https://marcmayol.github.io/exercise-api/images/box-squat-m.jpg",
-        "female": "https://marcmayol.github.io/exercise-api/images/box-squat-f.jpg"
+        "male": "https://marcmayol.com/exercise-api/images/box-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/box-squat-f.jpg"
       },
-      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/box-squat.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/box-squat.json"
     },
     {
       "slug": "goblet-squats",
@@ -420,10 +420,10 @@
         "gluteal"
       ],
       "image": {
-        "male": "https://marcmayol.github.io/exercise-api/images/goblet-squats-m.jpg",
-        "female": "https://marcmayol.github.io/exercise-api/images/goblet-squats-f.jpg"
+        "male": "https://marcmayol.com/exercise-api/images/goblet-squats-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/goblet-squats-f.jpg"
       },
-      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/goblet-squats.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/goblet-squats.json"
     },
     {
       "slug": "seated-calf-raises",
@@ -439,10 +439,10 @@
         "calves"
       ],
       "image": {
-        "male": "https://marcmayol.github.io/exercise-api/images/seated-calf-raises-m.jpg",
-        "female": "https://marcmayol.github.io/exercise-api/images/seated-calf-raises-f.jpg"
+        "male": "https://marcmayol.com/exercise-api/images/seated-calf-raises-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/seated-calf-raises-f.jpg"
       },
-      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/seated-calf-raises.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-calf-raises.json"
     },
     {
       "slug": "plank",
@@ -458,10 +458,10 @@
         "abs"
       ],
       "image": {
-        "male": "https://marcmayol.github.io/exercise-api/images/plank-m.jpg",
-        "female": "https://marcmayol.github.io/exercise-api/images/plank-f.jpg"
+        "male": "https://marcmayol.com/exercise-api/images/plank-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/plank-f.jpg"
       },
-      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/plank.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/plank.json"
     },
     {
       "slug": "side-plank",
@@ -477,10 +477,10 @@
         "obliques"
       ],
       "image": {
-        "male": "https://marcmayol.github.io/exercise-api/images/side-plank-m.jpg",
-        "female": "https://marcmayol.github.io/exercise-api/images/side-plank-f.jpg"
+        "male": "https://marcmayol.com/exercise-api/images/side-plank-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/side-plank-f.jpg"
       },
-      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/side-plank.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/side-plank.json"
     },
     {
       "slug": "dead-bug",
@@ -496,10 +496,10 @@
         "abs"
       ],
       "image": {
-        "male": "https://marcmayol.github.io/exercise-api/images/dead-bug-m.jpg",
-        "female": "https://marcmayol.github.io/exercise-api/images/dead-bug-f.jpg"
+        "male": "https://marcmayol.com/exercise-api/images/dead-bug-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dead-bug-f.jpg"
       },
-      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/dead-bug.json"
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dead-bug.json"
     }
   ]
 }

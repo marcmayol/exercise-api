@@ -12,7 +12,7 @@ import os, re, json, shutil
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)                                   # exercise-api
 GEN_IMGS = r"C:/Users/marcm/Desktop/CatalogoEjercicios/generados"
-BASE = "https://marcmayol.github.io/exercise-api"              # URL pública (Pages)
+BASE = "https://marcmayol.com/exercise-api"              # URL pública (Pages)
 
 MUSCLES = {
   "chest":{"es":"Pectoral","en":"Chest"}, "deltoids":{"es":"Hombros","en":"Shoulders"},
