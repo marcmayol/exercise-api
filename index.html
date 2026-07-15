@@ -46,10 +46,17 @@ GET  /v1/by-muscle/&lt;muscle&gt;.json      · ejercicios por músculo (chest, g
   </div>
 
   <h2>Ejercicios <span id="count" style="color:#8A8A96;font-weight:400;font-size:15px"></span></h2>
-  <div style="display:flex;gap:9px;align-items:center;margin-bottom:18px">
-    <span style="font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:#6E6A76;font-weight:600;margin-right:4px">Género</span>
-    <button class="chip on" id="g-m" onclick="setGender('m')">Hombre</button>
-    <button class="chip" id="g-f" onclick="setGender('f')">Mujer</button>
+  <div style="display:flex;gap:24px;flex-wrap:wrap;align-items:center;margin-bottom:18px">
+    <div style="display:flex;gap:9px;align-items:center">
+      <span style="font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:#6E6A76;font-weight:600;margin-right:4px">Idioma</span>
+      <button class="chip on" id="l-es" onclick="setLang('es')">ES</button>
+      <button class="chip" id="l-en" onclick="setLang('en')">EN</button>
+    </div>
+    <div style="display:flex;gap:9px;align-items:center">
+      <span style="font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:#6E6A76;font-weight:600;margin-right:4px" id="lbl-gender">Género</span>
+      <button class="chip on" id="g-m" onclick="setGender('m')">Hombre</button>
+      <button class="chip" id="g-f" onclick="setGender('f')">Mujer</button>
+    </div>
   </div>
   <div id="grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px"></div>
 
@@ -62,19 +69,25 @@ GET  /v1/by-muscle/&lt;muscle&gt;.json      · ejercicios por músculo (chest, g
 </div>
 
 <script>
-let gender='m', MUS={};
+let gender='m', lang='es', MUS={}, EX=[];
+const T={es:{gender:'Género',m:'Hombre',f:'Mujer'},en:{gender:'Gender',m:'Male',f:'Female'}};
+function labels(){
+  document.getElementById('lbl-gender').textContent=T[lang].gender;
+  document.getElementById('g-m').textContent=T[lang].m;
+  document.getElementById('g-f').textContent=T[lang].f;
+}
 function setGender(g){gender=g;document.getElementById('g-m').classList.toggle('on',g==='m');document.getElementById('g-f').classList.toggle('on',g==='f');render();}
-let EX=[];
+function setLang(l){lang=l;document.getElementById('l-es').classList.toggle('on',l==='es');document.getElementById('l-en').classList.toggle('on',l==='en');labels();render();}
 function render(){
-  const grid=document.getElementById('grid');
-  grid.innerHTML=EX.map(e=>{
+  const other=lang==='es'?'en':'es';
+  document.getElementById('grid').innerHTML=EX.map(e=>{
     const img=gender==='m'?e.image.male:e.image.female;
-    const musc=(e.primaryMuscles||[]).map(m=>`<span style="font-size:12px;font-weight:600;color:#0E0E12;background:#FF6A3D;padding:3px 9px;border-radius:999px">${(MUS[m]||{es:m}).es}</span>`).join(' ');
+    const musc=(e.primaryMuscles||[]).map(m=>`<span style="font-size:12px;font-weight:600;color:#0E0E12;background:#FF6A3D;padding:3px 9px;border-radius:999px">${(MUS[m]||{})[lang]||m}</span>`).join(' ');
     return `<a href="v1/exercises/${e.slug}.json" class="card" style="overflow:hidden;display:flex;flex-direction:column;color:inherit">
-      <div style="background:#fff;aspect-ratio:3/2"><img src="${img}" alt="${e.name.es}" loading="lazy" style="width:100%;height:100%;object-fit:contain;display:block"></div>
+      <div style="background:#fff;aspect-ratio:3/2"><img src="${img}" alt="${e.name[lang]}" loading="lazy" style="width:100%;height:100%;object-fit:contain;display:block"></div>
       <div style="padding:14px 16px 16px">
-        <div style="font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:17px;margin-bottom:3px">${e.name.es}</div>
-        <div style="font-size:12px;color:#8A8A96;margin-bottom:10px">${e.name.en} · <span class="mono" style="color:#726E7A">${e.slug}</span></div>
+        <div style="font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:17px;margin-bottom:3px">${e.name[lang]}</div>
+        <div style="font-size:12px;color:#8A8A96;margin-bottom:10px">${e.name[other]} · <span class="mono" style="color:#726E7A">${e.slug}</span></div>
         <div style="display:flex;gap:5px;flex-wrap:wrap">${musc}</div>
       </div></a>`;
   }).join('');
