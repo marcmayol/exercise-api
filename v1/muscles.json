@@ -1,0 +1,72 @@
+[
+  {
+    "id": "chest",
+    "es": "Pectoral",
+    "en": "Chest"
+  },
+  {
+    "id": "deltoids",
+    "es": "Hombros",
+    "en": "Shoulders"
+  },
+  {
+    "id": "triceps",
+    "es": "Tríceps",
+    "en": "Triceps"
+  },
+  {
+    "id": "biceps",
+    "es": "Bíceps",
+    "en": "Biceps"
+  },
+  {
+    "id": "forearm",
+    "es": "Antebrazo",
+    "en": "Forearm"
+  },
+  {
+    "id": "abs",
+    "es": "Abdomen",
+    "en": "Abs"
+  },
+  {
+    "id": "obliques",
+    "es": "Oblicuos",
+    "en": "Obliques"
+  },
+  {
+    "id": "upper-back",
+    "es": "Dorsal",
+    "en": "Upper back"
+  },
+  {
+    "id": "trapezius",
+    "es": "Trapecio",
+    "en": "Trapezius"
+  },
+  {
+    "id": "lower-back",
+    "es": "Lumbar",
+    "en": "Lower back"
+  },
+  {
+    "id": "gluteal",
+    "es": "Glúteo",
+    "en": "Glutes"
+  },
+  {
+    "id": "quadriceps",
+    "es": "Cuádriceps",
+    "en": "Quadriceps"
+  },
+  {
+    "id": "hamstring",
+    "es": "Femoral",
+    "en": "Hamstrings"
+  },
+  {
+    "id": "calves",
+    "es": "Gemelos",
+    "en": "Calves"
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "slug": "incline-chest-press-machine",
+  "name": {
+    "es": "Press de pecho inclinado en máquina",
+    "en": "Incline chest press machine"
+  },
+  "group": {
+    "es": "Pecho",
+    "en": "Chest"
+  },
+  "primaryMuscles": [
+    {
+      "id": "chest",
+      "es": "Pectoral",
+      "en": "Chest"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    },
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta el asiento y respaldo para que las manijas estén al nivel del pecho.",
+      "Siéntate y agarra las manijas con un agarre firme.",
+      "Empuja las manijas hacia adelante hasta que los brazos estén casi extendidos.",
+      "Regresa lentamente a la posición inicial, manteniendo el control."
+    ],
+    "en": [
+      "Adjust the seat and backrest so the handles are at chest level.",
+      "Sit down and grip the handles firmly.",
+      "Push the handles forward until your arms are almost fully extended.",
+      "Slowly return to the starting position, maintaining control."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.github.io/exercise-api/images/incline-chest-press-machine-m.jpg",
+    "female": "https://marcmayol.github.io/exercise-api/images/incline-chest-press-machine-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/incline-chest-press-machine.svg"
+}

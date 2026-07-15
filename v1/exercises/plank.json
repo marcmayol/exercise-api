@@ -1,0 +1,47 @@
+{
+  "slug": "plank",
+  "name": {
+    "es": "Plancha",
+    "en": "Plank"
+  },
+  "group": {
+    "es": "Core",
+    "en": "Core"
+  },
+  "primaryMuscles": [
+    {
+      "id": "abs",
+      "es": "Abdomen",
+      "en": "Abs"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "obliques",
+      "es": "Oblicuos",
+      "en": "Obliques"
+    },
+    {
+      "id": "lower-back",
+      "es": "Lumbar",
+      "en": "Lower back"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Coloca tus antebrazos y puntas de los pies en el suelo, asegurándote de que los codos estén alineados con los hombros.",
+      "Mantén el cuerpo en línea recta desde la cabeza hasta los talones, evitando que las caderas se hundan o se levanten.",
+      "Activa los músculos del abdomen y mantén la posición, respirando de manera controlada."
+    ],
+    "en": [
+      "Place your forearms and toes on the ground, ensuring your elbows are aligned with your shoulders.",
+      "Keep your body in a straight line from head to heels, avoiding sagging or lifting the hips.",
+      "Engage your core muscles and hold the position, breathing steadily."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.github.io/exercise-api/images/plank-m.jpg",
+    "female": "https://marcmayol.github.io/exercise-api/images/plank-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/plank.svg"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "butterflies",
+  "name": {
+    "es": "Aperturas en máquina (pec deck)",
+    "en": "Machine chest fly (pec deck)"
+  },
+  "group": {
+    "es": "Pecho",
+    "en": "Chest"
+  },
+  "primaryMuscles": [
+    {
+      "id": "chest",
+      "es": "Pectoral",
+      "en": "Chest"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta el asiento de la máquina para que las manijas estén a la altura de tu pecho.",
+      "Siéntate con la espalda apoyada y agarra las manijas con los codos ligeramente flexionados.",
+      "Exhala mientras juntas las manijas frente a ti, manteniendo los codos en la misma posición.",
+      "Inhala al regresar lentamente a la posición inicial sin dejar que las pesas choquen."
+    ],
+    "en": [
+      "Adjust the machine seat so that the handles are at chest height.",
+      "Sit with your back supported and grasp the handles with elbows slightly bent.",
+      "Exhale as you bring the handles together in front of you, keeping elbows in the same position.",
+      "Inhale as you slowly return to the starting position without letting the weights touch."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.github.io/exercise-api/images/butterflies-m.jpg",
+    "female": "https://marcmayol.github.io/exercise-api/images/butterflies-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/butterflies.svg"
+}

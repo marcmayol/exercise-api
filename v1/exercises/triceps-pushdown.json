@@ -1,0 +1,38 @@
+{
+  "slug": "triceps-pushdown",
+  "name": {
+    "es": "Extensión de tríceps en polea",
+    "en": "Triceps pushdown"
+  },
+  "group": {
+    "es": "Brazos",
+    "en": "Arms"
+  },
+  "primaryMuscles": [
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    }
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "es": [
+      "Ajusta la polea a una altura alta y engancha la barra recta.",
+      "Colócate de pie con los pies al ancho de los hombros y agarra la barra con las palmas hacia abajo.",
+      "Mantén los codos pegados al cuerpo y empuja la barra hacia abajo hasta que los brazos estén completamente extendidos.",
+      "Lentamente regresa la barra a la posición inicial sin mover los codos."
+    ],
+    "en": [
+      "Adjust the pulley to a high position and attach the straight bar.",
+      "Stand with feet shoulder-width apart and grip the bar with palms facing down.",
+      "Keep elbows close to your body and push the bar down until arms are fully extended.",
+      "Slowly return the bar to the starting position without moving the elbows."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.github.io/exercise-api/images/triceps-pushdown-m.jpg",
+    "female": "https://marcmayol.github.io/exercise-api/images/triceps-pushdown-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/triceps-pushdown.svg"
+}

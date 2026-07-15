@@ -1,0 +1,49 @@
+{
+  "slug": "dips-machine",
+  "name": {
+    "es": "Fondos en máquina",
+    "en": "Dips machine"
+  },
+  "group": {
+    "es": "Brazos",
+    "en": "Arms"
+  },
+  "primaryMuscles": [
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "chest",
+      "es": "Pectoral",
+      "en": "Chest"
+    },
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta el asiento y las almohadillas para que tus brazos estén a 90 grados al inicio.",
+      "Agarra las manijas con un agarre firme y cómodo.",
+      "Empuja hacia abajo hasta que tus brazos estén casi rectos, manteniendo control.",
+      "Regresa lentamente a la posición inicial sin bloquear los codos."
+    ],
+    "en": [
+      "Adjust the seat and pads so your arms are at 90 degrees at the start.",
+      "Grip the handles with a firm and comfortable hold.",
+      "Push down until your arms are nearly straight, maintaining control.",
+      "Slowly return to the starting position without locking the elbows."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.github.io/exercise-api/images/dips-machine-m.jpg",
+    "female": "https://marcmayol.github.io/exercise-api/images/dips-machine-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/dips-machine.svg"
+}

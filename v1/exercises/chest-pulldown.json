@@ -1,0 +1,44 @@
+{
+  "slug": "chest-pulldown",
+  "name": {
+    "es": "Jalón al pecho",
+    "en": "Lat pulldown"
+  },
+  "group": {
+    "es": "Espalda",
+    "en": "Back"
+  },
+  "primaryMuscles": [
+    {
+      "id": "upper-back",
+      "es": "Dorsal",
+      "en": "Upper back"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "biceps",
+      "es": "Bíceps",
+      "en": "Biceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta el asiento y la almohadilla para las piernas, asegurándote de que tus pies estén firmemente plantados en el suelo.",
+      "Sujeta la barra con un agarre ancho, las palmas mirando hacia adelante.",
+      "Tira de la barra hacia abajo hasta que toque ligeramente la parte superior del pecho, manteniendo la espalda recta y los codos hacia los lados.",
+      "Regresa lentamente la barra a la posición inicial, controlando el movimiento."
+    ],
+    "en": [
+      "Adjust the seat and thigh pad, ensuring your feet are firmly planted on the floor.",
+      "Grasp the bar with a wide grip, palms facing forward.",
+      "Pull the bar down until it lightly touches the top of your chest, keeping your back straight and elbows to the sides.",
+      "Slowly return the bar to the starting position, controlling the movement."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.github.io/exercise-api/images/chest-pulldown-m.jpg",
+    "female": "https://marcmayol.github.io/exercise-api/images/chest-pulldown-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/chest-pulldown.svg"
+}

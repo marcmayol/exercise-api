@@ -1,0 +1,44 @@
+{
+  "slug": "machine-shoulder-press",
+  "name": {
+    "es": "Press de hombros en máquina",
+    "en": "Machine shoulder press"
+  },
+  "group": {
+    "es": "Hombros",
+    "en": "Shoulders"
+  },
+  "primaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta el asiento de la máquina para que las manijas estén a la altura de tus hombros.",
+      "Siéntate con la espalda recta y los pies firmemente en el suelo.",
+      "Agarra las manijas con las palmas hacia adelante y empuja hacia arriba hasta extender los brazos.",
+      "Regresa lentamente a la posición inicial sin dejar que las pesas toquen."
+    ],
+    "en": [
+      "Adjust the machine seat so the handles are at shoulder height.",
+      "Sit with your back straight and feet firmly on the floor.",
+      "Grip the handles with palms facing forward and push up until arms are extended.",
+      "Slowly return to the starting position without letting the weights touch."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.github.io/exercise-api/images/machine-shoulder-press-m.jpg",
+    "female": "https://marcmayol.github.io/exercise-api/images/machine-shoulder-press-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/machine-shoulder-press.svg"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "lying-leg-curls",
+  "name": {
+    "es": "Curl de piernas tumbado",
+    "en": "Lying leg curl"
+  },
+  "group": {
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "primaryMuscles": [
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Acuéstate boca abajo en la máquina de curl de piernas, ajustando el cojín sobre tus tobillos.",
+      "Agarra las asas laterales para estabilizarte y alinea tus rodillas con el eje de la máquina.",
+      "Flexiona las rodillas, levantando el cojín hacia los glúteos, manteniendo el movimiento controlado.",
+      "Baja lentamente las piernas a la posición inicial sin dejar caer el peso bruscamente."
+    ],
+    "en": [
+      "Lie face down on the leg curl machine, adjusting the pad over your ankles.",
+      "Grip the side handles for stability and align your knees with the machine's axis.",
+      "Bend your knees, lifting the pad towards your glutes, maintaining a controlled motion.",
+      "Slowly lower your legs back to the starting position without dropping the weight abruptly."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.github.io/exercise-api/images/lying-leg-curls-m.jpg",
+    "female": "https://marcmayol.github.io/exercise-api/images/lying-leg-curls-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/lying-leg-curls.svg"
+}

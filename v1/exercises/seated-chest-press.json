@@ -1,0 +1,49 @@
+{
+  "slug": "seated-chest-press",
+  "name": {
+    "es": "Press de pecho en máquina",
+    "en": "Seated chest press"
+  },
+  "group": {
+    "es": "Pecho",
+    "en": "Chest"
+  },
+  "primaryMuscles": [
+    {
+      "id": "chest",
+      "es": "Pectoral",
+      "en": "Chest"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    },
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta el asiento para que las manijas estén a la altura de tu pecho.",
+      "Siéntate con la espalda recta y los pies firmemente en el suelo.",
+      "Empuja las manijas hacia adelante hasta que tus brazos estén extendidos, sin bloquear los codos.",
+      "Regresa lentamente a la posición inicial, controlando el movimiento."
+    ],
+    "en": [
+      "Adjust the seat so the handles are at chest level.",
+      "Sit with your back straight and feet firmly on the ground.",
+      "Press the handles forward until your arms are extended, without locking your elbows.",
+      "Slowly return to the starting position, controlling the movement."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.github.io/exercise-api/images/seated-chest-press-m.jpg",
+    "female": "https://marcmayol.github.io/exercise-api/images/seated-chest-press-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/seated-chest-press.svg"
+}

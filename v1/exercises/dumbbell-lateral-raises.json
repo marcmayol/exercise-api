@@ -1,0 +1,36 @@
+{
+  "slug": "dumbbell-lateral-raises",
+  "name": {
+    "es": "Elevaciones laterales con mancuernas",
+    "en": "Dumbbell lateral raises"
+  },
+  "group": {
+    "es": "Hombros",
+    "en": "Shoulders"
+  },
+  "primaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "es": [
+      "Párate con los pies al ancho de los hombros, sosteniendo una mancuerna en cada mano a los lados.",
+      "Mantén una ligera flexión en los codos y levanta los brazos hacia los lados hasta que estén paralelos al suelo.",
+      "Baja lentamente las mancuernas a la posición inicial, controlando el movimiento."
+    ],
+    "en": [
+      "Stand with feet shoulder-width apart, holding a dumbbell in each hand at your sides.",
+      "Keep a slight bend in the elbows and raise your arms to the sides until they are parallel to the floor.",
+      "Slowly lower the dumbbells back to the starting position, controlling the movement."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.github.io/exercise-api/images/dumbbell-lateral-raises-m.jpg",
+    "female": "https://marcmayol.github.io/exercise-api/images/dumbbell-lateral-raises-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/dumbbell-lateral-raises.svg"
+}

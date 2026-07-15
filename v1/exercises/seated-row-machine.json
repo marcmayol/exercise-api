@@ -1,0 +1,49 @@
+{
+  "slug": "seated-row-machine",
+  "name": {
+    "es": "Remo sentado en máquina",
+    "en": "Seated row machine"
+  },
+  "group": {
+    "es": "Espalda",
+    "en": "Back"
+  },
+  "primaryMuscles": [
+    {
+      "id": "upper-back",
+      "es": "Dorsal",
+      "en": "Upper back"
+    },
+    {
+      "id": "trapezius",
+      "es": "Trapecio",
+      "en": "Trapezius"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "biceps",
+      "es": "Bíceps",
+      "en": "Biceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta el asiento y el soporte para los pies según tu altura.",
+      "Siéntate con la espalda recta y agarra las manijas con un agarre firme.",
+      "Tira de las manijas hacia tu torso, manteniendo los codos cerca del cuerpo.",
+      "Regresa lentamente a la posición inicial sin soltar la tensión."
+    ],
+    "en": [
+      "Adjust the seat and foot support according to your height.",
+      "Sit with a straight back and grasp the handles with a firm grip.",
+      "Pull the handles towards your torso, keeping elbows close to your body.",
+      "Slowly return to the starting position without releasing tension."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.github.io/exercise-api/images/seated-row-machine-m.jpg",
+    "female": "https://marcmayol.github.io/exercise-api/images/seated-row-machine-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/seated-row-machine.svg"
+}

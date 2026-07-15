@@ -1,0 +1,44 @@
+{
+  "slug": "dead-bug",
+  "name": {
+    "es": "Dead bug",
+    "en": "Dead bug"
+  },
+  "group": {
+    "es": "Core",
+    "en": "Core"
+  },
+  "primaryMuscles": [
+    {
+      "id": "abs",
+      "es": "Abdomen",
+      "en": "Abs"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "lower-back",
+      "es": "Lumbar",
+      "en": "Lower back"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Acuéstate boca arriba con las piernas levantadas y las rodillas dobladas a 90 grados.",
+      "Extiende los brazos hacia el techo, manteniendo la espalda baja pegada al suelo.",
+      "Baja lentamente el brazo derecho y la pierna izquierda hacia el suelo, sin tocarlo.",
+      "Regresa a la posición inicial y repite con el brazo izquierdo y la pierna derecha."
+    ],
+    "en": [
+      "Lie on your back with your legs raised and knees bent at 90 degrees.",
+      "Extend your arms towards the ceiling, keeping your lower back pressed to the floor.",
+      "Slowly lower your right arm and left leg towards the ground, without touching it.",
+      "Return to the starting position and repeat with your left arm and right leg."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.github.io/exercise-api/images/dead-bug-m.jpg",
+    "female": "https://marcmayol.github.io/exercise-api/images/dead-bug-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/dead-bug.svg"
+}

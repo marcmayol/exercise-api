@@ -1,0 +1,44 @@
+{
+  "slug": "barbell-hip-thrust",
+  "name": {
+    "es": "Hip thrust con barra",
+    "en": "Barbell hip thrust"
+  },
+  "group": {
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "primaryMuscles": [
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Siéntate en el suelo con la parte superior de la espalda apoyada en un banco.",
+      "Rueda la barra sobre tus caderas y asegúrate de que esté centrada.",
+      "Con los pies planos y las rodillas dobladas, empuja las caderas hacia arriba hasta que el cuerpo forme una línea recta de los hombros a las rodillas.",
+      "Baja lentamente las caderas de nuevo al suelo y repite."
+    ],
+    "en": [
+      "Sit on the ground with your upper back resting against a bench.",
+      "Roll the barbell over your hips and ensure it is centered.",
+      "With feet flat and knees bent, thrust your hips upward until your body forms a straight line from shoulders to knees.",
+      "Lower your hips slowly back to the ground and repeat."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.github.io/exercise-api/images/barbell-hip-thrust-m.jpg",
+    "female": "https://marcmayol.github.io/exercise-api/images/barbell-hip-thrust-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/barbell-hip-thrust.svg"
+}

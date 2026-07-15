@@ -1,0 +1,42 @@
+{
+  "slug": "alternating-dumbbell-biceps-curl",
+  "name": {
+    "es": "Curl de bíceps alterno con mancuernas",
+    "en": "Alternating dumbbell biceps curl"
+  },
+  "group": {
+    "es": "Brazos",
+    "en": "Arms"
+  },
+  "primaryMuscles": [
+    {
+      "id": "biceps",
+      "es": "Bíceps",
+      "en": "Biceps"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "forearm",
+      "es": "Antebrazo",
+      "en": "Forearm"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Sujeta una mancuerna en cada mano con las palmas hacia adelante y los brazos extendidos a los lados.",
+      "Flexiona el codo derecho, levantando la mancuerna hacia el hombro mientras mantienes el codo pegado al cuerpo.",
+      "Baja lentamente la mancuerna a la posición inicial y repite con el brazo izquierdo."
+    ],
+    "en": [
+      "Hold a dumbbell in each hand with palms facing forward and arms extended at your sides.",
+      "Bend your right elbow, lifting the dumbbell towards your shoulder while keeping the elbow close to your body.",
+      "Slowly lower the dumbbell back to the starting position and repeat with the left arm."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.github.io/exercise-api/images/alternating-dumbbell-biceps-curl-m.jpg",
+    "female": "https://marcmayol.github.io/exercise-api/images/alternating-dumbbell-biceps-curl-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/alternating-dumbbell-biceps-curl.svg"
+}

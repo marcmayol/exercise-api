@@ -1,0 +1,3 @@
+generador/.env
+generador/__pycache__/
+*.pyc

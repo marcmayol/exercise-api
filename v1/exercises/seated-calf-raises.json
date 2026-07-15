@@ -1,0 +1,38 @@
+{
+  "slug": "seated-calf-raises",
+  "name": {
+    "es": "Elevación de gemelos sentado",
+    "en": "Seated calf raise"
+  },
+  "group": {
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "primaryMuscles": [
+    {
+      "id": "calves",
+      "es": "Gemelos",
+      "en": "Calves"
+    }
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "es": [
+      "Siéntate en la máquina de elevación de pantorrillas con los pies apoyados en la plataforma.",
+      "Coloca las almohadillas sobre tus muslos y ajusta la altura si es necesario.",
+      "Levanta los talones lo más alto posible mientras mantienes la parte delantera de los pies en la plataforma.",
+      "Baja lentamente los talones hasta sentir un buen estiramiento en las pantorrillas."
+    ],
+    "en": [
+      "Sit on the calf raise machine with your feet on the platform.",
+      "Position the pads on your thighs and adjust the height if needed.",
+      "Lift your heels as high as possible while keeping the balls of your feet on the platform.",
+      "Slowly lower your heels until you feel a good stretch in your calves."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.github.io/exercise-api/images/seated-calf-raises-m.jpg",
+    "female": "https://marcmayol.github.io/exercise-api/images/seated-calf-raises-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/seated-calf-raises.svg"
+}

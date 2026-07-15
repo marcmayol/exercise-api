@@ -1,0 +1,44 @@
+{
+  "slug": "seated-leg-curl",
+  "name": {
+    "es": "Curl de piernas sentado",
+    "en": "Seated leg curl"
+  },
+  "group": {
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "primaryMuscles": [
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta la máquina para que el cojín esté justo encima de tus tobillos.",
+      "Siéntate y asegúrate de que tu espalda esté apoyada contra el respaldo.",
+      "Sujeta las manijas y flexiona las rodillas, llevando el cojín hacia tus glúteos.",
+      "Regresa lentamente a la posición inicial sin dejar que el peso golpee."
+    ],
+    "en": [
+      "Adjust the machine so the pad is just above your ankles.",
+      "Sit down and ensure your back is supported against the backrest.",
+      "Hold the handles and bend your knees, bringing the pad towards your glutes.",
+      "Slowly return to the starting position without letting the weight stack hit."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.github.io/exercise-api/images/seated-leg-curl-m.jpg",
+    "female": "https://marcmayol.github.io/exercise-api/images/seated-leg-curl-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/seated-leg-curl.svg"
+}

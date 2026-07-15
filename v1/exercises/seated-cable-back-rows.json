@@ -1,0 +1,49 @@
+{
+  "slug": "seated-cable-back-rows",
+  "name": {
+    "es": "Remo en polea sentado",
+    "en": "Seated cable row"
+  },
+  "group": {
+    "es": "Espalda",
+    "en": "Back"
+  },
+  "primaryMuscles": [
+    {
+      "id": "upper-back",
+      "es": "Dorsal",
+      "en": "Upper back"
+    },
+    {
+      "id": "trapezius",
+      "es": "Trapecio",
+      "en": "Trapezius"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "biceps",
+      "es": "Bíceps",
+      "en": "Biceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Siéntate en la máquina de remo con los pies apoyados en los reposapiés.",
+      "Agarra el mango con ambas manos, manteniendo la espalda recta.",
+      "Tira del mango hacia tu abdomen, juntando los omóplatos.",
+      "Regresa lentamente a la posición inicial, controlando el movimiento."
+    ],
+    "en": [
+      "Sit on the rowing machine with your feet on the footrests.",
+      "Grab the handle with both hands, keeping your back straight.",
+      "Pull the handle towards your abdomen, squeezing your shoulder blades together.",
+      "Slowly return to the starting position, controlling the movement."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.github.io/exercise-api/images/seated-cable-back-rows-m.jpg",
+    "female": "https://marcmayol.github.io/exercise-api/images/seated-cable-back-rows-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/seated-cable-back-rows.svg"
+}

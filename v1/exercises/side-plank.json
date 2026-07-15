@@ -1,0 +1,44 @@
+{
+  "slug": "side-plank",
+  "name": {
+    "es": "Plancha lateral",
+    "en": "Side plank"
+  },
+  "group": {
+    "es": "Core",
+    "en": "Core"
+  },
+  "primaryMuscles": [
+    {
+      "id": "obliques",
+      "es": "Oblicuos",
+      "en": "Obliques"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "abs",
+      "es": "Abdomen",
+      "en": "Abs"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Acuéstate de lado con las piernas extendidas y apiladas.",
+      "Apoya el antebrazo en el suelo, alineando el codo con el hombro.",
+      "Eleva las caderas hasta formar una línea recta desde los pies hasta la cabeza.",
+      "Mantén la posición, asegurándote de no dejar caer las caderas."
+    ],
+    "en": [
+      "Lie on your side with legs extended and stacked.",
+      "Place your forearm on the floor, aligning the elbow with the shoulder.",
+      "Lift your hips to form a straight line from feet to head.",
+      "Hold the position, ensuring not to let the hips drop."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.github.io/exercise-api/images/side-plank-m.jpg",
+    "female": "https://marcmayol.github.io/exercise-api/images/side-plank-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/side-plank.svg"
+}

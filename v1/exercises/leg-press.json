@@ -1,0 +1,54 @@
+{
+  "slug": "leg-press",
+  "name": {
+    "es": "Prensa de piernas",
+    "en": "Leg press"
+  },
+  "group": {
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "primaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    },
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    },
+    {
+      "id": "calves",
+      "es": "Gemelos",
+      "en": "Calves"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta el asiento y el respaldo para que tus rodillas formen un ángulo de 90 grados cuando los pies estén en la plataforma.",
+      "Coloca los pies a la anchura de los hombros en la plataforma y asegúrate de que estén bien apoyados.",
+      "Empuja la plataforma hacia arriba extendiendo las piernas, pero sin bloquear las rodillas.",
+      "Regresa lentamente a la posición inicial controlando el movimiento."
+    ],
+    "en": [
+      "Adjust the seat and backrest so your knees form a 90-degree angle when your feet are on the platform.",
+      "Place your feet shoulder-width apart on the platform and ensure they are firmly planted.",
+      "Press the platform upward by extending your legs, but do not lock your knees.",
+      "Slowly return to the starting position, controlling the movement."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.github.io/exercise-api/images/leg-press-m.jpg",
+    "female": "https://marcmayol.github.io/exercise-api/images/leg-press-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/leg-press.svg"
+}

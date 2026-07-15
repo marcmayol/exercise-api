@@ -1,0 +1,44 @@
+{
+  "slug": "seated-dumbbell-overhead-shoulder-press",
+  "name": {
+    "es": "Press de hombros con mancuernas",
+    "en": "Seated dumbbell shoulder press"
+  },
+  "group": {
+    "es": "Hombros",
+    "en": "Shoulders"
+  },
+  "primaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Siéntate en un banco con respaldo, pies firmes en el suelo.",
+      "Sujeta una mancuerna en cada mano a la altura de los hombros, palmas hacia adelante.",
+      "Presiona las mancuernas hacia arriba hasta que los brazos estén extendidos, sin bloquear los codos.",
+      "Baja lentamente las mancuernas a la posición inicial."
+    ],
+    "en": [
+      "Sit on a bench with back support, feet flat on the floor.",
+      "Hold a dumbbell in each hand at shoulder height, palms facing forward.",
+      "Press the dumbbells upward until arms are extended, without locking elbows.",
+      "Slowly lower the dumbbells back to the starting position."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.github.io/exercise-api/images/seated-dumbbell-overhead-shoulder-press-m.jpg",
+    "female": "https://marcmayol.github.io/exercise-api/images/seated-dumbbell-overhead-shoulder-press-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/seated-dumbbell-overhead-shoulder-press.svg"
+}

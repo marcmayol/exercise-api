@@ -1,0 +1,44 @@
+{
+  "slug": "close-grip-chest-pulldown",
+  "name": {
+    "es": "Jalón al pecho agarre estrecho",
+    "en": "Close-grip lat pulldown"
+  },
+  "group": {
+    "es": "Espalda",
+    "en": "Back"
+  },
+  "primaryMuscles": [
+    {
+      "id": "upper-back",
+      "es": "Dorsal",
+      "en": "Upper back"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "biceps",
+      "es": "Bíceps",
+      "en": "Biceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta el asiento y coloca las rodillas bajo el soporte.",
+      "Agarra la barra con un agarre estrecho, palmas hacia ti.",
+      "Tira de la barra hacia abajo hasta que toque la parte superior del pecho, manteniendo la espalda recta.",
+      "Regresa lentamente a la posición inicial, controlando el movimiento."
+    ],
+    "en": [
+      "Adjust the seat and position your knees under the support.",
+      "Grab the bar with a close grip, palms facing you.",
+      "Pull the bar down until it touches the top of your chest, keeping your back straight.",
+      "Slowly return to the starting position, controlling the movement."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.github.io/exercise-api/images/close-grip-chest-pulldown-m.jpg",
+    "female": "https://marcmayol.github.io/exercise-api/images/close-grip-chest-pulldown-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/close-grip-chest-pulldown.svg"
+}

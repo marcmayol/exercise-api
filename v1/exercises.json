@@ -1,0 +1,505 @@
+{
+  "count": 26,
+  "exercises": [
+    {
+      "slug": "seated-chest-press",
+      "name": {
+        "es": "Press de pecho en máquina",
+        "en": "Seated chest press"
+      },
+      "group": {
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "primaryMuscles": [
+        "chest"
+      ],
+      "image": {
+        "male": "https://marcmayol.github.io/exercise-api/images/seated-chest-press-m.jpg",
+        "female": "https://marcmayol.github.io/exercise-api/images/seated-chest-press-f.jpg"
+      },
+      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/seated-chest-press.json"
+    },
+    {
+      "slug": "incline-chest-press-machine",
+      "name": {
+        "es": "Press de pecho inclinado en máquina",
+        "en": "Incline chest press machine"
+      },
+      "group": {
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "primaryMuscles": [
+        "chest"
+      ],
+      "image": {
+        "male": "https://marcmayol.github.io/exercise-api/images/incline-chest-press-machine-m.jpg",
+        "female": "https://marcmayol.github.io/exercise-api/images/incline-chest-press-machine-f.jpg"
+      },
+      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/incline-chest-press-machine.json"
+    },
+    {
+      "slug": "butterflies",
+      "name": {
+        "es": "Aperturas en máquina (pec deck)",
+        "en": "Machine chest fly (pec deck)"
+      },
+      "group": {
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "primaryMuscles": [
+        "chest"
+      ],
+      "image": {
+        "male": "https://marcmayol.github.io/exercise-api/images/butterflies-m.jpg",
+        "female": "https://marcmayol.github.io/exercise-api/images/butterflies-f.jpg"
+      },
+      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/butterflies.json"
+    },
+    {
+      "slug": "chest-pulldown",
+      "name": {
+        "es": "Jalón al pecho",
+        "en": "Lat pulldown"
+      },
+      "group": {
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "primaryMuscles": [
+        "upper-back"
+      ],
+      "image": {
+        "male": "https://marcmayol.github.io/exercise-api/images/chest-pulldown-m.jpg",
+        "female": "https://marcmayol.github.io/exercise-api/images/chest-pulldown-f.jpg"
+      },
+      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/chest-pulldown.json"
+    },
+    {
+      "slug": "close-grip-chest-pulldown",
+      "name": {
+        "es": "Jalón al pecho agarre estrecho",
+        "en": "Close-grip lat pulldown"
+      },
+      "group": {
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "primaryMuscles": [
+        "upper-back"
+      ],
+      "image": {
+        "male": "https://marcmayol.github.io/exercise-api/images/close-grip-chest-pulldown-m.jpg",
+        "female": "https://marcmayol.github.io/exercise-api/images/close-grip-chest-pulldown-f.jpg"
+      },
+      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/close-grip-chest-pulldown.json"
+    },
+    {
+      "slug": "seated-row-machine",
+      "name": {
+        "es": "Remo sentado en máquina",
+        "en": "Seated row machine"
+      },
+      "group": {
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "primaryMuscles": [
+        "upper-back",
+        "trapezius"
+      ],
+      "image": {
+        "male": "https://marcmayol.github.io/exercise-api/images/seated-row-machine-m.jpg",
+        "female": "https://marcmayol.github.io/exercise-api/images/seated-row-machine-f.jpg"
+      },
+      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/seated-row-machine.json"
+    },
+    {
+      "slug": "seated-cable-back-rows",
+      "name": {
+        "es": "Remo en polea sentado",
+        "en": "Seated cable row"
+      },
+      "group": {
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "primaryMuscles": [
+        "upper-back",
+        "trapezius"
+      ],
+      "image": {
+        "male": "https://marcmayol.github.io/exercise-api/images/seated-cable-back-rows-m.jpg",
+        "female": "https://marcmayol.github.io/exercise-api/images/seated-cable-back-rows-f.jpg"
+      },
+      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/seated-cable-back-rows.json"
+    },
+    {
+      "slug": "seated-dumbbell-overhead-shoulder-press",
+      "name": {
+        "es": "Press de hombros con mancuernas",
+        "en": "Seated dumbbell shoulder press"
+      },
+      "group": {
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "primaryMuscles": [
+        "deltoids"
+      ],
+      "image": {
+        "male": "https://marcmayol.github.io/exercise-api/images/seated-dumbbell-overhead-shoulder-press-m.jpg",
+        "female": "https://marcmayol.github.io/exercise-api/images/seated-dumbbell-overhead-shoulder-press-f.jpg"
+      },
+      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/seated-dumbbell-overhead-shoulder-press.json"
+    },
+    {
+      "slug": "machine-shoulder-press",
+      "name": {
+        "es": "Press de hombros en máquina",
+        "en": "Machine shoulder press"
+      },
+      "group": {
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "primaryMuscles": [
+        "deltoids"
+      ],
+      "image": {
+        "male": "https://marcmayol.github.io/exercise-api/images/machine-shoulder-press-m.jpg",
+        "female": "https://marcmayol.github.io/exercise-api/images/machine-shoulder-press-f.jpg"
+      },
+      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/machine-shoulder-press.json"
+    },
+    {
+      "slug": "dumbbell-lateral-raises",
+      "name": {
+        "es": "Elevaciones laterales con mancuernas",
+        "en": "Dumbbell lateral raises"
+      },
+      "group": {
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "primaryMuscles": [
+        "deltoids"
+      ],
+      "image": {
+        "male": "https://marcmayol.github.io/exercise-api/images/dumbbell-lateral-raises-m.jpg",
+        "female": "https://marcmayol.github.io/exercise-api/images/dumbbell-lateral-raises-f.jpg"
+      },
+      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/dumbbell-lateral-raises.json"
+    },
+    {
+      "slug": "face-pull",
+      "name": {
+        "es": "Face pull",
+        "en": "Face pull"
+      },
+      "group": {
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "primaryMuscles": [
+        "deltoids",
+        "trapezius"
+      ],
+      "image": {
+        "male": "https://marcmayol.github.io/exercise-api/images/face-pull-m.jpg",
+        "female": "https://marcmayol.github.io/exercise-api/images/face-pull-f.jpg"
+      },
+      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/face-pull.json"
+    },
+    {
+      "slug": "alternating-dumbbell-biceps-curl",
+      "name": {
+        "es": "Curl de bíceps alterno con mancuernas",
+        "en": "Alternating dumbbell biceps curl"
+      },
+      "group": {
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "primaryMuscles": [
+        "biceps"
+      ],
+      "image": {
+        "male": "https://marcmayol.github.io/exercise-api/images/alternating-dumbbell-biceps-curl-m.jpg",
+        "female": "https://marcmayol.github.io/exercise-api/images/alternating-dumbbell-biceps-curl-f.jpg"
+      },
+      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/alternating-dumbbell-biceps-curl.json"
+    },
+    {
+      "slug": "dumbbell-hammer-biceps-curl",
+      "name": {
+        "es": "Curl martillo con mancuernas",
+        "en": "Dumbbell hammer curl"
+      },
+      "group": {
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "primaryMuscles": [
+        "biceps"
+      ],
+      "image": {
+        "male": "https://marcmayol.github.io/exercise-api/images/dumbbell-hammer-biceps-curl-m.jpg",
+        "female": "https://marcmayol.github.io/exercise-api/images/dumbbell-hammer-biceps-curl-f.jpg"
+      },
+      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/dumbbell-hammer-biceps-curl.json"
+    },
+    {
+      "slug": "triceps-pushdown",
+      "name": {
+        "es": "Extensión de tríceps en polea",
+        "en": "Triceps pushdown"
+      },
+      "group": {
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "primaryMuscles": [
+        "triceps"
+      ],
+      "image": {
+        "male": "https://marcmayol.github.io/exercise-api/images/triceps-pushdown-m.jpg",
+        "female": "https://marcmayol.github.io/exercise-api/images/triceps-pushdown-f.jpg"
+      },
+      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/triceps-pushdown.json"
+    },
+    {
+      "slug": "dips-machine",
+      "name": {
+        "es": "Fondos en máquina",
+        "en": "Dips machine"
+      },
+      "group": {
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "primaryMuscles": [
+        "triceps"
+      ],
+      "image": {
+        "male": "https://marcmayol.github.io/exercise-api/images/dips-machine-m.jpg",
+        "female": "https://marcmayol.github.io/exercise-api/images/dips-machine-f.jpg"
+      },
+      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/dips-machine.json"
+    },
+    {
+      "slug": "leg-press",
+      "name": {
+        "es": "Prensa de piernas",
+        "en": "Leg press"
+      },
+      "group": {
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "primaryMuscles": [
+        "quadriceps",
+        "gluteal"
+      ],
+      "image": {
+        "male": "https://marcmayol.github.io/exercise-api/images/leg-press-m.jpg",
+        "female": "https://marcmayol.github.io/exercise-api/images/leg-press-f.jpg"
+      },
+      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/leg-press.json"
+    },
+    {
+      "slug": "seated-leg-curl",
+      "name": {
+        "es": "Curl de piernas sentado",
+        "en": "Seated leg curl"
+      },
+      "group": {
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "primaryMuscles": [
+        "hamstring"
+      ],
+      "image": {
+        "male": "https://marcmayol.github.io/exercise-api/images/seated-leg-curl-m.jpg",
+        "female": "https://marcmayol.github.io/exercise-api/images/seated-leg-curl-f.jpg"
+      },
+      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/seated-leg-curl.json"
+    },
+    {
+      "slug": "lying-leg-curls",
+      "name": {
+        "es": "Curl de piernas tumbado",
+        "en": "Lying leg curl"
+      },
+      "group": {
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "primaryMuscles": [
+        "hamstring"
+      ],
+      "image": {
+        "male": "https://marcmayol.github.io/exercise-api/images/lying-leg-curls-m.jpg",
+        "female": "https://marcmayol.github.io/exercise-api/images/lying-leg-curls-f.jpg"
+      },
+      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/lying-leg-curls.json"
+    },
+    {
+      "slug": "seated-leg-extensions",
+      "name": {
+        "es": "Extensión de piernas",
+        "en": "Leg extension"
+      },
+      "group": {
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "image": {
+        "male": "https://marcmayol.github.io/exercise-api/images/seated-leg-extensions-m.jpg",
+        "female": "https://marcmayol.github.io/exercise-api/images/seated-leg-extensions-f.jpg"
+      },
+      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/seated-leg-extensions.json"
+    },
+    {
+      "slug": "barbell-hip-thrust",
+      "name": {
+        "es": "Hip thrust con barra",
+        "en": "Barbell hip thrust"
+      },
+      "group": {
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "primaryMuscles": [
+        "gluteal"
+      ],
+      "image": {
+        "male": "https://marcmayol.github.io/exercise-api/images/barbell-hip-thrust-m.jpg",
+        "female": "https://marcmayol.github.io/exercise-api/images/barbell-hip-thrust-f.jpg"
+      },
+      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/barbell-hip-thrust.json"
+    },
+    {
+      "slug": "box-squat",
+      "name": {
+        "es": "Sentadilla al cajón",
+        "en": "Box squat"
+      },
+      "group": {
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "primaryMuscles": [
+        "quadriceps",
+        "gluteal"
+      ],
+      "image": {
+        "male": "https://marcmayol.github.io/exercise-api/images/box-squat-m.jpg",
+        "female": "https://marcmayol.github.io/exercise-api/images/box-squat-f.jpg"
+      },
+      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/box-squat.json"
+    },
+    {
+      "slug": "goblet-squats",
+      "name": {
+        "es": "Sentadilla goblet",
+        "en": "Goblet squat"
+      },
+      "group": {
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "primaryMuscles": [
+        "quadriceps",
+        "gluteal"
+      ],
+      "image": {
+        "male": "https://marcmayol.github.io/exercise-api/images/goblet-squats-m.jpg",
+        "female": "https://marcmayol.github.io/exercise-api/images/goblet-squats-f.jpg"
+      },
+      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/goblet-squats.json"
+    },
+    {
+      "slug": "seated-calf-raises",
+      "name": {
+        "es": "Elevación de gemelos sentado",
+        "en": "Seated calf raise"
+      },
+      "group": {
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "primaryMuscles": [
+        "calves"
+      ],
+      "image": {
+        "male": "https://marcmayol.github.io/exercise-api/images/seated-calf-raises-m.jpg",
+        "female": "https://marcmayol.github.io/exercise-api/images/seated-calf-raises-f.jpg"
+      },
+      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/seated-calf-raises.json"
+    },
+    {
+      "slug": "plank",
+      "name": {
+        "es": "Plancha",
+        "en": "Plank"
+      },
+      "group": {
+        "es": "Core",
+        "en": "Core"
+      },
+      "primaryMuscles": [
+        "abs"
+      ],
+      "image": {
+        "male": "https://marcmayol.github.io/exercise-api/images/plank-m.jpg",
+        "female": "https://marcmayol.github.io/exercise-api/images/plank-f.jpg"
+      },
+      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/plank.json"
+    },
+    {
+      "slug": "side-plank",
+      "name": {
+        "es": "Plancha lateral",
+        "en": "Side plank"
+      },
+      "group": {
+        "es": "Core",
+        "en": "Core"
+      },
+      "primaryMuscles": [
+        "obliques"
+      ],
+      "image": {
+        "male": "https://marcmayol.github.io/exercise-api/images/side-plank-m.jpg",
+        "female": "https://marcmayol.github.io/exercise-api/images/side-plank-f.jpg"
+      },
+      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/side-plank.json"
+    },
+    {
+      "slug": "dead-bug",
+      "name": {
+        "es": "Dead bug",
+        "en": "Dead bug"
+      },
+      "group": {
+        "es": "Core",
+        "en": "Core"
+      },
+      "primaryMuscles": [
+        "abs"
+      ],
+      "image": {
+        "male": "https://marcmayol.github.io/exercise-api/images/dead-bug-m.jpg",
+        "female": "https://marcmayol.github.io/exercise-api/images/dead-bug-f.jpg"
+      },
+      "url": "https://marcmayol.github.io/exercise-api/v1/exercises/dead-bug.json"
+    }
+  ]
+}

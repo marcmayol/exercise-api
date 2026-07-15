@@ -1,0 +1,49 @@
+{
+  "slug": "box-squat",
+  "name": {
+    "es": "Sentadilla al cajón",
+    "en": "Box squat"
+  },
+  "group": {
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "primaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    },
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Coloca una caja detrás de ti a una altura adecuada.",
+      "Párate con los pies separados al ancho de los hombros.",
+      "Desciende controladamente hasta que los glúteos toquen la caja.",
+      "Empuja con los talones para volver a la posición inicial."
+    ],
+    "en": [
+      "Place a box behind you at an appropriate height.",
+      "Stand with your feet shoulder-width apart.",
+      "Lower yourself in a controlled manner until your glutes touch the box.",
+      "Push through your heels to return to the starting position."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.github.io/exercise-api/images/box-squat-m.jpg",
+    "female": "https://marcmayol.github.io/exercise-api/images/box-squat-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/box-squat.svg"
+}

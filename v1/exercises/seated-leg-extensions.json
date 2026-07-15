@@ -1,0 +1,38 @@
+{
+  "slug": "seated-leg-extensions",
+  "name": {
+    "es": "Extensión de piernas",
+    "en": "Leg extension"
+  },
+  "group": {
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "primaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    }
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "es": [
+      "Ajusta el asiento y el respaldo para que tus rodillas estén alineadas con el eje de la máquina.",
+      "Coloca tus pies debajo de los rodillos acolchados, asegurándote de que tus tobillos estén cómodos.",
+      "Extiende las piernas lentamente hasta que estén casi rectas, sin bloquear las rodillas.",
+      "Regresa a la posición inicial de manera controlada, manteniendo la tensión en los cuádriceps."
+    ],
+    "en": [
+      "Adjust the seat and backrest so your knees align with the machine's pivot point.",
+      "Place your feet under the padded rollers, ensuring your ankles are comfortable.",
+      "Slowly extend your legs until they are nearly straight, avoiding locking the knees.",
+      "Return to the starting position in a controlled manner, keeping tension on the quadriceps."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.github.io/exercise-api/images/seated-leg-extensions-m.jpg",
+    "female": "https://marcmayol.github.io/exercise-api/images/seated-leg-extensions-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.github.io/exercise-api/muscle-maps/seated-leg-extensions.svg"
+}
