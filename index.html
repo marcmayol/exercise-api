@@ -19,7 +19,8 @@
   .card{background:#141419;border:1px solid #24242E;border-radius:16px}
   .chip{font-size:13px;font-weight:600;padding:7px 14px;border-radius:999px;cursor:pointer;border:1px solid #2E2E38;background:transparent;color:#B4B0BC}
   .chip.on{background:#FF6A3D;color:#0E0E12;border-color:#FF6A3D}
-  pre{background:#0C0C10;border:1px solid #23232C;border-radius:12px;padding:14px 16px;overflow:auto;font-size:12.5px;color:#B9B9C4}
+  pre{background:#0C0C10;border:1px solid #23232C;border-radius:12px;padding:14px 16px;overflow:auto;font-size:12.5px;color:#B9B9C4;margin:0}
+  @media(max-width:720px){#ex-grid{grid-template-columns:1fr!important}}
 </style>
 </head>
 <body>
@@ -35,14 +36,75 @@
   </header>
 
   <h2>Endpoints</h2>
-  <div class="card" style="padding:18px 20px">
-    <pre id="endpoints">GET  /v1/exercises.json              · índice de todos los ejercicios
-GET  /v1/exercises/&lt;slug&gt;.json       · ficha completa (leg-press, plank, ...)
-GET  /v1/muscles.json                · taxonomía de músculos (ES/EN)
-GET  /v1/by-muscle/&lt;muscle&gt;.json      · ejercicios por músculo (chest, gluteal, ...)
-     /images/&lt;slug&gt;-m.jpg | -f.jpg    · ilustración (hombre / mujer)
-     /muscle-maps/&lt;slug&gt;.svg          · mapa muscular resaltado</pre>
-    <div style="font-size:12px;color:#77737E;margin-top:8px">Ejemplo: <a id="ex-link" href="v1/exercises/leg-press.json"><span class="mono">v1/exercises/leg-press.json</span></a></div>
+  <div class="card" style="padding:8px 8px">
+    <table style="width:100%;border-collapse:collapse;font-size:13px">
+      <tbody>
+        <tr style="border-bottom:1px solid #20202A">
+          <td style="padding:12px 14px;white-space:nowrap"><span class="mono" style="color:#5FD08A;font-weight:600">GET</span> <span class="mono">/v1/exercises.json</span></td>
+          <td style="padding:12px 14px;color:#A0A0AC">Índice de todos los ejercicios</td>
+          <td style="padding:12px 14px;text-align:right;white-space:nowrap"><a href="v1/exercises.json">probar ↗</a></td>
+        </tr>
+        <tr style="border-bottom:1px solid #20202A">
+          <td style="padding:12px 14px;white-space:nowrap"><span class="mono" style="color:#5FD08A;font-weight:600">GET</span> <span class="mono">/v1/exercises/&lt;slug&gt;.json</span></td>
+          <td style="padding:12px 14px;color:#A0A0AC">Ficha completa de un ejercicio</td>
+          <td style="padding:12px 14px;text-align:right;white-space:nowrap"><a href="v1/exercises/leg-press.json">leg-press ↗</a></td>
+        </tr>
+        <tr style="border-bottom:1px solid #20202A">
+          <td style="padding:12px 14px;white-space:nowrap"><span class="mono" style="color:#5FD08A;font-weight:600">GET</span> <span class="mono">/v1/muscles.json</span></td>
+          <td style="padding:12px 14px;color:#A0A0AC">Taxonomía de músculos (ES/EN)</td>
+          <td style="padding:12px 14px;text-align:right;white-space:nowrap"><a href="v1/muscles.json">probar ↗</a></td>
+        </tr>
+        <tr style="border-bottom:1px solid #20202A">
+          <td style="padding:12px 14px;white-space:nowrap"><span class="mono" style="color:#5FD08A;font-weight:600">GET</span> <span class="mono">/v1/by-muscle/&lt;muscle&gt;.json</span></td>
+          <td style="padding:12px 14px;color:#A0A0AC">Ejercicios por músculo</td>
+          <td style="padding:12px 14px;text-align:right;white-space:nowrap"><a href="v1/by-muscle/gluteal.json">gluteal ↗</a></td>
+        </tr>
+        <tr style="border-bottom:1px solid #20202A">
+          <td style="padding:12px 14px;white-space:nowrap"><span class="mono">/images/&lt;slug&gt;-m.jpg | -f.jpg</span></td>
+          <td style="padding:12px 14px;color:#A0A0AC">Ilustración (hombre / mujer)</td>
+          <td style="padding:12px 14px;text-align:right;white-space:nowrap"><a href="images/leg-press-f.jpg">mujer ↗</a></td>
+        </tr>
+        <tr>
+          <td style="padding:12px 14px;white-space:nowrap"><span class="mono">/muscle-maps/&lt;slug&gt;.svg</span></td>
+          <td style="padding:12px 14px;color:#A0A0AC">Mapa muscular resaltado</td>
+          <td style="padding:12px 14px;text-align:right;white-space:nowrap"><a href="muscle-maps/leg-press.svg">SVG ↗</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:16px" id="ex-grid">
+    <div>
+      <div style="font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:#6E6A76;font-weight:600;margin-bottom:8px">Ejemplo de uso</div>
+      <pre>const base = "https://marcmayol.com/exercise-api";
+
+// un ejercicio, en el idioma que quieras
+const ex = await fetch(
+  `${base}/v1/exercises/leg-press.json`
+).then(r =&gt; r.json());
+
+ex.name.es;                 // "Prensa de piernas"
+ex.name.en;                 // "Leg press"
+ex.primaryMuscles[0].es;    // "Cuádriceps"
+ex.instructions.es;         // [ "Ajusta el asiento…", … ]
+ex.images.female;           // .../leg-press-f.jpg</pre>
+    </div>
+    <div>
+      <div style="font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:#6E6A76;font-weight:600;margin-bottom:8px">Respuesta (extracto)</div>
+      <pre>{
+  "slug": "leg-press",
+  "name": { "es": "Prensa de piernas",
+            "en": "Leg press" },
+  "group": { "es": "Piernas", "en": "Legs" },
+  "primaryMuscles": [
+    { "id": "quadriceps",
+      "es": "Cuádriceps", "en": "Quadriceps" } ],
+  "instructions": { "es": [ … ], "en": [ … ] },
+  "images": { "male": "…-m.jpg",
+              "female": "…-f.jpg" },
+  "muscleMap": "…/leg-press.svg"
+}</pre>
+    </div>
   </div>
 
   <h2>Ejercicios <span id="count" style="color:#8A8A96;font-weight:400;font-size:15px"></span></h2>
