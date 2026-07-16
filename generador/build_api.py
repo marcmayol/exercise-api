@@ -54,7 +54,7 @@ def parse_body(fn):
 FRONT = parse_body("bodyFront.ts"); BACK = parse_body("bodyBack.ts")
 FRONT_F = parse_body("bodyFemaleFront.ts"); BACK_F = parse_body("bodyFemaleBack.ts")
 
-def muscle_svg(primary, secondary, front=None, back=None):
+def muscle_svg(primary, secondary, front=None, back=None, vb="0 0 1448 1448"):
     front = FRONT if front is None else front
     back  = BACK  if back  is None else back
     BODY="#C9C2BD"; PRI="#FF6A3D"; SEC="#FFC49A"; SEP="#ffffff"
@@ -67,7 +67,8 @@ def muscle_svg(primary, secondary, front=None, back=None):
             if slug in ("head","hair","neck"): continue
             for p in pl: s.append(f'<path d="{p}" fill="none" stroke="{SEP}" stroke-width="2"/>')
         return "".join(s)
-    return (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1448 1448" width="1448" height="1448">'
+    w,h = vb.split()[2], vb.split()[3]
+    return (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="{vb}" width="{w}" height="{h}">'
             f'{paths(front)}{paths(back)}</svg>')
 
 # ---------------------------------------------------------------- instrucciones (OpenAI, caché)
@@ -125,7 +126,7 @@ def main():
         svg_rel = f"muscle-maps/{slug}.svg"
         open(os.path.join(ROOT,svg_rel),"w",encoding="utf-8").write(muscle_svg(prim,sec))
         svg_f_rel = f"muscle-maps/{slug}-f.svg"
-        open(os.path.join(ROOT,svg_f_rel),"w",encoding="utf-8").write(muscle_svg(prim,sec,FRONT_F,BACK_F))
+        open(os.path.join(ROOT,svg_f_rel),"w",encoding="utf-8").write(muscle_svg(prim,sec,FRONT_F,BACK_F,vb="0 0 1460 1448"))
 
         def mlist(keys): return [{"id":k,"es":MUSCLES[k]["es"],"en":MUSCLES[k]["en"]} for k in keys]
         full = {
