@@ -94,6 +94,9 @@ ex.images.female;           // .../leg-press-f.jpg</pre>
     <span class="lbl" id="lbl-gender">Género</span>
     <button class="chip on" id="g-m" onclick="setGender('m')">Hombre</button>
     <button class="chip" id="g-f" onclick="setGender('f')">Mujer</button>
+    <span class="lbl" id="lbl-view" style="margin-left:14px">Vista</span>
+    <button class="chip on" id="v-img" onclick="setView('img')">Ilustración</button>
+    <button class="chip" id="v-map" onclick="setView('map')">Mapa muscular</button>
   </div>
   <div id="groups" style="display:flex;gap:9px;flex-wrap:wrap;align-items:center;margin-bottom:12px">
     <span class="lbl" id="lbl-group">Grupo</span>
@@ -110,9 +113,9 @@ ex.images.female;           // .../leg-press-f.jpg</pre>
 </div>
 
 <script>
-let gender='m', lang='es', group='all', equip='all', MUS={}, EX=[], GROUPS=[], EQUIPS=[];
-const T={es:{gender:'Género',group:'Grupo',equip:'Equipo',all:'Todos',m:'Hombre',f:'Mujer'},
-         en:{gender:'Gender',group:'Group',equip:'Equipment',all:'All',m:'Male',f:'Female'}};
+let gender='m', lang='es', group='all', equip='all', view='img', MUS={}, EX=[], GROUPS=[], EQUIPS=[];
+const T={es:{gender:'Género',group:'Grupo',equip:'Equipo',all:'Todos',m:'Hombre',f:'Mujer',view:'Vista',img:'Ilustración',map:'Mapa muscular'},
+         en:{gender:'Gender',group:'Group',equip:'Equipment',all:'All',m:'Male',f:'Female',view:'View',img:'Illustration',map:'Muscle map'}};
 const I18N={
   es:{title:"API de ejercicios abierta, gratuita y multiidioma",
       desc:'Datos estáticos servidos por GitHub Pages (CDN, HTTPS, CORS abierto). Cada ejercicio incluye nombre en <b>ES/EN</b>, músculos principal/secundario, instrucciones, ilustración <b>masculina y femenina</b> y un <b>mapa muscular</b> SVG. Sin claves, sin límites.',
@@ -141,6 +144,9 @@ function applyLang(){
   document.getElementById('lbl-equip').textContent=T[lang].equip;
   document.getElementById('g-m').textContent=T[lang].m;
   document.getElementById('g-f').textContent=T[lang].f;
+  document.getElementById('lbl-view').textContent=T[lang].view;
+  document.getElementById('v-img').textContent=T[lang].img;
+  document.getElementById('v-map').textContent=T[lang].map;
   buildGroups(); buildEquips();
 }
 function buildGroups(){
@@ -170,6 +176,15 @@ function buildEquips(){
 function setEquip(e){equip=e;buildEquips();render();}
 function setGroup(g){group=g;buildGroups();render();}
 function setGender(g){gender=g;document.getElementById('g-m').classList.toggle('on',g==='m');document.getElementById('g-f').classList.toggle('on',g==='f');render();}
+function setView(v){
+  view=v;
+  document.getElementById('v-img').classList.toggle('on',v==='img');
+  document.getElementById('v-map').classList.toggle('on',v==='map');
+  // el género solo aplica a la ilustración; se atenúa en modo mapa
+  const dim=v==='map';
+  ['lbl-gender','g-m','g-f'].forEach(id=>{const el=document.getElementById(id);el.style.opacity=dim?'.4':'';el.style.pointerEvents=dim?'none':'';});
+  render();
+}
 function setLang(l){lang=l;applyLang();render();}
 function render(){
   const other=lang==='es'?'en':'es';
@@ -180,9 +195,10 @@ function render(){
   document.getElementById('count').textContent=`(${list.length}${filtered?' / '+EX.length:''})`;
   document.getElementById('grid').innerHTML=list.map(e=>{
     const img=gender==='m'?e.image.male:e.image.female;
+    const media=view==='map'?`muscle-maps/${e.slug}.svg`:img;
     const musc=(e.primaryMuscles||[]).map(m=>`<span style="font-size:12px;font-weight:600;color:#0E0E12;background:#FF6A3D;padding:3px 9px;border-radius:999px">${(MUS[m]||{})[lang]||m}</span>`).join(' ');
     return `<a href="v1/exercises/${e.slug}.json" class="card" style="overflow:hidden;display:flex;flex-direction:column;color:inherit">
-      <div style="background:#fff;aspect-ratio:3/2"><img src="${img}" alt="${e.name[lang]}" loading="lazy" style="width:100%;height:100%;object-fit:contain;display:block"></div>
+      <div style="background:#fff;aspect-ratio:3/2"><img src="${media}" alt="${e.name[lang]}" loading="lazy" style="width:100%;height:100%;object-fit:contain;display:block"></div>
       <div style="padding:14px 16px 16px">
         <div style="font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:17px;margin-bottom:3px">${e.name[lang]}</div>
         <div style="font-size:12px;color:#8A8A96;margin-bottom:10px">${e.name[other]} · <span class="mono" style="color:#726E7A">${e.slug}</span></div>
