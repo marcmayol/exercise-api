@@ -66,5 +66,9 @@
     "male": "https://marcmayol.com/exercise-api/images/rowing-machine-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/rowing-machine-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/rowing-machine.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/rowing-machine.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/rowing-machine.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/rowing-machine-f.svg"
+  }
 }

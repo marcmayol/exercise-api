@@ -54,5 +54,9 @@
     "male": "https://marcmayol.com/exercise-api/images/barbell-squat-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/barbell-squat-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/barbell-squat.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/barbell-squat.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/barbell-squat.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/barbell-squat-f.svg"
+  }
 }

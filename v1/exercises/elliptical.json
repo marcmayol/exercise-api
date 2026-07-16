@@ -61,5 +61,9 @@
     "male": "https://marcmayol.com/exercise-api/images/elliptical-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/elliptical-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/elliptical.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/elliptical.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/elliptical.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/elliptical-f.svg"
+  }
 }

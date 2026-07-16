@@ -188,9 +188,6 @@ function setView(v){
   view=v;
   document.getElementById('v-img').classList.toggle('on',v==='img');
   document.getElementById('v-map').classList.toggle('on',v==='map');
-  // el género solo aplica a la ilustración; se atenúa en modo mapa
-  const dim=v==='map';
-  ['lbl-gender','g-m','g-f'].forEach(id=>{const el=document.getElementById(id);el.style.opacity=dim?'.4':'';el.style.pointerEvents=dim?'none':'';});
   render();
 }
 function setLang(l){lang=l;applyLang();render();}
@@ -203,7 +200,7 @@ function render(){
   document.getElementById('count').textContent=`(${list.length}${filtered?' / '+EX.length:''})`;
   document.getElementById('grid').innerHTML=list.map(e=>{
     const img=gender==='m'?e.image.male:e.image.female;
-    const media=view==='map'?`muscle-maps/${e.slug}.svg`:img;
+    const media=view==='map'?`muscle-maps/${e.slug}${gender==='f'?'-f':''}.svg`:img;
     const musc=(e.primaryMuscles||[]).map(m=>`<span style="font-size:12px;font-weight:600;color:#0E0E12;background:#FF6A3D;padding:3px 9px;border-radius:999px">${(MUS[m]||{})[lang]||m}</span>`).join(' ');
     return `<a href="v1/exercises/${e.slug}.json" class="card" style="overflow:hidden;display:flex;flex-direction:column;color:inherit">
       <div style="background:#fff;aspect-ratio:3/2"><img src="${media}" alt="${e.name[lang]}" loading="lazy" style="width:100%;height:100%;object-fit:contain;display:block"></div>

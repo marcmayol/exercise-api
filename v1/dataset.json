@@ -212,7 +212,11 @@
         "male": "https://marcmayol.com/exercise-api/images/seated-chest-press-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/seated-chest-press-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-chest-press.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-chest-press.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/seated-chest-press.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/seated-chest-press-f.svg"
+      }
     },
     {
       "slug": "incline-chest-press-machine",
@@ -267,7 +271,11 @@
         "male": "https://marcmayol.com/exercise-api/images/incline-chest-press-machine-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/incline-chest-press-machine-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/incline-chest-press-machine.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/incline-chest-press-machine.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/incline-chest-press-machine.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/incline-chest-press-machine-f.svg"
+      }
     },
     {
       "slug": "butterflies",
@@ -317,7 +325,11 @@
         "male": "https://marcmayol.com/exercise-api/images/butterflies-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/butterflies-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/butterflies.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/butterflies.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/butterflies.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/butterflies-f.svg"
+      }
     },
     {
       "slug": "chest-pulldown",
@@ -367,7 +379,11 @@
         "male": "https://marcmayol.com/exercise-api/images/chest-pulldown-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/chest-pulldown-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/chest-pulldown.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/chest-pulldown.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/chest-pulldown.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/chest-pulldown-f.svg"
+      }
     },
     {
       "slug": "close-grip-chest-pulldown",
@@ -417,7 +433,11 @@
         "male": "https://marcmayol.com/exercise-api/images/close-grip-chest-pulldown-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/close-grip-chest-pulldown-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/close-grip-chest-pulldown.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/close-grip-chest-pulldown.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/close-grip-chest-pulldown.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/close-grip-chest-pulldown-f.svg"
+      }
     },
     {
       "slug": "seated-row-machine",
@@ -472,7 +492,11 @@
         "male": "https://marcmayol.com/exercise-api/images/seated-row-machine-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/seated-row-machine-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-row-machine.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-row-machine.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/seated-row-machine.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/seated-row-machine-f.svg"
+      }
     },
     {
       "slug": "seated-cable-back-rows",
@@ -527,7 +551,11 @@
         "male": "https://marcmayol.com/exercise-api/images/seated-cable-back-rows-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/seated-cable-back-rows-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-cable-back-rows.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-cable-back-rows.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/seated-cable-back-rows.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/seated-cable-back-rows-f.svg"
+      }
     },
     {
       "slug": "seated-dumbbell-overhead-shoulder-press",
@@ -577,7 +605,11 @@
         "male": "https://marcmayol.com/exercise-api/images/seated-dumbbell-overhead-shoulder-press-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/seated-dumbbell-overhead-shoulder-press-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-dumbbell-overhead-shoulder-press.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-dumbbell-overhead-shoulder-press.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/seated-dumbbell-overhead-shoulder-press.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/seated-dumbbell-overhead-shoulder-press-f.svg"
+      }
     },
     {
       "slug": "machine-shoulder-press",
@@ -627,7 +659,11 @@
         "male": "https://marcmayol.com/exercise-api/images/machine-shoulder-press-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/machine-shoulder-press-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/machine-shoulder-press.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/machine-shoulder-press.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/machine-shoulder-press.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/machine-shoulder-press-f.svg"
+      }
     },
     {
       "slug": "dumbbell-lateral-raises",
@@ -669,7 +705,11 @@
         "male": "https://marcmayol.com/exercise-api/images/dumbbell-lateral-raises-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/dumbbell-lateral-raises-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-lateral-raises.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-lateral-raises.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-lateral-raises.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-lateral-raises-f.svg"
+      }
     },
     {
       "slug": "face-pull",
@@ -724,7 +764,11 @@
         "male": "https://marcmayol.com/exercise-api/images/face-pull-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/face-pull-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/face-pull.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/face-pull.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/face-pull.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/face-pull-f.svg"
+      }
     },
     {
       "slug": "alternating-dumbbell-biceps-curl",
@@ -772,7 +816,11 @@
         "male": "https://marcmayol.com/exercise-api/images/alternating-dumbbell-biceps-curl-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/alternating-dumbbell-biceps-curl-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/alternating-dumbbell-biceps-curl.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/alternating-dumbbell-biceps-curl.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/alternating-dumbbell-biceps-curl.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/alternating-dumbbell-biceps-curl-f.svg"
+      }
     },
     {
       "slug": "dumbbell-hammer-biceps-curl",
@@ -822,7 +870,11 @@
         "male": "https://marcmayol.com/exercise-api/images/dumbbell-hammer-biceps-curl-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/dumbbell-hammer-biceps-curl-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-hammer-biceps-curl.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-hammer-biceps-curl.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-hammer-biceps-curl.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-hammer-biceps-curl-f.svg"
+      }
     },
     {
       "slug": "triceps-pushdown",
@@ -866,7 +918,11 @@
         "male": "https://marcmayol.com/exercise-api/images/triceps-pushdown-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/triceps-pushdown-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/triceps-pushdown.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/triceps-pushdown.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/triceps-pushdown.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/triceps-pushdown-f.svg"
+      }
     },
     {
       "slug": "dips-machine",
@@ -921,7 +977,11 @@
         "male": "https://marcmayol.com/exercise-api/images/dips-machine-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/dips-machine-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dips-machine.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dips-machine.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/dips-machine.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/dips-machine-f.svg"
+      }
     },
     {
       "slug": "leg-press",
@@ -981,7 +1041,11 @@
         "male": "https://marcmayol.com/exercise-api/images/leg-press-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/leg-press-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/leg-press.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/leg-press.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/leg-press.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/leg-press-f.svg"
+      }
     },
     {
       "slug": "seated-leg-curl",
@@ -1031,7 +1095,11 @@
         "male": "https://marcmayol.com/exercise-api/images/seated-leg-curl-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/seated-leg-curl-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-leg-curl.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-leg-curl.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/seated-leg-curl.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/seated-leg-curl-f.svg"
+      }
     },
     {
       "slug": "lying-leg-curls",
@@ -1081,7 +1149,11 @@
         "male": "https://marcmayol.com/exercise-api/images/lying-leg-curls-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/lying-leg-curls-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/lying-leg-curls.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/lying-leg-curls.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/lying-leg-curls.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/lying-leg-curls-f.svg"
+      }
     },
     {
       "slug": "seated-leg-extensions",
@@ -1125,7 +1197,11 @@
         "male": "https://marcmayol.com/exercise-api/images/seated-leg-extensions-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/seated-leg-extensions-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-leg-extensions.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-leg-extensions.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/seated-leg-extensions.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/seated-leg-extensions-f.svg"
+      }
     },
     {
       "slug": "barbell-hip-thrust",
@@ -1175,7 +1251,11 @@
         "male": "https://marcmayol.com/exercise-api/images/barbell-hip-thrust-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/barbell-hip-thrust-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/barbell-hip-thrust.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/barbell-hip-thrust.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/barbell-hip-thrust.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/barbell-hip-thrust-f.svg"
+      }
     },
     {
       "slug": "box-squat",
@@ -1230,7 +1310,11 @@
         "male": "https://marcmayol.com/exercise-api/images/box-squat-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/box-squat-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/box-squat.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/box-squat.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/box-squat.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/box-squat-f.svg"
+      }
     },
     {
       "slug": "goblet-squats",
@@ -1285,7 +1369,11 @@
         "male": "https://marcmayol.com/exercise-api/images/goblet-squats-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/goblet-squats-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/goblet-squats.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/goblet-squats.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/goblet-squats.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/goblet-squats-f.svg"
+      }
     },
     {
       "slug": "seated-calf-raises",
@@ -1329,7 +1417,11 @@
         "male": "https://marcmayol.com/exercise-api/images/seated-calf-raises-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/seated-calf-raises-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-calf-raises.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-calf-raises.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/seated-calf-raises.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/seated-calf-raises-f.svg"
+      }
     },
     {
       "slug": "plank",
@@ -1382,7 +1474,11 @@
         "male": "https://marcmayol.com/exercise-api/images/plank-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/plank-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/plank.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/plank.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/plank.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/plank-f.svg"
+      }
     },
     {
       "slug": "side-plank",
@@ -1432,7 +1528,11 @@
         "male": "https://marcmayol.com/exercise-api/images/side-plank-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/side-plank-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/side-plank.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/side-plank.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/side-plank.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/side-plank-f.svg"
+      }
     },
     {
       "slug": "dead-bug",
@@ -1482,7 +1582,11 @@
         "male": "https://marcmayol.com/exercise-api/images/dead-bug-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/dead-bug-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dead-bug.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dead-bug.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/dead-bug.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/dead-bug-f.svg"
+      }
     },
     {
       "slug": "neutral-grip-pulldown",
@@ -1532,7 +1636,11 @@
         "male": "https://marcmayol.com/exercise-api/images/neutral-grip-pulldown-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/neutral-grip-pulldown-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/neutral-grip-pulldown.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/neutral-grip-pulldown.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/neutral-grip-pulldown.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/neutral-grip-pulldown-f.svg"
+      }
     },
     {
       "slug": "upright-row",
@@ -1587,7 +1695,11 @@
         "male": "https://marcmayol.com/exercise-api/images/upright-row-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/upright-row-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/upright-row.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/upright-row.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/upright-row.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/upright-row-f.svg"
+      }
     },
     {
       "slug": "barbell-squat",
@@ -1645,7 +1757,11 @@
         "male": "https://marcmayol.com/exercise-api/images/barbell-squat-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/barbell-squat-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/barbell-squat.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/barbell-squat.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/barbell-squat.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/barbell-squat-f.svg"
+      }
     },
     {
       "slug": "bulgarian-split-squat",
@@ -1700,7 +1816,11 @@
         "male": "https://marcmayol.com/exercise-api/images/bulgarian-split-squat-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/bulgarian-split-squat-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/bulgarian-split-squat.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/bulgarian-split-squat.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/bulgarian-split-squat.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/bulgarian-split-squat-f.svg"
+      }
     },
     {
       "slug": "barbell-bench-press",
@@ -1755,7 +1875,11 @@
         "male": "https://marcmayol.com/exercise-api/images/barbell-bench-press-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/barbell-bench-press-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/barbell-bench-press.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/barbell-bench-press.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/barbell-bench-press.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/barbell-bench-press-f.svg"
+      }
     },
     {
       "slug": "dumbbell-bench-press",
@@ -1810,7 +1934,11 @@
         "male": "https://marcmayol.com/exercise-api/images/dumbbell-bench-press-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/dumbbell-bench-press-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-bench-press.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-bench-press.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-bench-press.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-bench-press-f.svg"
+      }
     },
     {
       "slug": "incline-dumbbell-press",
@@ -1865,7 +1993,11 @@
         "male": "https://marcmayol.com/exercise-api/images/incline-dumbbell-press-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/incline-dumbbell-press-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/incline-dumbbell-press.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/incline-dumbbell-press.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/incline-dumbbell-press.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/incline-dumbbell-press-f.svg"
+      }
     },
     {
       "slug": "dumbbell-flyes",
@@ -1915,7 +2047,11 @@
         "male": "https://marcmayol.com/exercise-api/images/dumbbell-flyes-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/dumbbell-flyes-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-flyes.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-flyes.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-flyes.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-flyes-f.svg"
+      }
     },
     {
       "slug": "barbell-row",
@@ -1970,7 +2106,11 @@
         "male": "https://marcmayol.com/exercise-api/images/barbell-row-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/barbell-row-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/barbell-row.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/barbell-row.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/barbell-row.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/barbell-row-f.svg"
+      }
     },
     {
       "slug": "dumbbell-row",
@@ -2020,7 +2160,11 @@
         "male": "https://marcmayol.com/exercise-api/images/dumbbell-row-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/dumbbell-row-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-row.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-row.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-row.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-row-f.svg"
+      }
     },
     {
       "slug": "barbell-overhead-press",
@@ -2070,7 +2214,11 @@
         "male": "https://marcmayol.com/exercise-api/images/barbell-overhead-press-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/barbell-overhead-press-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/barbell-overhead-press.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/barbell-overhead-press.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/barbell-overhead-press.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/barbell-overhead-press-f.svg"
+      }
     },
     {
       "slug": "cable-lateral-raises",
@@ -2114,7 +2262,11 @@
         "male": "https://marcmayol.com/exercise-api/images/cable-lateral-raises-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/cable-lateral-raises-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-lateral-raises.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-lateral-raises.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-lateral-raises.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-lateral-raises-f.svg"
+      }
     },
     {
       "slug": "barbell-biceps-curl",
@@ -2164,7 +2316,11 @@
         "male": "https://marcmayol.com/exercise-api/images/barbell-biceps-curl-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/barbell-biceps-curl-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/barbell-biceps-curl.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/barbell-biceps-curl.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/barbell-biceps-curl.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/barbell-biceps-curl-f.svg"
+      }
     },
     {
       "slug": "overhead-triceps-extension",
@@ -2206,7 +2362,11 @@
         "male": "https://marcmayol.com/exercise-api/images/overhead-triceps-extension-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/overhead-triceps-extension-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/overhead-triceps-extension.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/overhead-triceps-extension.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/overhead-triceps-extension.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/overhead-triceps-extension-f.svg"
+      }
     },
     {
       "slug": "standing-calf-raises",
@@ -2248,7 +2408,11 @@
         "male": "https://marcmayol.com/exercise-api/images/standing-calf-raises-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/standing-calf-raises-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/standing-calf-raises.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/standing-calf-raises.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/standing-calf-raises.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/standing-calf-raises-f.svg"
+      }
     },
     {
       "slug": "bodyweight-squat",
@@ -2308,7 +2472,11 @@
         "male": "https://marcmayol.com/exercise-api/images/bodyweight-squat-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/bodyweight-squat-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/bodyweight-squat.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/bodyweight-squat.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/bodyweight-squat.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/bodyweight-squat-f.svg"
+      }
     },
     {
       "slug": "hack-squat",
@@ -2361,7 +2529,11 @@
         "male": "https://marcmayol.com/exercise-api/images/hack-squat-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/hack-squat-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/hack-squat.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/hack-squat.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/hack-squat.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/hack-squat-f.svg"
+      }
     },
     {
       "slug": "deadlift",
@@ -2436,7 +2608,11 @@
         "male": "https://marcmayol.com/exercise-api/images/deadlift-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/deadlift-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/deadlift.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/deadlift.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/deadlift.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/deadlift-f.svg"
+      }
     },
     {
       "slug": "pull-ups",
@@ -2489,7 +2665,11 @@
         "male": "https://marcmayol.com/exercise-api/images/pull-ups-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/pull-ups-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/pull-ups.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/pull-ups.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/pull-ups.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/pull-ups-f.svg"
+      }
     },
     {
       "slug": "treadmill",
@@ -2548,7 +2728,11 @@
         "male": "https://marcmayol.com/exercise-api/images/treadmill-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/treadmill-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/treadmill.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/treadmill.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/treadmill.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/treadmill-f.svg"
+      }
     },
     {
       "slug": "elliptical",
@@ -2613,7 +2797,11 @@
         "male": "https://marcmayol.com/exercise-api/images/elliptical-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/elliptical-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/elliptical.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/elliptical.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/elliptical.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/elliptical-f.svg"
+      }
     },
     {
       "slug": "stationary-bike",
@@ -2671,7 +2859,11 @@
         "male": "https://marcmayol.com/exercise-api/images/stationary-bike-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/stationary-bike-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/stationary-bike.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/stationary-bike.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/stationary-bike.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/stationary-bike-f.svg"
+      }
     },
     {
       "slug": "rowing-machine",
@@ -2741,7 +2933,11 @@
         "male": "https://marcmayol.com/exercise-api/images/rowing-machine-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/rowing-machine-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/rowing-machine.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/rowing-machine.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/rowing-machine.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/rowing-machine-f.svg"
+      }
     },
     {
       "slug": "burpees",
@@ -2811,7 +3007,11 @@
         "male": "https://marcmayol.com/exercise-api/images/burpees-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/burpees-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/burpees.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/burpees.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/burpees.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/burpees-f.svg"
+      }
     },
     {
       "slug": "crunch",
@@ -2855,7 +3055,11 @@
         "male": "https://marcmayol.com/exercise-api/images/crunch-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/crunch-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/crunch.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/crunch.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/crunch.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/crunch-f.svg"
+      }
     },
     {
       "slug": "legs-up-crunch",
@@ -2905,7 +3109,11 @@
         "male": "https://marcmayol.com/exercise-api/images/legs-up-crunch-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/legs-up-crunch-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/legs-up-crunch.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/legs-up-crunch.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/legs-up-crunch.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/legs-up-crunch-f.svg"
+      }
     },
     {
       "slug": "scissor-kicks",
@@ -2955,7 +3163,11 @@
         "male": "https://marcmayol.com/exercise-api/images/scissor-kicks-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/scissor-kicks-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/scissor-kicks.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/scissor-kicks.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/scissor-kicks.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/scissor-kicks-f.svg"
+      }
     },
     {
       "slug": "sit-ups",
@@ -3005,7 +3217,11 @@
         "male": "https://marcmayol.com/exercise-api/images/sit-ups-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/sit-ups-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/sit-ups.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/sit-ups.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/sit-ups.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/sit-ups-f.svg"
+      }
     },
     {
       "slug": "russian-twist",
@@ -3052,7 +3268,11 @@
         "male": "https://marcmayol.com/exercise-api/images/russian-twist-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/russian-twist-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/russian-twist.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/russian-twist.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/russian-twist.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/russian-twist-f.svg"
+      }
     },
     {
       "slug": "glute-bridge",
@@ -3107,7 +3327,11 @@
         "male": "https://marcmayol.com/exercise-api/images/glute-bridge-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/glute-bridge-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/glute-bridge.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/glute-bridge.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/glute-bridge.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/glute-bridge-f.svg"
+      }
     },
     {
       "slug": "side-plank-rotation",
@@ -3162,7 +3386,11 @@
         "male": "https://marcmayol.com/exercise-api/images/side-plank-rotation-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/side-plank-rotation-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/side-plank-rotation.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/side-plank-rotation.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/side-plank-rotation.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/side-plank-rotation-f.svg"
+      }
     },
     {
       "slug": "superman",
@@ -3217,7 +3445,11 @@
         "male": "https://marcmayol.com/exercise-api/images/superman-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/superman-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/superman.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/superman.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/superman.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/superman-f.svg"
+      }
     },
     {
       "slug": "incline-barbell-bench-press",
@@ -3272,7 +3504,11 @@
         "male": "https://marcmayol.com/exercise-api/images/incline-barbell-bench-press-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/incline-barbell-bench-press-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/incline-barbell-bench-press.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/incline-barbell-bench-press.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/incline-barbell-bench-press.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/incline-barbell-bench-press-f.svg"
+      }
     },
     {
       "slug": "romanian-deadlift",
@@ -3330,7 +3566,11 @@
         "male": "https://marcmayol.com/exercise-api/images/romanian-deadlift-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/romanian-deadlift-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/romanian-deadlift.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/romanian-deadlift.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/romanian-deadlift.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/romanian-deadlift-f.svg"
+      }
     },
     {
       "slug": "front-squat",
@@ -3388,7 +3628,11 @@
         "male": "https://marcmayol.com/exercise-api/images/front-squat-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/front-squat-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/front-squat.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/front-squat.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/front-squat.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/front-squat-f.svg"
+      }
     },
     {
       "slug": "step-up",
@@ -3448,7 +3692,11 @@
         "male": "https://marcmayol.com/exercise-api/images/step-up-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/step-up-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/step-up.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/step-up.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/step-up.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/step-up-f.svg"
+      }
     },
     {
       "slug": "dumbbell-lunges",
@@ -3506,7 +3754,11 @@
         "male": "https://marcmayol.com/exercise-api/images/dumbbell-lunges-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/dumbbell-lunges-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-lunges.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-lunges.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-lunges.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-lunges-f.svg"
+      }
     },
     {
       "slug": "hip-abduction",
@@ -3550,7 +3802,11 @@
         "male": "https://marcmayol.com/exercise-api/images/hip-abduction-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/hip-abduction-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/hip-abduction.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/hip-abduction.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/hip-abduction.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/hip-abduction-f.svg"
+      }
     },
     {
       "slug": "hip-adduction",
@@ -3600,7 +3856,11 @@
         "male": "https://marcmayol.com/exercise-api/images/hip-adduction-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/hip-adduction-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/hip-adduction.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/hip-adduction.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/hip-adduction.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/hip-adduction-f.svg"
+      }
     },
     {
       "slug": "t-bar-row",
@@ -3660,7 +3920,11 @@
         "male": "https://marcmayol.com/exercise-api/images/t-bar-row-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/t-bar-row-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/t-bar-row.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/t-bar-row.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/t-bar-row.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/t-bar-row-f.svg"
+      }
     },
     {
       "slug": "skull-crusher",
@@ -3704,7 +3968,11 @@
         "male": "https://marcmayol.com/exercise-api/images/skull-crusher-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/skull-crusher-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/skull-crusher.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/skull-crusher.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/skull-crusher.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/skull-crusher-f.svg"
+      }
     },
     {
       "slug": "preacher-curl",
@@ -3754,7 +4022,11 @@
         "male": "https://marcmayol.com/exercise-api/images/preacher-curl-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/preacher-curl-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/preacher-curl.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/preacher-curl.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/preacher-curl.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/preacher-curl-f.svg"
+      }
     },
     {
       "slug": "ski-erg",
@@ -3819,7 +4091,11 @@
         "male": "https://marcmayol.com/exercise-api/images/ski-erg-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/ski-erg-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/ski-erg.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/ski-erg.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/ski-erg.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/ski-erg-f.svg"
+      }
     },
     {
       "slug": "air-bike",
@@ -3894,7 +4170,11 @@
         "male": "https://marcmayol.com/exercise-api/images/air-bike-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/air-bike-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/air-bike.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/air-bike.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/air-bike.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/air-bike-f.svg"
+      }
     },
     {
       "slug": "machine-hip-thrust",
@@ -3949,7 +4229,11 @@
         "male": "https://marcmayol.com/exercise-api/images/machine-hip-thrust-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/machine-hip-thrust-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/machine-hip-thrust.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/machine-hip-thrust.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/machine-hip-thrust.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/machine-hip-thrust-f.svg"
+      }
     },
     {
       "slug": "sled-hack-squat",
@@ -4002,7 +4286,11 @@
         "male": "https://marcmayol.com/exercise-api/images/sled-hack-squat-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/sled-hack-squat-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/sled-hack-squat.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/sled-hack-squat.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/sled-hack-squat.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/sled-hack-squat-f.svg"
+      }
     },
     {
       "slug": "bicycle-crunch",
@@ -4049,7 +4337,11 @@
         "male": "https://marcmayol.com/exercise-api/images/bicycle-crunch-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/bicycle-crunch-f.jpg"
       },
-      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/bicycle-crunch.svg"
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/bicycle-crunch.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/bicycle-crunch.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/bicycle-crunch-f.svg"
+      }
     }
   ]
 }

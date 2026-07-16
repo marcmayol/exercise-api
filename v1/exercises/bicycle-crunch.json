@@ -43,5 +43,9 @@
     "male": "https://marcmayol.com/exercise-api/images/bicycle-crunch-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/bicycle-crunch-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/bicycle-crunch.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/bicycle-crunch.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/bicycle-crunch.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/bicycle-crunch-f.svg"
+  }
 }

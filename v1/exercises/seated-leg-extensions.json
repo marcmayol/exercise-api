@@ -40,5 +40,9 @@
     "male": "https://marcmayol.com/exercise-api/images/seated-leg-extensions-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/seated-leg-extensions-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-leg-extensions.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-leg-extensions.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/seated-leg-extensions.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/seated-leg-extensions-f.svg"
+  }
 }

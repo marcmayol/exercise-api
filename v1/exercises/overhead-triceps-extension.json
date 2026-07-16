@@ -38,5 +38,9 @@
     "male": "https://marcmayol.com/exercise-api/images/overhead-triceps-extension-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/overhead-triceps-extension-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/overhead-triceps-extension.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/overhead-triceps-extension.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/overhead-triceps-extension.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/overhead-triceps-extension-f.svg"
+  }
 }

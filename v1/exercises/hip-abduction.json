@@ -40,5 +40,9 @@
     "male": "https://marcmayol.com/exercise-api/images/hip-abduction-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/hip-abduction-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/hip-abduction.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/hip-abduction.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/hip-abduction.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/hip-abduction-f.svg"
+  }
 }

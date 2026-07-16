@@ -38,5 +38,9 @@
     "male": "https://marcmayol.com/exercise-api/images/dumbbell-lateral-raises-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/dumbbell-lateral-raises-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-lateral-raises.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-lateral-raises.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-lateral-raises.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-lateral-raises-f.svg"
+  }
 }

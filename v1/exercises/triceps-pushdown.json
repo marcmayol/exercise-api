@@ -40,5 +40,9 @@
     "male": "https://marcmayol.com/exercise-api/images/triceps-pushdown-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/triceps-pushdown-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/triceps-pushdown.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/triceps-pushdown.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/triceps-pushdown.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/triceps-pushdown-f.svg"
+  }
 }

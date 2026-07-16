@@ -56,5 +56,9 @@
     "male": "https://marcmayol.com/exercise-api/images/t-bar-row-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/t-bar-row-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/t-bar-row.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/t-bar-row.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/t-bar-row.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/t-bar-row-f.svg"
+  }
 }

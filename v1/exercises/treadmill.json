@@ -55,5 +55,9 @@
     "male": "https://marcmayol.com/exercise-api/images/treadmill-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/treadmill-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/treadmill.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/treadmill.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/treadmill.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/treadmill-f.svg"
+  }
 }

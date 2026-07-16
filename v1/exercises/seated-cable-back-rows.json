@@ -51,5 +51,9 @@
     "male": "https://marcmayol.com/exercise-api/images/seated-cable-back-rows-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/seated-cable-back-rows-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-cable-back-rows.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-cable-back-rows.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/seated-cable-back-rows.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/seated-cable-back-rows-f.svg"
+  }
 }

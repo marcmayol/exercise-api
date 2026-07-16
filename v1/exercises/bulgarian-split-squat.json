@@ -51,5 +51,9 @@
     "male": "https://marcmayol.com/exercise-api/images/bulgarian-split-squat-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/bulgarian-split-squat-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/bulgarian-split-squat.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/bulgarian-split-squat.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/bulgarian-split-squat.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/bulgarian-split-squat-f.svg"
+  }
 }

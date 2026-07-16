@@ -66,5 +66,9 @@
     "male": "https://marcmayol.com/exercise-api/images/burpees-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/burpees-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/burpees.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/burpees.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/burpees.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/burpees-f.svg"
+  }
 }

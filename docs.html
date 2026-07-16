@@ -142,7 +142,8 @@ const FIELDS=[
   ['secondaryMuscles','[ { id, es, en } ]',{es:'Músculos secundarios (puede ser una lista vacía).',en:'Secondary muscles (may be an empty list).'}],
   ['instructions','{ es:[…], en:[…] }',{es:'Pasos de ejecución, mismos pasos en ambos idiomas.',en:'Execution steps, same steps in both languages.'}],
   ['images','{ male, female }',{es:'URL de la ilustración masculina y femenina (JPG).',en:'URL of the male and female illustration (JPG).'}],
-  ['muscleMap','string (URL)',{es:'URL del mapa muscular resaltado (SVG).',en:'URL of the highlighted muscle map (SVG).'}],
+  ['muscleMap','string (URL)',{es:'URL del mapa muscular resaltado (SVG, silueta masculina).',en:'URL of the highlighted muscle map (SVG, male silhouette).'}],
+  ['muscleMaps','{ male, female }',{es:'Mapa muscular por género (SVG): silueta masculina y femenina.',en:'Muscle map per gender (SVG): male and female silhouette.'}],
 ];
 
 // Endpoints: [método, ruta, {es,en}, hrefEjemplo, textoEjemplo]
@@ -299,7 +300,9 @@ function applyLang(){
   "instructions": { "es": [ "Ajusta el asiento…", … ], "en": [ "Adjust the seat…", … ] },
   "images": { "male": "${BASE}/images/leg-press-m.jpg",
               "female": "${BASE}/images/leg-press-f.jpg" },
-  "muscleMap": "${BASE}/muscle-maps/leg-press.svg"
+  "muscleMap": "${BASE}/muscle-maps/leg-press.svg",
+  "muscleMaps": { "male": "${BASE}/muscle-maps/leg-press.svg",
+                  "female": "${BASE}/muscle-maps/leg-press-f.svg" }
 }`;
   buildTOC(); buildModel(); buildEndpoints(); setTab(tab);
 }

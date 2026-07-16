@@ -49,5 +49,9 @@
     "male": "https://marcmayol.com/exercise-api/images/pull-ups-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/pull-ups-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/pull-ups.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/pull-ups.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/pull-ups.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/pull-ups-f.svg"
+  }
 }

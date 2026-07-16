@@ -56,5 +56,9 @@
     "male": "https://marcmayol.com/exercise-api/images/step-up-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/step-up-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/step-up.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/step-up.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/step-up.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/step-up-f.svg"
+  }
 }

@@ -40,5 +40,9 @@
     "male": "https://marcmayol.com/exercise-api/images/seated-calf-raises-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/seated-calf-raises-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-calf-raises.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-calf-raises.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/seated-calf-raises.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/seated-calf-raises-f.svg"
+  }
 }

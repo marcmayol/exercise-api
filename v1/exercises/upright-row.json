@@ -51,5 +51,9 @@
     "male": "https://marcmayol.com/exercise-api/images/upright-row-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/upright-row-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/upright-row.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/upright-row.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/upright-row.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/upright-row-f.svg"
+  }
 }

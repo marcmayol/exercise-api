@@ -51,5 +51,9 @@
     "male": "https://marcmayol.com/exercise-api/images/side-plank-rotation-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/side-plank-rotation-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/side-plank-rotation.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/side-plank-rotation.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/side-plank-rotation.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/side-plank-rotation-f.svg"
+  }
 }

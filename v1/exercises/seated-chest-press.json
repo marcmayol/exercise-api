@@ -51,5 +51,9 @@
     "male": "https://marcmayol.com/exercise-api/images/seated-chest-press-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/seated-chest-press-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-chest-press.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-chest-press.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/seated-chest-press.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/seated-chest-press-f.svg"
+  }
 }

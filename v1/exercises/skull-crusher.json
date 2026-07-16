@@ -40,5 +40,9 @@
     "male": "https://marcmayol.com/exercise-api/images/skull-crusher-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/skull-crusher-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/skull-crusher.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/skull-crusher.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/skull-crusher.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/skull-crusher-f.svg"
+  }
 }

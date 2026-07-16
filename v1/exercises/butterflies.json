@@ -46,5 +46,9 @@
     "male": "https://marcmayol.com/exercise-api/images/butterflies-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/butterflies-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/butterflies.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/butterflies.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/butterflies.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/butterflies-f.svg"
+  }
 }

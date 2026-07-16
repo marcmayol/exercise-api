@@ -71,5 +71,9 @@
     "male": "https://marcmayol.com/exercise-api/images/air-bike-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/air-bike-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/air-bike.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/air-bike.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/air-bike.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/air-bike-f.svg"
+  }
 }

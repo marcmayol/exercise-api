@@ -51,5 +51,9 @@
     "male": "https://marcmayol.com/exercise-api/images/barbell-row-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/barbell-row-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/barbell-row.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/barbell-row.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/barbell-row.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/barbell-row-f.svg"
+  }
 }

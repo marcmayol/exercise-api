@@ -40,5 +40,9 @@
     "male": "https://marcmayol.com/exercise-api/images/cable-lateral-raises-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/cable-lateral-raises-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-lateral-raises.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-lateral-raises.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-lateral-raises.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-lateral-raises-f.svg"
+  }
 }

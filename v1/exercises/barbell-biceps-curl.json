@@ -46,5 +46,9 @@
     "male": "https://marcmayol.com/exercise-api/images/barbell-biceps-curl-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/barbell-biceps-curl-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/barbell-biceps-curl.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/barbell-biceps-curl.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/barbell-biceps-curl.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/barbell-biceps-curl-f.svg"
+  }
 }

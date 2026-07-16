@@ -46,5 +46,9 @@
     "male": "https://marcmayol.com/exercise-api/images/seated-leg-curl-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/seated-leg-curl-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-leg-curl.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-leg-curl.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/seated-leg-curl.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/seated-leg-curl-f.svg"
+  }
 }

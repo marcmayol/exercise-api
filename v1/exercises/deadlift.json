@@ -71,5 +71,9 @@
     "male": "https://marcmayol.com/exercise-api/images/deadlift-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/deadlift-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/deadlift.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/deadlift.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/deadlift.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/deadlift-f.svg"
+  }
 }

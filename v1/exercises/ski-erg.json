@@ -61,5 +61,9 @@
     "male": "https://marcmayol.com/exercise-api/images/ski-erg-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/ski-erg-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/ski-erg.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/ski-erg.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/ski-erg.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/ski-erg-f.svg"
+  }
 }

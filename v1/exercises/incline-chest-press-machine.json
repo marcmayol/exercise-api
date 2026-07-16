@@ -51,5 +51,9 @@
     "male": "https://marcmayol.com/exercise-api/images/incline-chest-press-machine-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/incline-chest-press-machine-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/incline-chest-press-machine.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/incline-chest-press-machine.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/incline-chest-press-machine.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/incline-chest-press-machine-f.svg"
+  }
 }

@@ -49,5 +49,9 @@
     "male": "https://marcmayol.com/exercise-api/images/plank-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/plank-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/plank.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/plank.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/plank.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/plank-f.svg"
+  }
 }

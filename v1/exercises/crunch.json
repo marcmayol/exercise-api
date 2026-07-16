@@ -40,5 +40,9 @@
     "male": "https://marcmayol.com/exercise-api/images/crunch-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/crunch-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/crunch.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/crunch.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/crunch.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/crunch-f.svg"
+  }
 }

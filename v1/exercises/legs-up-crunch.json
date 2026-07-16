@@ -46,5 +46,9 @@
     "male": "https://marcmayol.com/exercise-api/images/legs-up-crunch-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/legs-up-crunch-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/legs-up-crunch.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/legs-up-crunch.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/legs-up-crunch.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/legs-up-crunch-f.svg"
+  }
 }

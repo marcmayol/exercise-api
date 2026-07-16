@@ -49,5 +49,9 @@
     "male": "https://marcmayol.com/exercise-api/images/sled-hack-squat-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/sled-hack-squat-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/sled-hack-squat.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/sled-hack-squat.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/sled-hack-squat.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/sled-hack-squat-f.svg"
+  }
 }

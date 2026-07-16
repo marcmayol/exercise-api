@@ -52,8 +52,11 @@ def parse_body(fn):
         out[slug] = re.findall(r'"([Mm][^"]*)"', seg)
     return out
 FRONT = parse_body("bodyFront.ts"); BACK = parse_body("bodyBack.ts")
+FRONT_F = parse_body("bodyFemaleFront.ts"); BACK_F = parse_body("bodyFemaleBack.ts")
 
-def muscle_svg(primary, secondary):
+def muscle_svg(primary, secondary, front=None, back=None):
+    front = FRONT if front is None else front
+    back  = BACK  if back  is None else back
     BODY="#C9C2BD"; PRI="#FF6A3D"; SEC="#FFC49A"; SEP="#ffffff"
     def paths(data):
         s=[]
@@ -65,7 +68,7 @@ def muscle_svg(primary, secondary):
             for p in pl: s.append(f'<path d="{p}" fill="none" stroke="{SEP}" stroke-width="2"/>')
         return "".join(s)
     return (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1448 1448" width="1448" height="1448">'
-            f'{paths(FRONT)}{paths(BACK)}</svg>')
+            f'{paths(front)}{paths(back)}</svg>')
 
 # ---------------------------------------------------------------- instrucciones (OpenAI, caché)
 def load_key():
@@ -118,8 +121,11 @@ def main():
         eq = ex.get("equipment") or EQUIPMENT.get(slug,"machine"); eqobj={"id":eq,**EQUIP[eq]}
         instr = get_instructions(client, ex)
         img_m = copy_img(slug,"male","m"); img_f = copy_img(slug,"female","f")
+        prim, sec = set(ex["primary"]), set(ex["secondary"])
         svg_rel = f"muscle-maps/{slug}.svg"
-        open(os.path.join(ROOT,svg_rel),"w",encoding="utf-8").write(muscle_svg(set(ex["primary"]),set(ex["secondary"])))
+        open(os.path.join(ROOT,svg_rel),"w",encoding="utf-8").write(muscle_svg(prim,sec))
+        svg_f_rel = f"muscle-maps/{slug}-f.svg"
+        open(os.path.join(ROOT,svg_f_rel),"w",encoding="utf-8").write(muscle_svg(prim,sec,FRONT_F,BACK_F))
 
         def mlist(keys): return [{"id":k,"es":MUSCLES[k]["es"],"en":MUSCLES[k]["en"]} for k in keys]
         full = {
@@ -132,6 +138,7 @@ def main():
           "instructions":instr,
           "images":{"male":img_m,"female":img_f},
           "muscleMap":f"{BASE}/{svg_rel}",
+          "muscleMaps":{"male":f"{BASE}/{svg_rel}","female":f"{BASE}/{svg_f_rel}"},
         }
         dump(f"v1/exercises/{slug}.json", full)
         full_all.append(full)

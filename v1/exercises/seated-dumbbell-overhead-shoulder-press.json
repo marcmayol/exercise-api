@@ -46,5 +46,9 @@
     "male": "https://marcmayol.com/exercise-api/images/seated-dumbbell-overhead-shoulder-press-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/seated-dumbbell-overhead-shoulder-press-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-dumbbell-overhead-shoulder-press.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-dumbbell-overhead-shoulder-press.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/seated-dumbbell-overhead-shoulder-press.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/seated-dumbbell-overhead-shoulder-press-f.svg"
+  }
 }

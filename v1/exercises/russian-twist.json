@@ -43,5 +43,9 @@
     "male": "https://marcmayol.com/exercise-api/images/russian-twist-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/russian-twist-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/russian-twist.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/russian-twist.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/russian-twist.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/russian-twist-f.svg"
+  }
 }

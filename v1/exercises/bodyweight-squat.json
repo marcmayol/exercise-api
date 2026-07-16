@@ -56,5 +56,9 @@
     "male": "https://marcmayol.com/exercise-api/images/bodyweight-squat-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/bodyweight-squat-f.jpg"
   },
-  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/bodyweight-squat.svg"
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/bodyweight-squat.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/bodyweight-squat.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/bodyweight-squat-f.svg"
+  }
 }
