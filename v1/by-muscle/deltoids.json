@@ -4,7 +4,7 @@
     "es": "Hombros",
     "en": "Shoulders"
   },
-  "count": 15,
+  "count": 19,
   "exercises": [
     {
       "slug": "seated-chest-press",
@@ -335,6 +335,94 @@
         "female": "https://marcmayol.com/exercise-api/images/cable-lateral-raises-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-lateral-raises.json"
+    },
+    {
+      "slug": "elliptical",
+      "name": {
+        "es": "Elíptica",
+        "en": "Elliptical trainer"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/elliptical-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/elliptical-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/elliptical.json"
+    },
+    {
+      "slug": "burpees",
+      "name": {
+        "es": "Burpees",
+        "en": "Burpees"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/burpees-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/burpees-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/burpees.json"
+    },
+    {
+      "slug": "side-plank-rotation",
+      "name": {
+        "es": "Plancha lateral con rotación",
+        "en": "Side plank with rotation"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/side-plank-rotation-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/side-plank-rotation-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/side-plank-rotation.json"
+    },
+    {
+      "slug": "superman",
+      "name": {
+        "es": "Superman",
+        "en": "Superman"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/superman-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/superman-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/superman.json"
     }
   ]
 }

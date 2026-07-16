@@ -1,0 +1,70 @@
+{
+  "slug": "burpees",
+  "name": {
+    "es": "Burpees",
+    "en": "Burpees"
+  },
+  "group": {
+    "id": "cardio",
+    "es": "Cardio",
+    "en": "Cardio"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    },
+    {
+      "id": "chest",
+      "es": "Pectoral",
+      "en": "Chest"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    },
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    },
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    },
+    {
+      "id": "abs",
+      "es": "Abdomen",
+      "en": "Abs"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Comienza de pie con los pies separados al ancho de los hombros.",
+      "Baja en cuclillas y coloca las manos en el suelo frente a ti.",
+      "Salta con los pies hacia atrás para entrar en posición de plancha.",
+      "Realiza una flexión de brazos, luego salta con los pies hacia adelante y levántate de un salto."
+    ],
+    "en": [
+      "Start standing with feet shoulder-width apart.",
+      "Squat down and place your hands on the floor in front of you.",
+      "Jump your feet back to enter a plank position.",
+      "Perform a push-up, then jump your feet forward and rise up with a jump."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/burpees-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/burpees-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/burpees.svg"
+}

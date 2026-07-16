@@ -546,5 +546,266 @@
       "calves"
     ],
     "secondary": []
+  },
+  {
+    "slug": "bodyweight-squat",
+    "es": "Sentadilla sin peso",
+    "en": "Bodyweight squat",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "bodyweight",
+    "primary": [
+      "quadriceps",
+      "gluteal"
+    ],
+    "secondary": [
+      "hamstring",
+      "calves"
+    ]
+  },
+  {
+    "slug": "hack-squat",
+    "es": "Sentadilla en máquina (hack)",
+    "en": "Hack squat",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "machine",
+    "primary": [
+      "quadriceps",
+      "gluteal"
+    ],
+    "secondary": [
+      "hamstring"
+    ]
+  },
+  {
+    "slug": "deadlift",
+    "es": "Peso muerto",
+    "en": "Deadlift",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "barbell",
+    "primary": [
+      "gluteal",
+      "hamstring",
+      "lower-back"
+    ],
+    "secondary": [
+      "quadriceps",
+      "trapezius",
+      "upper-back",
+      "forearm"
+    ]
+  },
+  {
+    "slug": "pull-ups",
+    "es": "Dominadas",
+    "en": "Pull-ups",
+    "group_es": "Espalda",
+    "group_en": "Back",
+    "equipment": "bodyweight",
+    "primary": [
+      "upper-back"
+    ],
+    "secondary": [
+      "biceps",
+      "forearm"
+    ]
+  },
+  {
+    "slug": "treadmill",
+    "es": "Cinta de correr",
+    "en": "Treadmill",
+    "group_es": "Cardio",
+    "group_en": "Cardio",
+    "equipment": "cardio",
+    "primary": [
+      "quadriceps",
+      "hamstring",
+      "gluteal",
+      "calves"
+    ],
+    "secondary": []
+  },
+  {
+    "slug": "elliptical",
+    "es": "Elíptica",
+    "en": "Elliptical trainer",
+    "group_es": "Cardio",
+    "group_en": "Cardio",
+    "equipment": "cardio",
+    "primary": [
+      "quadriceps",
+      "gluteal",
+      "hamstring"
+    ],
+    "secondary": [
+      "calves",
+      "deltoids"
+    ]
+  },
+  {
+    "slug": "stationary-bike",
+    "es": "Bicicleta estática",
+    "en": "Stationary bike",
+    "group_es": "Cardio",
+    "group_en": "Cardio",
+    "equipment": "cardio",
+    "primary": [
+      "quadriceps",
+      "hamstring"
+    ],
+    "secondary": [
+      "gluteal",
+      "calves"
+    ]
+  },
+  {
+    "slug": "rowing-machine",
+    "es": "Remo (cardio)",
+    "en": "Rowing machine",
+    "group_es": "Cardio",
+    "group_en": "Cardio",
+    "equipment": "cardio",
+    "primary": [
+      "upper-back",
+      "quadriceps"
+    ],
+    "secondary": [
+      "biceps",
+      "hamstring",
+      "gluteal",
+      "forearm"
+    ]
+  },
+  {
+    "slug": "burpees",
+    "es": "Burpees",
+    "en": "Burpees",
+    "group_es": "Cardio",
+    "group_en": "Cardio",
+    "equipment": "bodyweight",
+    "primary": [
+      "quadriceps",
+      "chest"
+    ],
+    "secondary": [
+      "gluteal",
+      "deltoids",
+      "triceps",
+      "abs"
+    ]
+  },
+  {
+    "slug": "crunch",
+    "es": "Crunch abdominal",
+    "en": "Abdominal crunch",
+    "group_es": "Core",
+    "group_en": "Core",
+    "equipment": "bodyweight",
+    "primary": [
+      "abs"
+    ],
+    "secondary": []
+  },
+  {
+    "slug": "legs-up-crunch",
+    "es": "Crunch con piernas elevadas",
+    "en": "Legs-up crunch",
+    "group_es": "Core",
+    "group_en": "Core",
+    "equipment": "bodyweight",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "quadriceps"
+    ]
+  },
+  {
+    "slug": "scissor-kicks",
+    "es": "Tijeras",
+    "en": "Scissor kicks",
+    "group_es": "Core",
+    "group_en": "Core",
+    "equipment": "bodyweight",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "quadriceps"
+    ]
+  },
+  {
+    "slug": "sit-ups",
+    "es": "Sit-up",
+    "en": "Sit-up",
+    "group_es": "Core",
+    "group_en": "Core",
+    "equipment": "bodyweight",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "quadriceps"
+    ]
+  },
+  {
+    "slug": "russian-twist",
+    "es": "Russian twist",
+    "en": "Russian twist",
+    "group_es": "Core",
+    "group_en": "Core",
+    "equipment": "bodyweight",
+    "primary": [
+      "obliques",
+      "abs"
+    ],
+    "secondary": []
+  },
+  {
+    "slug": "glute-bridge",
+    "es": "Puente de glúteo",
+    "en": "Glute bridge",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "bodyweight",
+    "primary": [
+      "gluteal"
+    ],
+    "secondary": [
+      "hamstring",
+      "abs"
+    ]
+  },
+  {
+    "slug": "side-plank-rotation",
+    "es": "Plancha lateral con rotación",
+    "en": "Side plank with rotation",
+    "group_es": "Core",
+    "group_en": "Core",
+    "equipment": "bodyweight",
+    "primary": [
+      "obliques",
+      "abs"
+    ],
+    "secondary": [
+      "deltoids"
+    ]
+  },
+  {
+    "slug": "superman",
+    "es": "Superman",
+    "en": "Superman",
+    "group_es": "Core",
+    "group_en": "Core",
+    "equipment": "bodyweight",
+    "primary": [
+      "lower-back"
+    ],
+    "secondary": [
+      "gluteal",
+      "deltoids"
+    ]
   }
 ]

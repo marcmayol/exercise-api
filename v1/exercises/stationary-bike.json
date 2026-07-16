@@ -1,0 +1,58 @@
+{
+  "slug": "stationary-bike",
+  "name": {
+    "es": "Bicicleta estática",
+    "en": "Stationary bike"
+  },
+  "group": {
+    "id": "cardio",
+    "es": "Cardio",
+    "en": "Cardio"
+  },
+  "equipment": {
+    "id": "cardio",
+    "es": "Cardio",
+    "en": "Cardio"
+  },
+  "primaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    },
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    },
+    {
+      "id": "calves",
+      "es": "Gemelos",
+      "en": "Calves"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta la altura del asiento para que tus piernas estén ligeramente dobladas al pedalear.",
+      "Coloca los pies en los pedales y ajusta las correas de seguridad si es necesario.",
+      "Comienza a pedalear a un ritmo cómodo, manteniendo la espalda recta y los hombros relajados."
+    ],
+    "en": [
+      "Adjust the seat height so your legs are slightly bent when pedaling.",
+      "Place your feet on the pedals and secure the straps if necessary.",
+      "Start pedaling at a comfortable pace, keeping your back straight and shoulders relaxed."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/stationary-bike-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/stationary-bike-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/stationary-bike.svg"
+}

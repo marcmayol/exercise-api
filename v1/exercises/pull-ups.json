@@ -1,0 +1,53 @@
+{
+  "slug": "pull-ups",
+  "name": {
+    "es": "Dominadas",
+    "en": "Pull-ups"
+  },
+  "group": {
+    "id": "back",
+    "es": "Espalda",
+    "en": "Back"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "upper-back",
+      "es": "Dorsal",
+      "en": "Upper back"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "biceps",
+      "es": "Bíceps",
+      "en": "Biceps"
+    },
+    {
+      "id": "forearm",
+      "es": "Antebrazo",
+      "en": "Forearm"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Agarra la barra con las palmas mirando hacia adelante, a la anchura de los hombros.",
+      "Cuelga completamente extendido, luego tira de tu cuerpo hacia arriba hasta que la barbilla pase la barra.",
+      "Baja controladamente hasta la posición inicial."
+    ],
+    "en": [
+      "Grab the bar with palms facing forward, shoulder-width apart.",
+      "Hang fully extended, then pull your body up until your chin clears the bar.",
+      "Lower yourself in a controlled manner back to the starting position."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/pull-ups-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/pull-ups-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/pull-ups.svg"
+}

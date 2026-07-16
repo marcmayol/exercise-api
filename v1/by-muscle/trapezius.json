@@ -4,7 +4,7 @@
     "es": "Trapecio",
     "en": "Trapezius"
   },
-  "count": 5,
+  "count": 6,
   "exercises": [
     {
       "slug": "seated-row-machine",
@@ -115,6 +115,28 @@
         "female": "https://marcmayol.com/exercise-api/images/barbell-row-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-row.json"
+    },
+    {
+      "slug": "deadlift",
+      "name": {
+        "es": "Peso muerto",
+        "en": "Deadlift"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/deadlift-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/deadlift-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/deadlift.json"
     }
   ]
 }

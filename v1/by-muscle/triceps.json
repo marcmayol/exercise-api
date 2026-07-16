@@ -4,7 +4,7 @@
     "es": "Tríceps",
     "en": "Triceps"
   },
-  "count": 11,
+  "count": 12,
   "exercises": [
     {
       "slug": "seated-chest-press",
@@ -247,6 +247,28 @@
         "female": "https://marcmayol.com/exercise-api/images/overhead-triceps-extension-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/overhead-triceps-extension.json"
+    },
+    {
+      "slug": "burpees",
+      "name": {
+        "es": "Burpees",
+        "en": "Burpees"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/burpees-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/burpees-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/burpees.json"
     }
   ]
 }

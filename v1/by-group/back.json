@@ -4,7 +4,7 @@
     "es": "Espalda",
     "en": "Back"
   },
-  "count": 7,
+  "count": 8,
   "exercises": [
     {
       "slug": "chest-pulldown",
@@ -159,6 +159,28 @@
         "female": "https://marcmayol.com/exercise-api/images/dumbbell-row-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-row.json"
+    },
+    {
+      "slug": "pull-ups",
+      "name": {
+        "es": "Dominadas",
+        "en": "Pull-ups"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/pull-ups-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/pull-ups-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/pull-ups.json"
     }
   ]
 }

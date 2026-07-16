@@ -1,0 +1,55 @@
+{
+  "slug": "side-plank-rotation",
+  "name": {
+    "es": "Plancha lateral con rotación",
+    "en": "Side plank with rotation"
+  },
+  "group": {
+    "id": "core",
+    "es": "Core",
+    "en": "Core"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "obliques",
+      "es": "Oblicuos",
+      "en": "Obliques"
+    },
+    {
+      "id": "abs",
+      "es": "Abdomen",
+      "en": "Abs"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Colócate en posición de plancha lateral con el antebrazo en el suelo y el cuerpo alineado.",
+      "Levanta la cadera para formar una línea recta desde los pies hasta la cabeza.",
+      "Extiende el brazo libre hacia el techo, luego llévalo lentamente por debajo del torso mientras giras el tronco.",
+      "Regresa a la posición inicial y repite antes de cambiar de lado."
+    ],
+    "en": [
+      "Get into a side plank position with your forearm on the ground and body aligned.",
+      "Lift your hips to form a straight line from feet to head.",
+      "Extend the free arm towards the ceiling, then slowly bring it under your torso while rotating your core.",
+      "Return to the starting position and repeat before switching sides."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/side-plank-rotation-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/side-plank-rotation-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/side-plank-rotation.svg"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "russian-twist",
+  "name": {
+    "es": "Russian twist",
+    "en": "Russian twist"
+  },
+  "group": {
+    "id": "core",
+    "es": "Core",
+    "en": "Core"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "obliques",
+      "es": "Oblicuos",
+      "en": "Obliques"
+    },
+    {
+      "id": "abs",
+      "es": "Abdomen",
+      "en": "Abs"
+    }
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "es": [
+      "Siéntate en el suelo con las rodillas dobladas y los pies ligeramente elevados.",
+      "Inclina el torso hacia atrás manteniendo la espalda recta, formando un ángulo de aproximadamente 45 grados.",
+      "Gira el torso hacia un lado, llevando las manos o un objeto hacia el suelo, luego repite hacia el lado opuesto."
+    ],
+    "en": [
+      "Sit on the floor with your knees bent and feet slightly elevated.",
+      "Lean your torso back while keeping your back straight, forming about a 45-degree angle.",
+      "Twist your torso to one side, bringing your hands or an object towards the floor, then repeat to the opposite side."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/russian-twist-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/russian-twist-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/russian-twist.svg"
+}

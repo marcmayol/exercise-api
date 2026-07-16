@@ -4,7 +4,7 @@
     "es": "Barra",
     "en": "Barbell"
   },
-  "count": 8,
+  "count": 9,
   "exercises": [
     {
       "slug": "barbell-hip-thrust",
@@ -181,6 +181,28 @@
         "female": "https://marcmayol.com/exercise-api/images/standing-calf-raises-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/standing-calf-raises.json"
+    },
+    {
+      "slug": "deadlift",
+      "name": {
+        "es": "Peso muerto",
+        "en": "Deadlift"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/deadlift-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/deadlift-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/deadlift.json"
     }
   ]
 }

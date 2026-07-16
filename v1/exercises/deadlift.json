@@ -1,0 +1,75 @@
+{
+  "slug": "deadlift",
+  "name": {
+    "es": "Peso muerto",
+    "en": "Deadlift"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "barbell",
+    "es": "Barra",
+    "en": "Barbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    },
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    },
+    {
+      "id": "lower-back",
+      "es": "Lumbar",
+      "en": "Lower back"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    },
+    {
+      "id": "trapezius",
+      "es": "Trapecio",
+      "en": "Trapezius"
+    },
+    {
+      "id": "upper-back",
+      "es": "Dorsal",
+      "en": "Upper back"
+    },
+    {
+      "id": "forearm",
+      "es": "Antebrazo",
+      "en": "Forearm"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Coloca los pies a la altura de los hombros y agarra la barra con un agarre por encima.",
+      "Mantén la espalda recta y levanta la barra extendiendo las caderas y rodillas.",
+      "Lleva la barra cerca del cuerpo mientras te pones de pie completamente.",
+      "Baja la barra controladamente hasta el suelo, manteniendo la forma."
+    ],
+    "en": [
+      "Place your feet shoulder-width apart and grip the bar with an overhand grip.",
+      "Keep your back straight and lift the bar by extending your hips and knees.",
+      "Keep the bar close to your body as you stand up fully.",
+      "Lower the bar back to the ground in a controlled manner, maintaining form."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/deadlift-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/deadlift-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/deadlift.svg"
+}

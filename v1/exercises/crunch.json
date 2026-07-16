@@ -1,0 +1,44 @@
+{
+  "slug": "crunch",
+  "name": {
+    "es": "Crunch abdominal",
+    "en": "Abdominal crunch"
+  },
+  "group": {
+    "id": "core",
+    "es": "Core",
+    "en": "Core"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "abs",
+      "es": "Abdomen",
+      "en": "Abs"
+    }
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "es": [
+      "Acuéstate boca arriba con las rodillas dobladas y los pies planos en el suelo.",
+      "Coloca las manos ligeramente detrás de la cabeza, sin tirar del cuello.",
+      "Contrae los músculos abdominales y eleva los hombros del suelo, manteniendo la parte baja de la espalda en contacto con el suelo.",
+      "Baja lentamente los hombros de nuevo al suelo y repite."
+    ],
+    "en": [
+      "Lie on your back with knees bent and feet flat on the floor.",
+      "Place your hands lightly behind your head, avoiding pulling on the neck.",
+      "Engage your abdominal muscles and lift your shoulders off the floor, keeping the lower back in contact with the ground.",
+      "Slowly lower your shoulders back to the floor and repeat."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/crunch-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/crunch-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/crunch.svg"
+}

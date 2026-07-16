@@ -4,7 +4,7 @@
     "es": "Glúteo",
     "en": "Glutes"
   },
-  "count": 8,
+  "count": 18,
   "exercises": [
     {
       "slug": "leg-press",
@@ -181,6 +181,226 @@
         "female": "https://marcmayol.com/exercise-api/images/bulgarian-split-squat-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/bulgarian-split-squat.json"
+    },
+    {
+      "slug": "bodyweight-squat",
+      "name": {
+        "es": "Sentadilla sin peso",
+        "en": "Bodyweight squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/bodyweight-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/bodyweight-squat-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/bodyweight-squat.json"
+    },
+    {
+      "slug": "hack-squat",
+      "name": {
+        "es": "Sentadilla en máquina (hack)",
+        "en": "Hack squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/hack-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/hack-squat-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/hack-squat.json"
+    },
+    {
+      "slug": "deadlift",
+      "name": {
+        "es": "Peso muerto",
+        "en": "Deadlift"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/deadlift-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/deadlift-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/deadlift.json"
+    },
+    {
+      "slug": "treadmill",
+      "name": {
+        "es": "Cinta de correr",
+        "en": "Treadmill"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/treadmill-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/treadmill-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/treadmill.json"
+    },
+    {
+      "slug": "elliptical",
+      "name": {
+        "es": "Elíptica",
+        "en": "Elliptical trainer"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/elliptical-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/elliptical-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/elliptical.json"
+    },
+    {
+      "slug": "stationary-bike",
+      "name": {
+        "es": "Bicicleta estática",
+        "en": "Stationary bike"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/stationary-bike-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/stationary-bike-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/stationary-bike.json"
+    },
+    {
+      "slug": "rowing-machine",
+      "name": {
+        "es": "Remo (cardio)",
+        "en": "Rowing machine"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/rowing-machine-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/rowing-machine-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/rowing-machine.json"
+    },
+    {
+      "slug": "burpees",
+      "name": {
+        "es": "Burpees",
+        "en": "Burpees"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/burpees-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/burpees-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/burpees.json"
+    },
+    {
+      "slug": "glute-bridge",
+      "name": {
+        "es": "Puente de glúteo",
+        "en": "Glute bridge"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/glute-bridge-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/glute-bridge-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/glute-bridge.json"
+    },
+    {
+      "slug": "superman",
+      "name": {
+        "es": "Superman",
+        "en": "Superman"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/superman-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/superman-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/superman.json"
     }
   ]
 }

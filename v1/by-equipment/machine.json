@@ -4,7 +4,7 @@
     "es": "Máquina",
     "en": "Machine"
   },
-  "count": 14,
+  "count": 15,
   "exercises": [
     {
       "slug": "seated-chest-press",
@@ -313,6 +313,28 @@
         "female": "https://marcmayol.com/exercise-api/images/neutral-grip-pulldown-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/neutral-grip-pulldown.json"
+    },
+    {
+      "slug": "hack-squat",
+      "name": {
+        "es": "Sentadilla en máquina (hack)",
+        "en": "Hack squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/hack-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/hack-squat-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/hack-squat.json"
     }
   ]
 }

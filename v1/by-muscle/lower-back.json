@@ -4,7 +4,7 @@
     "es": "Lumbar",
     "en": "Lower back"
   },
-  "count": 2,
+  "count": 4,
   "exercises": [
     {
       "slug": "plank",
@@ -49,6 +49,50 @@
         "female": "https://marcmayol.com/exercise-api/images/dead-bug-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/dead-bug.json"
+    },
+    {
+      "slug": "deadlift",
+      "name": {
+        "es": "Peso muerto",
+        "en": "Deadlift"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/deadlift-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/deadlift-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/deadlift.json"
+    },
+    {
+      "slug": "superman",
+      "name": {
+        "es": "Superman",
+        "en": "Superman"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/superman-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/superman-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/superman.json"
     }
   ]
 }

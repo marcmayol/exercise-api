@@ -1,0 +1,50 @@
+{
+  "slug": "scissor-kicks",
+  "name": {
+    "es": "Tijeras",
+    "en": "Scissor kicks"
+  },
+  "group": {
+    "id": "core",
+    "es": "Core",
+    "en": "Core"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "abs",
+      "es": "Abdomen",
+      "en": "Abs"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Acuéstate boca arriba con las piernas extendidas.",
+      "Coloca las manos debajo de los glúteos para mayor soporte.",
+      "Levanta ambas piernas unos centímetros del suelo.",
+      "Alterna el cruce de las piernas, una sobre la otra, manteniendo el abdomen contraído."
+    ],
+    "en": [
+      "Lie on your back with legs extended.",
+      "Place your hands under your glutes for support.",
+      "Lift both legs a few inches off the ground.",
+      "Alternate crossing your legs, one over the other, keeping your core engaged."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/scissor-kicks-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/scissor-kicks-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/scissor-kicks.svg"
+}

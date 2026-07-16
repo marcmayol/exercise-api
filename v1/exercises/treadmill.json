@@ -1,0 +1,59 @@
+{
+  "slug": "treadmill",
+  "name": {
+    "es": "Cinta de correr",
+    "en": "Treadmill"
+  },
+  "group": {
+    "id": "cardio",
+    "es": "Cardio",
+    "en": "Cardio"
+  },
+  "equipment": {
+    "id": "cardio",
+    "es": "Cardio",
+    "en": "Cardio"
+  },
+  "primaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    },
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    },
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    },
+    {
+      "id": "calves",
+      "es": "Gemelos",
+      "en": "Calves"
+    }
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "es": [
+      "Ajusta la velocidad e inclinación de la cinta a un nivel cómodo.",
+      "Mantén una postura erguida y relajada mientras caminas o corres.",
+      "Usa una zancada natural, aterrizando suavemente con el talón.",
+      "Mantén el ritmo constante y respira de manera regular."
+    ],
+    "en": [
+      "Set the treadmill speed and incline to a comfortable level.",
+      "Maintain an upright and relaxed posture while walking or running.",
+      "Use a natural stride, landing softly on your heel.",
+      "Keep a steady pace and breathe regularly."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/treadmill-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/treadmill-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/treadmill.svg"
+}

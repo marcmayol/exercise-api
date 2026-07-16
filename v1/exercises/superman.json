@@ -1,0 +1,55 @@
+{
+  "slug": "superman",
+  "name": {
+    "es": "Superman",
+    "en": "Superman"
+  },
+  "group": {
+    "id": "core",
+    "es": "Core",
+    "en": "Core"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "lower-back",
+      "es": "Lumbar",
+      "en": "Lower back"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    },
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Acuéstate boca abajo con los brazos extendidos frente a ti y las piernas rectas.",
+      "Inhala y levanta simultáneamente los brazos, el pecho y las piernas del suelo, manteniendo el cuello alineado.",
+      "Mantén la posición por unos segundos, sintiendo la contracción en la parte baja de la espalda.",
+      "Exhala y baja lentamente los brazos, el pecho y las piernas al suelo."
+    ],
+    "en": [
+      "Lie face down with your arms extended in front of you and legs straight.",
+      "Inhale and simultaneously lift your arms, chest, and legs off the ground, keeping your neck aligned.",
+      "Hold the position for a few seconds, feeling the contraction in your lower back.",
+      "Exhale and slowly lower your arms, chest, and legs back to the ground."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/superman-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/superman-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/superman.svg"
+}

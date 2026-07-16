@@ -4,7 +4,7 @@
     "es": "Peso corporal",
     "en": "Bodyweight"
   },
-  "count": 4,
+  "count": 15,
   "exercises": [
     {
       "slug": "box-squat",
@@ -93,6 +93,248 @@
         "female": "https://marcmayol.com/exercise-api/images/dead-bug-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/dead-bug.json"
+    },
+    {
+      "slug": "bodyweight-squat",
+      "name": {
+        "es": "Sentadilla sin peso",
+        "en": "Bodyweight squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/bodyweight-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/bodyweight-squat-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/bodyweight-squat.json"
+    },
+    {
+      "slug": "pull-ups",
+      "name": {
+        "es": "Dominadas",
+        "en": "Pull-ups"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/pull-ups-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/pull-ups-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/pull-ups.json"
+    },
+    {
+      "slug": "burpees",
+      "name": {
+        "es": "Burpees",
+        "en": "Burpees"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/burpees-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/burpees-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/burpees.json"
+    },
+    {
+      "slug": "crunch",
+      "name": {
+        "es": "Crunch abdominal",
+        "en": "Abdominal crunch"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/crunch-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/crunch-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/crunch.json"
+    },
+    {
+      "slug": "legs-up-crunch",
+      "name": {
+        "es": "Crunch con piernas elevadas",
+        "en": "Legs-up crunch"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/legs-up-crunch-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/legs-up-crunch-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/legs-up-crunch.json"
+    },
+    {
+      "slug": "scissor-kicks",
+      "name": {
+        "es": "Tijeras",
+        "en": "Scissor kicks"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/scissor-kicks-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/scissor-kicks-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/scissor-kicks.json"
+    },
+    {
+      "slug": "sit-ups",
+      "name": {
+        "es": "Sit-up",
+        "en": "Sit-up"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/sit-ups-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/sit-ups-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/sit-ups.json"
+    },
+    {
+      "slug": "russian-twist",
+      "name": {
+        "es": "Russian twist",
+        "en": "Russian twist"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/russian-twist-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/russian-twist-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/russian-twist.json"
+    },
+    {
+      "slug": "glute-bridge",
+      "name": {
+        "es": "Puente de glúteo",
+        "en": "Glute bridge"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/glute-bridge-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/glute-bridge-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/glute-bridge.json"
+    },
+    {
+      "slug": "side-plank-rotation",
+      "name": {
+        "es": "Plancha lateral con rotación",
+        "en": "Side plank with rotation"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/side-plank-rotation-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/side-plank-rotation-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/side-plank-rotation.json"
+    },
+    {
+      "slug": "superman",
+      "name": {
+        "es": "Superman",
+        "en": "Superman"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/superman-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/superman-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/superman.json"
     }
   ]
 }

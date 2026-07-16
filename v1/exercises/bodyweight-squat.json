@@ -1,0 +1,60 @@
+{
+  "slug": "bodyweight-squat",
+  "name": {
+    "es": "Sentadilla sin peso",
+    "en": "Bodyweight squat"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    },
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    },
+    {
+      "id": "calves",
+      "es": "Gemelos",
+      "en": "Calves"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Párate con los pies al ancho de los hombros.",
+      "Baja lentamente las caderas como si te fueras a sentar, manteniendo el pecho erguido.",
+      "Desciende hasta que los muslos estén paralelos al suelo.",
+      "Empuja a través de los talones para volver a la posición inicial."
+    ],
+    "en": [
+      "Stand with feet shoulder-width apart.",
+      "Slowly lower your hips as if sitting back, keeping your chest upright.",
+      "Descend until your thighs are parallel to the ground.",
+      "Push through your heels to return to the starting position."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/bodyweight-squat-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/bodyweight-squat-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/bodyweight-squat.svg"
+}

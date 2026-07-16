@@ -1,0 +1,55 @@
+{
+  "slug": "glute-bridge",
+  "name": {
+    "es": "Puente de glúteo",
+    "en": "Glute bridge"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    },
+    {
+      "id": "abs",
+      "es": "Abdomen",
+      "en": "Abs"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Acuéstate boca arriba con las rodillas dobladas y los pies apoyados en el suelo.",
+      "Coloca los brazos a los lados con las palmas hacia abajo.",
+      "Empuja con los talones y levanta las caderas hasta que el cuerpo forme una línea recta de los hombros a las rodillas.",
+      "Mantén la posición un momento y luego baja lentamente las caderas al suelo."
+    ],
+    "en": [
+      "Lie on your back with your knees bent and feet flat on the floor.",
+      "Place your arms by your sides with palms facing down.",
+      "Press through your heels and lift your hips until your body forms a straight line from shoulders to knees.",
+      "Hold the position briefly, then slowly lower your hips back to the floor."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/glute-bridge-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/glute-bridge-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/glute-bridge.svg"
+}

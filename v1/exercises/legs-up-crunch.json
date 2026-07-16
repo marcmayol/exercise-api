@@ -1,0 +1,50 @@
+{
+  "slug": "legs-up-crunch",
+  "name": {
+    "es": "Crunch con piernas elevadas",
+    "en": "Legs-up crunch"
+  },
+  "group": {
+    "id": "core",
+    "es": "Core",
+    "en": "Core"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "abs",
+      "es": "Abdomen",
+      "en": "Abs"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Acuéstate boca arriba con las piernas elevadas y las rodillas ligeramente dobladas.",
+      "Coloca las manos detrás de la cabeza, manteniendo los codos abiertos.",
+      "Contrae los abdominales y levanta los hombros del suelo, acercando el pecho hacia las rodillas.",
+      "Baja lentamente los hombros al suelo sin dejar caer las piernas."
+    ],
+    "en": [
+      "Lie on your back with your legs raised and knees slightly bent.",
+      "Place your hands behind your head, keeping your elbows open.",
+      "Engage your abs and lift your shoulders off the floor, bringing your chest towards your knees.",
+      "Slowly lower your shoulders back to the floor without dropping your legs."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/legs-up-crunch-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/legs-up-crunch-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/legs-up-crunch.svg"
+}

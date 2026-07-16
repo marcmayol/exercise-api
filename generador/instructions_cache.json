@@ -560,5 +560,235 @@
       "2. Keep your back straight and core engaged as you slowly rise onto the balls of your feet.",
       "3. Hold the elevated position for a second, then lower your heels in a controlled manner."
     ]
+  },
+  "bodyweight-squat": {
+    "es": [
+      "Párate con los pies al ancho de los hombros.",
+      "Baja lentamente las caderas como si te fueras a sentar, manteniendo el pecho erguido.",
+      "Desciende hasta que los muslos estén paralelos al suelo.",
+      "Empuja a través de los talones para volver a la posición inicial."
+    ],
+    "en": [
+      "Stand with feet shoulder-width apart.",
+      "Slowly lower your hips as if sitting back, keeping your chest upright.",
+      "Descend until your thighs are parallel to the ground.",
+      "Push through your heels to return to the starting position."
+    ]
+  },
+  "hack-squat": {
+    "es": [
+      "Coloca los pies a la anchura de los hombros en la plataforma de la máquina hack squat.",
+      "Desciende lentamente doblando las rodillas hasta que los muslos estén paralelos al suelo.",
+      "Empuja con los talones para volver a la posición inicial, manteniendo la espalda recta."
+    ],
+    "en": [
+      "Place your feet shoulder-width apart on the platform of the hack squat machine.",
+      "Slowly lower yourself by bending your knees until your thighs are parallel to the floor.",
+      "Push through your heels to return to the starting position, keeping your back straight."
+    ]
+  },
+  "deadlift": {
+    "es": [
+      "Coloca los pies a la altura de los hombros y agarra la barra con un agarre por encima.",
+      "Mantén la espalda recta y levanta la barra extendiendo las caderas y rodillas.",
+      "Lleva la barra cerca del cuerpo mientras te pones de pie completamente.",
+      "Baja la barra controladamente hasta el suelo, manteniendo la forma."
+    ],
+    "en": [
+      "Place your feet shoulder-width apart and grip the bar with an overhand grip.",
+      "Keep your back straight and lift the bar by extending your hips and knees.",
+      "Keep the bar close to your body as you stand up fully.",
+      "Lower the bar back to the ground in a controlled manner, maintaining form."
+    ]
+  },
+  "pull-ups": {
+    "es": [
+      "Agarra la barra con las palmas mirando hacia adelante, a la anchura de los hombros.",
+      "Cuelga completamente extendido, luego tira de tu cuerpo hacia arriba hasta que la barbilla pase la barra.",
+      "Baja controladamente hasta la posición inicial."
+    ],
+    "en": [
+      "Grab the bar with palms facing forward, shoulder-width apart.",
+      "Hang fully extended, then pull your body up until your chin clears the bar.",
+      "Lower yourself in a controlled manner back to the starting position."
+    ]
+  },
+  "treadmill": {
+    "es": [
+      "Ajusta la velocidad e inclinación de la cinta a un nivel cómodo.",
+      "Mantén una postura erguida y relajada mientras caminas o corres.",
+      "Usa una zancada natural, aterrizando suavemente con el talón.",
+      "Mantén el ritmo constante y respira de manera regular."
+    ],
+    "en": [
+      "Set the treadmill speed and incline to a comfortable level.",
+      "Maintain an upright and relaxed posture while walking or running.",
+      "Use a natural stride, landing softly on your heel.",
+      "Keep a steady pace and breathe regularly."
+    ]
+  },
+  "elliptical": {
+    "es": [
+      "Ajusta la resistencia y la inclinación a un nivel cómodo.",
+      "Coloca los pies en los pedales y agarra las manijas.",
+      "Comienza a mover los pies en un movimiento elíptico, manteniendo una postura erguida.",
+      "Aumenta gradualmente la velocidad y resistencia según tu nivel de condición física."
+    ],
+    "en": [
+      "Adjust the resistance and incline to a comfortable level.",
+      "Place your feet on the pedals and grip the handles.",
+      "Start moving your feet in an elliptical motion, maintaining an upright posture.",
+      "Gradually increase speed and resistance according to your fitness level."
+    ]
+  },
+  "stationary-bike": {
+    "es": [
+      "Ajusta la altura del asiento para que tus piernas estén ligeramente dobladas al pedalear.",
+      "Coloca los pies en los pedales y ajusta las correas de seguridad si es necesario.",
+      "Comienza a pedalear a un ritmo cómodo, manteniendo la espalda recta y los hombros relajados."
+    ],
+    "en": [
+      "Adjust the seat height so your legs are slightly bent when pedaling.",
+      "Place your feet on the pedals and secure the straps if necessary.",
+      "Start pedaling at a comfortable pace, keeping your back straight and shoulders relaxed."
+    ]
+  },
+  "rowing-machine": {
+    "es": [
+      "Ajusta el asiento y la resistencia a tu nivel.",
+      "Coloca los pies en los pedales y sujeta el mango con ambas manos.",
+      "Empuja con las piernas mientras tiras del mango hacia tu pecho.",
+      "Regresa a la posición inicial extendiendo los brazos y doblando las rodillas."
+    ],
+    "en": [
+      "Adjust the seat and resistance to your level.",
+      "Place your feet on the pedals and grip the handle with both hands.",
+      "Push with your legs while pulling the handle towards your chest.",
+      "Return to the starting position by extending your arms and bending your knees."
+    ]
+  },
+  "burpees": {
+    "es": [
+      "Comienza de pie con los pies separados al ancho de los hombros.",
+      "Baja en cuclillas y coloca las manos en el suelo frente a ti.",
+      "Salta con los pies hacia atrás para entrar en posición de plancha.",
+      "Realiza una flexión de brazos, luego salta con los pies hacia adelante y levántate de un salto."
+    ],
+    "en": [
+      "Start standing with feet shoulder-width apart.",
+      "Squat down and place your hands on the floor in front of you.",
+      "Jump your feet back to enter a plank position.",
+      "Perform a push-up, then jump your feet forward and rise up with a jump."
+    ]
+  },
+  "crunch": {
+    "es": [
+      "Acuéstate boca arriba con las rodillas dobladas y los pies planos en el suelo.",
+      "Coloca las manos ligeramente detrás de la cabeza, sin tirar del cuello.",
+      "Contrae los músculos abdominales y eleva los hombros del suelo, manteniendo la parte baja de la espalda en contacto con el suelo.",
+      "Baja lentamente los hombros de nuevo al suelo y repite."
+    ],
+    "en": [
+      "Lie on your back with knees bent and feet flat on the floor.",
+      "Place your hands lightly behind your head, avoiding pulling on the neck.",
+      "Engage your abdominal muscles and lift your shoulders off the floor, keeping the lower back in contact with the ground.",
+      "Slowly lower your shoulders back to the floor and repeat."
+    ]
+  },
+  "legs-up-crunch": {
+    "es": [
+      "Acuéstate boca arriba con las piernas elevadas y las rodillas ligeramente dobladas.",
+      "Coloca las manos detrás de la cabeza, manteniendo los codos abiertos.",
+      "Contrae los abdominales y levanta los hombros del suelo, acercando el pecho hacia las rodillas.",
+      "Baja lentamente los hombros al suelo sin dejar caer las piernas."
+    ],
+    "en": [
+      "Lie on your back with your legs raised and knees slightly bent.",
+      "Place your hands behind your head, keeping your elbows open.",
+      "Engage your abs and lift your shoulders off the floor, bringing your chest towards your knees.",
+      "Slowly lower your shoulders back to the floor without dropping your legs."
+    ]
+  },
+  "scissor-kicks": {
+    "es": [
+      "Acuéstate boca arriba con las piernas extendidas.",
+      "Coloca las manos debajo de los glúteos para mayor soporte.",
+      "Levanta ambas piernas unos centímetros del suelo.",
+      "Alterna el cruce de las piernas, una sobre la otra, manteniendo el abdomen contraído."
+    ],
+    "en": [
+      "Lie on your back with legs extended.",
+      "Place your hands under your glutes for support.",
+      "Lift both legs a few inches off the ground.",
+      "Alternate crossing your legs, one over the other, keeping your core engaged."
+    ]
+  },
+  "sit-ups": {
+    "es": [
+      "Acuéstate boca arriba con las rodillas dobladas y los pies planos en el suelo.",
+      "Coloca las manos detrás de la cabeza sin entrelazar los dedos.",
+      "Levanta el torso hacia las rodillas usando los músculos abdominales, manteniendo la espalda recta.",
+      "Baja lentamente a la posición inicial sin dejar caer el cuerpo."
+    ],
+    "en": [
+      "Lie on your back with knees bent and feet flat on the floor.",
+      "Place your hands behind your head without interlocking your fingers.",
+      "Lift your torso towards your knees using your abdominal muscles, keeping your back straight.",
+      "Slowly lower back to the starting position without dropping your body."
+    ]
+  },
+  "russian-twist": {
+    "es": [
+      "Siéntate en el suelo con las rodillas dobladas y los pies ligeramente elevados.",
+      "Inclina el torso hacia atrás manteniendo la espalda recta, formando un ángulo de aproximadamente 45 grados.",
+      "Gira el torso hacia un lado, llevando las manos o un objeto hacia el suelo, luego repite hacia el lado opuesto."
+    ],
+    "en": [
+      "Sit on the floor with your knees bent and feet slightly elevated.",
+      "Lean your torso back while keeping your back straight, forming about a 45-degree angle.",
+      "Twist your torso to one side, bringing your hands or an object towards the floor, then repeat to the opposite side."
+    ]
+  },
+  "glute-bridge": {
+    "es": [
+      "Acuéstate boca arriba con las rodillas dobladas y los pies apoyados en el suelo.",
+      "Coloca los brazos a los lados con las palmas hacia abajo.",
+      "Empuja con los talones y levanta las caderas hasta que el cuerpo forme una línea recta de los hombros a las rodillas.",
+      "Mantén la posición un momento y luego baja lentamente las caderas al suelo."
+    ],
+    "en": [
+      "Lie on your back with your knees bent and feet flat on the floor.",
+      "Place your arms by your sides with palms facing down.",
+      "Press through your heels and lift your hips until your body forms a straight line from shoulders to knees.",
+      "Hold the position briefly, then slowly lower your hips back to the floor."
+    ]
+  },
+  "side-plank-rotation": {
+    "es": [
+      "Colócate en posición de plancha lateral con el antebrazo en el suelo y el cuerpo alineado.",
+      "Levanta la cadera para formar una línea recta desde los pies hasta la cabeza.",
+      "Extiende el brazo libre hacia el techo, luego llévalo lentamente por debajo del torso mientras giras el tronco.",
+      "Regresa a la posición inicial y repite antes de cambiar de lado."
+    ],
+    "en": [
+      "Get into a side plank position with your forearm on the ground and body aligned.",
+      "Lift your hips to form a straight line from feet to head.",
+      "Extend the free arm towards the ceiling, then slowly bring it under your torso while rotating your core.",
+      "Return to the starting position and repeat before switching sides."
+    ]
+  },
+  "superman": {
+    "es": [
+      "Acuéstate boca abajo con los brazos extendidos frente a ti y las piernas rectas.",
+      "Inhala y levanta simultáneamente los brazos, el pecho y las piernas del suelo, manteniendo el cuello alineado.",
+      "Mantén la posición por unos segundos, sintiendo la contracción en la parte baja de la espalda.",
+      "Exhala y baja lentamente los brazos, el pecho y las piernas al suelo."
+    ],
+    "en": [
+      "Lie face down with your arms extended in front of you and legs straight.",
+      "Inhale and simultaneously lift your arms, chest, and legs off the ground, keeping your neck aligned.",
+      "Hold the position for a few seconds, feeling the contraction in your lower back.",
+      "Exhale and slowly lower your arms, chest, and legs back to the ground."
+    ]
   }
 }

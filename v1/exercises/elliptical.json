@@ -1,0 +1,65 @@
+{
+  "slug": "elliptical",
+  "name": {
+    "es": "Elíptica",
+    "en": "Elliptical trainer"
+  },
+  "group": {
+    "id": "cardio",
+    "es": "Cardio",
+    "en": "Cardio"
+  },
+  "equipment": {
+    "id": "cardio",
+    "es": "Cardio",
+    "en": "Cardio"
+  },
+  "primaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    },
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    },
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "calves",
+      "es": "Gemelos",
+      "en": "Calves"
+    },
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta la resistencia y la inclinación a un nivel cómodo.",
+      "Coloca los pies en los pedales y agarra las manijas.",
+      "Comienza a mover los pies en un movimiento elíptico, manteniendo una postura erguida.",
+      "Aumenta gradualmente la velocidad y resistencia según tu nivel de condición física."
+    ],
+    "en": [
+      "Adjust the resistance and incline to a comfortable level.",
+      "Place your feet on the pedals and grip the handles.",
+      "Start moving your feet in an elliptical motion, maintaining an upright posture.",
+      "Gradually increase speed and resistance according to your fitness level."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/elliptical-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/elliptical-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/elliptical.svg"
+}

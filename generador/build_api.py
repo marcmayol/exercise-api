@@ -27,7 +27,7 @@ MUSCLES = {
 EQUIP = {  # tipos de equipamiento (ES/EN)
   "machine":{"es":"Máquina","en":"Machine"}, "cable":{"es":"Polea","en":"Cable"},
   "barbell":{"es":"Barra","en":"Barbell"}, "dumbbell":{"es":"Mancuerna","en":"Dumbbell"},
-  "bodyweight":{"es":"Peso corporal","en":"Bodyweight"},
+  "bodyweight":{"es":"Peso corporal","en":"Bodyweight"}, "cardio":{"es":"Cardio","en":"Cardio"},
 }
 EQUIPMENT = {  # slug -> tipo de equipamiento
   "seated-chest-press":"machine","incline-chest-press-machine":"machine","butterflies":"machine",

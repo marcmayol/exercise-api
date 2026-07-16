@@ -1,0 +1,70 @@
+{
+  "slug": "rowing-machine",
+  "name": {
+    "es": "Remo (cardio)",
+    "en": "Rowing machine"
+  },
+  "group": {
+    "id": "cardio",
+    "es": "Cardio",
+    "en": "Cardio"
+  },
+  "equipment": {
+    "id": "cardio",
+    "es": "Cardio",
+    "en": "Cardio"
+  },
+  "primaryMuscles": [
+    {
+      "id": "upper-back",
+      "es": "Dorsal",
+      "en": "Upper back"
+    },
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "biceps",
+      "es": "Bíceps",
+      "en": "Biceps"
+    },
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    },
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    },
+    {
+      "id": "forearm",
+      "es": "Antebrazo",
+      "en": "Forearm"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta el asiento y la resistencia a tu nivel.",
+      "Coloca los pies en los pedales y sujeta el mango con ambas manos.",
+      "Empuja con las piernas mientras tiras del mango hacia tu pecho.",
+      "Regresa a la posición inicial extendiendo los brazos y doblando las rodillas."
+    ],
+    "en": [
+      "Adjust the seat and resistance to your level.",
+      "Place your feet on the pedals and grip the handle with both hands.",
+      "Push with your legs while pulling the handle towards your chest.",
+      "Return to the starting position by extending your arms and bending your knees."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/rowing-machine-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/rowing-machine-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/rowing-machine.svg"
+}

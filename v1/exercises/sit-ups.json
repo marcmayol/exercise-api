@@ -1,0 +1,50 @@
+{
+  "slug": "sit-ups",
+  "name": {
+    "es": "Sit-up",
+    "en": "Sit-up"
+  },
+  "group": {
+    "id": "core",
+    "es": "Core",
+    "en": "Core"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "abs",
+      "es": "Abdomen",
+      "en": "Abs"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Acuéstate boca arriba con las rodillas dobladas y los pies planos en el suelo.",
+      "Coloca las manos detrás de la cabeza sin entrelazar los dedos.",
+      "Levanta el torso hacia las rodillas usando los músculos abdominales, manteniendo la espalda recta.",
+      "Baja lentamente a la posición inicial sin dejar caer el cuerpo."
+    ],
+    "en": [
+      "Lie on your back with knees bent and feet flat on the floor.",
+      "Place your hands behind your head without interlocking your fingers.",
+      "Lift your torso towards your knees using your abdominal muscles, keeping your back straight.",
+      "Slowly lower back to the starting position without dropping your body."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/sit-ups-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/sit-ups-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/sit-ups.svg"
+}
