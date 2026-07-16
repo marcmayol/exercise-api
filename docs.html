@@ -50,7 +50,7 @@
     <span class="mono" style="font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:#8A8A96">Exercise API · docs</span>
   </a>
   <div style="margin-left:auto;display:flex;gap:8px;align-items:center">
-    <a href="v1/dataset.json" download="exercise-api-dataset.json" class="chip" style="display:inline-block;background:#FF6A3D;color:#0E0E12;border-color:#FF6A3D">⬇ Dataset</a>
+    <a href="exercise-api-dataset.zip" download class="chip" style="display:inline-block;background:#FF6A3D;color:#0E0E12;border-color:#FF6A3D">⬇ ZIP</a>
     <a href="index.html" class="chip" id="nav-home" style="display:inline-block">← API</a>
     <button class="chip on" id="l-es" onclick="setLang('es')">ES</button>
     <button class="chip" id="l-en" onclick="setLang('en')">EN</button>
@@ -147,7 +147,8 @@ const FIELDS=[
 
 // Endpoints: [método, ruta, {es,en}, hrefEjemplo, textoEjemplo]
 const EPS=[
-  ['GET','/v1/dataset.json',{es:'Dataset completo: todas las fichas + taxonomías en un solo archivo (descarga directa).',en:'Full dataset: all exercises + taxonomies in a single file (direct download).'},'v1/dataset.json','dataset.json'],
+  ['GET','/exercise-api-dataset.zip',{es:'Descarga TODO en un ZIP: dataset + 146 ilustraciones JPG + 73 mapas SVG.',en:'Download EVERYTHING as a ZIP: dataset + 146 JPG illustrations + 73 SVG maps.'},'exercise-api-dataset.zip','.zip · 10 MB'],
+  ['GET','/v1/dataset.json',{es:'Dataset completo: todas las fichas + taxonomías en un solo archivo JSON.',en:'Full dataset: all exercises + taxonomies in a single JSON file.'},'v1/dataset.json','dataset.json'],
   ['GET','/v1/exercises.json',{es:'Índice de todos los ejercicios (objetos resumidos).',en:'Index of all exercises (summary objects).'},'v1/exercises.json','exercises.json'],
   ['GET','/v1/exercises/{slug}.json',{es:'Ficha completa de un ejercicio.',en:'Full detail of one exercise.'},'v1/exercises/leg-press.json','leg-press.json'],
   ['GET','/v1/muscles.json',{es:'Taxonomía de músculos (ES/EN).',en:'Muscle taxonomy (ES/EN).'},'v1/muscles.json','muscles.json'],
