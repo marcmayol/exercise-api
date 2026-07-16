@@ -34,6 +34,9 @@ def main():
     n = 0
     with zipfile.ZipFile(OUT, "w", zipfile.ZIP_DEFLATED, compresslevel=9) as z:
         z.writestr("README.txt", readme)
+        for lic in ("LICENSE", "THIRD-PARTY-LICENSES.txt"):
+            fp = os.path.join(ROOT, lic)
+            if os.path.exists(fp): z.write(fp, lic); n += 1
         for d in DIRS:
             base = os.path.join(ROOT, d)
             for root, _, files in os.walk(base):
