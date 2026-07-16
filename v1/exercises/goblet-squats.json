@@ -31,6 +31,11 @@
       "id": "abs",
       "es": "Abdomen",
       "en": "Abs"
+    },
+    {
+      "id": "adductors",
+      "es": "Aductores",
+      "en": "Adductors"
     }
   ],
   "instructions": {

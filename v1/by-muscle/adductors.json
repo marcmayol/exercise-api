@@ -1,0 +1,98 @@
+{
+  "muscle": {
+    "id": "adductors",
+    "es": "Aductores",
+    "en": "Adductors"
+  },
+  "count": 4,
+  "exercises": [
+    {
+      "slug": "goblet-squats",
+      "name": {
+        "es": "Sentadilla goblet",
+        "en": "Goblet squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/goblet-squats-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/goblet-squats-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/goblet-squats.json"
+    },
+    {
+      "slug": "bodyweight-squat",
+      "name": {
+        "es": "Sentadilla sin peso",
+        "en": "Bodyweight squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/bodyweight-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/bodyweight-squat-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/bodyweight-squat.json"
+    },
+    {
+      "slug": "dumbbell-lunges",
+      "name": {
+        "es": "Zancadas con mancuernas",
+        "en": "Dumbbell lunges"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dumbbell-lunges-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dumbbell-lunges-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-lunges.json"
+    },
+    {
+      "slug": "hip-adduction",
+      "name": {
+        "es": "Aductores en máquina",
+        "en": "Hip adduction machine"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/hip-adduction-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/hip-adduction-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/hip-adduction.json"
+    }
+  ]
+}

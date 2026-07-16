@@ -4,7 +4,7 @@
     "es": "Cuádriceps",
     "en": "Quadriceps"
   },
-  "count": 25,
+  "count": 24,
   "exercises": [
     {
       "slug": "leg-press",
@@ -445,28 +445,6 @@
         "female": "https://marcmayol.com/exercise-api/images/dumbbell-lunges-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-lunges.json"
-    },
-    {
-      "slug": "hip-adduction",
-      "name": {
-        "es": "Aductores en máquina",
-        "en": "Hip adduction machine"
-      },
-      "group": {
-        "id": "legs",
-        "es": "Piernas",
-        "en": "Legs"
-      },
-      "equipment": {
-        "id": "machine",
-        "es": "Máquina",
-        "en": "Machine"
-      },
-      "image": {
-        "male": "https://marcmayol.com/exercise-api/images/hip-adduction-m.jpg",
-        "female": "https://marcmayol.com/exercise-api/images/hip-adduction-f.jpg"
-      },
-      "url": "https://marcmayol.com/exercise-api/v1/exercises/hip-adduction.json"
     },
     {
       "slug": "ski-erg",

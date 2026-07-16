@@ -22,6 +22,7 @@ MUSCLES = {
   "trapezius":{"es":"Trapecio","en":"Trapezius"}, "lower-back":{"es":"Lumbar","en":"Lower back"},
   "gluteal":{"es":"Glúteo","en":"Glutes"}, "quadriceps":{"es":"Cuádriceps","en":"Quadriceps"},
   "hamstring":{"es":"Femoral","en":"Hamstrings"}, "calves":{"es":"Gemelos","en":"Calves"},
+  "adductors":{"es":"Aductores","en":"Adductors"},
 }
 
 EQUIP = {  # tipos de equipamiento (ES/EN)

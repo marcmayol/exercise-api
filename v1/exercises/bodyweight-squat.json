@@ -36,6 +36,11 @@
       "id": "calves",
       "es": "Gemelos",
       "en": "Calves"
+    },
+    {
+      "id": "adductors",
+      "es": "Aductores",
+      "en": "Adductors"
     }
   ],
   "instructions": {

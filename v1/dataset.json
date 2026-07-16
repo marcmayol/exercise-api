@@ -118,6 +118,11 @@
       "id": "calves",
       "es": "Gemelos",
       "en": "Calves"
+    },
+    {
+      "id": "adductors",
+      "es": "Aductores",
+      "en": "Adductors"
     }
   ],
   "equipment": [
@@ -1349,6 +1354,11 @@
           "id": "abs",
           "es": "Abdomen",
           "en": "Abs"
+        },
+        {
+          "id": "adductors",
+          "es": "Aductores",
+          "en": "Adductors"
         }
       ],
       "instructions": {
@@ -2452,6 +2462,11 @@
           "id": "calves",
           "es": "Gemelos",
           "en": "Calves"
+        },
+        {
+          "id": "adductors",
+          "es": "Aductores",
+          "en": "Adductors"
         }
       ],
       "instructions": {
@@ -3736,6 +3751,11 @@
           "id": "calves",
           "es": "Gemelos",
           "en": "Calves"
+        },
+        {
+          "id": "adductors",
+          "es": "Aductores",
+          "en": "Adductors"
         }
       ],
       "instructions": {
@@ -3826,18 +3846,12 @@
       },
       "primaryMuscles": [
         {
-          "id": "quadriceps",
-          "es": "Cuádriceps",
-          "en": "Quadriceps"
+          "id": "adductors",
+          "es": "Aductores",
+          "en": "Adductors"
         }
       ],
-      "secondaryMuscles": [
-        {
-          "id": "gluteal",
-          "es": "Glúteo",
-          "en": "Glutes"
-        }
-      ],
+      "secondaryMuscles": [],
       "instructions": {
         "es": [
           "Ajusta el asiento y las almohadillas para que se adapten a tus piernas.",
