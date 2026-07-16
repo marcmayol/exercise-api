@@ -10,7 +10,7 @@
     "id": "back",
     "es": "Espalda",
     "en": "Back",
-    "count": 8,
+    "count": 9,
     "url": "https://marcmayol.com/exercise-api/v1/by-group/back.json"
   },
   {
@@ -24,28 +24,28 @@
     "id": "arms",
     "es": "Brazos",
     "en": "Arms",
-    "count": 6,
+    "count": 8,
     "url": "https://marcmayol.com/exercise-api/v1/by-group/arms.json"
   },
   {
     "id": "legs",
     "es": "Piernas",
     "en": "Legs",
-    "count": 16,
+    "count": 23,
     "url": "https://marcmayol.com/exercise-api/v1/by-group/legs.json"
   },
   {
     "id": "core",
     "es": "Core",
     "en": "Core",
-    "count": 10,
+    "count": 11,
     "url": "https://marcmayol.com/exercise-api/v1/by-group/core.json"
   },
   {
     "id": "cardio",
     "es": "Cardio",
     "en": "Cardio",
-    "count": 5,
+    "count": 7,
     "url": "https://marcmayol.com/exercise-api/v1/by-group/cardio.json"
   }
 ]

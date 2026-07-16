@@ -565,8 +565,8 @@
   },
   {
     "slug": "hack-squat",
-    "es": "Sentadilla en máquina (hack)",
-    "en": "Hack squat",
+    "es": "Sentadilla hack vertical",
+    "en": "Hack squat (upright)",
     "group_es": "Piernas",
     "group_en": "Legs",
     "equipment": "machine",
@@ -838,5 +838,200 @@
       "lower-back",
       "forearm"
     ]
+  },
+  {
+    "slug": "front-squat",
+    "es": "Sentadilla frontal",
+    "en": "Front squat",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "barbell",
+    "primary": [
+      "quadriceps",
+      "gluteal"
+    ],
+    "secondary": [
+      "abs",
+      "upper-back"
+    ]
+  },
+  {
+    "slug": "step-up",
+    "es": "Step-up con peso",
+    "en": "Weighted step-up",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "dumbbell",
+    "primary": [
+      "quadriceps",
+      "gluteal"
+    ],
+    "secondary": [
+      "hamstring",
+      "calves"
+    ]
+  },
+  {
+    "slug": "dumbbell-lunges",
+    "es": "Zancadas con mancuernas",
+    "en": "Dumbbell lunges",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "dumbbell",
+    "primary": [
+      "quadriceps",
+      "gluteal"
+    ],
+    "secondary": [
+      "hamstring",
+      "calves"
+    ]
+  },
+  {
+    "slug": "hip-abduction",
+    "es": "Abductores en máquina",
+    "en": "Hip abduction machine",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "machine",
+    "primary": [
+      "gluteal"
+    ],
+    "secondary": []
+  },
+  {
+    "slug": "hip-adduction",
+    "es": "Aductores en máquina",
+    "en": "Hip adduction machine",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "machine",
+    "primary": [
+      "quadriceps"
+    ],
+    "secondary": [
+      "gluteal"
+    ]
+  },
+  {
+    "slug": "t-bar-row",
+    "es": "Remo en T",
+    "en": "T-bar row",
+    "group_es": "Espalda",
+    "group_en": "Back",
+    "equipment": "barbell",
+    "primary": [
+      "upper-back"
+    ],
+    "secondary": [
+      "biceps",
+      "forearm",
+      "trapezius"
+    ]
+  },
+  {
+    "slug": "skull-crusher",
+    "es": "Press francés",
+    "en": "Lying triceps extension (skull crusher)",
+    "group_es": "Brazos",
+    "group_en": "Arms",
+    "equipment": "barbell",
+    "primary": [
+      "triceps"
+    ],
+    "secondary": []
+  },
+  {
+    "slug": "preacher-curl",
+    "es": "Curl predicador",
+    "en": "Preacher curl",
+    "group_es": "Brazos",
+    "group_en": "Arms",
+    "equipment": "barbell",
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearm"
+    ]
+  },
+  {
+    "slug": "ski-erg",
+    "es": "Máquina de esquí",
+    "en": "Ski machine (SkiErg)",
+    "group_es": "Cardio",
+    "group_en": "Cardio",
+    "equipment": "cardio",
+    "primary": [
+      "upper-back",
+      "triceps"
+    ],
+    "secondary": [
+      "abs",
+      "deltoids",
+      "quadriceps"
+    ]
+  },
+  {
+    "slug": "air-bike",
+    "es": "Bicicleta de aire (assault bike)",
+    "en": "Air bike (assault bike)",
+    "group_es": "Cardio",
+    "group_en": "Cardio",
+    "equipment": "cardio",
+    "primary": [
+      "quadriceps",
+      "hamstring",
+      "upper-back"
+    ],
+    "secondary": [
+      "deltoids",
+      "biceps",
+      "triceps",
+      "abs"
+    ]
+  },
+  {
+    "slug": "machine-hip-thrust",
+    "es": "Hip thrust en máquina",
+    "en": "Machine hip thrust",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "machine",
+    "primary": [
+      "gluteal"
+    ],
+    "secondary": [
+      "hamstring",
+      "quadriceps"
+    ]
+  },
+  {
+    "slug": "sled-hack-squat",
+    "es": "Sentadilla hack en trineo (45°)",
+    "en": "Sled hack squat (45°)",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "machine",
+    "primary": [
+      "quadriceps",
+      "gluteal"
+    ],
+    "secondary": [
+      "hamstring"
+    ]
+  },
+  {
+    "slug": "bicycle-crunch",
+    "es": "Bicicleta abdominal",
+    "en": "Bicycle crunch",
+    "group_es": "Core",
+    "group_en": "Core",
+    "equipment": "bodyweight",
+    "primary": [
+      "abs",
+      "obliques"
+    ],
+    "secondary": []
   }
 ]

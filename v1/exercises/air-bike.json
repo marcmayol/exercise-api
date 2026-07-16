@@ -1,0 +1,75 @@
+{
+  "slug": "air-bike",
+  "name": {
+    "es": "Bicicleta de aire (assault bike)",
+    "en": "Air bike (assault bike)"
+  },
+  "group": {
+    "id": "cardio",
+    "es": "Cardio",
+    "en": "Cardio"
+  },
+  "equipment": {
+    "id": "cardio",
+    "es": "Cardio",
+    "en": "Cardio"
+  },
+  "primaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    },
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    },
+    {
+      "id": "upper-back",
+      "es": "Dorsal",
+      "en": "Upper back"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    },
+    {
+      "id": "biceps",
+      "es": "Bíceps",
+      "en": "Biceps"
+    },
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    },
+    {
+      "id": "abs",
+      "es": "Abdomen",
+      "en": "Abs"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta la altura del asiento para que tus pies alcancen cómodamente los pedales.",
+      "Coloca tus manos en los manillares y siéntate erguido.",
+      "Comienza a pedalear mientras empujas y tiras de los manillares al mismo tiempo.",
+      "Mantén un ritmo constante y controla tu respiración."
+    ],
+    "en": [
+      "Adjust the seat height so your feet comfortably reach the pedals.",
+      "Place your hands on the handlebars and sit upright.",
+      "Start pedaling while simultaneously pushing and pulling the handlebars.",
+      "Maintain a steady pace and control your breathing."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/air-bike-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/air-bike-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/air-bike.svg"
+}

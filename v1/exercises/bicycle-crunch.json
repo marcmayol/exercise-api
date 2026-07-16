@@ -1,0 +1,47 @@
+{
+  "slug": "bicycle-crunch",
+  "name": {
+    "es": "Bicicleta abdominal",
+    "en": "Bicycle crunch"
+  },
+  "group": {
+    "id": "core",
+    "es": "Core",
+    "en": "Core"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "abs",
+      "es": "Abdomen",
+      "en": "Abs"
+    },
+    {
+      "id": "obliques",
+      "es": "Oblicuos",
+      "en": "Obliques"
+    }
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "es": [
+      "Acuéstate boca arriba con las manos detrás de la cabeza y las piernas levantadas.",
+      "Lleva el codo derecho hacia la rodilla izquierda mientras extiendes la pierna derecha.",
+      "Alterna el movimiento llevando el codo izquierdo hacia la rodilla derecha, manteniendo el ritmo."
+    ],
+    "en": [
+      "Lie on your back with your hands behind your head and legs raised.",
+      "Bring your right elbow towards your left knee while extending your right leg.",
+      "Alternate the movement by bringing your left elbow towards your right knee, maintaining a steady pace."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/bicycle-crunch-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/bicycle-crunch-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/bicycle-crunch.svg"
+}

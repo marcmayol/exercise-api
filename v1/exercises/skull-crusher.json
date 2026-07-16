@@ -1,0 +1,44 @@
+{
+  "slug": "skull-crusher",
+  "name": {
+    "es": "Press francés",
+    "en": "Lying triceps extension (skull crusher)"
+  },
+  "group": {
+    "id": "arms",
+    "es": "Brazos",
+    "en": "Arms"
+  },
+  "equipment": {
+    "id": "barbell",
+    "es": "Barra",
+    "en": "Barbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    }
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "es": [
+      "Acuéstate boca arriba en un banco plano, sosteniendo una barra con las manos separadas al ancho de los hombros.",
+      "Extiende los brazos hacia arriba, manteniendo los codos ligeramente flexionados.",
+      "Baja lentamente la barra hacia tu frente, controlando el movimiento.",
+      "Regresa a la posición inicial extendiendo los brazos sin bloquear los codos."
+    ],
+    "en": [
+      "Lie on your back on a flat bench, holding a barbell with hands shoulder-width apart.",
+      "Extend your arms upwards, keeping elbows slightly bent.",
+      "Lower the bar slowly towards your forehead, controlling the movement.",
+      "Return to the starting position by extending your arms without locking the elbows."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/skull-crusher-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/skull-crusher-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/skull-crusher.svg"
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "hip-adduction",
+  "name": {
+    "es": "Aductores en máquina",
+    "en": "Hip adduction machine"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "machine",
+    "es": "Máquina",
+    "en": "Machine"
+  },
+  "primaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta el asiento y las almohadillas para que se adapten a tus piernas.",
+      "Siéntate y coloca las piernas en las almohadillas, asegurándote de que estén alineadas con las rodillas.",
+      "Aprieta las piernas juntas lentamente, manteniendo el control durante todo el movimiento.",
+      "Regresa a la posición inicial de manera controlada, sin dejar que las almohadillas se golpeen."
+    ],
+    "en": [
+      "Adjust the seat and pads to fit your legs comfortably.",
+      "Sit down and place your legs on the pads, ensuring they align with your knees.",
+      "Slowly squeeze your legs together, maintaining control throughout the movement.",
+      "Return to the starting position in a controlled manner, avoiding the pads from slamming."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/hip-adduction-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/hip-adduction-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/hip-adduction.svg"
+}

@@ -816,5 +816,179 @@
       "Keep your back straight and lower the bar by sliding it down your legs, slightly bending your knees.",
       "Stop when you feel a stretch in your hamstrings, then return to the starting position."
     ]
+  },
+  "front-squat": {
+    "es": [
+      "Coloca la barra sobre la parte frontal de tus hombros, cruzando los brazos para sostenerla.",
+      "Mantén los pies al ancho de los hombros y baja lentamente doblando las rodillas, manteniendo la espalda recta.",
+      "Desciende hasta que tus muslos estén paralelos al suelo, luego empuja con los talones para volver a la posición inicial."
+    ],
+    "en": [
+      "Place the barbell on the front of your shoulders, crossing your arms to hold it.",
+      "Keep your feet shoulder-width apart and slowly lower by bending your knees, maintaining a straight back.",
+      "Descend until your thighs are parallel to the floor, then push through your heels to return to the starting position."
+    ]
+  },
+  "step-up": {
+    "es": [
+      "Coloca un banco estable frente a ti.",
+      "Sujeta una mancuerna en cada mano, brazos a los lados.",
+      "Sube un pie al banco, empuja con el talón para elevar el cuerpo.",
+      "Baja controladamente y repite con la otra pierna."
+    ],
+    "en": [
+      "Place a stable bench in front of you.",
+      "Hold a dumbbell in each hand, arms at your sides.",
+      "Step one foot onto the bench, push through the heel to lift your body.",
+      "Lower down with control and repeat with the other leg."
+    ]
+  },
+  "dumbbell-lunges": {
+    "es": [
+      "Sujeta una mancuerna en cada mano con los brazos a los lados.",
+      "Da un paso hacia adelante con una pierna, bajando la rodilla trasera hacia el suelo.",
+      "Mantén el torso erguido y empuja con el talón delantero para volver a la posición inicial."
+    ],
+    "en": [
+      "Hold a dumbbell in each hand with arms at your sides.",
+      "Step forward with one leg, lowering the back knee toward the ground.",
+      "Keep your torso upright and push through the front heel to return to the starting position."
+    ]
+  },
+  "hip-abduction": {
+    "es": [
+      "Ajusta el asiento y el respaldo para que tus rodillas estén alineadas con el eje de las almohadillas.",
+      "Siéntate y coloca las piernas en las almohadillas exteriores, asegurándote de que los pies estén firmes en el suelo.",
+      "Empuja las almohadillas hacia afuera con las piernas, manteniendo el torso recto y controlando el movimiento.",
+      "Regresa lentamente a la posición inicial sin dejar que las almohadillas se junten bruscamente."
+    ],
+    "en": [
+      "Adjust the seat and backrest so your knees align with the axis of the pads.",
+      "Sit down and place your legs on the outer pads, ensuring your feet are firmly on the floor.",
+      "Push the pads outward with your legs, keeping your torso straight and controlling the movement.",
+      "Slowly return to the starting position without letting the pads snap together."
+    ]
+  },
+  "hip-adduction": {
+    "es": [
+      "Ajusta el asiento y las almohadillas para que se adapten a tus piernas.",
+      "Siéntate y coloca las piernas en las almohadillas, asegurándote de que estén alineadas con las rodillas.",
+      "Aprieta las piernas juntas lentamente, manteniendo el control durante todo el movimiento.",
+      "Regresa a la posición inicial de manera controlada, sin dejar que las almohadillas se golpeen."
+    ],
+    "en": [
+      "Adjust the seat and pads to fit your legs comfortably.",
+      "Sit down and place your legs on the pads, ensuring they align with your knees.",
+      "Slowly squeeze your legs together, maintaining control throughout the movement.",
+      "Return to the starting position in a controlled manner, avoiding the pads from slamming."
+    ]
+  },
+  "t-bar-row": {
+    "es": [
+      "Coloca el extremo de la barra en un rincón o soporte fijo.",
+      "Carga el otro extremo con el peso deseado y sujétalo con ambas manos.",
+      "Inclina el torso hacia adelante manteniendo la espalda recta.",
+      "Tira de la barra hacia el pecho, apretando los omóplatos, luego baja lentamente."
+    ],
+    "en": [
+      "Place one end of the bar in a corner or fixed support.",
+      "Load the other end with the desired weight and grip it with both hands.",
+      "Lean your torso forward while keeping your back straight.",
+      "Pull the bar towards your chest, squeezing your shoulder blades, then lower slowly."
+    ]
+  },
+  "skull-crusher": {
+    "es": [
+      "Acuéstate boca arriba en un banco plano, sosteniendo una barra con las manos separadas al ancho de los hombros.",
+      "Extiende los brazos hacia arriba, manteniendo los codos ligeramente flexionados.",
+      "Baja lentamente la barra hacia tu frente, controlando el movimiento.",
+      "Regresa a la posición inicial extendiendo los brazos sin bloquear los codos."
+    ],
+    "en": [
+      "Lie on your back on a flat bench, holding a barbell with hands shoulder-width apart.",
+      "Extend your arms upwards, keeping elbows slightly bent.",
+      "Lower the bar slowly towards your forehead, controlling the movement.",
+      "Return to the starting position by extending your arms without locking the elbows."
+    ]
+  },
+  "preacher-curl": {
+    "es": [
+      "Ajusta el banco predicador a una altura cómoda y siéntate con el pecho apoyado.",
+      "Sujeta la barra o mancuernas con un agarre supino, brazos extendidos.",
+      "Flexiona los codos para levantar el peso hacia los hombros, manteniendo los codos fijos.",
+      "Baja lentamente a la posición inicial, controlando el movimiento."
+    ],
+    "en": [
+      "Adjust the preacher bench to a comfortable height and sit with your chest supported.",
+      "Grip the bar or dumbbells with an underhand grip, arms extended.",
+      "Bend your elbows to lift the weight towards your shoulders, keeping elbows fixed.",
+      "Slowly lower back to the starting position, controlling the movement."
+    ]
+  },
+  "ski-erg": {
+    "es": [
+      "Ajusta la resistencia y sujeta las manijas con un agarre firme.",
+      "Inclina ligeramente el torso hacia adelante, manteniendo la espalda recta.",
+      "Tira de las manijas hacia abajo y hacia atrás, extendiendo los brazos y activando la parte superior de la espalda y los tríceps.",
+      "Regresa lentamente a la posición inicial, controlando el movimiento."
+    ],
+    "en": [
+      "Adjust the resistance and grip the handles firmly.",
+      "Lean slightly forward, keeping your back straight.",
+      "Pull the handles down and back, extending your arms and engaging your upper back and triceps.",
+      "Slowly return to the starting position, controlling the movement."
+    ]
+  },
+  "air-bike": {
+    "es": [
+      "Ajusta la altura del asiento para que tus pies alcancen cómodamente los pedales.",
+      "Coloca tus manos en los manillares y siéntate erguido.",
+      "Comienza a pedalear mientras empujas y tiras de los manillares al mismo tiempo.",
+      "Mantén un ritmo constante y controla tu respiración."
+    ],
+    "en": [
+      "Adjust the seat height so your feet comfortably reach the pedals.",
+      "Place your hands on the handlebars and sit upright.",
+      "Start pedaling while simultaneously pushing and pulling the handlebars.",
+      "Maintain a steady pace and control your breathing."
+    ]
+  },
+  "machine-hip-thrust": {
+    "es": [
+      "Ajusta la máquina a tu altura y siéntate con la espalda apoyada en el respaldo.",
+      "Coloca los pies firmemente en el suelo y ajusta la almohadilla sobre tus caderas.",
+      "Empuja hacia arriba con las caderas, apretando los glúteos en la parte superior del movimiento.",
+      "Baja lentamente las caderas a la posición inicial, manteniendo el control."
+    ],
+    "en": [
+      "Adjust the machine to your height and sit with your back against the pad.",
+      "Place your feet firmly on the ground and position the pad over your hips.",
+      "Thrust your hips upward, squeezing your glutes at the top of the movement.",
+      "Lower your hips slowly back to the starting position, maintaining control."
+    ]
+  },
+  "sled-hack-squat": {
+    "es": [
+      "Coloca tus pies en la plataforma del trineo, separados al ancho de los hombros.",
+      "Desbloquea el trineo y baja lentamente hasta que tus rodillas formen un ángulo de 90 grados.",
+      "Empuja con los talones para volver a la posición inicial, manteniendo la espalda recta."
+    ],
+    "en": [
+      "Place your feet shoulder-width apart on the sled platform.",
+      "Unlock the sled and lower yourself slowly until your knees form a 90-degree angle.",
+      "Push through your heels to return to the starting position, keeping your back straight."
+    ]
+  },
+  "bicycle-crunch": {
+    "es": [
+      "Acuéstate boca arriba con las manos detrás de la cabeza y las piernas levantadas.",
+      "Lleva el codo derecho hacia la rodilla izquierda mientras extiendes la pierna derecha.",
+      "Alterna el movimiento llevando el codo izquierdo hacia la rodilla derecha, manteniendo el ritmo."
+    ],
+    "en": [
+      "Lie on your back with your hands behind your head and legs raised.",
+      "Bring your right elbow towards your left knee while extending your right leg.",
+      "Alternate the movement by bringing your left elbow towards your right knee, maintaining a steady pace."
+    ]
   }
 }

@@ -3,7 +3,7 @@
     "id": "machine",
     "es": "Máquina",
     "en": "Machine",
-    "count": 15,
+    "count": 19,
     "url": "https://marcmayol.com/exercise-api/v1/by-equipment/machine.json"
   },
   {
@@ -17,28 +17,28 @@
     "id": "dumbbell",
     "es": "Mancuerna",
     "en": "Dumbbell",
-    "count": 11,
+    "count": 13,
     "url": "https://marcmayol.com/exercise-api/v1/by-equipment/dumbbell.json"
   },
   {
     "id": "barbell",
     "es": "Barra",
     "en": "Barbell",
-    "count": 11,
+    "count": 15,
     "url": "https://marcmayol.com/exercise-api/v1/by-equipment/barbell.json"
   },
   {
     "id": "bodyweight",
     "es": "Peso corporal",
     "en": "Bodyweight",
-    "count": 15,
+    "count": 16,
     "url": "https://marcmayol.com/exercise-api/v1/by-equipment/bodyweight.json"
   },
   {
     "id": "cardio",
     "es": "Cardio",
     "en": "Cardio",
-    "count": 4,
+    "count": 6,
     "url": "https://marcmayol.com/exercise-api/v1/by-equipment/cardio.json"
   }
 ]

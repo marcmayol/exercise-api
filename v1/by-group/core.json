@@ -4,7 +4,7 @@
     "es": "Core",
     "en": "Core"
   },
-  "count": 10,
+  "count": 11,
   "exercises": [
     {
       "slug": "plank",
@@ -225,6 +225,28 @@
         "female": "https://marcmayol.com/exercise-api/images/superman-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/superman.json"
+    },
+    {
+      "slug": "bicycle-crunch",
+      "name": {
+        "es": "Bicicleta abdominal",
+        "en": "Bicycle crunch"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/bicycle-crunch-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/bicycle-crunch-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/bicycle-crunch.json"
     }
   ]
 }

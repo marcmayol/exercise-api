@@ -1,0 +1,60 @@
+{
+  "slug": "step-up",
+  "name": {
+    "es": "Step-up con peso",
+    "en": "Weighted step-up"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "dumbbell",
+    "es": "Mancuerna",
+    "en": "Dumbbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    },
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    },
+    {
+      "id": "calves",
+      "es": "Gemelos",
+      "en": "Calves"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Coloca un banco estable frente a ti.",
+      "Sujeta una mancuerna en cada mano, brazos a los lados.",
+      "Sube un pie al banco, empuja con el talón para elevar el cuerpo.",
+      "Baja controladamente y repite con la otra pierna."
+    ],
+    "en": [
+      "Place a stable bench in front of you.",
+      "Hold a dumbbell in each hand, arms at your sides.",
+      "Step one foot onto the bench, push through the heel to lift your body.",
+      "Lower down with control and repeat with the other leg."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/step-up-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/step-up-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/step-up.svg"
+}

@@ -4,7 +4,7 @@
     "es": "Máquina",
     "en": "Machine"
   },
-  "count": 15,
+  "count": 19,
   "exercises": [
     {
       "slug": "seated-chest-press",
@@ -317,8 +317,8 @@
     {
       "slug": "hack-squat",
       "name": {
-        "es": "Sentadilla en máquina (hack)",
-        "en": "Hack squat"
+        "es": "Sentadilla hack vertical",
+        "en": "Hack squat (upright)"
       },
       "group": {
         "id": "legs",
@@ -335,6 +335,94 @@
         "female": "https://marcmayol.com/exercise-api/images/hack-squat-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/hack-squat.json"
+    },
+    {
+      "slug": "hip-abduction",
+      "name": {
+        "es": "Abductores en máquina",
+        "en": "Hip abduction machine"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/hip-abduction-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/hip-abduction-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/hip-abduction.json"
+    },
+    {
+      "slug": "hip-adduction",
+      "name": {
+        "es": "Aductores en máquina",
+        "en": "Hip adduction machine"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/hip-adduction-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/hip-adduction-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/hip-adduction.json"
+    },
+    {
+      "slug": "machine-hip-thrust",
+      "name": {
+        "es": "Hip thrust en máquina",
+        "en": "Machine hip thrust"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/machine-hip-thrust-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/machine-hip-thrust-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/machine-hip-thrust.json"
+    },
+    {
+      "slug": "sled-hack-squat",
+      "name": {
+        "es": "Sentadilla hack en trineo (45°)",
+        "en": "Sled hack squat (45°)"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/sled-hack-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/sled-hack-squat-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/sled-hack-squat.json"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "es": "Cuádriceps",
     "en": "Quadriceps"
   },
-  "count": 17,
+  "count": 25,
   "exercises": [
     {
       "slug": "leg-press",
@@ -163,8 +163,8 @@
     {
       "slug": "hack-squat",
       "name": {
-        "es": "Sentadilla en máquina (hack)",
-        "en": "Hack squat"
+        "es": "Sentadilla hack vertical",
+        "en": "Hack squat (upright)"
       },
       "group": {
         "id": "legs",
@@ -379,6 +379,182 @@
         "female": "https://marcmayol.com/exercise-api/images/sit-ups-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/sit-ups.json"
+    },
+    {
+      "slug": "front-squat",
+      "name": {
+        "es": "Sentadilla frontal",
+        "en": "Front squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/front-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/front-squat-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/front-squat.json"
+    },
+    {
+      "slug": "step-up",
+      "name": {
+        "es": "Step-up con peso",
+        "en": "Weighted step-up"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/step-up-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/step-up-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/step-up.json"
+    },
+    {
+      "slug": "dumbbell-lunges",
+      "name": {
+        "es": "Zancadas con mancuernas",
+        "en": "Dumbbell lunges"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dumbbell-lunges-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dumbbell-lunges-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-lunges.json"
+    },
+    {
+      "slug": "hip-adduction",
+      "name": {
+        "es": "Aductores en máquina",
+        "en": "Hip adduction machine"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/hip-adduction-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/hip-adduction-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/hip-adduction.json"
+    },
+    {
+      "slug": "ski-erg",
+      "name": {
+        "es": "Máquina de esquí",
+        "en": "Ski machine (SkiErg)"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/ski-erg-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/ski-erg-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/ski-erg.json"
+    },
+    {
+      "slug": "air-bike",
+      "name": {
+        "es": "Bicicleta de aire (assault bike)",
+        "en": "Air bike (assault bike)"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/air-bike-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/air-bike-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/air-bike.json"
+    },
+    {
+      "slug": "machine-hip-thrust",
+      "name": {
+        "es": "Hip thrust en máquina",
+        "en": "Machine hip thrust"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/machine-hip-thrust-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/machine-hip-thrust-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/machine-hip-thrust.json"
+    },
+    {
+      "slug": "sled-hack-squat",
+      "name": {
+        "es": "Sentadilla hack en trineo (45°)",
+        "en": "Sled hack squat (45°)"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "machine",
+        "es": "Máquina",
+        "en": "Machine"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/sled-hack-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/sled-hack-squat-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/sled-hack-squat.json"
     }
   ]
 }

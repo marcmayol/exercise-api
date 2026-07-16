@@ -1,0 +1,60 @@
+{
+  "slug": "t-bar-row",
+  "name": {
+    "es": "Remo en T",
+    "en": "T-bar row"
+  },
+  "group": {
+    "id": "back",
+    "es": "Espalda",
+    "en": "Back"
+  },
+  "equipment": {
+    "id": "barbell",
+    "es": "Barra",
+    "en": "Barbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "upper-back",
+      "es": "Dorsal",
+      "en": "Upper back"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "biceps",
+      "es": "Bíceps",
+      "en": "Biceps"
+    },
+    {
+      "id": "forearm",
+      "es": "Antebrazo",
+      "en": "Forearm"
+    },
+    {
+      "id": "trapezius",
+      "es": "Trapecio",
+      "en": "Trapezius"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Coloca el extremo de la barra en un rincón o soporte fijo.",
+      "Carga el otro extremo con el peso deseado y sujétalo con ambas manos.",
+      "Inclina el torso hacia adelante manteniendo la espalda recta.",
+      "Tira de la barra hacia el pecho, apretando los omóplatos, luego baja lentamente."
+    ],
+    "en": [
+      "Place one end of the bar in a corner or fixed support.",
+      "Load the other end with the desired weight and grip it with both hands.",
+      "Lean your torso forward while keeping your back straight.",
+      "Pull the bar towards your chest, squeezing your shoulder blades, then lower slowly."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/t-bar-row-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/t-bar-row-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/t-bar-row.svg"
+}

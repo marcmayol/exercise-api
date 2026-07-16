@@ -4,7 +4,7 @@
     "es": "Barra",
     "en": "Barbell"
   },
-  "count": 11,
+  "count": 15,
   "exercises": [
     {
       "slug": "barbell-hip-thrust",
@@ -247,6 +247,94 @@
         "female": "https://marcmayol.com/exercise-api/images/romanian-deadlift-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/romanian-deadlift.json"
+    },
+    {
+      "slug": "front-squat",
+      "name": {
+        "es": "Sentadilla frontal",
+        "en": "Front squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/front-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/front-squat-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/front-squat.json"
+    },
+    {
+      "slug": "t-bar-row",
+      "name": {
+        "es": "Remo en T",
+        "en": "T-bar row"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/t-bar-row-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/t-bar-row-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/t-bar-row.json"
+    },
+    {
+      "slug": "skull-crusher",
+      "name": {
+        "es": "Press francés",
+        "en": "Lying triceps extension (skull crusher)"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/skull-crusher-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/skull-crusher-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/skull-crusher.json"
+    },
+    {
+      "slug": "preacher-curl",
+      "name": {
+        "es": "Curl predicador",
+        "en": "Preacher curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/preacher-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/preacher-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/preacher-curl.json"
     }
   ]
 }

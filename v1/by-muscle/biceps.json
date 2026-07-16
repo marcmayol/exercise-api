@@ -4,7 +4,7 @@
     "es": "Bíceps",
     "en": "Biceps"
   },
-  "count": 13,
+  "count": 16,
   "exercises": [
     {
       "slug": "chest-pulldown",
@@ -291,6 +291,72 @@
         "female": "https://marcmayol.com/exercise-api/images/rowing-machine-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/rowing-machine.json"
+    },
+    {
+      "slug": "t-bar-row",
+      "name": {
+        "es": "Remo en T",
+        "en": "T-bar row"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/t-bar-row-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/t-bar-row-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/t-bar-row.json"
+    },
+    {
+      "slug": "preacher-curl",
+      "name": {
+        "es": "Curl predicador",
+        "en": "Preacher curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/preacher-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/preacher-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/preacher-curl.json"
+    },
+    {
+      "slug": "air-bike",
+      "name": {
+        "es": "Bicicleta de aire (assault bike)",
+        "en": "Air bike (assault bike)"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/air-bike-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/air-bike-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/air-bike.json"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "es": "Gemelos",
     "en": "Calves"
   },
-  "count": 8,
+  "count": 10,
   "exercises": [
     {
       "slug": "leg-press",
@@ -181,6 +181,50 @@
         "female": "https://marcmayol.com/exercise-api/images/stationary-bike-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/stationary-bike.json"
+    },
+    {
+      "slug": "step-up",
+      "name": {
+        "es": "Step-up con peso",
+        "en": "Weighted step-up"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/step-up-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/step-up-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/step-up.json"
+    },
+    {
+      "slug": "dumbbell-lunges",
+      "name": {
+        "es": "Zancadas con mancuernas",
+        "en": "Dumbbell lunges"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dumbbell-lunges-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dumbbell-lunges-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-lunges.json"
     }
   ]
 }

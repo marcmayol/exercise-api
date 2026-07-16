@@ -1,0 +1,58 @@
+{
+  "slug": "dumbbell-lunges",
+  "name": {
+    "es": "Zancadas con mancuernas",
+    "en": "Dumbbell lunges"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "dumbbell",
+    "es": "Mancuerna",
+    "en": "Dumbbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    },
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    },
+    {
+      "id": "calves",
+      "es": "Gemelos",
+      "en": "Calves"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Sujeta una mancuerna en cada mano con los brazos a los lados.",
+      "Da un paso hacia adelante con una pierna, bajando la rodilla trasera hacia el suelo.",
+      "Mantén el torso erguido y empuja con el talón delantero para volver a la posición inicial."
+    ],
+    "en": [
+      "Hold a dumbbell in each hand with arms at your sides.",
+      "Step forward with one leg, lowering the back knee toward the ground.",
+      "Keep your torso upright and push through the front heel to return to the starting position."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/dumbbell-lunges-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/dumbbell-lunges-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-lunges.svg"
+}

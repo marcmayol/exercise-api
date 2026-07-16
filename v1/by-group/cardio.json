@@ -4,7 +4,7 @@
     "es": "Cardio",
     "en": "Cardio"
   },
-  "count": 5,
+  "count": 7,
   "exercises": [
     {
       "slug": "treadmill",
@@ -115,6 +115,50 @@
         "female": "https://marcmayol.com/exercise-api/images/burpees-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/burpees.json"
+    },
+    {
+      "slug": "ski-erg",
+      "name": {
+        "es": "Máquina de esquí",
+        "en": "Ski machine (SkiErg)"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/ski-erg-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/ski-erg-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/ski-erg.json"
+    },
+    {
+      "slug": "air-bike",
+      "name": {
+        "es": "Bicicleta de aire (assault bike)",
+        "en": "Air bike (assault bike)"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/air-bike-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/air-bike-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/air-bike.json"
     }
   ]
 }

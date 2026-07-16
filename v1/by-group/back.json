@@ -4,7 +4,7 @@
     "es": "Espalda",
     "en": "Back"
   },
-  "count": 8,
+  "count": 9,
   "exercises": [
     {
       "slug": "chest-pulldown",
@@ -181,6 +181,28 @@
         "female": "https://marcmayol.com/exercise-api/images/pull-ups-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/pull-ups.json"
+    },
+    {
+      "slug": "t-bar-row",
+      "name": {
+        "es": "Remo en T",
+        "en": "T-bar row"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/t-bar-row-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/t-bar-row-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/t-bar-row.json"
     }
   ]
 }

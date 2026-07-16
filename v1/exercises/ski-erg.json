@@ -1,0 +1,65 @@
+{
+  "slug": "ski-erg",
+  "name": {
+    "es": "Máquina de esquí",
+    "en": "Ski machine (SkiErg)"
+  },
+  "group": {
+    "id": "cardio",
+    "es": "Cardio",
+    "en": "Cardio"
+  },
+  "equipment": {
+    "id": "cardio",
+    "es": "Cardio",
+    "en": "Cardio"
+  },
+  "primaryMuscles": [
+    {
+      "id": "upper-back",
+      "es": "Dorsal",
+      "en": "Upper back"
+    },
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "abs",
+      "es": "Abdomen",
+      "en": "Abs"
+    },
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    },
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta la resistencia y sujeta las manijas con un agarre firme.",
+      "Inclina ligeramente el torso hacia adelante, manteniendo la espalda recta.",
+      "Tira de las manijas hacia abajo y hacia atrás, extendiendo los brazos y activando la parte superior de la espalda y los tríceps.",
+      "Regresa lentamente a la posición inicial, controlando el movimiento."
+    ],
+    "en": [
+      "Adjust the resistance and grip the handles firmly.",
+      "Lean slightly forward, keeping your back straight.",
+      "Pull the handles down and back, extending your arms and engaging your upper back and triceps.",
+      "Slowly return to the starting position, controlling the movement."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/ski-erg-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/ski-erg-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/ski-erg.svg"
+}

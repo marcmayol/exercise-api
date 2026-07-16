@@ -1,0 +1,53 @@
+{
+  "slug": "sled-hack-squat",
+  "name": {
+    "es": "Sentadilla hack en trineo (45°)",
+    "en": "Sled hack squat (45°)"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "machine",
+    "es": "Máquina",
+    "en": "Machine"
+  },
+  "primaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    },
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Coloca tus pies en la plataforma del trineo, separados al ancho de los hombros.",
+      "Desbloquea el trineo y baja lentamente hasta que tus rodillas formen un ángulo de 90 grados.",
+      "Empuja con los talones para volver a la posición inicial, manteniendo la espalda recta."
+    ],
+    "en": [
+      "Place your feet shoulder-width apart on the sled platform.",
+      "Unlock the sled and lower yourself slowly until your knees form a 90-degree angle.",
+      "Push through your heels to return to the starting position, keeping your back straight."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/sled-hack-squat-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/sled-hack-squat-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/sled-hack-squat.svg"
+}

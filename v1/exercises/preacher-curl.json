@@ -1,0 +1,50 @@
+{
+  "slug": "preacher-curl",
+  "name": {
+    "es": "Curl predicador",
+    "en": "Preacher curl"
+  },
+  "group": {
+    "id": "arms",
+    "es": "Brazos",
+    "en": "Arms"
+  },
+  "equipment": {
+    "id": "barbell",
+    "es": "Barra",
+    "en": "Barbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "biceps",
+      "es": "Bíceps",
+      "en": "Biceps"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "forearm",
+      "es": "Antebrazo",
+      "en": "Forearm"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta el banco predicador a una altura cómoda y siéntate con el pecho apoyado.",
+      "Sujeta la barra o mancuernas con un agarre supino, brazos extendidos.",
+      "Flexiona los codos para levantar el peso hacia los hombros, manteniendo los codos fijos.",
+      "Baja lentamente a la posición inicial, controlando el movimiento."
+    ],
+    "en": [
+      "Adjust the preacher bench to a comfortable height and sit with your chest supported.",
+      "Grip the bar or dumbbells with an underhand grip, arms extended.",
+      "Bend your elbows to lift the weight towards your shoulders, keeping elbows fixed.",
+      "Slowly lower back to the starting position, controlling the movement."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/preacher-curl-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/preacher-curl-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/preacher-curl.svg"
+}

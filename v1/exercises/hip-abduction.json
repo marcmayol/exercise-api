@@ -1,0 +1,44 @@
+{
+  "slug": "hip-abduction",
+  "name": {
+    "es": "Abductores en máquina",
+    "en": "Hip abduction machine"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "machine",
+    "es": "Máquina",
+    "en": "Machine"
+  },
+  "primaryMuscles": [
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    }
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "es": [
+      "Ajusta el asiento y el respaldo para que tus rodillas estén alineadas con el eje de las almohadillas.",
+      "Siéntate y coloca las piernas en las almohadillas exteriores, asegurándote de que los pies estén firmes en el suelo.",
+      "Empuja las almohadillas hacia afuera con las piernas, manteniendo el torso recto y controlando el movimiento.",
+      "Regresa lentamente a la posición inicial sin dejar que las almohadillas se junten bruscamente."
+    ],
+    "en": [
+      "Adjust the seat and backrest so your knees align with the axis of the pads.",
+      "Sit down and place your legs on the outer pads, ensuring your feet are firmly on the floor.",
+      "Push the pads outward with your legs, keeping your torso straight and controlling the movement.",
+      "Slowly return to the starting position without letting the pads snap together."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/hip-abduction-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/hip-abduction-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/hip-abduction.svg"
+}
