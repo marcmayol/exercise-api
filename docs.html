@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Exercise API · Documentación / Documentation</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  *{box-sizing:border-box} html,body{margin:0;padding:0} html{scroll-behavior:smooth}
+  body{background:#0E0E12;color:#EDEDF2;font-family:'IBM Plex Sans',sans-serif;line-height:1.6}
+  a{color:#FF6A3D;text-decoration:none} a:hover{color:#FF2E6E}
+  code,pre,.mono{font-family:'JetBrains Mono',monospace}
+  .layout{max-width:1180px;margin:0 auto;padding:0 28px 100px;display:grid;grid-template-columns:214px 1fr;gap:44px}
+  h1{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:40px;line-height:1.06;letter-spacing:-.02em;margin:0 0 14px}
+  h2{font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:25px;margin:52px 0 14px;padding-top:8px;letter-spacing:-.01em}
+  h3{font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:17px;margin:26px 0 10px}
+  p{color:#B7B7C2;max-width:74ch} li{color:#B7B7C2}
+  .lead{font-size:16px}
+  b,strong{color:#EDEDF2}
+  .card{background:#141419;border:1px solid #24242E;border-radius:14px}
+  .chip{font-size:13px;font-weight:600;padding:7px 14px;border-radius:999px;cursor:pointer;border:1px solid #2E2E38;background:transparent;color:#B4B0BC}
+  .chip.on{background:#FF6A3D;color:#0E0E12;border-color:#FF6A3D}
+  code.inl{background:#1B1B22;border:1px solid #26262F;border-radius:6px;padding:1.5px 6px;font-size:12.5px;color:#F0C9B8}
+  pre{background:#0C0C10;border:1px solid #23232C;border-radius:12px;padding:16px 18px;overflow:auto;font-size:12.8px;color:#B9B9C4;margin:0;line-height:1.65}
+  table{width:100%;border-collapse:collapse;font-size:13.5px;margin:6px 0}
+  th,td{text-align:left;padding:11px 14px;border-bottom:1px solid #20202A;vertical-align:top}
+  th{color:#8A8A96;font-weight:600;font-size:12px;letter-spacing:.05em;text-transform:uppercase}
+  td{color:#C2C2CC} td .mono{color:#F0C9B8}
+  .get{color:#5FD08A;font-weight:600}
+  .pill{display:inline-block;font-size:11px;font-weight:600;padding:2px 8px;border-radius:999px;background:#1D1D25;border:1px solid #2C2C36;color:#9A9AA6}
+  .note{border-left:3px solid #FF6A3D;background:#16130F;border-radius:0 10px 10px 0;padding:12px 16px;margin:14px 0;color:#D9C9BE;font-size:14px}
+  nav.side{position:sticky;top:24px;align-self:start;font-size:13.5px}
+  nav.side a{display:block;color:#9A9AA6;padding:5px 0;border-left:2px solid transparent;padding-left:12px;margin-left:-2px}
+  nav.side a:hover{color:#EDEDF2}
+  nav.side a.head{color:#6E6A76;font-size:11px;letter-spacing:.1em;text-transform:uppercase;margin-top:16px;padding-left:12px}
+  .tabs{display:flex;gap:6px;margin-bottom:-1px}
+  .tab{font-size:12.5px;font-weight:600;padding:7px 14px;border-radius:9px 9px 0 0;cursor:pointer;border:1px solid #23232C;border-bottom:none;background:#111116;color:#8A8A96}
+  .tab.on{background:#0C0C10;color:#FF6A3D}
+  .topbar{max-width:1180px;margin:0 auto;padding:26px 28px 0;display:flex;align-items:center;gap:12px}
+  @media(max-width:860px){.layout{grid-template-columns:1fr;gap:0} nav.side{display:none}}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <a href="index.html" style="display:flex;align-items:center;gap:11px;color:inherit">
+    <div style="width:32px;height:32px;border-radius:9px;background:linear-gradient(135deg,#FF6A3D,#FF2E6E);display:flex;align-items:center;justify-content:center;font-family:'Space Grotesk',sans-serif;font-weight:700;color:#0E0E12">E</div>
+    <span class="mono" style="font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:#8A8A96">Exercise API · docs</span>
+  </a>
+  <div style="margin-left:auto;display:flex;gap:8px;align-items:center">
+    <a href="index.html" class="chip" id="nav-home" style="display:inline-block">← API</a>
+    <button class="chip on" id="l-es" onclick="setLang('es')">ES</button>
+    <button class="chip" id="l-en" onclick="setLang('en')">EN</button>
+  </div>
+</div>
+
+<div class="layout">
+  <nav class="side" id="toc"></nav>
+
+  <main>
+    <h1 data-i18n="h_title">Documentación de la API</h1>
+    <p class="lead" data-i18n="lead"></p>
+
+    <h2 id="intro" data-i18n="s_intro">Introducción</h2>
+    <p data-i18n="intro_p"></p>
+    <table class="card" style="overflow:hidden;margin-top:12px">
+      <tr><td style="width:180px;color:#8A8A96"><b data-i18n="k_base">URL base</b></td><td><code class="inl" id="baseurl">https://marcmayol.com/exercise-api</code></td></tr>
+      <tr><td style="color:#8A8A96"><b data-i18n="k_format">Formato</b></td><td data-i18n="v_format">JSON estático (UTF-8) · imágenes JPG · mapas SVG</td></tr>
+      <tr><td style="color:#8A8A96"><b data-i18n="k_auth">Autenticación</b></td><td data-i18n="v_auth">Ninguna. Sin claves ni tokens.</td></tr>
+      <tr><td style="color:#8A8A96"><b data-i18n="k_limits">Límites</b></td><td data-i18n="v_limits">Sin límite de peticiones (servido por el CDN de GitHub Pages).</td></tr>
+      <tr><td style="color:#8A8A96"><b>CORS</b></td><td data-i18n="v_cors">Abierto (<code class="inl">Access-Control-Allow-Origin: *</code>). Uso directo desde el navegador.</td></tr>
+      <tr><td style="color:#8A8A96"><b data-i18n="k_ver">Versionado</b></td><td data-i18n="v_ver">Prefijo <code class="inl">/v1/</code>. Los cambios incompatibles irían en <code class="inl">/v2/</code>.</td></tr>
+    </table>
+
+    <h2 id="quickstart" data-i18n="s_quick">Inicio rápido</h2>
+    <p data-i18n="quick_p"></p>
+    <pre id="quick-code"></pre>
+
+    <h2 id="model" data-i18n="s_model">Modelo de datos</h2>
+    <p data-i18n="model_p"></p>
+    <h3 data-i18n="model_full">Objeto <span class="mono">Exercise</span> (ficha completa)</h3>
+    <pre id="model-json"></pre>
+    <table>
+      <thead><tr><th data-i18n="th_field">Campo</th><th data-i18n="th_type">Tipo</th><th data-i18n="th_desc">Descripción</th></tr></thead>
+      <tbody id="model-fields"></tbody>
+    </table>
+    <h3 data-i18n="model_sum">Objeto resumido (en los listados)</h3>
+    <p data-i18n="model_sum_p"></p>
+
+    <h2 id="endpoints" data-i18n="s_endpoints">Endpoints</h2>
+    <p data-i18n="ep_p"></p>
+    <table>
+      <thead><tr><th>Endpoint</th><th data-i18n="th_desc">Descripción</th><th data-i18n="th_ex">Ejemplo</th></tr></thead>
+      <tbody id="ep-rows"></tbody>
+    </table>
+    <div class="note" data-i18n="ep_note"></div>
+
+    <h2 id="taxonomies" data-i18n="s_tax">Taxonomías</h2>
+    <p data-i18n="tax_p"></p>
+    <h3 data-i18n="tax_groups">Grupos musculares</h3>
+    <table><thead><tr><th>id</th><th>ES</th><th>EN</th><th data-i18n="th_count">Nº</th></tr></thead><tbody id="t-groups"></tbody></table>
+    <h3 data-i18n="tax_musc">Músculos</h3>
+    <table><thead><tr><th>id</th><th>ES</th><th>EN</th></tr></thead><tbody id="t-muscles"></tbody></table>
+    <h3 data-i18n="tax_equip">Equipamiento</h3>
+    <table><thead><tr><th>id</th><th>ES</th><th>EN</th><th data-i18n="th_count">Nº</th></tr></thead><tbody id="t-equips"></tbody></table>
+
+    <h2 id="examples" data-i18n="s_examples">Ejemplos de código</h2>
+    <p data-i18n="ex_p"></p>
+    <div class="tabs">
+      <div class="tab on" data-tab="js" onclick="setTab('js')">JavaScript</div>
+      <div class="tab" data-tab="curl" onclick="setTab('curl')">curl</div>
+      <div class="tab" data-tab="py" onclick="setTab('py')">Python</div>
+    </div>
+    <pre id="ex-code"></pre>
+
+    <h2 id="license" data-i18n="s_license">Licencia y créditos</h2>
+    <p data-i18n="lic_p"></p>
+
+    <footer style="margin-top:52px;padding-top:22px;border-top:1px solid #22222B">
+      <p style="font-family:'Space Grotesk',sans-serif;font-size:15px;color:#C8C8D2;margin:0 0 6px" data-i18n="made"></p>
+    </footer>
+  </main>
+</div>
+
+<script>
+const BASE="https://marcmayol.com/exercise-api";
+let lang='es', tab='js';
+
+const TOC={es:[['·','Introducción','intro'],['·','Inicio rápido','quickstart'],['·','Modelo de datos','model'],['·','Endpoints','endpoints'],['·','Taxonomías','taxonomies'],['·','Ejemplos de código','examples'],['·','Licencia','license']],
+          en:[['·','Introduction','intro'],['·','Quick start','quickstart'],['·','Data model','model'],['·','Endpoints','endpoints'],['·','Taxonomies','taxonomies'],['·','Code examples','examples'],['·','License','license']]};
+
+// Campos del modelo (id -> [tipo, {es,en}])
+const FIELDS=[
+  ['slug','string',{es:'Identificador único del ejercicio (kebab-case).',en:'Unique exercise identifier (kebab-case).'}],
+  ['name','{ es, en }',{es:'Nombre del ejercicio en español e inglés.',en:'Exercise name in Spanish and English.'}],
+  ['group','{ id, es, en }',{es:'Grupo muscular (pecho, espalda, piernas, core, cardio…).',en:'Muscle group (chest, back, legs, core, cardio…).'}],
+  ['equipment','{ id, es, en }',{es:'Tipo de equipamiento (máquina, barra, mancuerna, polea, peso corporal, cardio).',en:'Equipment type (machine, barbell, dumbbell, cable, bodyweight, cardio).'}],
+  ['primaryMuscles','[ { id, es, en } ]',{es:'Músculos principales trabajados.',en:'Primary muscles worked.'}],
+  ['secondaryMuscles','[ { id, es, en } ]',{es:'Músculos secundarios (puede ser una lista vacía).',en:'Secondary muscles (may be an empty list).'}],
+  ['instructions','{ es:[…], en:[…] }',{es:'Pasos de ejecución, mismos pasos en ambos idiomas.',en:'Execution steps, same steps in both languages.'}],
+  ['images','{ male, female }',{es:'URL de la ilustración masculina y femenina (JPG).',en:'URL of the male and female illustration (JPG).'}],
+  ['muscleMap','string (URL)',{es:'URL del mapa muscular resaltado (SVG).',en:'URL of the highlighted muscle map (SVG).'}],
+];
+
+// Endpoints: [método, ruta, {es,en}, hrefEjemplo, textoEjemplo]
+const EPS=[
+  ['GET','/v1/exercises.json',{es:'Índice de todos los ejercicios (objetos resumidos).',en:'Index of all exercises (summary objects).'},'v1/exercises.json','exercises.json'],
+  ['GET','/v1/exercises/{slug}.json',{es:'Ficha completa de un ejercicio.',en:'Full detail of one exercise.'},'v1/exercises/leg-press.json','leg-press.json'],
+  ['GET','/v1/muscles.json',{es:'Taxonomía de músculos (ES/EN).',en:'Muscle taxonomy (ES/EN).'},'v1/muscles.json','muscles.json'],
+  ['GET','/v1/groups.json',{es:'Lista de grupos con su nº de ejercicios.',en:'List of groups with their exercise count.'},'v1/groups.json','groups.json'],
+  ['GET','/v1/by-group/{group}.json',{es:'Ejercicios de un grupo (legs, chest, back, core, cardio…).',en:'Exercises in a group (legs, chest, back, core, cardio…).'},'v1/by-group/legs.json','legs.json'],
+  ['GET','/v1/by-muscle/{muscle}.json',{es:'Ejercicios que trabajan un músculo.',en:'Exercises that work a muscle.'},'v1/by-muscle/gluteal.json','gluteal.json'],
+  ['GET','/v1/equipment.json',{es:'Lista de equipamientos con su nº de ejercicios.',en:'List of equipment with their exercise count.'},'v1/equipment.json','equipment.json'],
+  ['GET','/v1/by-equipment/{type}.json',{es:'Ejercicios por equipamiento (machine, barbell…).',en:'Exercises by equipment (machine, barbell…).'},'v1/by-equipment/machine.json','machine.json'],
+  ['GET','/images/{slug}-m.jpg · -f.jpg',{es:'Ilustración masculina (m) o femenina (f), JPG.',en:'Male (m) or female (f) illustration, JPG.'},'images/leg-press-f.jpg','leg-press-f.jpg'],
+  ['GET','/muscle-maps/{slug}.svg',{es:'Mapa muscular resaltado (principal + secundario), SVG.',en:'Highlighted muscle map (primary + secondary), SVG.'},'muscle-maps/leg-press.svg','leg-press.svg'],
+];
+
+const CODE={
+ js:`// ${'{'}es:'un ejercicio en el idioma que quieras'${'}'}
+const base = "${BASE}";
+const ex = await fetch(\`\${base}/v1/exercises/leg-press.json\`)
+  .then(r => r.json());
+
+ex.name.es;              // "Prensa de piernas"
+ex.name.en;              // "Leg press"
+ex.primaryMuscles[0].es; // "Cuádriceps"
+ex.instructions.es;      // [ "Ajusta el asiento…", … ]
+ex.images.female;        // .../leg-press-f.jpg
+ex.muscleMap;            // .../leg-press.svg
+
+// filtrar por grupo / filter by group
+const legs = await fetch(\`\${base}/v1/by-group/legs.json\`)
+  .then(r => r.json());
+legs.exercises.map(e => e.slug);`,
+ curl:`# índice / index
+curl -s ${BASE}/v1/exercises.json
+
+# una ficha / one exercise
+curl -s ${BASE}/v1/exercises/leg-press.json | jq '.name'
+
+# por músculo / by muscle
+curl -s ${BASE}/v1/by-muscle/gluteal.json | jq '.exercises[].slug'
+
+# descargar una ilustración / download an illustration
+curl -O ${BASE}/images/leg-press-f.jpg`,
+ py:`import requests
+
+base = "${BASE}"
+
+# una ficha / one exercise
+ex = requests.get(f"{base}/v1/exercises/leg-press.json").json()
+print(ex["name"]["es"])          # Prensa de piernas
+print(ex["primaryMuscles"][0])   # {'id': 'quadriceps', ...}
+
+# ejercicios de un grupo / exercises of a group
+legs = requests.get(f"{base}/v1/by-group/legs.json").json()
+print([e["slug"] for e in legs["exercises"]])`
+};
+
+const I18N={
+ es:{
+  h_title:"Documentación de la API",
+  lead:"API abierta, gratuita y multiidioma de ejercicios de gimnasio. Datos JSON estáticos servidos por el CDN de GitHub Pages: sin claves, sin límites y con CORS abierto.",
+  s_intro:"Introducción",
+  intro_p:"Cada ejercicio incluye nombre en español e inglés, grupo muscular, equipamiento, músculos principal y secundario, instrucciones paso a paso, ilustración masculina y femenina y un mapa muscular SVG. Todo son archivos estáticos: haces una petición <code class='inl'>GET</code> a una URL y recibes JSON (o una imagen). No hay que instalar nada ni registrarse.",
+  k_base:"URL base",k_format:"Formato",k_auth:"Autenticación",k_limits:"Límites",k_ver:"Versionado",
+  v_format:"JSON estático (UTF-8) · imágenes JPG · mapas SVG",
+  v_auth:"Ninguna. Sin claves ni tokens.",
+  v_limits:"Sin límite de peticiones (servido por el CDN de GitHub Pages).",
+  v_cors:"Abierto (<code class='inl'>Access-Control-Allow-Origin: *</code>). Uso directo desde el navegador.",
+  v_ver:"Prefijo <code class='inl'>/v1/</code>. Los cambios incompatibles irían en <code class='inl'>/v2/</code>.",
+  s_quick:"Inicio rápido",
+  quick_p:"Pide cualquier ejercicio por su <code class='inl'>slug</code>. Funciona con <code class='inl'>fetch</code> directamente desde el navegador:",
+  s_model:"Modelo de datos",
+  model_p:"Hay dos formas del objeto: la <b>ficha completa</b> (endpoint de un ejercicio) y el <b>objeto resumido</b> que aparece en los listados.",
+  model_full:"Objeto Exercise (ficha completa)",
+  model_sum:"Objeto resumido (en los listados)",
+  model_sum_p:"Los listados (<code class='inl'>exercises.json</code>, <code class='inl'>by-group</code>, <code class='inl'>by-muscle</code>, <code class='inl'>by-equipment</code>) devuelven una versión ligera de cada ejercicio con: <code class='inl'>slug</code>, <code class='inl'>name</code>, <code class='inl'>group</code>, <code class='inl'>equipment</code>, <code class='inl'>image</code>, <code class='inl'>primaryMuscles</code> (solo los <code class='inl'>id</code>) y <code class='inl'>url</code> a la ficha completa.",
+  s_endpoints:"Endpoints",
+  ep_p:"Todas las rutas cuelgan de la URL base. Las partes entre llaves <code class='inl'>{…}</code> son parámetros (el <code class='inl'>slug</code> del ejercicio, el <code class='inl'>id</code> del grupo, músculo o equipamiento).",
+  ep_note:"Al ser archivos estáticos, un recurso inexistente devuelve <b>HTTP 404</b>. Los <code class='inl'>id</code> válidos de grupos, músculos y equipamiento están en la sección de Taxonomías.",
+  s_tax:"Taxonomías",
+  tax_p:"Valores válidos para filtrar. Estas tablas se cargan en vivo desde la propia API, así que siempre están al día.",
+  tax_groups:"Grupos musculares",tax_musc:"Músculos",tax_equip:"Equipamiento",
+  s_examples:"Ejemplos de código",
+  ex_p:"El mismo flujo en varios lenguajes:",
+  s_license:"Licencia y créditos",
+  lic_p:"Ilustraciones y datos propios, de uso libre. Los mapas musculares parten de <a href='https://github.com/HichamELBSI/react-native-body-highlighter'>react-native-body-highlighter</a> (licencia MIT). Hecho por Marc Mayol desde Mallorca.",
+  th_field:"Campo",th_type:"Tipo",th_desc:"Descripción",th_ex:"Ejemplo",th_count:"Nº",
+  made:'Hecho por <b>Marc Mayol</b> con <span style="color:#FF2E6E">❤</span> desde <b style="color:#FF6A3D">Mallorca</b>'
+ },
+ en:{
+  h_title:"API Documentation",
+  lead:"Open, free and multilingual gym-exercise API. Static JSON served by the GitHub Pages CDN: no keys, no limits and open CORS.",
+  s_intro:"Introduction",
+  intro_p:"Every exercise includes a name in Spanish and English, muscle group, equipment, primary and secondary muscles, step-by-step instructions, male and female illustration and an SVG muscle map. Everything is static files: you make a <code class='inl'>GET</code> request to a URL and get JSON (or an image) back. Nothing to install, no sign-up.",
+  k_base:"Base URL",k_format:"Format",k_auth:"Authentication",k_limits:"Limits",k_ver:"Versioning",
+  v_format:"Static JSON (UTF-8) · JPG images · SVG maps",
+  v_auth:"None. No keys or tokens.",
+  v_limits:"No request limits (served by the GitHub Pages CDN).",
+  v_cors:"Open (<code class='inl'>Access-Control-Allow-Origin: *</code>). Use directly from the browser.",
+  v_ver:"<code class='inl'>/v1/</code> prefix. Breaking changes would ship under <code class='inl'>/v2/</code>.",
+  s_quick:"Quick start",
+  quick_p:"Request any exercise by its <code class='inl'>slug</code>. Works with <code class='inl'>fetch</code> straight from the browser:",
+  s_model:"Data model",
+  model_p:"There are two shapes of the object: the <b>full detail</b> (single-exercise endpoint) and the <b>summary object</b> used in listings.",
+  model_full:"Exercise object (full detail)",
+  model_sum:"Summary object (in listings)",
+  model_sum_p:"Listings (<code class='inl'>exercises.json</code>, <code class='inl'>by-group</code>, <code class='inl'>by-muscle</code>, <code class='inl'>by-equipment</code>) return a lightweight version of each exercise with: <code class='inl'>slug</code>, <code class='inl'>name</code>, <code class='inl'>group</code>, <code class='inl'>equipment</code>, <code class='inl'>image</code>, <code class='inl'>primaryMuscles</code> (ids only) and a <code class='inl'>url</code> to the full detail.",
+  s_endpoints:"Endpoints",
+  ep_p:"All paths hang off the base URL. Parts in braces <code class='inl'>{…}</code> are parameters (the exercise <code class='inl'>slug</code>, or the <code class='inl'>id</code> of a group, muscle or equipment).",
+  ep_note:"Since these are static files, a missing resource returns <b>HTTP 404</b>. Valid group, muscle and equipment <code class='inl'>id</code>s are listed under Taxonomies.",
+  s_tax:"Taxonomies",
+  tax_p:"Valid values for filtering. These tables load live from the API itself, so they are always up to date.",
+  tax_groups:"Muscle groups",tax_musc:"Muscles",tax_equip:"Equipment",
+  s_examples:"Code examples",
+  ex_p:"The same flow in several languages:",
+  s_license:"License & credits",
+  lic_p:"Own illustrations and data, free to use. Muscle maps are based on <a href='https://github.com/HichamELBSI/react-native-body-highlighter'>react-native-body-highlighter</a> (MIT license). Made by Marc Mayol from Mallorca.",
+  th_field:"Field",th_type:"Type",th_desc:"Description",th_ex:"Example",th_count:"#",
+  made:'Made by <b>Marc Mayol</b> with <span style="color:#FF2E6E">❤</span> from <b style="color:#FF6A3D">Mallorca</b>'
+ }
+};
+
+function buildTOC(){
+  const el=document.getElementById('toc');
+  el.innerHTML='<a class="head">'+(lang==='es'?'Contenido':'Contents')+'</a>'+
+    TOC[lang].map(([,label,id])=>`<a href="#${id}">${label}</a>`).join('');
+}
+function buildModel(){
+  document.getElementById('model-fields').innerHTML=FIELDS.map(([f,t,d])=>
+    `<tr><td><span class="mono">${f}</span></td><td class="mono" style="color:#9AA6C2">${t}</td><td>${d[lang]}</td></tr>`).join('');
+}
+function buildEndpoints(){
+  document.getElementById('ep-rows').innerHTML=EPS.map(([m,path,d,href,txt])=>
+    `<tr><td style="white-space:nowrap"><span class="get">${m}</span> <span class="mono">${path.replace(/\{([^}]+)\}/g,'<span style="color:#F0C9B8">{$1}</span>')}</span></td><td>${d[lang]}</td><td style="white-space:nowrap"><a href="${href}">${txt} ↗</a></td></tr>`).join('');
+}
+function setTab(t){tab=t;document.querySelectorAll('.tab').forEach(x=>x.classList.toggle('on',x.dataset.tab===t));document.getElementById('ex-code').textContent=CODE[t];}
+function applyLang(){
+  document.documentElement.lang=lang;
+  document.querySelectorAll('[data-i18n]').forEach(el=>el.innerHTML=I18N[lang][el.dataset.i18n]);
+  document.getElementById('l-es').classList.toggle('on',lang==='es');
+  document.getElementById('l-en').classList.toggle('on',lang==='en');
+  document.getElementById('quick-code').textContent=CODE.js;
+  document.getElementById('model-json').textContent=
+`{
+  "slug": "leg-press",
+  "name":  { "es": "Prensa de piernas", "en": "Leg press" },
+  "group": { "id": "legs", "es": "Piernas", "en": "Legs" },
+  "equipment": { "id": "machine", "es": "Máquina", "en": "Machine" },
+  "primaryMuscles":   [ { "id": "quadriceps", "es": "Cuádriceps", "en": "Quadriceps" } ],
+  "secondaryMuscles": [ { "id": "gluteal", "es": "Glúteo", "en": "Glutes" } ],
+  "instructions": { "es": [ "Ajusta el asiento…", … ], "en": [ "Adjust the seat…", … ] },
+  "images": { "male": "${BASE}/images/leg-press-m.jpg",
+              "female": "${BASE}/images/leg-press-f.jpg" },
+  "muscleMap": "${BASE}/muscle-maps/leg-press.svg"
+}`;
+  buildTOC(); buildModel(); buildEndpoints(); setTab(tab);
+}
+function setLang(l){lang=l;applyLang();}
+
+// Taxonomías dinámicas
+function fillTax(id,rows){document.getElementById(id).innerHTML=rows;}
+Promise.all([
+  fetch(BASE+'/v1/groups.json').then(r=>r.json()).catch(()=>[]),
+  fetch(BASE+'/v1/muscles.json').then(r=>r.json()).catch(()=>[]),
+  fetch(BASE+'/v1/equipment.json').then(r=>r.json()).catch(()=>[])
+]).then(([g,m,e])=>{
+  fillTax('t-groups', g.map(x=>`<tr><td><span class="mono">${x.id}</span></td><td>${x.es}</td><td>${x.en}</td><td class="mono">${x.count}</td></tr>`).join(''));
+  fillTax('t-muscles', m.map(x=>`<tr><td><span class="mono">${x.id}</span></td><td>${x.es}</td><td>${x.en}</td></tr>`).join(''));
+  fillTax('t-equips', e.map(x=>`<tr><td><span class="mono">${x.id}</span></td><td>${x.es}</td><td>${x.en}</td><td class="mono">${x.count}</td></tr>`).join(''));
+});
+applyLang();
+</script>
+</body>
+</html>
