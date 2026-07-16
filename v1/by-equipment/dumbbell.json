@@ -4,7 +4,7 @@
     "es": "Mancuerna",
     "en": "Dumbbell"
   },
-  "count": 13,
+  "count": 20,
   "exercises": [
     {
       "slug": "seated-dumbbell-overhead-shoulder-press",
@@ -291,6 +291,160 @@
         "female": "https://marcmayol.com/exercise-api/images/dumbbell-lunges-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-lunges.json"
+    },
+    {
+      "slug": "dumbbell-pullover",
+      "name": {
+        "es": "Pull-over con mancuerna",
+        "en": "Dumbbell pullover"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dumbbell-pullover-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dumbbell-pullover-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-pullover.json"
+    },
+    {
+      "slug": "reverse-fly",
+      "name": {
+        "es": "Pájaros (deltoides posterior)",
+        "en": "Reverse fly"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/reverse-fly-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/reverse-fly-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/reverse-fly.json"
+    },
+    {
+      "slug": "front-raise",
+      "name": {
+        "es": "Elevaciones frontales",
+        "en": "Front raise"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/front-raise-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/front-raise-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/front-raise.json"
+    },
+    {
+      "slug": "arnold-press",
+      "name": {
+        "es": "Press Arnold",
+        "en": "Arnold press"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/arnold-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/arnold-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/arnold-press.json"
+    },
+    {
+      "slug": "concentration-curl",
+      "name": {
+        "es": "Curl concentrado",
+        "en": "Concentration curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/concentration-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/concentration-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/concentration-curl.json"
+    },
+    {
+      "slug": "triceps-kickback",
+      "name": {
+        "es": "Patada de tríceps",
+        "en": "Triceps kickback"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/triceps-kickback-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/triceps-kickback-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/triceps-kickback.json"
+    },
+    {
+      "slug": "wrist-curl",
+      "name": {
+        "es": "Curl de muñeca",
+        "en": "Wrist curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/wrist-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/wrist-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/wrist-curl.json"
     }
   ]
 }

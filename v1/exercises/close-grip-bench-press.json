@@ -1,0 +1,59 @@
+{
+  "slug": "close-grip-bench-press",
+  "name": {
+    "es": "Press de banca cerrado",
+    "en": "Close-grip bench press"
+  },
+  "group": {
+    "id": "arms",
+    "es": "Brazos",
+    "en": "Arms"
+  },
+  "equipment": {
+    "id": "barbell",
+    "es": "Barra",
+    "en": "Barbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "chest",
+      "es": "Pectoral",
+      "en": "Chest"
+    },
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Acuéstate en un banco plano con los pies firmes en el suelo.",
+      "Sujeta la barra con un agarre estrecho, manos separadas a la altura de los hombros.",
+      "Baja la barra lentamente hacia el pecho, manteniendo los codos cerca del cuerpo.",
+      "Empuja la barra hacia arriba hasta extender completamente los brazos."
+    ],
+    "en": [
+      "Lie on a flat bench with your feet firmly on the ground.",
+      "Grip the bar with a narrow grip, hands shoulder-width apart.",
+      "Lower the bar slowly to your chest, keeping elbows close to your body.",
+      "Press the bar upward until your arms are fully extended."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/close-grip-bench-press-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/close-grip-bench-press-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/close-grip-bench-press.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/close-grip-bench-press.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/close-grip-bench-press-f.svg"
+  }
+}

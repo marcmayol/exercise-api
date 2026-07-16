@@ -1,5 +1,5 @@
 {
-  "count": 73,
+  "count": 104,
   "exercises": [
     {
       "slug": "seated-chest-press",
@@ -1856,6 +1856,783 @@
       "primaryMuscles": [
         "abs",
         "obliques"
+      ]
+    },
+    {
+      "slug": "push-ups",
+      "name": {
+        "es": "Flexiones",
+        "en": "Push-ups"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/push-ups-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/push-ups-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/push-ups.json",
+      "primaryMuscles": [
+        "chest"
+      ]
+    },
+    {
+      "slug": "cable-crossover",
+      "name": {
+        "es": "Cruce de poleas",
+        "en": "Cable crossover"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-crossover-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-crossover-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-crossover.json",
+      "primaryMuscles": [
+        "chest"
+      ]
+    },
+    {
+      "slug": "chest-dips",
+      "name": {
+        "es": "Fondos en paralelas",
+        "en": "Chest dips"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/chest-dips-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/chest-dips-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/chest-dips.json",
+      "primaryMuscles": [
+        "chest"
+      ]
+    },
+    {
+      "slug": "decline-bench-press",
+      "name": {
+        "es": "Press declinado con barra",
+        "en": "Decline barbell bench press"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/decline-bench-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/decline-bench-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/decline-bench-press.json",
+      "primaryMuscles": [
+        "chest"
+      ]
+    },
+    {
+      "slug": "back-extension",
+      "name": {
+        "es": "Hiperextensiones",
+        "en": "Back extension"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/back-extension-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/back-extension-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/back-extension.json",
+      "primaryMuscles": [
+        "lower-back"
+      ]
+    },
+    {
+      "slug": "dumbbell-pullover",
+      "name": {
+        "es": "Pull-over con mancuerna",
+        "en": "Dumbbell pullover"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dumbbell-pullover-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dumbbell-pullover-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-pullover.json",
+      "primaryMuscles": [
+        "upper-back"
+      ]
+    },
+    {
+      "slug": "straight-arm-pulldown",
+      "name": {
+        "es": "Jalón con brazos rectos",
+        "en": "Straight-arm pulldown"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/straight-arm-pulldown-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/straight-arm-pulldown-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/straight-arm-pulldown.json",
+      "primaryMuscles": [
+        "upper-back"
+      ]
+    },
+    {
+      "slug": "inverted-row",
+      "name": {
+        "es": "Remo invertido",
+        "en": "Inverted row"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/inverted-row-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/inverted-row-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/inverted-row.json",
+      "primaryMuscles": [
+        "upper-back"
+      ]
+    },
+    {
+      "slug": "barbell-shrug",
+      "name": {
+        "es": "Encogimientos con barra",
+        "en": "Barbell shrug"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-shrug-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-shrug-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-shrug.json",
+      "primaryMuscles": [
+        "trapezius"
+      ]
+    },
+    {
+      "slug": "reverse-fly",
+      "name": {
+        "es": "Pájaros (deltoides posterior)",
+        "en": "Reverse fly"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/reverse-fly-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/reverse-fly-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/reverse-fly.json",
+      "primaryMuscles": [
+        "deltoids"
+      ]
+    },
+    {
+      "slug": "front-raise",
+      "name": {
+        "es": "Elevaciones frontales",
+        "en": "Front raise"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/front-raise-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/front-raise-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/front-raise.json",
+      "primaryMuscles": [
+        "deltoids"
+      ]
+    },
+    {
+      "slug": "arnold-press",
+      "name": {
+        "es": "Press Arnold",
+        "en": "Arnold press"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/arnold-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/arnold-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/arnold-press.json",
+      "primaryMuscles": [
+        "deltoids"
+      ]
+    },
+    {
+      "slug": "concentration-curl",
+      "name": {
+        "es": "Curl concentrado",
+        "en": "Concentration curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/concentration-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/concentration-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/concentration-curl.json",
+      "primaryMuscles": [
+        "biceps"
+      ]
+    },
+    {
+      "slug": "cable-curl",
+      "name": {
+        "es": "Curl en polea",
+        "en": "Cable curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-curl.json",
+      "primaryMuscles": [
+        "biceps"
+      ]
+    },
+    {
+      "slug": "triceps-kickback",
+      "name": {
+        "es": "Patada de tríceps",
+        "en": "Triceps kickback"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/triceps-kickback-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/triceps-kickback-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/triceps-kickback.json",
+      "primaryMuscles": [
+        "triceps"
+      ]
+    },
+    {
+      "slug": "close-grip-bench-press",
+      "name": {
+        "es": "Press de banca cerrado",
+        "en": "Close-grip bench press"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/close-grip-bench-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/close-grip-bench-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/close-grip-bench-press.json",
+      "primaryMuscles": [
+        "triceps"
+      ]
+    },
+    {
+      "slug": "wrist-curl",
+      "name": {
+        "es": "Curl de muñeca",
+        "en": "Wrist curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/wrist-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/wrist-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/wrist-curl.json",
+      "primaryMuscles": [
+        "forearm"
+      ]
+    },
+    {
+      "slug": "good-morning",
+      "name": {
+        "es": "Buenos días con barra",
+        "en": "Good morning"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/good-morning-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/good-morning-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/good-morning.json",
+      "primaryMuscles": [
+        "hamstring"
+      ]
+    },
+    {
+      "slug": "sumo-deadlift",
+      "name": {
+        "es": "Peso muerto sumo",
+        "en": "Sumo deadlift"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/sumo-deadlift-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/sumo-deadlift-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/sumo-deadlift.json",
+      "primaryMuscles": [
+        "gluteal",
+        "hamstring"
+      ]
+    },
+    {
+      "slug": "nordic-curl",
+      "name": {
+        "es": "Curl nórdico",
+        "en": "Nordic hamstring curl"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/nordic-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/nordic-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/nordic-curl.json",
+      "primaryMuscles": [
+        "hamstring"
+      ]
+    },
+    {
+      "slug": "cable-glute-kickback",
+      "name": {
+        "es": "Patada de glúteo en polea",
+        "en": "Cable glute kickback"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-glute-kickback-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-glute-kickback-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-glute-kickback.json",
+      "primaryMuscles": [
+        "gluteal"
+      ]
+    },
+    {
+      "slug": "sissy-squat",
+      "name": {
+        "es": "Sentadilla sissy",
+        "en": "Sissy squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/sissy-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/sissy-squat-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/sissy-squat.json",
+      "primaryMuscles": [
+        "quadriceps"
+      ]
+    },
+    {
+      "slug": "hanging-leg-raise",
+      "name": {
+        "es": "Elevación de piernas colgado",
+        "en": "Hanging leg raise"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/hanging-leg-raise-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/hanging-leg-raise-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/hanging-leg-raise.json",
+      "primaryMuscles": [
+        "abs"
+      ]
+    },
+    {
+      "slug": "cable-crunch",
+      "name": {
+        "es": "Crunch en polea",
+        "en": "Cable crunch"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-crunch-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-crunch-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-crunch.json",
+      "primaryMuscles": [
+        "abs"
+      ]
+    },
+    {
+      "slug": "mountain-climbers",
+      "name": {
+        "es": "Escaladores",
+        "en": "Mountain climbers"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/mountain-climbers-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/mountain-climbers-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/mountain-climbers.json",
+      "primaryMuscles": [
+        "abs"
+      ]
+    },
+    {
+      "slug": "ab-wheel-rollout",
+      "name": {
+        "es": "Rueda abdominal",
+        "en": "Ab wheel rollout"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/ab-wheel-rollout-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/ab-wheel-rollout-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/ab-wheel-rollout.json",
+      "primaryMuscles": [
+        "abs"
+      ]
+    },
+    {
+      "slug": "cable-woodchopper",
+      "name": {
+        "es": "Leñador en polea",
+        "en": "Cable woodchopper"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-woodchopper-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-woodchopper-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-woodchopper.json",
+      "primaryMuscles": [
+        "obliques"
+      ]
+    },
+    {
+      "slug": "jump-rope",
+      "name": {
+        "es": "Comba (saltar a la cuerda)",
+        "en": "Jump rope"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/jump-rope-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/jump-rope-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/jump-rope.json",
+      "primaryMuscles": [
+        "calves"
+      ]
+    },
+    {
+      "slug": "stair-climber",
+      "name": {
+        "es": "Escaladora (stepmill)",
+        "en": "Stair climber"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/stair-climber-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/stair-climber-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/stair-climber.json",
+      "primaryMuscles": [
+        "quadriceps",
+        "gluteal"
+      ]
+    },
+    {
+      "slug": "jumping-jacks",
+      "name": {
+        "es": "Jumping jacks",
+        "en": "Jumping jacks"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/jumping-jacks-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/jumping-jacks-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/jumping-jacks.json",
+      "primaryMuscles": [
+        "deltoids"
+      ]
+    },
+    {
+      "slug": "high-knees",
+      "name": {
+        "es": "Rodillas altas",
+        "en": "High knees"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/high-knees-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/high-knees-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/high-knees.json",
+      "primaryMuscles": [
+        "quadriceps"
       ]
     }
   ]

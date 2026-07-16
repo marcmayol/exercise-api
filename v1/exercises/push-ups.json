@@ -1,0 +1,57 @@
+{
+  "slug": "push-ups",
+  "name": {
+    "es": "Flexiones",
+    "en": "Push-ups"
+  },
+  "group": {
+    "id": "chest",
+    "es": "Pecho",
+    "en": "Chest"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "chest",
+      "es": "Pectoral",
+      "en": "Chest"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    },
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Colócate boca abajo con las manos separadas al ancho de los hombros.",
+      "Mantén el cuerpo recto y baja hasta que el pecho casi toque el suelo.",
+      "Empuja hacia arriba hasta que los brazos estén completamente extendidos."
+    ],
+    "en": [
+      "Position yourself face down with hands shoulder-width apart.",
+      "Keep your body straight and lower until your chest nearly touches the floor.",
+      "Push up until your arms are fully extended."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/push-ups-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/push-ups-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/push-ups.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/push-ups.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/push-ups-f.svg"
+  }
+}

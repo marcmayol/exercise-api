@@ -1,0 +1,59 @@
+{
+  "slug": "back-extension",
+  "name": {
+    "es": "Hiperextensiones",
+    "en": "Back extension"
+  },
+  "group": {
+    "id": "back",
+    "es": "Espalda",
+    "en": "Back"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "lower-back",
+      "es": "Lumbar",
+      "en": "Lower back"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    },
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Acuéstate boca abajo en una máquina de extensión de espalda, asegurando los tobillos bajo los rodillos.",
+      "Cruza los brazos sobre el pecho o colócalos detrás de la cabeza.",
+      "Levanta el torso lentamente hasta que esté alineado con las piernas, manteniendo la espalda recta.",
+      "Baja controladamente a la posición inicial sin arquear la espalda."
+    ],
+    "en": [
+      "Lie face down on a back extension machine, securing your ankles under the pads.",
+      "Cross your arms over your chest or place them behind your head.",
+      "Slowly lift your torso until it aligns with your legs, keeping your back straight.",
+      "Lower yourself back to the starting position in a controlled manner without arching your back."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/back-extension-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/back-extension-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/back-extension.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/back-extension.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/back-extension-f.svg"
+  }
+}

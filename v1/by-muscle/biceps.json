@@ -4,7 +4,7 @@
     "es": "Bíceps",
     "en": "Biceps"
   },
-  "count": 16,
+  "count": 19,
   "exercises": [
     {
       "slug": "chest-pulldown",
@@ -357,6 +357,72 @@
         "female": "https://marcmayol.com/exercise-api/images/air-bike-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/air-bike.json"
+    },
+    {
+      "slug": "inverted-row",
+      "name": {
+        "es": "Remo invertido",
+        "en": "Inverted row"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/inverted-row-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/inverted-row-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/inverted-row.json"
+    },
+    {
+      "slug": "concentration-curl",
+      "name": {
+        "es": "Curl concentrado",
+        "en": "Concentration curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/concentration-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/concentration-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/concentration-curl.json"
+    },
+    {
+      "slug": "cable-curl",
+      "name": {
+        "es": "Curl en polea",
+        "en": "Cable curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-curl.json"
     }
   ]
 }

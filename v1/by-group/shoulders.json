@@ -4,7 +4,7 @@
     "es": "Hombros",
     "en": "Shoulders"
   },
-  "count": 7,
+  "count": 11,
   "exercises": [
     {
       "slug": "seated-dumbbell-overhead-shoulder-press",
@@ -159,6 +159,94 @@
         "female": "https://marcmayol.com/exercise-api/images/cable-lateral-raises-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-lateral-raises.json"
+    },
+    {
+      "slug": "barbell-shrug",
+      "name": {
+        "es": "Encogimientos con barra",
+        "en": "Barbell shrug"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-shrug-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-shrug-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-shrug.json"
+    },
+    {
+      "slug": "reverse-fly",
+      "name": {
+        "es": "Pájaros (deltoides posterior)",
+        "en": "Reverse fly"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/reverse-fly-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/reverse-fly-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/reverse-fly.json"
+    },
+    {
+      "slug": "front-raise",
+      "name": {
+        "es": "Elevaciones frontales",
+        "en": "Front raise"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/front-raise-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/front-raise-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/front-raise.json"
+    },
+    {
+      "slug": "arnold-press",
+      "name": {
+        "es": "Press Arnold",
+        "en": "Arnold press"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/arnold-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/arnold-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/arnold-press.json"
     }
   ]
 }

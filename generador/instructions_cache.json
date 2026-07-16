@@ -990,5 +990,423 @@
       "Bring your right elbow towards your left knee while extending your right leg.",
       "Alternate the movement by bringing your left elbow towards your right knee, maintaining a steady pace."
     ]
+  },
+  "push-ups": {
+    "es": [
+      "Colócate boca abajo con las manos separadas al ancho de los hombros.",
+      "Mantén el cuerpo recto y baja hasta que el pecho casi toque el suelo.",
+      "Empuja hacia arriba hasta que los brazos estén completamente extendidos."
+    ],
+    "en": [
+      "Position yourself face down with hands shoulder-width apart.",
+      "Keep your body straight and lower until your chest nearly touches the floor.",
+      "Push up until your arms are fully extended."
+    ]
+  },
+  "cable-crossover": {
+    "es": [
+      "Ajusta las poleas a la altura de los hombros y selecciona el peso adecuado.",
+      "Toma una manija en cada mano y da un paso adelante, manteniendo una ligera flexión en los codos.",
+      "Cruza las manos frente a ti, apretando el pecho, y luego regresa lentamente a la posición inicial."
+    ],
+    "en": [
+      "Adjust the pulleys to shoulder height and select the appropriate weight.",
+      "Grab a handle in each hand and step forward, keeping a slight bend in the elbows.",
+      "Cross your hands in front of you, squeezing your chest, then slowly return to the starting position."
+    ]
+  },
+  "chest-dips": {
+    "es": [
+      "Agarra las barras paralelas con las palmas hacia adentro.",
+      "Levanta el cuerpo hasta que los brazos estén rectos.",
+      "Baja lentamente el cuerpo inclinándote ligeramente hacia adelante.",
+      "Empuja hacia arriba para volver a la posición inicial."
+    ],
+    "en": [
+      "Grab the parallel bars with palms facing inward.",
+      "Lift your body until your arms are straight.",
+      "Lower your body slowly, leaning slightly forward.",
+      "Push up to return to the starting position."
+    ]
+  },
+  "decline-bench-press": {
+    "es": [
+      "Ajusta el banco a una posición declinada y asegúrate de que esté seguro.",
+      "Acuéstate en el banco con los pies firmemente en el suelo y agarra la barra con las manos un poco más anchas que los hombros.",
+      "Desciende la barra lentamente hacia el pecho, manteniendo los codos en un ángulo de 45 grados.",
+      "Empuja la barra hacia arriba hasta que los brazos estén completamente extendidos, sin bloquear los codos."
+    ],
+    "en": [
+      "Adjust the bench to a decline position and ensure it is secure.",
+      "Lie on the bench with feet firmly on the ground and grip the bar slightly wider than shoulder-width.",
+      "Lower the bar slowly towards your chest, keeping elbows at a 45-degree angle.",
+      "Press the bar upwards until arms are fully extended, without locking the elbows."
+    ]
+  },
+  "back-extension": {
+    "es": [
+      "Acuéstate boca abajo en una máquina de extensión de espalda, asegurando los tobillos bajo los rodillos.",
+      "Cruza los brazos sobre el pecho o colócalos detrás de la cabeza.",
+      "Levanta el torso lentamente hasta que esté alineado con las piernas, manteniendo la espalda recta.",
+      "Baja controladamente a la posición inicial sin arquear la espalda."
+    ],
+    "en": [
+      "Lie face down on a back extension machine, securing your ankles under the pads.",
+      "Cross your arms over your chest or place them behind your head.",
+      "Slowly lift your torso until it aligns with your legs, keeping your back straight.",
+      "Lower yourself back to the starting position in a controlled manner without arching your back."
+    ]
+  },
+  "dumbbell-pullover": {
+    "es": [
+      "Acuéstate boca arriba en un banco, con los pies firmemente en el suelo.",
+      "Sujeta una mancuerna con ambas manos, extendiendo los brazos sobre el pecho.",
+      "Baja lentamente la mancuerna detrás de la cabeza, manteniendo los codos ligeramente flexionados.",
+      "Regresa a la posición inicial, asegurándote de controlar el movimiento."
+    ],
+    "en": [
+      "Lie on your back on a bench, with your feet firmly on the ground.",
+      "Hold a dumbbell with both hands, extending your arms over your chest.",
+      "Slowly lower the dumbbell behind your head, keeping your elbows slightly bent.",
+      "Return to the starting position, ensuring you control the movement."
+    ]
+  },
+  "straight-arm-pulldown": {
+    "es": [
+      "Colócate de pie frente a una polea alta con los pies al ancho de los hombros.",
+      "Agarra la barra con ambas manos, manteniendo los brazos rectos y ligeramente flexionados.",
+      "Tira de la barra hacia abajo hasta que tus manos lleguen a tus muslos, manteniendo los brazos rectos.",
+      "Regresa lentamente a la posición inicial, controlando el movimiento."
+    ],
+    "en": [
+      "Stand facing a high pulley with feet shoulder-width apart.",
+      "Grab the bar with both hands, keeping arms straight and slightly bent.",
+      "Pull the bar down until your hands reach your thighs, maintaining straight arms.",
+      "Slowly return to the starting position, controlling the movement."
+    ]
+  },
+  "inverted-row": {
+    "es": [
+      "Coloca una barra a la altura de la cintura y acuéstate debajo de ella.",
+      "Agarra la barra con las palmas hacia adelante y los brazos extendidos.",
+      "Tira de tu pecho hacia la barra manteniendo el cuerpo recto.",
+      "Baja lentamente hasta la posición inicial sin tocar el suelo."
+    ],
+    "en": [
+      "Set a bar at waist height and lie underneath it.",
+      "Grab the bar with palms facing forward and arms extended.",
+      "Pull your chest towards the bar while keeping your body straight.",
+      "Lower yourself slowly back to the starting position without touching the ground."
+    ]
+  },
+  "barbell-shrug": {
+    "es": [
+      "Párate derecho con los pies al ancho de los hombros.",
+      "Sujeta la barra con un agarre por delante, manos ligeramente más anchas que los hombros.",
+      "Levanta los hombros hacia las orejas mientras mantienes los brazos rectos.",
+      "Baja los hombros lentamente a la posición inicial."
+    ],
+    "en": [
+      "Stand upright with feet shoulder-width apart.",
+      "Hold the barbell with an overhand grip, hands slightly wider than shoulder-width.",
+      "Lift your shoulders towards your ears while keeping arms straight.",
+      "Lower your shoulders slowly back to the starting position."
+    ]
+  },
+  "reverse-fly": {
+    "es": [
+      "1. Ponte de pie con los pies separados al ancho de los hombros y sostén una mancuerna en cada mano.",
+      "2. Inclina ligeramente el torso hacia adelante desde las caderas, manteniendo la espalda recta.",
+      "3. Con los brazos ligeramente doblados, levanta las mancuernas hacia los lados hasta que los brazos estén paralelos al suelo.",
+      "4. Baja lentamente las mancuernas a la posición inicial y repite."
+    ],
+    "en": [
+      "1. Stand with feet shoulder-width apart, holding a dumbbell in each hand.",
+      "2. Slightly bend forward at the hips, keeping your back straight.",
+      "3. With arms slightly bent, lift the dumbbells out to the sides until arms are parallel to the floor.",
+      "4. Slowly lower the dumbbells back to the starting position and repeat."
+    ]
+  },
+  "front-raise": {
+    "es": [
+      "Párate derecho con los pies al ancho de los hombros.",
+      "Sujeta una mancuerna en cada mano con los brazos extendidos frente a los muslos.",
+      "Levanta las mancuernas hacia adelante hasta que tus brazos estén paralelos al suelo.",
+      "Baja lentamente las mancuernas a la posición inicial."
+    ],
+    "en": [
+      "Stand upright with feet shoulder-width apart.",
+      "Hold a dumbbell in each hand with arms extended in front of your thighs.",
+      "Raise the dumbbells forward until your arms are parallel to the floor.",
+      "Slowly lower the dumbbells back to the starting position."
+    ]
+  },
+  "arnold-press": {
+    "es": [
+      "Siéntate en un banco con respaldo, sosteniendo una mancuerna en cada mano a la altura de los hombros, con las palmas hacia el cuerpo.",
+      "Gira las palmas hacia adelante mientras presionas las mancuernas hacia arriba en un movimiento de arco.",
+      "Extiende completamente los brazos sin bloquear los codos y luego baja lentamente las mancuernas a la posición inicial."
+    ],
+    "en": [
+      "Sit on a bench with back support, holding a dumbbell in each hand at shoulder height, palms facing your body.",
+      "Rotate your palms forward as you press the dumbbells upward in an arcing motion.",
+      "Fully extend your arms without locking your elbows, then slowly lower the dumbbells back to the starting position."
+    ]
+  },
+  "concentration-curl": {
+    "es": [
+      "Siéntate en el borde de un banco con las piernas separadas.",
+      "Sujeta una mancuerna con una mano y apoya el codo en el interior del muslo.",
+      "Flexiona el brazo, levantando la mancuerna hacia el hombro, manteniendo el codo fijo.",
+      "Baja lentamente la mancuerna a la posición inicial y repite."
+    ],
+    "en": [
+      "Sit on the edge of a bench with your legs apart.",
+      "Hold a dumbbell in one hand and rest your elbow on the inside of your thigh.",
+      "Curl the arm, lifting the dumbbell towards your shoulder, keeping the elbow stationary.",
+      "Slowly lower the dumbbell back to the starting position and repeat."
+    ]
+  },
+  "cable-curl": {
+    "es": [
+      "Ajusta la polea a la posición más baja y sujeta la barra con un agarre supino.",
+      "Párate erguido con los pies al ancho de los hombros y los codos pegados al cuerpo.",
+      "Flexiona los codos para levantar la barra hacia los hombros, manteniendo los codos inmóviles.",
+      "Baja lentamente la barra a la posición inicial, controlando el movimiento."
+    ],
+    "en": [
+      "Set the pulley to the lowest position and grasp the bar with an underhand grip.",
+      "Stand upright with feet shoulder-width apart and elbows close to your body.",
+      "Bend your elbows to curl the bar towards your shoulders, keeping elbows stationary.",
+      "Slowly lower the bar back to the starting position, controlling the movement."
+    ]
+  },
+  "triceps-kickback": {
+    "es": [
+      "Sujeta una mancuerna en cada mano con las palmas hacia adentro.",
+      "Inclina el torso hacia adelante manteniendo la espalda recta.",
+      "Dobla los codos a 90 grados, luego extiende los brazos hacia atrás.",
+      "Regresa lentamente a la posición inicial sin mover los hombros."
+    ],
+    "en": [
+      "Hold a dumbbell in each hand with palms facing inward.",
+      "Lean your torso forward while keeping your back straight.",
+      "Bend your elbows at 90 degrees, then extend your arms backward.",
+      "Slowly return to the starting position without moving your shoulders."
+    ]
+  },
+  "close-grip-bench-press": {
+    "es": [
+      "Acuéstate en un banco plano con los pies firmes en el suelo.",
+      "Sujeta la barra con un agarre estrecho, manos separadas a la altura de los hombros.",
+      "Baja la barra lentamente hacia el pecho, manteniendo los codos cerca del cuerpo.",
+      "Empuja la barra hacia arriba hasta extender completamente los brazos."
+    ],
+    "en": [
+      "Lie on a flat bench with your feet firmly on the ground.",
+      "Grip the bar with a narrow grip, hands shoulder-width apart.",
+      "Lower the bar slowly to your chest, keeping elbows close to your body.",
+      "Press the bar upward until your arms are fully extended."
+    ]
+  },
+  "wrist-curl": {
+    "es": [
+      "Siéntate en un banco con los antebrazos apoyados en tus muslos, sosteniendo una mancuerna en cada mano con las palmas hacia arriba.",
+      "Deja que las muñecas cuelguen al borde de tus rodillas, manteniendo los brazos inmóviles.",
+      "Flexiona las muñecas hacia arriba, levantando las mancuernas lo más alto posible, luego baja lentamente a la posición inicial."
+    ],
+    "en": [
+      "Sit on a bench with your forearms resting on your thighs, holding a dumbbell in each hand with palms facing up.",
+      "Let your wrists hang over the edge of your knees, keeping your arms still.",
+      "Curl your wrists upwards, lifting the dumbbells as high as possible, then slowly lower back to the starting position."
+    ]
+  },
+  "good-morning": {
+    "es": [
+      "Coloca los pies al ancho de los hombros y mantén la espalda recta.",
+      "Sujeta una barra sobre tus hombros, asegurándote de que esté equilibrada.",
+      "Inclina el torso hacia adelante desde las caderas, manteniendo las piernas ligeramente flexionadas.",
+      "Regresa a la posición inicial, usando los músculos de los glúteos y los isquiotibiales."
+    ],
+    "en": [
+      "Stand with feet shoulder-width apart, keeping your back straight.",
+      "Hold a barbell across your shoulders, ensuring it's balanced.",
+      "Bend your torso forward from the hips, keeping your legs slightly bent.",
+      "Return to the starting position using your glutes and hamstrings."
+    ]
+  },
+  "sumo-deadlift": {
+    "es": [
+      "Coloca los pies más anchos que los hombros y apunta los dedos ligeramente hacia afuera.",
+      "Agarra la barra con las manos entre las piernas, manteniendo la espalda recta.",
+      "Levanta la barra extendiendo las caderas y rodillas hasta estar de pie."
+    ],
+    "en": [
+      "Position your feet wider than shoulder-width apart, toes slightly pointing out.",
+      "Grip the bar with hands inside your legs, keeping your back straight.",
+      "Lift the bar by extending your hips and knees until you stand upright."
+    ]
+  },
+  "nordic-curl": {
+    "es": [
+      "Asegura tus tobillos bajo un soporte o pide a un compañero que los sujete.",
+      "Comienza de rodillas, con el cuerpo recto desde las rodillas hasta la cabeza.",
+      "Desciende lentamente hacia adelante, manteniendo el control, hasta que no puedas más sin caer.",
+      "Usa tus manos para amortiguar la caída y empuja ligeramente para volver a la posición inicial."
+    ],
+    "en": [
+      "Secure your ankles under a support or have a partner hold them.",
+      "Start on your knees, keeping your body straight from knees to head.",
+      "Slowly lower yourself forward, maintaining control, until you can no longer hold without falling.",
+      "Use your hands to cushion the fall and push slightly to return to the starting position."
+    ]
+  },
+  "cable-glute-kickback": {
+    "es": [
+      "Ajusta la polea a la altura más baja y coloca un tobillo en el accesorio.",
+      "Sujétate de la máquina para mantener el equilibrio.",
+      "Con la pierna recta, empuja hacia atrás hasta sentir la contracción en los glúteos.",
+      "Regresa lentamente a la posición inicial sin que el peso toque la pila."
+    ],
+    "en": [
+      "Set the pulley to the lowest position and attach an ankle strap.",
+      "Hold onto the machine for balance.",
+      "With a straight leg, push back until you feel the glutes contract.",
+      "Slowly return to the starting position without letting the weight stack touch."
+    ]
+  },
+  "sissy-squat": {
+    "es": [
+      "Coloca los pies al ancho de los hombros y mantén el torso erguido.",
+      "Inclina ligeramente el torso hacia atrás mientras doblas las rodillas.",
+      "Baja el cuerpo controladamente hasta que las rodillas estén casi a 90 grados.",
+      "Regresa a la posición inicial empujando con los cuádriceps."
+    ],
+    "en": [
+      "Place your feet shoulder-width apart and keep your torso upright.",
+      "Slightly lean your torso back while bending your knees.",
+      "Lower your body in a controlled manner until your knees are almost at 90 degrees.",
+      "Return to the starting position by pushing with your quadriceps."
+    ]
+  },
+  "hanging-leg-raise": {
+    "es": [
+      "Agarra la barra de dominadas con las manos a la anchura de los hombros.",
+      "Cuelga con los brazos extendidos y el cuerpo recto, sin balancearte.",
+      "Levanta las piernas juntas hacia el pecho, manteniendo el control.",
+      "Baja las piernas lentamente a la posición inicial."
+    ],
+    "en": [
+      "Grab the pull-up bar with hands shoulder-width apart.",
+      "Hang with arms extended and body straight, avoiding swinging.",
+      "Lift your legs together towards your chest, maintaining control.",
+      "Lower your legs slowly back to the starting position."
+    ]
+  },
+  "cable-crunch": {
+    "es": [
+      "Ajusta la polea a una altura alta y sujeta la cuerda con ambas manos.",
+      "Arrodíllate frente a la máquina, manteniendo la espalda recta.",
+      "Inclina el torso hacia adelante, llevando los codos hacia las rodillas mientras contraes los abdominales.",
+      "Regresa lentamente a la posición inicial, manteniendo el control."
+    ],
+    "en": [
+      "Set the pulley to a high position and grasp the rope with both hands.",
+      "Kneel in front of the machine, keeping your back straight.",
+      "Lean your torso forward, bringing your elbows towards your knees as you contract your abs.",
+      "Slowly return to the starting position, maintaining control."
+    ]
+  },
+  "mountain-climbers": {
+    "es": [
+      "Comienza en posición de plancha alta con las manos directamente debajo de los hombros.",
+      "Lleva una rodilla hacia el pecho mientras mantienes el cuerpo alineado.",
+      "Alterna rápidamente las piernas, como si estuvieras corriendo en el lugar.",
+      "Mantén el núcleo apretado y respira de manera constante durante el ejercicio."
+    ],
+    "en": [
+      "Start in a high plank position with hands directly under shoulders.",
+      "Bring one knee towards your chest while keeping your body aligned.",
+      "Quickly alternate legs as if running in place.",
+      "Keep your core tight and breathe steadily throughout the exercise."
+    ]
+  },
+  "ab-wheel-rollout": {
+    "es": [
+      "Colócate de rodillas en el suelo, sosteniendo el ab wheel con ambas manos.",
+      "Inclina el torso hacia adelante y rueda el ab wheel lentamente hacia adelante, manteniendo la espalda recta.",
+      "Detente cuando sientas que no puedes mantener la forma correcta, luego rueda de regreso a la posición inicial."
+    ],
+    "en": [
+      "Kneel on the floor, holding the ab wheel with both hands.",
+      "Lean your torso forward and slowly roll the ab wheel forward, keeping your back straight.",
+      "Stop when you feel you can't maintain proper form, then roll back to the starting position."
+    ]
+  },
+  "cable-woodchopper": {
+    "es": [
+      "Ajusta la polea a la posición más alta y agarra el mango con ambas manos.",
+      "Párate con los pies al ancho de los hombros, girando el torso hacia la polea.",
+      "Tira del mango hacia abajo y a través del cuerpo, girando el torso y flexionando las rodillas ligeramente.",
+      "Regresa lentamente a la posición inicial, controlando el movimiento."
+    ],
+    "en": [
+      "Set the pulley to the highest position and grab the handle with both hands.",
+      "Stand with feet shoulder-width apart, turning your torso towards the pulley.",
+      "Pull the handle down and across your body, rotating your torso and slightly bending your knees.",
+      "Slowly return to the starting position, controlling the movement."
+    ]
+  },
+  "jump-rope": {
+    "es": [
+      "1. Sostén la cuerda con ambas manos a la altura de la cadera.",
+      "2. Gira la cuerda con las muñecas, no con los brazos.",
+      "3. Salta ligeramente cuando la cuerda se acerque a tus pies.",
+      "4. Mantén un ritmo constante y aterriza suavemente sobre las puntas de los pies."
+    ],
+    "en": [
+      "1. Hold the rope with both hands at hip level.",
+      "2. Rotate the rope using your wrists, not your arms.",
+      "3. Jump lightly as the rope approaches your feet.",
+      "4. Maintain a steady rhythm and land softly on the balls of your feet."
+    ]
+  },
+  "stair-climber": {
+    "es": [
+      "Colócate frente a las escaleras con los pies separados al ancho de los hombros.",
+      "Sube un escalón con el pie derecho, empujando con el talón para activar los glúteos.",
+      "Lleva el pie izquierdo al mismo escalón, manteniendo el equilibrio.",
+      "Baja alternando los pies y repite el movimiento."
+    ],
+    "en": [
+      "Stand in front of the stairs with feet shoulder-width apart.",
+      "Step up with your right foot, pushing through the heel to engage the glutes.",
+      "Bring your left foot up to the same step, maintaining balance.",
+      "Step down alternating feet and repeat the movement."
+    ]
+  },
+  "jumping-jacks": {
+    "es": [
+      "Párate derecho con los pies juntos y los brazos a los lados.",
+      "Salta abriendo las piernas al ancho de los hombros mientras levantas los brazos por encima de la cabeza.",
+      "Regresa a la posición inicial juntando los pies y bajando los brazos."
+    ],
+    "en": [
+      "Stand upright with feet together and arms at your sides.",
+      "Jump, spreading your legs shoulder-width apart while raising your arms overhead.",
+      "Return to the starting position by bringing your feet together and lowering your arms."
+    ]
+  },
+  "high-knees": {
+    "es": [
+      "Párate derecho con los pies al ancho de los hombros.",
+      "Levanta una rodilla hacia el pecho lo más alto posible.",
+      "Alterna rápidamente las rodillas, moviendo los brazos en sincronía."
+    ],
+    "en": [
+      "Stand upright with feet shoulder-width apart.",
+      "Lift one knee towards your chest as high as possible.",
+      "Quickly alternate knees, moving arms in sync."
+    ]
   }
 }

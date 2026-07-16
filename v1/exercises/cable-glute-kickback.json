@@ -1,0 +1,54 @@
+{
+  "slug": "cable-glute-kickback",
+  "name": {
+    "es": "Patada de glúteo en polea",
+    "en": "Cable glute kickback"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "cable",
+    "es": "Polea",
+    "en": "Cable"
+  },
+  "primaryMuscles": [
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta la polea a la altura más baja y coloca un tobillo en el accesorio.",
+      "Sujétate de la máquina para mantener el equilibrio.",
+      "Con la pierna recta, empuja hacia atrás hasta sentir la contracción en los glúteos.",
+      "Regresa lentamente a la posición inicial sin que el peso toque la pila."
+    ],
+    "en": [
+      "Set the pulley to the lowest position and attach an ankle strap.",
+      "Hold onto the machine for balance.",
+      "With a straight leg, push back until you feel the glutes contract.",
+      "Slowly return to the starting position without letting the weight stack touch."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/cable-glute-kickback-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/cable-glute-kickback-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-glute-kickback.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-glute-kickback.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-glute-kickback-f.svg"
+  }
+}

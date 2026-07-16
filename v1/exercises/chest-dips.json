@@ -1,0 +1,59 @@
+{
+  "slug": "chest-dips",
+  "name": {
+    "es": "Fondos en paralelas",
+    "en": "Chest dips"
+  },
+  "group": {
+    "id": "chest",
+    "es": "Pecho",
+    "en": "Chest"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "chest",
+      "es": "Pectoral",
+      "en": "Chest"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    },
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Agarra las barras paralelas con las palmas hacia adentro.",
+      "Levanta el cuerpo hasta que los brazos estén rectos.",
+      "Baja lentamente el cuerpo inclinándote ligeramente hacia adelante.",
+      "Empuja hacia arriba para volver a la posición inicial."
+    ],
+    "en": [
+      "Grab the parallel bars with palms facing inward.",
+      "Lift your body until your arms are straight.",
+      "Lower your body slowly, leaning slightly forward.",
+      "Push up to return to the starting position."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/chest-dips-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/chest-dips-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/chest-dips.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/chest-dips.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/chest-dips-f.svg"
+  }
+}

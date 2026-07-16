@@ -4,7 +4,7 @@
     "es": "Polea",
     "en": "Cable"
   },
-  "count": 4,
+  "count": 10,
   "exercises": [
     {
       "slug": "seated-cable-back-rows",
@@ -93,6 +93,138 @@
         "female": "https://marcmayol.com/exercise-api/images/cable-lateral-raises-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-lateral-raises.json"
+    },
+    {
+      "slug": "cable-crossover",
+      "name": {
+        "es": "Cruce de poleas",
+        "en": "Cable crossover"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-crossover-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-crossover-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-crossover.json"
+    },
+    {
+      "slug": "straight-arm-pulldown",
+      "name": {
+        "es": "Jalón con brazos rectos",
+        "en": "Straight-arm pulldown"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/straight-arm-pulldown-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/straight-arm-pulldown-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/straight-arm-pulldown.json"
+    },
+    {
+      "slug": "cable-curl",
+      "name": {
+        "es": "Curl en polea",
+        "en": "Cable curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-curl.json"
+    },
+    {
+      "slug": "cable-glute-kickback",
+      "name": {
+        "es": "Patada de glúteo en polea",
+        "en": "Cable glute kickback"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-glute-kickback-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-glute-kickback-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-glute-kickback.json"
+    },
+    {
+      "slug": "cable-crunch",
+      "name": {
+        "es": "Crunch en polea",
+        "en": "Cable crunch"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-crunch-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-crunch-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-crunch.json"
+    },
+    {
+      "slug": "cable-woodchopper",
+      "name": {
+        "es": "Leñador en polea",
+        "en": "Cable woodchopper"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-woodchopper-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-woodchopper-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-woodchopper.json"
     }
   ]
 }

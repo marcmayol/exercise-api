@@ -10,35 +10,35 @@
     "id": "cable",
     "es": "Polea",
     "en": "Cable",
-    "count": 4,
+    "count": 10,
     "url": "https://marcmayol.com/exercise-api/v1/by-equipment/cable.json"
   },
   {
     "id": "dumbbell",
     "es": "Mancuerna",
     "en": "Dumbbell",
-    "count": 13,
+    "count": 20,
     "url": "https://marcmayol.com/exercise-api/v1/by-equipment/dumbbell.json"
   },
   {
     "id": "barbell",
     "es": "Barra",
     "en": "Barbell",
-    "count": 15,
+    "count": 20,
     "url": "https://marcmayol.com/exercise-api/v1/by-equipment/barbell.json"
   },
   {
     "id": "bodyweight",
     "es": "Peso corporal",
     "en": "Bodyweight",
-    "count": 16,
+    "count": 28,
     "url": "https://marcmayol.com/exercise-api/v1/by-equipment/bodyweight.json"
   },
   {
     "id": "cardio",
     "es": "Cardio",
     "en": "Cardio",
-    "count": 6,
+    "count": 7,
     "url": "https://marcmayol.com/exercise-api/v1/by-equipment/cardio.json"
   }
 ]

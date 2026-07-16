@@ -1,0 +1,54 @@
+{
+  "slug": "concentration-curl",
+  "name": {
+    "es": "Curl concentrado",
+    "en": "Concentration curl"
+  },
+  "group": {
+    "id": "arms",
+    "es": "Brazos",
+    "en": "Arms"
+  },
+  "equipment": {
+    "id": "dumbbell",
+    "es": "Mancuerna",
+    "en": "Dumbbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "biceps",
+      "es": "Bíceps",
+      "en": "Biceps"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "forearm",
+      "es": "Antebrazo",
+      "en": "Forearm"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Siéntate en el borde de un banco con las piernas separadas.",
+      "Sujeta una mancuerna con una mano y apoya el codo en el interior del muslo.",
+      "Flexiona el brazo, levantando la mancuerna hacia el hombro, manteniendo el codo fijo.",
+      "Baja lentamente la mancuerna a la posición inicial y repite."
+    ],
+    "en": [
+      "Sit on the edge of a bench with your legs apart.",
+      "Hold a dumbbell in one hand and rest your elbow on the inside of your thigh.",
+      "Curl the arm, lifting the dumbbell towards your shoulder, keeping the elbow stationary.",
+      "Slowly lower the dumbbell back to the starting position and repeat."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/concentration-curl-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/concentration-curl-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/concentration-curl.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/concentration-curl.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/concentration-curl-f.svg"
+  }
+}

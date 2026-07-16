@@ -1,0 +1,48 @@
+{
+  "slug": "cable-crunch",
+  "name": {
+    "es": "Crunch en polea",
+    "en": "Cable crunch"
+  },
+  "group": {
+    "id": "core",
+    "es": "Core",
+    "en": "Core"
+  },
+  "equipment": {
+    "id": "cable",
+    "es": "Polea",
+    "en": "Cable"
+  },
+  "primaryMuscles": [
+    {
+      "id": "abs",
+      "es": "Abdomen",
+      "en": "Abs"
+    }
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "es": [
+      "Ajusta la polea a una altura alta y sujeta la cuerda con ambas manos.",
+      "Arrodíllate frente a la máquina, manteniendo la espalda recta.",
+      "Inclina el torso hacia adelante, llevando los codos hacia las rodillas mientras contraes los abdominales.",
+      "Regresa lentamente a la posición inicial, manteniendo el control."
+    ],
+    "en": [
+      "Set the pulley to a high position and grasp the rope with both hands.",
+      "Kneel in front of the machine, keeping your back straight.",
+      "Lean your torso forward, bringing your elbows towards your knees as you contract your abs.",
+      "Slowly return to the starting position, maintaining control."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/cable-crunch-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/cable-crunch-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-crunch.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-crunch.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-crunch-f.svg"
+  }
+}

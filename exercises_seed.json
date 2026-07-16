@@ -1034,5 +1034,447 @@
       "obliques"
     ],
     "secondary": []
+  },
+  {
+    "slug": "push-ups",
+    "es": "Flexiones",
+    "en": "Push-ups",
+    "group_es": "Pecho",
+    "group_en": "Chest",
+    "equipment": "bodyweight",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "deltoids",
+      "triceps"
+    ]
+  },
+  {
+    "slug": "cable-crossover",
+    "es": "Cruce de poleas",
+    "en": "Cable crossover",
+    "group_es": "Pecho",
+    "group_en": "Chest",
+    "equipment": "cable",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "deltoids"
+    ]
+  },
+  {
+    "slug": "chest-dips",
+    "es": "Fondos en paralelas",
+    "en": "Chest dips",
+    "group_es": "Pecho",
+    "group_en": "Chest",
+    "equipment": "bodyweight",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "triceps",
+      "deltoids"
+    ]
+  },
+  {
+    "slug": "decline-bench-press",
+    "es": "Press declinado con barra",
+    "en": "Decline barbell bench press",
+    "group_es": "Pecho",
+    "group_en": "Chest",
+    "equipment": "barbell",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "triceps"
+    ]
+  },
+  {
+    "slug": "back-extension",
+    "es": "Hiperextensiones",
+    "en": "Back extension",
+    "group_es": "Espalda",
+    "group_en": "Back",
+    "equipment": "bodyweight",
+    "primary": [
+      "lower-back"
+    ],
+    "secondary": [
+      "gluteal",
+      "hamstring"
+    ]
+  },
+  {
+    "slug": "dumbbell-pullover",
+    "es": "Pull-over con mancuerna",
+    "en": "Dumbbell pullover",
+    "group_es": "Espalda",
+    "group_en": "Back",
+    "equipment": "dumbbell",
+    "primary": [
+      "upper-back"
+    ],
+    "secondary": [
+      "chest",
+      "triceps"
+    ]
+  },
+  {
+    "slug": "straight-arm-pulldown",
+    "es": "Jalón con brazos rectos",
+    "en": "Straight-arm pulldown",
+    "group_es": "Espalda",
+    "group_en": "Back",
+    "equipment": "cable",
+    "primary": [
+      "upper-back"
+    ],
+    "secondary": [
+      "triceps"
+    ]
+  },
+  {
+    "slug": "inverted-row",
+    "es": "Remo invertido",
+    "en": "Inverted row",
+    "group_es": "Espalda",
+    "group_en": "Back",
+    "equipment": "bodyweight",
+    "primary": [
+      "upper-back"
+    ],
+    "secondary": [
+      "biceps",
+      "forearm"
+    ]
+  },
+  {
+    "slug": "barbell-shrug",
+    "es": "Encogimientos con barra",
+    "en": "Barbell shrug",
+    "group_es": "Hombros",
+    "group_en": "Shoulders",
+    "equipment": "barbell",
+    "primary": [
+      "trapezius"
+    ],
+    "secondary": [
+      "forearm"
+    ]
+  },
+  {
+    "slug": "reverse-fly",
+    "es": "Pájaros (deltoides posterior)",
+    "en": "Reverse fly",
+    "group_es": "Hombros",
+    "group_en": "Shoulders",
+    "equipment": "dumbbell",
+    "primary": [
+      "deltoids"
+    ],
+    "secondary": [
+      "upper-back",
+      "trapezius"
+    ]
+  },
+  {
+    "slug": "front-raise",
+    "es": "Elevaciones frontales",
+    "en": "Front raise",
+    "group_es": "Hombros",
+    "group_en": "Shoulders",
+    "equipment": "dumbbell",
+    "primary": [
+      "deltoids"
+    ],
+    "secondary": []
+  },
+  {
+    "slug": "arnold-press",
+    "es": "Press Arnold",
+    "en": "Arnold press",
+    "group_es": "Hombros",
+    "group_en": "Shoulders",
+    "equipment": "dumbbell",
+    "primary": [
+      "deltoids"
+    ],
+    "secondary": [
+      "triceps"
+    ]
+  },
+  {
+    "slug": "concentration-curl",
+    "es": "Curl concentrado",
+    "en": "Concentration curl",
+    "group_es": "Brazos",
+    "group_en": "Arms",
+    "equipment": "dumbbell",
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearm"
+    ]
+  },
+  {
+    "slug": "cable-curl",
+    "es": "Curl en polea",
+    "en": "Cable curl",
+    "group_es": "Brazos",
+    "group_en": "Arms",
+    "equipment": "cable",
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearm"
+    ]
+  },
+  {
+    "slug": "triceps-kickback",
+    "es": "Patada de tríceps",
+    "en": "Triceps kickback",
+    "group_es": "Brazos",
+    "group_en": "Arms",
+    "equipment": "dumbbell",
+    "primary": [
+      "triceps"
+    ],
+    "secondary": []
+  },
+  {
+    "slug": "close-grip-bench-press",
+    "es": "Press de banca cerrado",
+    "en": "Close-grip bench press",
+    "group_es": "Brazos",
+    "group_en": "Arms",
+    "equipment": "barbell",
+    "primary": [
+      "triceps"
+    ],
+    "secondary": [
+      "chest",
+      "deltoids"
+    ]
+  },
+  {
+    "slug": "wrist-curl",
+    "es": "Curl de muñeca",
+    "en": "Wrist curl",
+    "group_es": "Brazos",
+    "group_en": "Arms",
+    "equipment": "dumbbell",
+    "primary": [
+      "forearm"
+    ],
+    "secondary": []
+  },
+  {
+    "slug": "good-morning",
+    "es": "Buenos días con barra",
+    "en": "Good morning",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "barbell",
+    "primary": [
+      "hamstring"
+    ],
+    "secondary": [
+      "gluteal",
+      "lower-back"
+    ]
+  },
+  {
+    "slug": "sumo-deadlift",
+    "es": "Peso muerto sumo",
+    "en": "Sumo deadlift",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "barbell",
+    "primary": [
+      "gluteal",
+      "hamstring"
+    ],
+    "secondary": [
+      "quadriceps",
+      "adductors",
+      "lower-back"
+    ]
+  },
+  {
+    "slug": "nordic-curl",
+    "es": "Curl nórdico",
+    "en": "Nordic hamstring curl",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "bodyweight",
+    "primary": [
+      "hamstring"
+    ],
+    "secondary": [
+      "gluteal"
+    ]
+  },
+  {
+    "slug": "cable-glute-kickback",
+    "es": "Patada de glúteo en polea",
+    "en": "Cable glute kickback",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "cable",
+    "primary": [
+      "gluteal"
+    ],
+    "secondary": [
+      "hamstring"
+    ]
+  },
+  {
+    "slug": "sissy-squat",
+    "es": "Sentadilla sissy",
+    "en": "Sissy squat",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "bodyweight",
+    "primary": [
+      "quadriceps"
+    ],
+    "secondary": []
+  },
+  {
+    "slug": "hanging-leg-raise",
+    "es": "Elevación de piernas colgado",
+    "en": "Hanging leg raise",
+    "group_es": "Core",
+    "group_en": "Core",
+    "equipment": "bodyweight",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "forearm",
+      "obliques"
+    ]
+  },
+  {
+    "slug": "cable-crunch",
+    "es": "Crunch en polea",
+    "en": "Cable crunch",
+    "group_es": "Core",
+    "group_en": "Core",
+    "equipment": "cable",
+    "primary": [
+      "abs"
+    ],
+    "secondary": []
+  },
+  {
+    "slug": "mountain-climbers",
+    "es": "Escaladores",
+    "en": "Mountain climbers",
+    "group_es": "Core",
+    "group_en": "Core",
+    "equipment": "bodyweight",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "quadriceps",
+      "deltoids"
+    ]
+  },
+  {
+    "slug": "ab-wheel-rollout",
+    "es": "Rueda abdominal",
+    "en": "Ab wheel rollout",
+    "group_es": "Core",
+    "group_en": "Core",
+    "equipment": "bodyweight",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "obliques"
+    ]
+  },
+  {
+    "slug": "cable-woodchopper",
+    "es": "Leñador en polea",
+    "en": "Cable woodchopper",
+    "group_es": "Core",
+    "group_en": "Core",
+    "equipment": "cable",
+    "primary": [
+      "obliques"
+    ],
+    "secondary": [
+      "abs"
+    ]
+  },
+  {
+    "slug": "jump-rope",
+    "es": "Comba (saltar a la cuerda)",
+    "en": "Jump rope",
+    "group_es": "Cardio",
+    "group_en": "Cardio",
+    "equipment": "bodyweight",
+    "primary": [
+      "calves"
+    ],
+    "secondary": [
+      "quadriceps",
+      "deltoids"
+    ]
+  },
+  {
+    "slug": "stair-climber",
+    "es": "Escaladora (stepmill)",
+    "en": "Stair climber",
+    "group_es": "Cardio",
+    "group_en": "Cardio",
+    "equipment": "cardio",
+    "primary": [
+      "quadriceps",
+      "gluteal"
+    ],
+    "secondary": [
+      "hamstring",
+      "calves"
+    ]
+  },
+  {
+    "slug": "jumping-jacks",
+    "es": "Jumping jacks",
+    "en": "Jumping jacks",
+    "group_es": "Cardio",
+    "group_en": "Cardio",
+    "equipment": "bodyweight",
+    "primary": [
+      "deltoids"
+    ],
+    "secondary": [
+      "quadriceps",
+      "calves"
+    ]
+  },
+  {
+    "slug": "high-knees",
+    "es": "Rodillas altas",
+    "en": "High knees",
+    "group_es": "Cardio",
+    "group_en": "Cardio",
+    "equipment": "bodyweight",
+    "primary": [
+      "quadriceps"
+    ],
+    "secondary": [
+      "abs",
+      "calves"
+    ]
   }
 ]

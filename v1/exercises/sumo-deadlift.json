@@ -1,0 +1,67 @@
+{
+  "slug": "sumo-deadlift",
+  "name": {
+    "es": "Peso muerto sumo",
+    "en": "Sumo deadlift"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "barbell",
+    "es": "Barra",
+    "en": "Barbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    },
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    },
+    {
+      "id": "adductors",
+      "es": "Aductores",
+      "en": "Adductors"
+    },
+    {
+      "id": "lower-back",
+      "es": "Lumbar",
+      "en": "Lower back"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Coloca los pies más anchos que los hombros y apunta los dedos ligeramente hacia afuera.",
+      "Agarra la barra con las manos entre las piernas, manteniendo la espalda recta.",
+      "Levanta la barra extendiendo las caderas y rodillas hasta estar de pie."
+    ],
+    "en": [
+      "Position your feet wider than shoulder-width apart, toes slightly pointing out.",
+      "Grip the bar with hands inside your legs, keeping your back straight.",
+      "Lift the bar by extending your hips and knees until you stand upright."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/sumo-deadlift-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/sumo-deadlift-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/sumo-deadlift.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/sumo-deadlift.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/sumo-deadlift-f.svg"
+  }
+}

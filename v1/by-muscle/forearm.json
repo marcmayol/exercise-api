@@ -4,7 +4,7 @@
     "es": "Antebrazo",
     "en": "Forearm"
   },
-  "count": 9,
+  "count": 15,
   "exercises": [
     {
       "slug": "alternating-dumbbell-biceps-curl",
@@ -203,6 +203,138 @@
         "female": "https://marcmayol.com/exercise-api/images/preacher-curl-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/preacher-curl.json"
+    },
+    {
+      "slug": "inverted-row",
+      "name": {
+        "es": "Remo invertido",
+        "en": "Inverted row"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/inverted-row-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/inverted-row-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/inverted-row.json"
+    },
+    {
+      "slug": "barbell-shrug",
+      "name": {
+        "es": "Encogimientos con barra",
+        "en": "Barbell shrug"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-shrug-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-shrug-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-shrug.json"
+    },
+    {
+      "slug": "concentration-curl",
+      "name": {
+        "es": "Curl concentrado",
+        "en": "Concentration curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/concentration-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/concentration-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/concentration-curl.json"
+    },
+    {
+      "slug": "cable-curl",
+      "name": {
+        "es": "Curl en polea",
+        "en": "Cable curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-curl.json"
+    },
+    {
+      "slug": "wrist-curl",
+      "name": {
+        "es": "Curl de muñeca",
+        "en": "Wrist curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/wrist-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/wrist-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/wrist-curl.json"
+    },
+    {
+      "slug": "hanging-leg-raise",
+      "name": {
+        "es": "Elevación de piernas colgado",
+        "en": "Hanging leg raise"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/hanging-leg-raise-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/hanging-leg-raise-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/hanging-leg-raise.json"
     }
   ]
 }

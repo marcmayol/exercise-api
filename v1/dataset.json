@@ -2,50 +2,50 @@
   "name": "Exercise API dataset",
   "base": "https://marcmayol.com/exercise-api",
   "generated": "2026-07-16",
-  "count": 73,
+  "count": 104,
   "license": "Ilustraciones y datos propios · mapas musculares a partir de react-native-body-highlighter (MIT)",
   "groups": [
     {
       "id": "chest",
       "es": "Pecho",
       "en": "Chest",
-      "count": 8
+      "count": 12
     },
     {
       "id": "back",
       "es": "Espalda",
       "en": "Back",
-      "count": 9
+      "count": 13
     },
     {
       "id": "shoulders",
       "es": "Hombros",
       "en": "Shoulders",
-      "count": 7
+      "count": 11
     },
     {
       "id": "arms",
       "es": "Brazos",
       "en": "Arms",
-      "count": 8
+      "count": 13
     },
     {
       "id": "legs",
       "es": "Piernas",
       "en": "Legs",
-      "count": 23
+      "count": 28
     },
     {
       "id": "core",
       "es": "Core",
       "en": "Core",
-      "count": 11
+      "count": 16
     },
     {
       "id": "cardio",
       "es": "Cardio",
       "en": "Cardio",
-      "count": 7
+      "count": 11
     }
   ],
   "muscles": [
@@ -136,31 +136,31 @@
       "id": "cable",
       "es": "Polea",
       "en": "Cable",
-      "count": 4
+      "count": 10
     },
     {
       "id": "dumbbell",
       "es": "Mancuerna",
       "en": "Dumbbell",
-      "count": 13
+      "count": 20
     },
     {
       "id": "barbell",
       "es": "Barra",
       "en": "Barbell",
-      "count": 15
+      "count": 20
     },
     {
       "id": "bodyweight",
       "es": "Peso corporal",
       "en": "Bodyweight",
-      "count": 16
+      "count": 28
     },
     {
       "id": "cardio",
       "es": "Cardio",
       "en": "Cardio",
-      "count": 6
+      "count": 7
     }
   ],
   "exercises": [
@@ -4355,6 +4355,1724 @@
       "muscleMaps": {
         "male": "https://marcmayol.com/exercise-api/muscle-maps/bicycle-crunch.svg",
         "female": "https://marcmayol.com/exercise-api/muscle-maps/bicycle-crunch-f.svg"
+      }
+    },
+    {
+      "slug": "push-ups",
+      "name": {
+        "es": "Flexiones",
+        "en": "Push-ups"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "chest",
+          "es": "Pectoral",
+          "en": "Chest"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "deltoids",
+          "es": "Hombros",
+          "en": "Shoulders"
+        },
+        {
+          "id": "triceps",
+          "es": "Tríceps",
+          "en": "Triceps"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Colócate boca abajo con las manos separadas al ancho de los hombros.",
+          "Mantén el cuerpo recto y baja hasta que el pecho casi toque el suelo.",
+          "Empuja hacia arriba hasta que los brazos estén completamente extendidos."
+        ],
+        "en": [
+          "Position yourself face down with hands shoulder-width apart.",
+          "Keep your body straight and lower until your chest nearly touches the floor.",
+          "Push up until your arms are fully extended."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/push-ups-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/push-ups-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/push-ups.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/push-ups.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/push-ups-f.svg"
+      }
+    },
+    {
+      "slug": "cable-crossover",
+      "name": {
+        "es": "Cruce de poleas",
+        "en": "Cable crossover"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "primaryMuscles": [
+        {
+          "id": "chest",
+          "es": "Pectoral",
+          "en": "Chest"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "deltoids",
+          "es": "Hombros",
+          "en": "Shoulders"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Ajusta las poleas a la altura de los hombros y selecciona el peso adecuado.",
+          "Toma una manija en cada mano y da un paso adelante, manteniendo una ligera flexión en los codos.",
+          "Cruza las manos frente a ti, apretando el pecho, y luego regresa lentamente a la posición inicial."
+        ],
+        "en": [
+          "Adjust the pulleys to shoulder height and select the appropriate weight.",
+          "Grab a handle in each hand and step forward, keeping a slight bend in the elbows.",
+          "Cross your hands in front of you, squeezing your chest, then slowly return to the starting position."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-crossover-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-crossover-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-crossover.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-crossover.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-crossover-f.svg"
+      }
+    },
+    {
+      "slug": "chest-dips",
+      "name": {
+        "es": "Fondos en paralelas",
+        "en": "Chest dips"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "chest",
+          "es": "Pectoral",
+          "en": "Chest"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "triceps",
+          "es": "Tríceps",
+          "en": "Triceps"
+        },
+        {
+          "id": "deltoids",
+          "es": "Hombros",
+          "en": "Shoulders"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Agarra las barras paralelas con las palmas hacia adentro.",
+          "Levanta el cuerpo hasta que los brazos estén rectos.",
+          "Baja lentamente el cuerpo inclinándote ligeramente hacia adelante.",
+          "Empuja hacia arriba para volver a la posición inicial."
+        ],
+        "en": [
+          "Grab the parallel bars with palms facing inward.",
+          "Lift your body until your arms are straight.",
+          "Lower your body slowly, leaning slightly forward.",
+          "Push up to return to the starting position."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/chest-dips-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/chest-dips-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/chest-dips.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/chest-dips.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/chest-dips-f.svg"
+      }
+    },
+    {
+      "slug": "decline-bench-press",
+      "name": {
+        "es": "Press declinado con barra",
+        "en": "Decline barbell bench press"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "primaryMuscles": [
+        {
+          "id": "chest",
+          "es": "Pectoral",
+          "en": "Chest"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "triceps",
+          "es": "Tríceps",
+          "en": "Triceps"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Ajusta el banco a una posición declinada y asegúrate de que esté seguro.",
+          "Acuéstate en el banco con los pies firmemente en el suelo y agarra la barra con las manos un poco más anchas que los hombros.",
+          "Desciende la barra lentamente hacia el pecho, manteniendo los codos en un ángulo de 45 grados.",
+          "Empuja la barra hacia arriba hasta que los brazos estén completamente extendidos, sin bloquear los codos."
+        ],
+        "en": [
+          "Adjust the bench to a decline position and ensure it is secure.",
+          "Lie on the bench with feet firmly on the ground and grip the bar slightly wider than shoulder-width.",
+          "Lower the bar slowly towards your chest, keeping elbows at a 45-degree angle.",
+          "Press the bar upwards until arms are fully extended, without locking the elbows."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/decline-bench-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/decline-bench-press-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/decline-bench-press.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/decline-bench-press.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/decline-bench-press-f.svg"
+      }
+    },
+    {
+      "slug": "back-extension",
+      "name": {
+        "es": "Hiperextensiones",
+        "en": "Back extension"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "lower-back",
+          "es": "Lumbar",
+          "en": "Lower back"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "gluteal",
+          "es": "Glúteo",
+          "en": "Glutes"
+        },
+        {
+          "id": "hamstring",
+          "es": "Femoral",
+          "en": "Hamstrings"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Acuéstate boca abajo en una máquina de extensión de espalda, asegurando los tobillos bajo los rodillos.",
+          "Cruza los brazos sobre el pecho o colócalos detrás de la cabeza.",
+          "Levanta el torso lentamente hasta que esté alineado con las piernas, manteniendo la espalda recta.",
+          "Baja controladamente a la posición inicial sin arquear la espalda."
+        ],
+        "en": [
+          "Lie face down on a back extension machine, securing your ankles under the pads.",
+          "Cross your arms over your chest or place them behind your head.",
+          "Slowly lift your torso until it aligns with your legs, keeping your back straight.",
+          "Lower yourself back to the starting position in a controlled manner without arching your back."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/back-extension-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/back-extension-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/back-extension.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/back-extension.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/back-extension-f.svg"
+      }
+    },
+    {
+      "slug": "dumbbell-pullover",
+      "name": {
+        "es": "Pull-over con mancuerna",
+        "en": "Dumbbell pullover"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "primaryMuscles": [
+        {
+          "id": "upper-back",
+          "es": "Dorsal",
+          "en": "Upper back"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "chest",
+          "es": "Pectoral",
+          "en": "Chest"
+        },
+        {
+          "id": "triceps",
+          "es": "Tríceps",
+          "en": "Triceps"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Acuéstate boca arriba en un banco, con los pies firmemente en el suelo.",
+          "Sujeta una mancuerna con ambas manos, extendiendo los brazos sobre el pecho.",
+          "Baja lentamente la mancuerna detrás de la cabeza, manteniendo los codos ligeramente flexionados.",
+          "Regresa a la posición inicial, asegurándote de controlar el movimiento."
+        ],
+        "en": [
+          "Lie on your back on a bench, with your feet firmly on the ground.",
+          "Hold a dumbbell with both hands, extending your arms over your chest.",
+          "Slowly lower the dumbbell behind your head, keeping your elbows slightly bent.",
+          "Return to the starting position, ensuring you control the movement."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/dumbbell-pullover-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dumbbell-pullover-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-pullover.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-pullover.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-pullover-f.svg"
+      }
+    },
+    {
+      "slug": "straight-arm-pulldown",
+      "name": {
+        "es": "Jalón con brazos rectos",
+        "en": "Straight-arm pulldown"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "primaryMuscles": [
+        {
+          "id": "upper-back",
+          "es": "Dorsal",
+          "en": "Upper back"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "triceps",
+          "es": "Tríceps",
+          "en": "Triceps"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Colócate de pie frente a una polea alta con los pies al ancho de los hombros.",
+          "Agarra la barra con ambas manos, manteniendo los brazos rectos y ligeramente flexionados.",
+          "Tira de la barra hacia abajo hasta que tus manos lleguen a tus muslos, manteniendo los brazos rectos.",
+          "Regresa lentamente a la posición inicial, controlando el movimiento."
+        ],
+        "en": [
+          "Stand facing a high pulley with feet shoulder-width apart.",
+          "Grab the bar with both hands, keeping arms straight and slightly bent.",
+          "Pull the bar down until your hands reach your thighs, maintaining straight arms.",
+          "Slowly return to the starting position, controlling the movement."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/straight-arm-pulldown-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/straight-arm-pulldown-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/straight-arm-pulldown.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/straight-arm-pulldown.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/straight-arm-pulldown-f.svg"
+      }
+    },
+    {
+      "slug": "inverted-row",
+      "name": {
+        "es": "Remo invertido",
+        "en": "Inverted row"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "upper-back",
+          "es": "Dorsal",
+          "en": "Upper back"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "biceps",
+          "es": "Bíceps",
+          "en": "Biceps"
+        },
+        {
+          "id": "forearm",
+          "es": "Antebrazo",
+          "en": "Forearm"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Coloca una barra a la altura de la cintura y acuéstate debajo de ella.",
+          "Agarra la barra con las palmas hacia adelante y los brazos extendidos.",
+          "Tira de tu pecho hacia la barra manteniendo el cuerpo recto.",
+          "Baja lentamente hasta la posición inicial sin tocar el suelo."
+        ],
+        "en": [
+          "Set a bar at waist height and lie underneath it.",
+          "Grab the bar with palms facing forward and arms extended.",
+          "Pull your chest towards the bar while keeping your body straight.",
+          "Lower yourself slowly back to the starting position without touching the ground."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/inverted-row-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/inverted-row-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/inverted-row.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/inverted-row.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/inverted-row-f.svg"
+      }
+    },
+    {
+      "slug": "barbell-shrug",
+      "name": {
+        "es": "Encogimientos con barra",
+        "en": "Barbell shrug"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "primaryMuscles": [
+        {
+          "id": "trapezius",
+          "es": "Trapecio",
+          "en": "Trapezius"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "forearm",
+          "es": "Antebrazo",
+          "en": "Forearm"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Párate derecho con los pies al ancho de los hombros.",
+          "Sujeta la barra con un agarre por delante, manos ligeramente más anchas que los hombros.",
+          "Levanta los hombros hacia las orejas mientras mantienes los brazos rectos.",
+          "Baja los hombros lentamente a la posición inicial."
+        ],
+        "en": [
+          "Stand upright with feet shoulder-width apart.",
+          "Hold the barbell with an overhand grip, hands slightly wider than shoulder-width.",
+          "Lift your shoulders towards your ears while keeping arms straight.",
+          "Lower your shoulders slowly back to the starting position."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-shrug-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-shrug-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/barbell-shrug.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/barbell-shrug.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/barbell-shrug-f.svg"
+      }
+    },
+    {
+      "slug": "reverse-fly",
+      "name": {
+        "es": "Pájaros (deltoides posterior)",
+        "en": "Reverse fly"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "primaryMuscles": [
+        {
+          "id": "deltoids",
+          "es": "Hombros",
+          "en": "Shoulders"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "upper-back",
+          "es": "Dorsal",
+          "en": "Upper back"
+        },
+        {
+          "id": "trapezius",
+          "es": "Trapecio",
+          "en": "Trapezius"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "1. Ponte de pie con los pies separados al ancho de los hombros y sostén una mancuerna en cada mano.",
+          "2. Inclina ligeramente el torso hacia adelante desde las caderas, manteniendo la espalda recta.",
+          "3. Con los brazos ligeramente doblados, levanta las mancuernas hacia los lados hasta que los brazos estén paralelos al suelo.",
+          "4. Baja lentamente las mancuernas a la posición inicial y repite."
+        ],
+        "en": [
+          "1. Stand with feet shoulder-width apart, holding a dumbbell in each hand.",
+          "2. Slightly bend forward at the hips, keeping your back straight.",
+          "3. With arms slightly bent, lift the dumbbells out to the sides until arms are parallel to the floor.",
+          "4. Slowly lower the dumbbells back to the starting position and repeat."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/reverse-fly-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/reverse-fly-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/reverse-fly.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/reverse-fly.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/reverse-fly-f.svg"
+      }
+    },
+    {
+      "slug": "front-raise",
+      "name": {
+        "es": "Elevaciones frontales",
+        "en": "Front raise"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "primaryMuscles": [
+        {
+          "id": "deltoids",
+          "es": "Hombros",
+          "en": "Shoulders"
+        }
+      ],
+      "secondaryMuscles": [],
+      "instructions": {
+        "es": [
+          "Párate derecho con los pies al ancho de los hombros.",
+          "Sujeta una mancuerna en cada mano con los brazos extendidos frente a los muslos.",
+          "Levanta las mancuernas hacia adelante hasta que tus brazos estén paralelos al suelo.",
+          "Baja lentamente las mancuernas a la posición inicial."
+        ],
+        "en": [
+          "Stand upright with feet shoulder-width apart.",
+          "Hold a dumbbell in each hand with arms extended in front of your thighs.",
+          "Raise the dumbbells forward until your arms are parallel to the floor.",
+          "Slowly lower the dumbbells back to the starting position."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/front-raise-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/front-raise-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/front-raise.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/front-raise.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/front-raise-f.svg"
+      }
+    },
+    {
+      "slug": "arnold-press",
+      "name": {
+        "es": "Press Arnold",
+        "en": "Arnold press"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "primaryMuscles": [
+        {
+          "id": "deltoids",
+          "es": "Hombros",
+          "en": "Shoulders"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "triceps",
+          "es": "Tríceps",
+          "en": "Triceps"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Siéntate en un banco con respaldo, sosteniendo una mancuerna en cada mano a la altura de los hombros, con las palmas hacia el cuerpo.",
+          "Gira las palmas hacia adelante mientras presionas las mancuernas hacia arriba en un movimiento de arco.",
+          "Extiende completamente los brazos sin bloquear los codos y luego baja lentamente las mancuernas a la posición inicial."
+        ],
+        "en": [
+          "Sit on a bench with back support, holding a dumbbell in each hand at shoulder height, palms facing your body.",
+          "Rotate your palms forward as you press the dumbbells upward in an arcing motion.",
+          "Fully extend your arms without locking your elbows, then slowly lower the dumbbells back to the starting position."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/arnold-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/arnold-press-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/arnold-press.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/arnold-press.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/arnold-press-f.svg"
+      }
+    },
+    {
+      "slug": "concentration-curl",
+      "name": {
+        "es": "Curl concentrado",
+        "en": "Concentration curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "primaryMuscles": [
+        {
+          "id": "biceps",
+          "es": "Bíceps",
+          "en": "Biceps"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "forearm",
+          "es": "Antebrazo",
+          "en": "Forearm"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Siéntate en el borde de un banco con las piernas separadas.",
+          "Sujeta una mancuerna con una mano y apoya el codo en el interior del muslo.",
+          "Flexiona el brazo, levantando la mancuerna hacia el hombro, manteniendo el codo fijo.",
+          "Baja lentamente la mancuerna a la posición inicial y repite."
+        ],
+        "en": [
+          "Sit on the edge of a bench with your legs apart.",
+          "Hold a dumbbell in one hand and rest your elbow on the inside of your thigh.",
+          "Curl the arm, lifting the dumbbell towards your shoulder, keeping the elbow stationary.",
+          "Slowly lower the dumbbell back to the starting position and repeat."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/concentration-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/concentration-curl-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/concentration-curl.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/concentration-curl.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/concentration-curl-f.svg"
+      }
+    },
+    {
+      "slug": "cable-curl",
+      "name": {
+        "es": "Curl en polea",
+        "en": "Cable curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "primaryMuscles": [
+        {
+          "id": "biceps",
+          "es": "Bíceps",
+          "en": "Biceps"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "forearm",
+          "es": "Antebrazo",
+          "en": "Forearm"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Ajusta la polea a la posición más baja y sujeta la barra con un agarre supino.",
+          "Párate erguido con los pies al ancho de los hombros y los codos pegados al cuerpo.",
+          "Flexiona los codos para levantar la barra hacia los hombros, manteniendo los codos inmóviles.",
+          "Baja lentamente la barra a la posición inicial, controlando el movimiento."
+        ],
+        "en": [
+          "Set the pulley to the lowest position and grasp the bar with an underhand grip.",
+          "Stand upright with feet shoulder-width apart and elbows close to your body.",
+          "Bend your elbows to curl the bar towards your shoulders, keeping elbows stationary.",
+          "Slowly lower the bar back to the starting position, controlling the movement."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-curl-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-curl.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-curl.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-curl-f.svg"
+      }
+    },
+    {
+      "slug": "triceps-kickback",
+      "name": {
+        "es": "Patada de tríceps",
+        "en": "Triceps kickback"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "primaryMuscles": [
+        {
+          "id": "triceps",
+          "es": "Tríceps",
+          "en": "Triceps"
+        }
+      ],
+      "secondaryMuscles": [],
+      "instructions": {
+        "es": [
+          "Sujeta una mancuerna en cada mano con las palmas hacia adentro.",
+          "Inclina el torso hacia adelante manteniendo la espalda recta.",
+          "Dobla los codos a 90 grados, luego extiende los brazos hacia atrás.",
+          "Regresa lentamente a la posición inicial sin mover los hombros."
+        ],
+        "en": [
+          "Hold a dumbbell in each hand with palms facing inward.",
+          "Lean your torso forward while keeping your back straight.",
+          "Bend your elbows at 90 degrees, then extend your arms backward.",
+          "Slowly return to the starting position without moving your shoulders."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/triceps-kickback-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/triceps-kickback-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/triceps-kickback.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/triceps-kickback.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/triceps-kickback-f.svg"
+      }
+    },
+    {
+      "slug": "close-grip-bench-press",
+      "name": {
+        "es": "Press de banca cerrado",
+        "en": "Close-grip bench press"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "primaryMuscles": [
+        {
+          "id": "triceps",
+          "es": "Tríceps",
+          "en": "Triceps"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "chest",
+          "es": "Pectoral",
+          "en": "Chest"
+        },
+        {
+          "id": "deltoids",
+          "es": "Hombros",
+          "en": "Shoulders"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Acuéstate en un banco plano con los pies firmes en el suelo.",
+          "Sujeta la barra con un agarre estrecho, manos separadas a la altura de los hombros.",
+          "Baja la barra lentamente hacia el pecho, manteniendo los codos cerca del cuerpo.",
+          "Empuja la barra hacia arriba hasta extender completamente los brazos."
+        ],
+        "en": [
+          "Lie on a flat bench with your feet firmly on the ground.",
+          "Grip the bar with a narrow grip, hands shoulder-width apart.",
+          "Lower the bar slowly to your chest, keeping elbows close to your body.",
+          "Press the bar upward until your arms are fully extended."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/close-grip-bench-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/close-grip-bench-press-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/close-grip-bench-press.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/close-grip-bench-press.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/close-grip-bench-press-f.svg"
+      }
+    },
+    {
+      "slug": "wrist-curl",
+      "name": {
+        "es": "Curl de muñeca",
+        "en": "Wrist curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "primaryMuscles": [
+        {
+          "id": "forearm",
+          "es": "Antebrazo",
+          "en": "Forearm"
+        }
+      ],
+      "secondaryMuscles": [],
+      "instructions": {
+        "es": [
+          "Siéntate en un banco con los antebrazos apoyados en tus muslos, sosteniendo una mancuerna en cada mano con las palmas hacia arriba.",
+          "Deja que las muñecas cuelguen al borde de tus rodillas, manteniendo los brazos inmóviles.",
+          "Flexiona las muñecas hacia arriba, levantando las mancuernas lo más alto posible, luego baja lentamente a la posición inicial."
+        ],
+        "en": [
+          "Sit on a bench with your forearms resting on your thighs, holding a dumbbell in each hand with palms facing up.",
+          "Let your wrists hang over the edge of your knees, keeping your arms still.",
+          "Curl your wrists upwards, lifting the dumbbells as high as possible, then slowly lower back to the starting position."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/wrist-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/wrist-curl-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/wrist-curl.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/wrist-curl.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/wrist-curl-f.svg"
+      }
+    },
+    {
+      "slug": "good-morning",
+      "name": {
+        "es": "Buenos días con barra",
+        "en": "Good morning"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "primaryMuscles": [
+        {
+          "id": "hamstring",
+          "es": "Femoral",
+          "en": "Hamstrings"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "gluteal",
+          "es": "Glúteo",
+          "en": "Glutes"
+        },
+        {
+          "id": "lower-back",
+          "es": "Lumbar",
+          "en": "Lower back"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Coloca los pies al ancho de los hombros y mantén la espalda recta.",
+          "Sujeta una barra sobre tus hombros, asegurándote de que esté equilibrada.",
+          "Inclina el torso hacia adelante desde las caderas, manteniendo las piernas ligeramente flexionadas.",
+          "Regresa a la posición inicial, usando los músculos de los glúteos y los isquiotibiales."
+        ],
+        "en": [
+          "Stand with feet shoulder-width apart, keeping your back straight.",
+          "Hold a barbell across your shoulders, ensuring it's balanced.",
+          "Bend your torso forward from the hips, keeping your legs slightly bent.",
+          "Return to the starting position using your glutes and hamstrings."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/good-morning-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/good-morning-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/good-morning.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/good-morning.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/good-morning-f.svg"
+      }
+    },
+    {
+      "slug": "sumo-deadlift",
+      "name": {
+        "es": "Peso muerto sumo",
+        "en": "Sumo deadlift"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "primaryMuscles": [
+        {
+          "id": "gluteal",
+          "es": "Glúteo",
+          "en": "Glutes"
+        },
+        {
+          "id": "hamstring",
+          "es": "Femoral",
+          "en": "Hamstrings"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "quadriceps",
+          "es": "Cuádriceps",
+          "en": "Quadriceps"
+        },
+        {
+          "id": "adductors",
+          "es": "Aductores",
+          "en": "Adductors"
+        },
+        {
+          "id": "lower-back",
+          "es": "Lumbar",
+          "en": "Lower back"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Coloca los pies más anchos que los hombros y apunta los dedos ligeramente hacia afuera.",
+          "Agarra la barra con las manos entre las piernas, manteniendo la espalda recta.",
+          "Levanta la barra extendiendo las caderas y rodillas hasta estar de pie."
+        ],
+        "en": [
+          "Position your feet wider than shoulder-width apart, toes slightly pointing out.",
+          "Grip the bar with hands inside your legs, keeping your back straight.",
+          "Lift the bar by extending your hips and knees until you stand upright."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/sumo-deadlift-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/sumo-deadlift-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/sumo-deadlift.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/sumo-deadlift.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/sumo-deadlift-f.svg"
+      }
+    },
+    {
+      "slug": "nordic-curl",
+      "name": {
+        "es": "Curl nórdico",
+        "en": "Nordic hamstring curl"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "hamstring",
+          "es": "Femoral",
+          "en": "Hamstrings"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "gluteal",
+          "es": "Glúteo",
+          "en": "Glutes"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Asegura tus tobillos bajo un soporte o pide a un compañero que los sujete.",
+          "Comienza de rodillas, con el cuerpo recto desde las rodillas hasta la cabeza.",
+          "Desciende lentamente hacia adelante, manteniendo el control, hasta que no puedas más sin caer.",
+          "Usa tus manos para amortiguar la caída y empuja ligeramente para volver a la posición inicial."
+        ],
+        "en": [
+          "Secure your ankles under a support or have a partner hold them.",
+          "Start on your knees, keeping your body straight from knees to head.",
+          "Slowly lower yourself forward, maintaining control, until you can no longer hold without falling.",
+          "Use your hands to cushion the fall and push slightly to return to the starting position."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/nordic-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/nordic-curl-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/nordic-curl.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/nordic-curl.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/nordic-curl-f.svg"
+      }
+    },
+    {
+      "slug": "cable-glute-kickback",
+      "name": {
+        "es": "Patada de glúteo en polea",
+        "en": "Cable glute kickback"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "primaryMuscles": [
+        {
+          "id": "gluteal",
+          "es": "Glúteo",
+          "en": "Glutes"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "hamstring",
+          "es": "Femoral",
+          "en": "Hamstrings"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Ajusta la polea a la altura más baja y coloca un tobillo en el accesorio.",
+          "Sujétate de la máquina para mantener el equilibrio.",
+          "Con la pierna recta, empuja hacia atrás hasta sentir la contracción en los glúteos.",
+          "Regresa lentamente a la posición inicial sin que el peso toque la pila."
+        ],
+        "en": [
+          "Set the pulley to the lowest position and attach an ankle strap.",
+          "Hold onto the machine for balance.",
+          "With a straight leg, push back until you feel the glutes contract.",
+          "Slowly return to the starting position without letting the weight stack touch."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-glute-kickback-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-glute-kickback-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-glute-kickback.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-glute-kickback.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-glute-kickback-f.svg"
+      }
+    },
+    {
+      "slug": "sissy-squat",
+      "name": {
+        "es": "Sentadilla sissy",
+        "en": "Sissy squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "quadriceps",
+          "es": "Cuádriceps",
+          "en": "Quadriceps"
+        }
+      ],
+      "secondaryMuscles": [],
+      "instructions": {
+        "es": [
+          "Coloca los pies al ancho de los hombros y mantén el torso erguido.",
+          "Inclina ligeramente el torso hacia atrás mientras doblas las rodillas.",
+          "Baja el cuerpo controladamente hasta que las rodillas estén casi a 90 grados.",
+          "Regresa a la posición inicial empujando con los cuádriceps."
+        ],
+        "en": [
+          "Place your feet shoulder-width apart and keep your torso upright.",
+          "Slightly lean your torso back while bending your knees.",
+          "Lower your body in a controlled manner until your knees are almost at 90 degrees.",
+          "Return to the starting position by pushing with your quadriceps."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/sissy-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/sissy-squat-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/sissy-squat.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/sissy-squat.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/sissy-squat-f.svg"
+      }
+    },
+    {
+      "slug": "hanging-leg-raise",
+      "name": {
+        "es": "Elevación de piernas colgado",
+        "en": "Hanging leg raise"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "abs",
+          "es": "Abdomen",
+          "en": "Abs"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "forearm",
+          "es": "Antebrazo",
+          "en": "Forearm"
+        },
+        {
+          "id": "obliques",
+          "es": "Oblicuos",
+          "en": "Obliques"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Agarra la barra de dominadas con las manos a la anchura de los hombros.",
+          "Cuelga con los brazos extendidos y el cuerpo recto, sin balancearte.",
+          "Levanta las piernas juntas hacia el pecho, manteniendo el control.",
+          "Baja las piernas lentamente a la posición inicial."
+        ],
+        "en": [
+          "Grab the pull-up bar with hands shoulder-width apart.",
+          "Hang with arms extended and body straight, avoiding swinging.",
+          "Lift your legs together towards your chest, maintaining control.",
+          "Lower your legs slowly back to the starting position."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/hanging-leg-raise-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/hanging-leg-raise-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/hanging-leg-raise.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/hanging-leg-raise.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/hanging-leg-raise-f.svg"
+      }
+    },
+    {
+      "slug": "cable-crunch",
+      "name": {
+        "es": "Crunch en polea",
+        "en": "Cable crunch"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "primaryMuscles": [
+        {
+          "id": "abs",
+          "es": "Abdomen",
+          "en": "Abs"
+        }
+      ],
+      "secondaryMuscles": [],
+      "instructions": {
+        "es": [
+          "Ajusta la polea a una altura alta y sujeta la cuerda con ambas manos.",
+          "Arrodíllate frente a la máquina, manteniendo la espalda recta.",
+          "Inclina el torso hacia adelante, llevando los codos hacia las rodillas mientras contraes los abdominales.",
+          "Regresa lentamente a la posición inicial, manteniendo el control."
+        ],
+        "en": [
+          "Set the pulley to a high position and grasp the rope with both hands.",
+          "Kneel in front of the machine, keeping your back straight.",
+          "Lean your torso forward, bringing your elbows towards your knees as you contract your abs.",
+          "Slowly return to the starting position, maintaining control."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-crunch-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-crunch-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-crunch.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-crunch.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-crunch-f.svg"
+      }
+    },
+    {
+      "slug": "mountain-climbers",
+      "name": {
+        "es": "Escaladores",
+        "en": "Mountain climbers"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "abs",
+          "es": "Abdomen",
+          "en": "Abs"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "quadriceps",
+          "es": "Cuádriceps",
+          "en": "Quadriceps"
+        },
+        {
+          "id": "deltoids",
+          "es": "Hombros",
+          "en": "Shoulders"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Comienza en posición de plancha alta con las manos directamente debajo de los hombros.",
+          "Lleva una rodilla hacia el pecho mientras mantienes el cuerpo alineado.",
+          "Alterna rápidamente las piernas, como si estuvieras corriendo en el lugar.",
+          "Mantén el núcleo apretado y respira de manera constante durante el ejercicio."
+        ],
+        "en": [
+          "Start in a high plank position with hands directly under shoulders.",
+          "Bring one knee towards your chest while keeping your body aligned.",
+          "Quickly alternate legs as if running in place.",
+          "Keep your core tight and breathe steadily throughout the exercise."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/mountain-climbers-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/mountain-climbers-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/mountain-climbers.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/mountain-climbers.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/mountain-climbers-f.svg"
+      }
+    },
+    {
+      "slug": "ab-wheel-rollout",
+      "name": {
+        "es": "Rueda abdominal",
+        "en": "Ab wheel rollout"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "abs",
+          "es": "Abdomen",
+          "en": "Abs"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "obliques",
+          "es": "Oblicuos",
+          "en": "Obliques"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Colócate de rodillas en el suelo, sosteniendo el ab wheel con ambas manos.",
+          "Inclina el torso hacia adelante y rueda el ab wheel lentamente hacia adelante, manteniendo la espalda recta.",
+          "Detente cuando sientas que no puedes mantener la forma correcta, luego rueda de regreso a la posición inicial."
+        ],
+        "en": [
+          "Kneel on the floor, holding the ab wheel with both hands.",
+          "Lean your torso forward and slowly roll the ab wheel forward, keeping your back straight.",
+          "Stop when you feel you can't maintain proper form, then roll back to the starting position."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/ab-wheel-rollout-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/ab-wheel-rollout-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/ab-wheel-rollout.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/ab-wheel-rollout.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/ab-wheel-rollout-f.svg"
+      }
+    },
+    {
+      "slug": "cable-woodchopper",
+      "name": {
+        "es": "Leñador en polea",
+        "en": "Cable woodchopper"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "primaryMuscles": [
+        {
+          "id": "obliques",
+          "es": "Oblicuos",
+          "en": "Obliques"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "abs",
+          "es": "Abdomen",
+          "en": "Abs"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Ajusta la polea a la posición más alta y agarra el mango con ambas manos.",
+          "Párate con los pies al ancho de los hombros, girando el torso hacia la polea.",
+          "Tira del mango hacia abajo y a través del cuerpo, girando el torso y flexionando las rodillas ligeramente.",
+          "Regresa lentamente a la posición inicial, controlando el movimiento."
+        ],
+        "en": [
+          "Set the pulley to the highest position and grab the handle with both hands.",
+          "Stand with feet shoulder-width apart, turning your torso towards the pulley.",
+          "Pull the handle down and across your body, rotating your torso and slightly bending your knees.",
+          "Slowly return to the starting position, controlling the movement."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-woodchopper-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-woodchopper-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-woodchopper.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-woodchopper.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-woodchopper-f.svg"
+      }
+    },
+    {
+      "slug": "jump-rope",
+      "name": {
+        "es": "Comba (saltar a la cuerda)",
+        "en": "Jump rope"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "calves",
+          "es": "Gemelos",
+          "en": "Calves"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "quadriceps",
+          "es": "Cuádriceps",
+          "en": "Quadriceps"
+        },
+        {
+          "id": "deltoids",
+          "es": "Hombros",
+          "en": "Shoulders"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "1. Sostén la cuerda con ambas manos a la altura de la cadera.",
+          "2. Gira la cuerda con las muñecas, no con los brazos.",
+          "3. Salta ligeramente cuando la cuerda se acerque a tus pies.",
+          "4. Mantén un ritmo constante y aterriza suavemente sobre las puntas de los pies."
+        ],
+        "en": [
+          "1. Hold the rope with both hands at hip level.",
+          "2. Rotate the rope using your wrists, not your arms.",
+          "3. Jump lightly as the rope approaches your feet.",
+          "4. Maintain a steady rhythm and land softly on the balls of your feet."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/jump-rope-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/jump-rope-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/jump-rope.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/jump-rope.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/jump-rope-f.svg"
+      }
+    },
+    {
+      "slug": "stair-climber",
+      "name": {
+        "es": "Escaladora (stepmill)",
+        "en": "Stair climber"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "primaryMuscles": [
+        {
+          "id": "quadriceps",
+          "es": "Cuádriceps",
+          "en": "Quadriceps"
+        },
+        {
+          "id": "gluteal",
+          "es": "Glúteo",
+          "en": "Glutes"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "hamstring",
+          "es": "Femoral",
+          "en": "Hamstrings"
+        },
+        {
+          "id": "calves",
+          "es": "Gemelos",
+          "en": "Calves"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Colócate frente a las escaleras con los pies separados al ancho de los hombros.",
+          "Sube un escalón con el pie derecho, empujando con el talón para activar los glúteos.",
+          "Lleva el pie izquierdo al mismo escalón, manteniendo el equilibrio.",
+          "Baja alternando los pies y repite el movimiento."
+        ],
+        "en": [
+          "Stand in front of the stairs with feet shoulder-width apart.",
+          "Step up with your right foot, pushing through the heel to engage the glutes.",
+          "Bring your left foot up to the same step, maintaining balance.",
+          "Step down alternating feet and repeat the movement."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/stair-climber-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/stair-climber-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/stair-climber.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/stair-climber.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/stair-climber-f.svg"
+      }
+    },
+    {
+      "slug": "jumping-jacks",
+      "name": {
+        "es": "Jumping jacks",
+        "en": "Jumping jacks"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "deltoids",
+          "es": "Hombros",
+          "en": "Shoulders"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "quadriceps",
+          "es": "Cuádriceps",
+          "en": "Quadriceps"
+        },
+        {
+          "id": "calves",
+          "es": "Gemelos",
+          "en": "Calves"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Párate derecho con los pies juntos y los brazos a los lados.",
+          "Salta abriendo las piernas al ancho de los hombros mientras levantas los brazos por encima de la cabeza.",
+          "Regresa a la posición inicial juntando los pies y bajando los brazos."
+        ],
+        "en": [
+          "Stand upright with feet together and arms at your sides.",
+          "Jump, spreading your legs shoulder-width apart while raising your arms overhead.",
+          "Return to the starting position by bringing your feet together and lowering your arms."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/jumping-jacks-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/jumping-jacks-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/jumping-jacks.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/jumping-jacks.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/jumping-jacks-f.svg"
+      }
+    },
+    {
+      "slug": "high-knees",
+      "name": {
+        "es": "Rodillas altas",
+        "en": "High knees"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "quadriceps",
+          "es": "Cuádriceps",
+          "en": "Quadriceps"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "abs",
+          "es": "Abdomen",
+          "en": "Abs"
+        },
+        {
+          "id": "calves",
+          "es": "Gemelos",
+          "en": "Calves"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Párate derecho con los pies al ancho de los hombros.",
+          "Levanta una rodilla hacia el pecho lo más alto posible.",
+          "Alterna rápidamente las rodillas, moviendo los brazos en sincronía."
+        ],
+        "en": [
+          "Stand upright with feet shoulder-width apart.",
+          "Lift one knee towards your chest as high as possible.",
+          "Quickly alternate knees, moving arms in sync."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/high-knees-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/high-knees-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/high-knees.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/high-knees.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/high-knees-f.svg"
       }
     }
   ]

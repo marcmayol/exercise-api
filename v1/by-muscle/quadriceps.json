@@ -4,7 +4,7 @@
     "es": "Cuádriceps",
     "en": "Quadriceps"
   },
-  "count": 24,
+  "count": 31,
   "exercises": [
     {
       "slug": "leg-press",
@@ -533,6 +533,160 @@
         "female": "https://marcmayol.com/exercise-api/images/sled-hack-squat-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/sled-hack-squat.json"
+    },
+    {
+      "slug": "sumo-deadlift",
+      "name": {
+        "es": "Peso muerto sumo",
+        "en": "Sumo deadlift"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/sumo-deadlift-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/sumo-deadlift-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/sumo-deadlift.json"
+    },
+    {
+      "slug": "sissy-squat",
+      "name": {
+        "es": "Sentadilla sissy",
+        "en": "Sissy squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/sissy-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/sissy-squat-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/sissy-squat.json"
+    },
+    {
+      "slug": "mountain-climbers",
+      "name": {
+        "es": "Escaladores",
+        "en": "Mountain climbers"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/mountain-climbers-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/mountain-climbers-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/mountain-climbers.json"
+    },
+    {
+      "slug": "jump-rope",
+      "name": {
+        "es": "Comba (saltar a la cuerda)",
+        "en": "Jump rope"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/jump-rope-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/jump-rope-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/jump-rope.json"
+    },
+    {
+      "slug": "stair-climber",
+      "name": {
+        "es": "Escaladora (stepmill)",
+        "en": "Stair climber"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/stair-climber-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/stair-climber-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/stair-climber.json"
+    },
+    {
+      "slug": "jumping-jacks",
+      "name": {
+        "es": "Jumping jacks",
+        "en": "Jumping jacks"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/jumping-jacks-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/jumping-jacks-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/jumping-jacks.json"
+    },
+    {
+      "slug": "high-knees",
+      "name": {
+        "es": "Rodillas altas",
+        "en": "High knees"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/high-knees-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/high-knees-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/high-knees.json"
     }
   ]
 }

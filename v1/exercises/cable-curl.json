@@ -1,0 +1,54 @@
+{
+  "slug": "cable-curl",
+  "name": {
+    "es": "Curl en polea",
+    "en": "Cable curl"
+  },
+  "group": {
+    "id": "arms",
+    "es": "Brazos",
+    "en": "Arms"
+  },
+  "equipment": {
+    "id": "cable",
+    "es": "Polea",
+    "en": "Cable"
+  },
+  "primaryMuscles": [
+    {
+      "id": "biceps",
+      "es": "Bíceps",
+      "en": "Biceps"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "forearm",
+      "es": "Antebrazo",
+      "en": "Forearm"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta la polea a la posición más baja y sujeta la barra con un agarre supino.",
+      "Párate erguido con los pies al ancho de los hombros y los codos pegados al cuerpo.",
+      "Flexiona los codos para levantar la barra hacia los hombros, manteniendo los codos inmóviles.",
+      "Baja lentamente la barra a la posición inicial, controlando el movimiento."
+    ],
+    "en": [
+      "Set the pulley to the lowest position and grasp the bar with an underhand grip.",
+      "Stand upright with feet shoulder-width apart and elbows close to your body.",
+      "Bend your elbows to curl the bar towards your shoulders, keeping elbows stationary.",
+      "Slowly lower the bar back to the starting position, controlling the movement."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/cable-curl-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/cable-curl-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-curl.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-curl.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-curl-f.svg"
+  }
+}

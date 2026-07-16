@@ -1,0 +1,54 @@
+{
+  "slug": "barbell-shrug",
+  "name": {
+    "es": "Encogimientos con barra",
+    "en": "Barbell shrug"
+  },
+  "group": {
+    "id": "shoulders",
+    "es": "Hombros",
+    "en": "Shoulders"
+  },
+  "equipment": {
+    "id": "barbell",
+    "es": "Barra",
+    "en": "Barbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "trapezius",
+      "es": "Trapecio",
+      "en": "Trapezius"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "forearm",
+      "es": "Antebrazo",
+      "en": "Forearm"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Párate derecho con los pies al ancho de los hombros.",
+      "Sujeta la barra con un agarre por delante, manos ligeramente más anchas que los hombros.",
+      "Levanta los hombros hacia las orejas mientras mantienes los brazos rectos.",
+      "Baja los hombros lentamente a la posición inicial."
+    ],
+    "en": [
+      "Stand upright with feet shoulder-width apart.",
+      "Hold the barbell with an overhand grip, hands slightly wider than shoulder-width.",
+      "Lift your shoulders towards your ears while keeping arms straight.",
+      "Lower your shoulders slowly back to the starting position."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/barbell-shrug-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/barbell-shrug-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/barbell-shrug.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/barbell-shrug.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/barbell-shrug-f.svg"
+  }
+}

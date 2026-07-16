@@ -1,0 +1,54 @@
+{
+  "slug": "cable-woodchopper",
+  "name": {
+    "es": "Leñador en polea",
+    "en": "Cable woodchopper"
+  },
+  "group": {
+    "id": "core",
+    "es": "Core",
+    "en": "Core"
+  },
+  "equipment": {
+    "id": "cable",
+    "es": "Polea",
+    "en": "Cable"
+  },
+  "primaryMuscles": [
+    {
+      "id": "obliques",
+      "es": "Oblicuos",
+      "en": "Obliques"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "abs",
+      "es": "Abdomen",
+      "en": "Abs"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta la polea a la posición más alta y agarra el mango con ambas manos.",
+      "Párate con los pies al ancho de los hombros, girando el torso hacia la polea.",
+      "Tira del mango hacia abajo y a través del cuerpo, girando el torso y flexionando las rodillas ligeramente.",
+      "Regresa lentamente a la posición inicial, controlando el movimiento."
+    ],
+    "en": [
+      "Set the pulley to the highest position and grab the handle with both hands.",
+      "Stand with feet shoulder-width apart, turning your torso towards the pulley.",
+      "Pull the handle down and across your body, rotating your torso and slightly bending your knees.",
+      "Slowly return to the starting position, controlling the movement."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/cable-woodchopper-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/cable-woodchopper-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-woodchopper.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-woodchopper.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-woodchopper-f.svg"
+  }
+}

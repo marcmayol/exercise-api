@@ -4,7 +4,7 @@
     "es": "Oblicuos",
     "en": "Obliques"
   },
-  "count": 5,
+  "count": 8,
   "exercises": [
     {
       "slug": "plank",
@@ -115,6 +115,72 @@
         "female": "https://marcmayol.com/exercise-api/images/bicycle-crunch-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/bicycle-crunch.json"
+    },
+    {
+      "slug": "hanging-leg-raise",
+      "name": {
+        "es": "Elevación de piernas colgado",
+        "en": "Hanging leg raise"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/hanging-leg-raise-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/hanging-leg-raise-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/hanging-leg-raise.json"
+    },
+    {
+      "slug": "ab-wheel-rollout",
+      "name": {
+        "es": "Rueda abdominal",
+        "en": "Ab wheel rollout"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/ab-wheel-rollout-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/ab-wheel-rollout-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/ab-wheel-rollout.json"
+    },
+    {
+      "slug": "cable-woodchopper",
+      "name": {
+        "es": "Leñador en polea",
+        "en": "Cable woodchopper"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-woodchopper-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-woodchopper-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-woodchopper.json"
     }
   ]
 }

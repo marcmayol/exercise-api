@@ -1,0 +1,46 @@
+{
+  "slug": "wrist-curl",
+  "name": {
+    "es": "Curl de muñeca",
+    "en": "Wrist curl"
+  },
+  "group": {
+    "id": "arms",
+    "es": "Brazos",
+    "en": "Arms"
+  },
+  "equipment": {
+    "id": "dumbbell",
+    "es": "Mancuerna",
+    "en": "Dumbbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "forearm",
+      "es": "Antebrazo",
+      "en": "Forearm"
+    }
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "es": [
+      "Siéntate en un banco con los antebrazos apoyados en tus muslos, sosteniendo una mancuerna en cada mano con las palmas hacia arriba.",
+      "Deja que las muñecas cuelguen al borde de tus rodillas, manteniendo los brazos inmóviles.",
+      "Flexiona las muñecas hacia arriba, levantando las mancuernas lo más alto posible, luego baja lentamente a la posición inicial."
+    ],
+    "en": [
+      "Sit on a bench with your forearms resting on your thighs, holding a dumbbell in each hand with palms facing up.",
+      "Let your wrists hang over the edge of your knees, keeping your arms still.",
+      "Curl your wrists upwards, lifting the dumbbells as high as possible, then slowly lower back to the starting position."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/wrist-curl-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/wrist-curl-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/wrist-curl.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/wrist-curl.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/wrist-curl-f.svg"
+  }
+}

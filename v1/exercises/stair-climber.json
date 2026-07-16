@@ -1,0 +1,64 @@
+{
+  "slug": "stair-climber",
+  "name": {
+    "es": "Escaladora (stepmill)",
+    "en": "Stair climber"
+  },
+  "group": {
+    "id": "cardio",
+    "es": "Cardio",
+    "en": "Cardio"
+  },
+  "equipment": {
+    "id": "cardio",
+    "es": "Cardio",
+    "en": "Cardio"
+  },
+  "primaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    },
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    },
+    {
+      "id": "calves",
+      "es": "Gemelos",
+      "en": "Calves"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Colócate frente a las escaleras con los pies separados al ancho de los hombros.",
+      "Sube un escalón con el pie derecho, empujando con el talón para activar los glúteos.",
+      "Lleva el pie izquierdo al mismo escalón, manteniendo el equilibrio.",
+      "Baja alternando los pies y repite el movimiento."
+    ],
+    "en": [
+      "Stand in front of the stairs with feet shoulder-width apart.",
+      "Step up with your right foot, pushing through the heel to engage the glutes.",
+      "Bring your left foot up to the same step, maintaining balance.",
+      "Step down alternating feet and repeat the movement."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/stair-climber-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/stair-climber-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/stair-climber.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/stair-climber.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/stair-climber-f.svg"
+  }
+}

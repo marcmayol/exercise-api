@@ -4,7 +4,7 @@
     "es": "Peso corporal",
     "en": "Bodyweight"
   },
-  "count": 16,
+  "count": 28,
   "exercises": [
     {
       "slug": "box-squat",
@@ -357,6 +357,270 @@
         "female": "https://marcmayol.com/exercise-api/images/bicycle-crunch-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/bicycle-crunch.json"
+    },
+    {
+      "slug": "push-ups",
+      "name": {
+        "es": "Flexiones",
+        "en": "Push-ups"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/push-ups-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/push-ups-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/push-ups.json"
+    },
+    {
+      "slug": "chest-dips",
+      "name": {
+        "es": "Fondos en paralelas",
+        "en": "Chest dips"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/chest-dips-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/chest-dips-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/chest-dips.json"
+    },
+    {
+      "slug": "back-extension",
+      "name": {
+        "es": "Hiperextensiones",
+        "en": "Back extension"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/back-extension-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/back-extension-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/back-extension.json"
+    },
+    {
+      "slug": "inverted-row",
+      "name": {
+        "es": "Remo invertido",
+        "en": "Inverted row"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/inverted-row-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/inverted-row-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/inverted-row.json"
+    },
+    {
+      "slug": "nordic-curl",
+      "name": {
+        "es": "Curl nórdico",
+        "en": "Nordic hamstring curl"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/nordic-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/nordic-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/nordic-curl.json"
+    },
+    {
+      "slug": "sissy-squat",
+      "name": {
+        "es": "Sentadilla sissy",
+        "en": "Sissy squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/sissy-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/sissy-squat-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/sissy-squat.json"
+    },
+    {
+      "slug": "hanging-leg-raise",
+      "name": {
+        "es": "Elevación de piernas colgado",
+        "en": "Hanging leg raise"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/hanging-leg-raise-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/hanging-leg-raise-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/hanging-leg-raise.json"
+    },
+    {
+      "slug": "mountain-climbers",
+      "name": {
+        "es": "Escaladores",
+        "en": "Mountain climbers"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/mountain-climbers-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/mountain-climbers-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/mountain-climbers.json"
+    },
+    {
+      "slug": "ab-wheel-rollout",
+      "name": {
+        "es": "Rueda abdominal",
+        "en": "Ab wheel rollout"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/ab-wheel-rollout-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/ab-wheel-rollout-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/ab-wheel-rollout.json"
+    },
+    {
+      "slug": "jump-rope",
+      "name": {
+        "es": "Comba (saltar a la cuerda)",
+        "en": "Jump rope"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/jump-rope-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/jump-rope-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/jump-rope.json"
+    },
+    {
+      "slug": "jumping-jacks",
+      "name": {
+        "es": "Jumping jacks",
+        "en": "Jumping jacks"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/jumping-jacks-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/jumping-jacks-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/jumping-jacks.json"
+    },
+    {
+      "slug": "high-knees",
+      "name": {
+        "es": "Rodillas altas",
+        "en": "High knees"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/high-knees-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/high-knees-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/high-knees.json"
     }
   ]
 }

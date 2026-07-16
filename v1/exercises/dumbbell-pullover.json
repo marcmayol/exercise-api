@@ -1,0 +1,59 @@
+{
+  "slug": "dumbbell-pullover",
+  "name": {
+    "es": "Pull-over con mancuerna",
+    "en": "Dumbbell pullover"
+  },
+  "group": {
+    "id": "back",
+    "es": "Espalda",
+    "en": "Back"
+  },
+  "equipment": {
+    "id": "dumbbell",
+    "es": "Mancuerna",
+    "en": "Dumbbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "upper-back",
+      "es": "Dorsal",
+      "en": "Upper back"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "chest",
+      "es": "Pectoral",
+      "en": "Chest"
+    },
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Acuéstate boca arriba en un banco, con los pies firmemente en el suelo.",
+      "Sujeta una mancuerna con ambas manos, extendiendo los brazos sobre el pecho.",
+      "Baja lentamente la mancuerna detrás de la cabeza, manteniendo los codos ligeramente flexionados.",
+      "Regresa a la posición inicial, asegurándote de controlar el movimiento."
+    ],
+    "en": [
+      "Lie on your back on a bench, with your feet firmly on the ground.",
+      "Hold a dumbbell with both hands, extending your arms over your chest.",
+      "Slowly lower the dumbbell behind your head, keeping your elbows slightly bent.",
+      "Return to the starting position, ensuring you control the movement."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/dumbbell-pullover-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/dumbbell-pullover-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-pullover.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-pullover.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-pullover-f.svg"
+  }
+}

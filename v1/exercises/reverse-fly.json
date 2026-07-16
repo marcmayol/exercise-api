@@ -1,0 +1,59 @@
+{
+  "slug": "reverse-fly",
+  "name": {
+    "es": "Pájaros (deltoides posterior)",
+    "en": "Reverse fly"
+  },
+  "group": {
+    "id": "shoulders",
+    "es": "Hombros",
+    "en": "Shoulders"
+  },
+  "equipment": {
+    "id": "dumbbell",
+    "es": "Mancuerna",
+    "en": "Dumbbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "upper-back",
+      "es": "Dorsal",
+      "en": "Upper back"
+    },
+    {
+      "id": "trapezius",
+      "es": "Trapecio",
+      "en": "Trapezius"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "1. Ponte de pie con los pies separados al ancho de los hombros y sostén una mancuerna en cada mano.",
+      "2. Inclina ligeramente el torso hacia adelante desde las caderas, manteniendo la espalda recta.",
+      "3. Con los brazos ligeramente doblados, levanta las mancuernas hacia los lados hasta que los brazos estén paralelos al suelo.",
+      "4. Baja lentamente las mancuernas a la posición inicial y repite."
+    ],
+    "en": [
+      "1. Stand with feet shoulder-width apart, holding a dumbbell in each hand.",
+      "2. Slightly bend forward at the hips, keeping your back straight.",
+      "3. With arms slightly bent, lift the dumbbells out to the sides until arms are parallel to the floor.",
+      "4. Slowly lower the dumbbells back to the starting position and repeat."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/reverse-fly-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/reverse-fly-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/reverse-fly.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/reverse-fly.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/reverse-fly-f.svg"
+  }
+}

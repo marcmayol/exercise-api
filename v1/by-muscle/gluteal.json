@@ -4,7 +4,7 @@
     "es": "Glúteo",
     "en": "Glutes"
   },
-  "count": 25,
+  "count": 31,
   "exercises": [
     {
       "slug": "leg-press",
@@ -555,6 +555,138 @@
         "female": "https://marcmayol.com/exercise-api/images/sled-hack-squat-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/sled-hack-squat.json"
+    },
+    {
+      "slug": "back-extension",
+      "name": {
+        "es": "Hiperextensiones",
+        "en": "Back extension"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/back-extension-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/back-extension-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/back-extension.json"
+    },
+    {
+      "slug": "good-morning",
+      "name": {
+        "es": "Buenos días con barra",
+        "en": "Good morning"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/good-morning-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/good-morning-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/good-morning.json"
+    },
+    {
+      "slug": "sumo-deadlift",
+      "name": {
+        "es": "Peso muerto sumo",
+        "en": "Sumo deadlift"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/sumo-deadlift-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/sumo-deadlift-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/sumo-deadlift.json"
+    },
+    {
+      "slug": "nordic-curl",
+      "name": {
+        "es": "Curl nórdico",
+        "en": "Nordic hamstring curl"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/nordic-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/nordic-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/nordic-curl.json"
+    },
+    {
+      "slug": "cable-glute-kickback",
+      "name": {
+        "es": "Patada de glúteo en polea",
+        "en": "Cable glute kickback"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-glute-kickback-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-glute-kickback-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-glute-kickback.json"
+    },
+    {
+      "slug": "stair-climber",
+      "name": {
+        "es": "Escaladora (stepmill)",
+        "en": "Stair climber"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/stair-climber-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/stair-climber-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/stair-climber.json"
     }
   ]
 }

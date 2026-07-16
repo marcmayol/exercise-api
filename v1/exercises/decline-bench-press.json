@@ -1,0 +1,54 @@
+{
+  "slug": "decline-bench-press",
+  "name": {
+    "es": "Press declinado con barra",
+    "en": "Decline barbell bench press"
+  },
+  "group": {
+    "id": "chest",
+    "es": "Pecho",
+    "en": "Chest"
+  },
+  "equipment": {
+    "id": "barbell",
+    "es": "Barra",
+    "en": "Barbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "chest",
+      "es": "Pectoral",
+      "en": "Chest"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta el banco a una posición declinada y asegúrate de que esté seguro.",
+      "Acuéstate en el banco con los pies firmemente en el suelo y agarra la barra con las manos un poco más anchas que los hombros.",
+      "Desciende la barra lentamente hacia el pecho, manteniendo los codos en un ángulo de 45 grados.",
+      "Empuja la barra hacia arriba hasta que los brazos estén completamente extendidos, sin bloquear los codos."
+    ],
+    "en": [
+      "Adjust the bench to a decline position and ensure it is secure.",
+      "Lie on the bench with feet firmly on the ground and grip the bar slightly wider than shoulder-width.",
+      "Lower the bar slowly towards your chest, keeping elbows at a 45-degree angle.",
+      "Press the bar upwards until arms are fully extended, without locking the elbows."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/decline-bench-press-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/decline-bench-press-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/decline-bench-press.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/decline-bench-press.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/decline-bench-press-f.svg"
+  }
+}

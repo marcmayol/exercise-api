@@ -4,7 +4,7 @@
     "es": "Cardio",
     "en": "Cardio"
   },
-  "count": 6,
+  "count": 7,
   "exercises": [
     {
       "slug": "treadmill",
@@ -137,6 +137,28 @@
         "female": "https://marcmayol.com/exercise-api/images/air-bike-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/air-bike.json"
+    },
+    {
+      "slug": "stair-climber",
+      "name": {
+        "es": "Escaladora (stepmill)",
+        "en": "Stair climber"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/stair-climber-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/stair-climber-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/stair-climber.json"
     }
   ]
 }

@@ -1,0 +1,59 @@
+{
+  "slug": "jump-rope",
+  "name": {
+    "es": "Comba (saltar a la cuerda)",
+    "en": "Jump rope"
+  },
+  "group": {
+    "id": "cardio",
+    "es": "Cardio",
+    "en": "Cardio"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "calves",
+      "es": "Gemelos",
+      "en": "Calves"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    },
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "1. Sostén la cuerda con ambas manos a la altura de la cadera.",
+      "2. Gira la cuerda con las muñecas, no con los brazos.",
+      "3. Salta ligeramente cuando la cuerda se acerque a tus pies.",
+      "4. Mantén un ritmo constante y aterriza suavemente sobre las puntas de los pies."
+    ],
+    "en": [
+      "1. Hold the rope with both hands at hip level.",
+      "2. Rotate the rope using your wrists, not your arms.",
+      "3. Jump lightly as the rope approaches your feet.",
+      "4. Maintain a steady rhythm and land softly on the balls of your feet."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/jump-rope-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/jump-rope-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/jump-rope.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/jump-rope.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/jump-rope-f.svg"
+  }
+}

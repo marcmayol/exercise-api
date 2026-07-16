@@ -1,0 +1,52 @@
+{
+  "slug": "ab-wheel-rollout",
+  "name": {
+    "es": "Rueda abdominal",
+    "en": "Ab wheel rollout"
+  },
+  "group": {
+    "id": "core",
+    "es": "Core",
+    "en": "Core"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "abs",
+      "es": "Abdomen",
+      "en": "Abs"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "obliques",
+      "es": "Oblicuos",
+      "en": "Obliques"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Colócate de rodillas en el suelo, sosteniendo el ab wheel con ambas manos.",
+      "Inclina el torso hacia adelante y rueda el ab wheel lentamente hacia adelante, manteniendo la espalda recta.",
+      "Detente cuando sientas que no puedes mantener la forma correcta, luego rueda de regreso a la posición inicial."
+    ],
+    "en": [
+      "Kneel on the floor, holding the ab wheel with both hands.",
+      "Lean your torso forward and slowly roll the ab wheel forward, keeping your back straight.",
+      "Stop when you feel you can't maintain proper form, then roll back to the starting position."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/ab-wheel-rollout-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/ab-wheel-rollout-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/ab-wheel-rollout.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/ab-wheel-rollout.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/ab-wheel-rollout-f.svg"
+  }
+}

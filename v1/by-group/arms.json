@@ -4,7 +4,7 @@
     "es": "Brazos",
     "en": "Arms"
   },
-  "count": 8,
+  "count": 13,
   "exercises": [
     {
       "slug": "alternating-dumbbell-biceps-curl",
@@ -181,6 +181,116 @@
         "female": "https://marcmayol.com/exercise-api/images/preacher-curl-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/preacher-curl.json"
+    },
+    {
+      "slug": "concentration-curl",
+      "name": {
+        "es": "Curl concentrado",
+        "en": "Concentration curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/concentration-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/concentration-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/concentration-curl.json"
+    },
+    {
+      "slug": "cable-curl",
+      "name": {
+        "es": "Curl en polea",
+        "en": "Cable curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-curl.json"
+    },
+    {
+      "slug": "triceps-kickback",
+      "name": {
+        "es": "Patada de tríceps",
+        "en": "Triceps kickback"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/triceps-kickback-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/triceps-kickback-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/triceps-kickback.json"
+    },
+    {
+      "slug": "close-grip-bench-press",
+      "name": {
+        "es": "Press de banca cerrado",
+        "en": "Close-grip bench press"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/close-grip-bench-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/close-grip-bench-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/close-grip-bench-press.json"
+    },
+    {
+      "slug": "wrist-curl",
+      "name": {
+        "es": "Curl de muñeca",
+        "en": "Wrist curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/wrist-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/wrist-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/wrist-curl.json"
     }
   ]
 }

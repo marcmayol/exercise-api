@@ -1,0 +1,52 @@
+{
+  "slug": "cable-crossover",
+  "name": {
+    "es": "Cruce de poleas",
+    "en": "Cable crossover"
+  },
+  "group": {
+    "id": "chest",
+    "es": "Pecho",
+    "en": "Chest"
+  },
+  "equipment": {
+    "id": "cable",
+    "es": "Polea",
+    "en": "Cable"
+  },
+  "primaryMuscles": [
+    {
+      "id": "chest",
+      "es": "Pectoral",
+      "en": "Chest"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta las poleas a la altura de los hombros y selecciona el peso adecuado.",
+      "Toma una manija en cada mano y da un paso adelante, manteniendo una ligera flexión en los codos.",
+      "Cruza las manos frente a ti, apretando el pecho, y luego regresa lentamente a la posición inicial."
+    ],
+    "en": [
+      "Adjust the pulleys to shoulder height and select the appropriate weight.",
+      "Grab a handle in each hand and step forward, keeping a slight bend in the elbows.",
+      "Cross your hands in front of you, squeezing your chest, then slowly return to the starting position."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/cable-crossover-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/cable-crossover-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-crossover.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-crossover.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-crossover-f.svg"
+  }
+}

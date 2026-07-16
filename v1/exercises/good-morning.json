@@ -1,0 +1,59 @@
+{
+  "slug": "good-morning",
+  "name": {
+    "es": "Buenos días con barra",
+    "en": "Good morning"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "barbell",
+    "es": "Barra",
+    "en": "Barbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    },
+    {
+      "id": "lower-back",
+      "es": "Lumbar",
+      "en": "Lower back"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Coloca los pies al ancho de los hombros y mantén la espalda recta.",
+      "Sujeta una barra sobre tus hombros, asegurándote de que esté equilibrada.",
+      "Inclina el torso hacia adelante desde las caderas, manteniendo las piernas ligeramente flexionadas.",
+      "Regresa a la posición inicial, usando los músculos de los glúteos y los isquiotibiales."
+    ],
+    "en": [
+      "Stand with feet shoulder-width apart, keeping your back straight.",
+      "Hold a barbell across your shoulders, ensuring it's balanced.",
+      "Bend your torso forward from the hips, keeping your legs slightly bent.",
+      "Return to the starting position using your glutes and hamstrings."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/good-morning-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/good-morning-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/good-morning.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/good-morning.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/good-morning-f.svg"
+  }
+}

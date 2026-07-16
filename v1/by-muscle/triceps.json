@@ -4,7 +4,7 @@
     "es": "Tríceps",
     "en": "Triceps"
   },
-  "count": 16,
+  "count": 24,
   "exercises": [
     {
       "slug": "seated-chest-press",
@@ -357,6 +357,182 @@
         "female": "https://marcmayol.com/exercise-api/images/air-bike-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/air-bike.json"
+    },
+    {
+      "slug": "push-ups",
+      "name": {
+        "es": "Flexiones",
+        "en": "Push-ups"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/push-ups-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/push-ups-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/push-ups.json"
+    },
+    {
+      "slug": "chest-dips",
+      "name": {
+        "es": "Fondos en paralelas",
+        "en": "Chest dips"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/chest-dips-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/chest-dips-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/chest-dips.json"
+    },
+    {
+      "slug": "decline-bench-press",
+      "name": {
+        "es": "Press declinado con barra",
+        "en": "Decline barbell bench press"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/decline-bench-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/decline-bench-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/decline-bench-press.json"
+    },
+    {
+      "slug": "dumbbell-pullover",
+      "name": {
+        "es": "Pull-over con mancuerna",
+        "en": "Dumbbell pullover"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dumbbell-pullover-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dumbbell-pullover-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-pullover.json"
+    },
+    {
+      "slug": "straight-arm-pulldown",
+      "name": {
+        "es": "Jalón con brazos rectos",
+        "en": "Straight-arm pulldown"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/straight-arm-pulldown-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/straight-arm-pulldown-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/straight-arm-pulldown.json"
+    },
+    {
+      "slug": "arnold-press",
+      "name": {
+        "es": "Press Arnold",
+        "en": "Arnold press"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/arnold-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/arnold-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/arnold-press.json"
+    },
+    {
+      "slug": "triceps-kickback",
+      "name": {
+        "es": "Patada de tríceps",
+        "en": "Triceps kickback"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/triceps-kickback-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/triceps-kickback-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/triceps-kickback.json"
+    },
+    {
+      "slug": "close-grip-bench-press",
+      "name": {
+        "es": "Press de banca cerrado",
+        "en": "Close-grip bench press"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/close-grip-bench-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/close-grip-bench-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/close-grip-bench-press.json"
     }
   ]
 }

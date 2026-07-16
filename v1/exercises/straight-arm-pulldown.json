@@ -1,0 +1,54 @@
+{
+  "slug": "straight-arm-pulldown",
+  "name": {
+    "es": "Jalón con brazos rectos",
+    "en": "Straight-arm pulldown"
+  },
+  "group": {
+    "id": "back",
+    "es": "Espalda",
+    "en": "Back"
+  },
+  "equipment": {
+    "id": "cable",
+    "es": "Polea",
+    "en": "Cable"
+  },
+  "primaryMuscles": [
+    {
+      "id": "upper-back",
+      "es": "Dorsal",
+      "en": "Upper back"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Colócate de pie frente a una polea alta con los pies al ancho de los hombros.",
+      "Agarra la barra con ambas manos, manteniendo los brazos rectos y ligeramente flexionados.",
+      "Tira de la barra hacia abajo hasta que tus manos lleguen a tus muslos, manteniendo los brazos rectos.",
+      "Regresa lentamente a la posición inicial, controlando el movimiento."
+    ],
+    "en": [
+      "Stand facing a high pulley with feet shoulder-width apart.",
+      "Grab the bar with both hands, keeping arms straight and slightly bent.",
+      "Pull the bar down until your hands reach your thighs, maintaining straight arms.",
+      "Slowly return to the starting position, controlling the movement."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/straight-arm-pulldown-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/straight-arm-pulldown-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/straight-arm-pulldown.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/straight-arm-pulldown.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/straight-arm-pulldown-f.svg"
+  }
+}

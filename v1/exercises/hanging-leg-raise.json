@@ -1,0 +1,59 @@
+{
+  "slug": "hanging-leg-raise",
+  "name": {
+    "es": "Elevación de piernas colgado",
+    "en": "Hanging leg raise"
+  },
+  "group": {
+    "id": "core",
+    "es": "Core",
+    "en": "Core"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "abs",
+      "es": "Abdomen",
+      "en": "Abs"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "forearm",
+      "es": "Antebrazo",
+      "en": "Forearm"
+    },
+    {
+      "id": "obliques",
+      "es": "Oblicuos",
+      "en": "Obliques"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Agarra la barra de dominadas con las manos a la anchura de los hombros.",
+      "Cuelga con los brazos extendidos y el cuerpo recto, sin balancearte.",
+      "Levanta las piernas juntas hacia el pecho, manteniendo el control.",
+      "Baja las piernas lentamente a la posición inicial."
+    ],
+    "en": [
+      "Grab the pull-up bar with hands shoulder-width apart.",
+      "Hang with arms extended and body straight, avoiding swinging.",
+      "Lift your legs together towards your chest, maintaining control.",
+      "Lower your legs slowly back to the starting position."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/hanging-leg-raise-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/hanging-leg-raise-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/hanging-leg-raise.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/hanging-leg-raise.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/hanging-leg-raise-f.svg"
+  }
+}

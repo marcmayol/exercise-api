@@ -4,7 +4,7 @@
     "es": "Barra",
     "en": "Barbell"
   },
-  "count": 15,
+  "count": 20,
   "exercises": [
     {
       "slug": "barbell-hip-thrust",
@@ -335,6 +335,116 @@
         "female": "https://marcmayol.com/exercise-api/images/preacher-curl-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/preacher-curl.json"
+    },
+    {
+      "slug": "decline-bench-press",
+      "name": {
+        "es": "Press declinado con barra",
+        "en": "Decline barbell bench press"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/decline-bench-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/decline-bench-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/decline-bench-press.json"
+    },
+    {
+      "slug": "barbell-shrug",
+      "name": {
+        "es": "Encogimientos con barra",
+        "en": "Barbell shrug"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-shrug-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-shrug-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-shrug.json"
+    },
+    {
+      "slug": "close-grip-bench-press",
+      "name": {
+        "es": "Press de banca cerrado",
+        "en": "Close-grip bench press"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/close-grip-bench-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/close-grip-bench-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/close-grip-bench-press.json"
+    },
+    {
+      "slug": "good-morning",
+      "name": {
+        "es": "Buenos días con barra",
+        "en": "Good morning"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/good-morning-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/good-morning-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/good-morning.json"
+    },
+    {
+      "slug": "sumo-deadlift",
+      "name": {
+        "es": "Peso muerto sumo",
+        "en": "Sumo deadlift"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/sumo-deadlift-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/sumo-deadlift-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/sumo-deadlift.json"
     }
   ]
 }

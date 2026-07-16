@@ -1,0 +1,59 @@
+{
+  "slug": "inverted-row",
+  "name": {
+    "es": "Remo invertido",
+    "en": "Inverted row"
+  },
+  "group": {
+    "id": "back",
+    "es": "Espalda",
+    "en": "Back"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "upper-back",
+      "es": "Dorsal",
+      "en": "Upper back"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "biceps",
+      "es": "Bíceps",
+      "en": "Biceps"
+    },
+    {
+      "id": "forearm",
+      "es": "Antebrazo",
+      "en": "Forearm"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Coloca una barra a la altura de la cintura y acuéstate debajo de ella.",
+      "Agarra la barra con las palmas hacia adelante y los brazos extendidos.",
+      "Tira de tu pecho hacia la barra manteniendo el cuerpo recto.",
+      "Baja lentamente hasta la posición inicial sin tocar el suelo."
+    ],
+    "en": [
+      "Set a bar at waist height and lie underneath it.",
+      "Grab the bar with palms facing forward and arms extended.",
+      "Pull your chest towards the bar while keeping your body straight.",
+      "Lower yourself slowly back to the starting position without touching the ground."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/inverted-row-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/inverted-row-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/inverted-row.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/inverted-row.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/inverted-row-f.svg"
+  }
+}

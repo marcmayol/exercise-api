@@ -1,0 +1,52 @@
+{
+  "slug": "arnold-press",
+  "name": {
+    "es": "Press Arnold",
+    "en": "Arnold press"
+  },
+  "group": {
+    "id": "shoulders",
+    "es": "Hombros",
+    "en": "Shoulders"
+  },
+  "equipment": {
+    "id": "dumbbell",
+    "es": "Mancuerna",
+    "en": "Dumbbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Siéntate en un banco con respaldo, sosteniendo una mancuerna en cada mano a la altura de los hombros, con las palmas hacia el cuerpo.",
+      "Gira las palmas hacia adelante mientras presionas las mancuernas hacia arriba en un movimiento de arco.",
+      "Extiende completamente los brazos sin bloquear los codos y luego baja lentamente las mancuernas a la posición inicial."
+    ],
+    "en": [
+      "Sit on a bench with back support, holding a dumbbell in each hand at shoulder height, palms facing your body.",
+      "Rotate your palms forward as you press the dumbbells upward in an arcing motion.",
+      "Fully extend your arms without locking your elbows, then slowly lower the dumbbells back to the starting position."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/arnold-press-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/arnold-press-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/arnold-press.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/arnold-press.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/arnold-press-f.svg"
+  }
+}

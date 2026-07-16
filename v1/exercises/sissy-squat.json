@@ -1,0 +1,48 @@
+{
+  "slug": "sissy-squat",
+  "name": {
+    "es": "Sentadilla sissy",
+    "en": "Sissy squat"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    }
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "es": [
+      "Coloca los pies al ancho de los hombros y mantén el torso erguido.",
+      "Inclina ligeramente el torso hacia atrás mientras doblas las rodillas.",
+      "Baja el cuerpo controladamente hasta que las rodillas estén casi a 90 grados.",
+      "Regresa a la posición inicial empujando con los cuádriceps."
+    ],
+    "en": [
+      "Place your feet shoulder-width apart and keep your torso upright.",
+      "Slightly lean your torso back while bending your knees.",
+      "Lower your body in a controlled manner until your knees are almost at 90 degrees.",
+      "Return to the starting position by pushing with your quadriceps."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/sissy-squat-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/sissy-squat-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/sissy-squat.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/sissy-squat.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/sissy-squat-f.svg"
+  }
+}

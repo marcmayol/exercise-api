@@ -4,7 +4,7 @@
     "es": "Hombros",
     "en": "Shoulders"
   },
-  "count": 22,
+  "count": 32,
   "exercises": [
     {
       "slug": "seated-chest-press",
@@ -489,6 +489,226 @@
         "female": "https://marcmayol.com/exercise-api/images/air-bike-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/air-bike.json"
+    },
+    {
+      "slug": "push-ups",
+      "name": {
+        "es": "Flexiones",
+        "en": "Push-ups"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/push-ups-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/push-ups-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/push-ups.json"
+    },
+    {
+      "slug": "cable-crossover",
+      "name": {
+        "es": "Cruce de poleas",
+        "en": "Cable crossover"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-crossover-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-crossover-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-crossover.json"
+    },
+    {
+      "slug": "chest-dips",
+      "name": {
+        "es": "Fondos en paralelas",
+        "en": "Chest dips"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/chest-dips-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/chest-dips-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/chest-dips.json"
+    },
+    {
+      "slug": "reverse-fly",
+      "name": {
+        "es": "Pájaros (deltoides posterior)",
+        "en": "Reverse fly"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/reverse-fly-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/reverse-fly-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/reverse-fly.json"
+    },
+    {
+      "slug": "front-raise",
+      "name": {
+        "es": "Elevaciones frontales",
+        "en": "Front raise"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/front-raise-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/front-raise-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/front-raise.json"
+    },
+    {
+      "slug": "arnold-press",
+      "name": {
+        "es": "Press Arnold",
+        "en": "Arnold press"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/arnold-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/arnold-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/arnold-press.json"
+    },
+    {
+      "slug": "close-grip-bench-press",
+      "name": {
+        "es": "Press de banca cerrado",
+        "en": "Close-grip bench press"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/close-grip-bench-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/close-grip-bench-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/close-grip-bench-press.json"
+    },
+    {
+      "slug": "mountain-climbers",
+      "name": {
+        "es": "Escaladores",
+        "en": "Mountain climbers"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/mountain-climbers-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/mountain-climbers-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/mountain-climbers.json"
+    },
+    {
+      "slug": "jump-rope",
+      "name": {
+        "es": "Comba (saltar a la cuerda)",
+        "en": "Jump rope"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/jump-rope-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/jump-rope-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/jump-rope.json"
+    },
+    {
+      "slug": "jumping-jacks",
+      "name": {
+        "es": "Jumping jacks",
+        "en": "Jumping jacks"
+      },
+      "group": {
+        "id": "cardio",
+        "es": "Cardio",
+        "en": "Cardio"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/jumping-jacks-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/jumping-jacks-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/jumping-jacks.json"
     }
   ]
 }

@@ -1,0 +1,54 @@
+{
+  "slug": "nordic-curl",
+  "name": {
+    "es": "Curl nórdico",
+    "en": "Nordic hamstring curl"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Asegura tus tobillos bajo un soporte o pide a un compañero que los sujete.",
+      "Comienza de rodillas, con el cuerpo recto desde las rodillas hasta la cabeza.",
+      "Desciende lentamente hacia adelante, manteniendo el control, hasta que no puedas más sin caer.",
+      "Usa tus manos para amortiguar la caída y empuja ligeramente para volver a la posición inicial."
+    ],
+    "en": [
+      "Secure your ankles under a support or have a partner hold them.",
+      "Start on your knees, keeping your body straight from knees to head.",
+      "Slowly lower yourself forward, maintaining control, until you can no longer hold without falling.",
+      "Use your hands to cushion the fall and push slightly to return to the starting position."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/nordic-curl-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/nordic-curl-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/nordic-curl.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/nordic-curl.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/nordic-curl-f.svg"
+  }
+}

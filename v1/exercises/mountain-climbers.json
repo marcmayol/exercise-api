@@ -1,0 +1,59 @@
+{
+  "slug": "mountain-climbers",
+  "name": {
+    "es": "Escaladores",
+    "en": "Mountain climbers"
+  },
+  "group": {
+    "id": "core",
+    "es": "Core",
+    "en": "Core"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "abs",
+      "es": "Abdomen",
+      "en": "Abs"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    },
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Comienza en posición de plancha alta con las manos directamente debajo de los hombros.",
+      "Lleva una rodilla hacia el pecho mientras mantienes el cuerpo alineado.",
+      "Alterna rápidamente las piernas, como si estuvieras corriendo en el lugar.",
+      "Mantén el núcleo apretado y respira de manera constante durante el ejercicio."
+    ],
+    "en": [
+      "Start in a high plank position with hands directly under shoulders.",
+      "Bring one knee towards your chest while keeping your body aligned.",
+      "Quickly alternate legs as if running in place.",
+      "Keep your core tight and breathe steadily throughout the exercise."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/mountain-climbers-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/mountain-climbers-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/mountain-climbers.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/mountain-climbers.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/mountain-climbers-f.svg"
+  }
+}

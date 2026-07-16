@@ -1,0 +1,57 @@
+{
+  "slug": "high-knees",
+  "name": {
+    "es": "Rodillas altas",
+    "en": "High knees"
+  },
+  "group": {
+    "id": "cardio",
+    "es": "Cardio",
+    "en": "Cardio"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "abs",
+      "es": "Abdomen",
+      "en": "Abs"
+    },
+    {
+      "id": "calves",
+      "es": "Gemelos",
+      "en": "Calves"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Párate derecho con los pies al ancho de los hombros.",
+      "Levanta una rodilla hacia el pecho lo más alto posible.",
+      "Alterna rápidamente las rodillas, moviendo los brazos en sincronía."
+    ],
+    "en": [
+      "Stand upright with feet shoulder-width apart.",
+      "Lift one knee towards your chest as high as possible.",
+      "Quickly alternate knees, moving arms in sync."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/high-knees-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/high-knees-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/high-knees.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/high-knees.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/high-knees-f.svg"
+  }
+}

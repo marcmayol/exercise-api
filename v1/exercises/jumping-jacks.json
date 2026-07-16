@@ -1,0 +1,57 @@
+{
+  "slug": "jumping-jacks",
+  "name": {
+    "es": "Jumping jacks",
+    "en": "Jumping jacks"
+  },
+  "group": {
+    "id": "cardio",
+    "es": "Cardio",
+    "en": "Cardio"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    },
+    {
+      "id": "calves",
+      "es": "Gemelos",
+      "en": "Calves"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Párate derecho con los pies juntos y los brazos a los lados.",
+      "Salta abriendo las piernas al ancho de los hombros mientras levantas los brazos por encima de la cabeza.",
+      "Regresa a la posición inicial juntando los pies y bajando los brazos."
+    ],
+    "en": [
+      "Stand upright with feet together and arms at your sides.",
+      "Jump, spreading your legs shoulder-width apart while raising your arms overhead.",
+      "Return to the starting position by bringing your feet together and lowering your arms."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/jumping-jacks-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/jumping-jacks-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/jumping-jacks.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/jumping-jacks.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/jumping-jacks-f.svg"
+  }
+}

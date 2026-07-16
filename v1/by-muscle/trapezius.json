@@ -4,7 +4,7 @@
     "es": "Trapecio",
     "en": "Trapezius"
   },
-  "count": 7,
+  "count": 9,
   "exercises": [
     {
       "slug": "seated-row-machine",
@@ -159,6 +159,50 @@
         "female": "https://marcmayol.com/exercise-api/images/t-bar-row-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/t-bar-row.json"
+    },
+    {
+      "slug": "barbell-shrug",
+      "name": {
+        "es": "Encogimientos con barra",
+        "en": "Barbell shrug"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-shrug-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-shrug-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-shrug.json"
+    },
+    {
+      "slug": "reverse-fly",
+      "name": {
+        "es": "Pájaros (deltoides posterior)",
+        "en": "Reverse fly"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/reverse-fly-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/reverse-fly-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/reverse-fly.json"
     }
   ]
 }

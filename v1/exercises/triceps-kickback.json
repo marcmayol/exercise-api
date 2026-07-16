@@ -1,0 +1,48 @@
+{
+  "slug": "triceps-kickback",
+  "name": {
+    "es": "Patada de tríceps",
+    "en": "Triceps kickback"
+  },
+  "group": {
+    "id": "arms",
+    "es": "Brazos",
+    "en": "Arms"
+  },
+  "equipment": {
+    "id": "dumbbell",
+    "es": "Mancuerna",
+    "en": "Dumbbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    }
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "es": [
+      "Sujeta una mancuerna en cada mano con las palmas hacia adentro.",
+      "Inclina el torso hacia adelante manteniendo la espalda recta.",
+      "Dobla los codos a 90 grados, luego extiende los brazos hacia atrás.",
+      "Regresa lentamente a la posición inicial sin mover los hombros."
+    ],
+    "en": [
+      "Hold a dumbbell in each hand with palms facing inward.",
+      "Lean your torso forward while keeping your back straight.",
+      "Bend your elbows at 90 degrees, then extend your arms backward.",
+      "Slowly return to the starting position without moving your shoulders."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/triceps-kickback-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/triceps-kickback-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/triceps-kickback.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/triceps-kickback.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/triceps-kickback-f.svg"
+  }
+}
