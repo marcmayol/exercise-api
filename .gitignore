@@ -1,3 +1,6 @@
 generador/.env
 generador/__pycache__/
 *.pyc
+
+# dataset generado (regenerable con make_dataset.py; se sube a HF, no al repo)
+dataset/build/
