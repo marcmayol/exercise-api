@@ -111,7 +111,7 @@ def main():
         rel = f"images/{slug}-{suffix}.jpg"; im.save(os.path.join(ROOT,rel),quality=85)
         return f"{BASE}/{rel}"
 
-    index=[]; by_muscle={}; by_group={}; by_equipment={}
+    index=[]; full_all=[]; by_muscle={}; by_group={}; by_equipment={}
     def dump(path, obj): json.dump(obj, open(os.path.join(ROOT,path),"w",encoding="utf-8"), ensure_ascii=False, indent=2)
     for ex in seed:
         slug=ex["slug"]
@@ -134,6 +134,7 @@ def main():
           "muscleMap":f"{BASE}/{svg_rel}",
         }
         dump(f"v1/exercises/{slug}.json", full)
+        full_all.append(full)
         # resumen reutilizable (índice, por grupo, por músculo)
         summ = {"slug":slug,"name":full["name"],"group":full["group"],"equipment":eqobj,
                 "image":full["images"],"url":f"{BASE}/v1/exercises/{slug}.json"}
@@ -159,6 +160,20 @@ def main():
                                for e,d in by_equipment.items()])
     for e,d in by_equipment.items():
         dump(f"v1/by-equipment/{e}.json", {"equipment":d["equipment"],"count":len(d["exercises"]),"exercises":d["exercises"]})
+
+    # dataset completo en un solo archivo (todas las fichas + taxonomías) para descarga directa
+    import datetime
+    dump("v1/dataset.json", {
+        "name":"Exercise API dataset",
+        "base":BASE,
+        "generated": datetime.date.today().isoformat(),
+        "count": len(full_all),
+        "license":"Ilustraciones y datos propios · mapas musculares a partir de react-native-body-highlighter (MIT)",
+        "groups":     [{"id":g,"es":d["group"]["es"],"en":d["group"]["en"],"count":len(d["exercises"])} for g,d in by_group.items()],
+        "muscles":    [{"id":k,**v} for k,v in MUSCLES.items()],
+        "equipment":  [{"id":e,"es":EQUIP[e]["es"],"en":EQUIP[e]["en"],"count":len(d["exercises"])} for e,d in by_equipment.items()],
+        "exercises":  full_all,
+    })
     print(f"\nOK · {len(index)} ejercicios · {len(by_group)} grupos · {len(by_equipment)} equipamientos · en {ROOT}")
 
 if __name__=="__main__":

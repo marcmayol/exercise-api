@@ -33,6 +33,7 @@
       <span class="mono" style="font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:#8A8A96">Exercise API · v1</span>
       <span id="live" style="font-size:12px;color:#5FD08A">● …</span>
       <div style="margin-left:auto;display:flex;gap:8px">
+        <a class="chip" id="nav-dl" href="v1/dataset.json" download="exercise-api-dataset.json" style="display:inline-block">⬇ Dataset</a>
         <a class="chip" id="nav-docs" href="docs.html" style="display:inline-block">Docs</a>
         <button class="chip on" id="l-es" onclick="setLang('es')">ES</button>
         <button class="chip" id="l-en" onclick="setLang('en')">EN</button>
@@ -90,7 +91,10 @@ ex.images.female;           // .../leg-press-f.jpg</pre>
     </div>
   </div>
 
-  <h2><span data-i18n="h_ex">Ejercicios</span> <span id="count" style="color:#8A8A96;font-weight:400;font-size:15px"></span></h2>
+  <div style="display:flex;align-items:center;gap:12px;flex-wrap:wrap">
+    <h2 style="margin-bottom:14px"><span data-i18n="h_ex">Ejercicios</span> <span id="count" style="color:#8A8A96;font-weight:400;font-size:15px"></span></h2>
+    <a class="chip" id="dl-btn" href="v1/dataset.json" download="exercise-api-dataset.json" style="margin-left:auto;display:inline-block;background:#FF6A3D;color:#0E0E12;border-color:#FF6A3D">⬇ <span data-i18n="dl">Descargar dataset (JSON)</span></a>
+  </div>
   <div style="display:flex;gap:9px;flex-wrap:wrap;align-items:center;margin-bottom:14px">
     <span class="lbl" id="lbl-gender">Género</span>
     <button class="chip on" id="g-m" onclick="setGender('m')">Hombre</button>
@@ -123,7 +127,7 @@ const I18N={
       ep1:"Índice de todos los ejercicios",ep2:"Ficha completa de un ejercicio",ep3:"Taxonomía de músculos (ES/EN)",
       ep4:"Ejercicios por grupo (legs, chest, back…)",ep5:"Ejercicios por músculo",ep_eq:"Ejercicios por equipamiento (machine, barbell…)",ep6:"Ilustración (hombre / mujer)",ep7:"Mapa muscular resaltado",
       try:"probar ↗",female:"mujer ↗",usage:"Ejemplo de uso",response:"Respuesta (extracto)",
-      c_pick:"// un ejercicio, en el idioma que quieras",h_ex:"Ejercicios",
+      c_pick:"// un ejercicio, en el idioma que quieras",h_ex:"Ejercicios",dl:"Descargar dataset (JSON)",
       made:'Hecho por <b style="color:#EDEDF2">Marc Mayol</b> con <span style="color:#FF2E6E">❤</span> desde <b style="color:#FF6A3D">Mallorca</b>',
       credit:'Ilustraciones y datos propios · mapas musculares a partir de <a href="https://github.com/HichamELBSI/react-native-body-highlighter">react-native-body-highlighter</a> (MIT).'},
   en:{title:"Open, free and multilingual exercise API",
@@ -131,7 +135,7 @@ const I18N={
       ep1:"Index of all exercises",ep2:"Full detail of one exercise",ep3:"Muscle taxonomy (ES/EN)",
       ep4:"Exercises by group (legs, chest, back…)",ep5:"Exercises by muscle",ep_eq:"Exercises by equipment (machine, barbell…)",ep6:"Illustration (male / female)",ep7:"Highlighted muscle map",
       try:"try ↗",female:"female ↗",usage:"Example usage",response:"Response (excerpt)",
-      c_pick:"// an exercise, in whatever language you want",h_ex:"Exercises",
+      c_pick:"// an exercise, in whatever language you want",h_ex:"Exercises",dl:"Download dataset (JSON)",
       made:'Made by <b style="color:#EDEDF2">Marc Mayol</b> with <span style="color:#FF2E6E">❤</span> from <b style="color:#FF6A3D">Mallorca</b>',
       credit:'Own illustrations and data · muscle maps from <a href="https://github.com/HichamELBSI/react-native-body-highlighter">react-native-body-highlighter</a> (MIT).'}
 };
