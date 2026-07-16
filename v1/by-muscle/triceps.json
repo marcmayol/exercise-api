@@ -4,7 +4,7 @@
     "es": "Tríceps",
     "en": "Triceps"
   },
-  "count": 12,
+  "count": 13,
   "exercises": [
     {
       "slug": "seated-chest-press",
@@ -269,6 +269,28 @@
         "female": "https://marcmayol.com/exercise-api/images/burpees-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/burpees.json"
+    },
+    {
+      "slug": "incline-barbell-bench-press",
+      "name": {
+        "es": "Press de banca inclinado con barra",
+        "en": "Incline barbell bench press"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/incline-barbell-bench-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/incline-barbell-bench-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/incline-barbell-bench-press.json"
     }
   ]
 }

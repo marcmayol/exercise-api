@@ -3,7 +3,7 @@
     "id": "chest",
     "es": "Pecho",
     "en": "Chest",
-    "count": 7,
+    "count": 8,
     "url": "https://marcmayol.com/exercise-api/v1/by-group/chest.json"
   },
   {
@@ -31,7 +31,7 @@
     "id": "legs",
     "es": "Piernas",
     "en": "Legs",
-    "count": 15,
+    "count": 16,
     "url": "https://marcmayol.com/exercise-api/v1/by-group/legs.json"
   },
   {

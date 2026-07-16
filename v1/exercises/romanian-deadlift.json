@@ -1,0 +1,58 @@
+{
+  "slug": "romanian-deadlift",
+  "name": {
+    "es": "Peso muerto rumano",
+    "en": "Romanian deadlift"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "barbell",
+    "es": "Barra",
+    "en": "Barbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    },
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "lower-back",
+      "es": "Lumbar",
+      "en": "Lower back"
+    },
+    {
+      "id": "forearm",
+      "es": "Antebrazo",
+      "en": "Forearm"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Párate con los pies a la altura de los hombros y sostén la barra frente a tus muslos.",
+      "Mantén la espalda recta y baja la barra deslizándola por tus piernas, doblando ligeramente las rodillas.",
+      "Detente cuando sientas un estiramiento en los isquiotibiales y luego regresa a la posición inicial."
+    ],
+    "en": [
+      "Stand with feet shoulder-width apart, holding the barbell in front of your thighs.",
+      "Keep your back straight and lower the bar by sliding it down your legs, slightly bending your knees.",
+      "Stop when you feel a stretch in your hamstrings, then return to the starting position."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/romanian-deadlift-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/romanian-deadlift-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/romanian-deadlift.svg"
+}

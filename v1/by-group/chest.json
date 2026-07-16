@@ -4,7 +4,7 @@
     "es": "Pecho",
     "en": "Chest"
   },
-  "count": 7,
+  "count": 8,
   "exercises": [
     {
       "slug": "seated-chest-press",
@@ -159,6 +159,28 @@
         "female": "https://marcmayol.com/exercise-api/images/dumbbell-flyes-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-flyes.json"
+    },
+    {
+      "slug": "incline-barbell-bench-press",
+      "name": {
+        "es": "Press de banca inclinado con barra",
+        "en": "Incline barbell bench press"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/incline-barbell-bench-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/incline-barbell-bench-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/incline-barbell-bench-press.json"
     }
   ]
 }

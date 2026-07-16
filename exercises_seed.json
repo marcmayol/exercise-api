@@ -807,5 +807,36 @@
       "gluteal",
       "deltoids"
     ]
+  },
+  {
+    "slug": "incline-barbell-bench-press",
+    "es": "Press de banca inclinado con barra",
+    "en": "Incline barbell bench press",
+    "group_es": "Pecho",
+    "group_en": "Chest",
+    "equipment": "barbell",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "deltoids",
+      "triceps"
+    ]
+  },
+  {
+    "slug": "romanian-deadlift",
+    "es": "Peso muerto rumano",
+    "en": "Romanian deadlift",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "barbell",
+    "primary": [
+      "hamstring",
+      "gluteal"
+    ],
+    "secondary": [
+      "lower-back",
+      "forearm"
+    ]
   }
 ]

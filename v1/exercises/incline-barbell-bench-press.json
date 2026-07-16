@@ -1,0 +1,55 @@
+{
+  "slug": "incline-barbell-bench-press",
+  "name": {
+    "es": "Press de banca inclinado con barra",
+    "en": "Incline barbell bench press"
+  },
+  "group": {
+    "id": "chest",
+    "es": "Pecho",
+    "en": "Chest"
+  },
+  "equipment": {
+    "id": "barbell",
+    "es": "Barra",
+    "en": "Barbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "chest",
+      "es": "Pectoral",
+      "en": "Chest"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    },
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta el banco a un ángulo de 30-45 grados.",
+      "Acuéstate sobre el banco con los pies firmemente en el suelo.",
+      "Sujeta la barra con un agarre ligeramente más ancho que los hombros.",
+      "Baja la barra hacia la parte superior del pecho, luego empuja hacia arriba hasta extender los brazos."
+    ],
+    "en": [
+      "Set the bench to a 30-45 degree angle.",
+      "Lie back on the bench with feet firmly on the ground.",
+      "Grip the barbell slightly wider than shoulder-width apart.",
+      "Lower the bar to the upper chest, then press up until arms are fully extended."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/incline-barbell-bench-press-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/incline-barbell-bench-press-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/incline-barbell-bench-press.svg"
+}
