@@ -1,0 +1,59 @@
+{
+  "slug": "bench-dips",
+  "name": {
+    "es": "Fondos de tríceps en banco",
+    "en": "Bench dips"
+  },
+  "group": {
+    "id": "arms",
+    "es": "Brazos",
+    "en": "Arms"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    },
+    {
+      "id": "chest",
+      "es": "Pectoral",
+      "en": "Chest"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Coloca tus manos en el borde de un banco, con los dedos hacia adelante y los brazos extendidos.",
+      "Desliza tus glúteos hacia adelante, manteniendo las piernas extendidas y los talones en el suelo.",
+      "Baja lentamente el cuerpo doblando los codos hasta que formen un ángulo de 90 grados.",
+      "Empuja hacia arriba con los brazos hasta volver a la posición inicial."
+    ],
+    "en": [
+      "Place your hands on the edge of a bench, fingers facing forward and arms extended.",
+      "Slide your glutes forward, keeping your legs extended and heels on the ground.",
+      "Lower your body slowly by bending your elbows until they form a 90-degree angle.",
+      "Push up with your arms to return to the starting position."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/bench-dips-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/bench-dips-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/bench-dips.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/bench-dips.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/bench-dips-f.svg"
+  }
+}

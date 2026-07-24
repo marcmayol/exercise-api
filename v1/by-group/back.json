@@ -4,7 +4,7 @@
     "es": "Espalda",
     "en": "Back"
   },
-  "count": 13,
+  "count": 15,
   "exercises": [
     {
       "slug": "chest-pulldown",
@@ -291,6 +291,50 @@
         "female": "https://marcmayol.com/exercise-api/images/inverted-row-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/inverted-row.json"
+    },
+    {
+      "slug": "cable-pullover",
+      "name": {
+        "es": "Pullover en polea",
+        "en": "Cable pullover"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-pullover-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-pullover-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-pullover.json"
+    },
+    {
+      "slug": "dead-hang",
+      "name": {
+        "es": "Colgarse de la barra (dead hang)",
+        "en": "Dead hang"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dead-hang-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dead-hang-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dead-hang.json"
     }
   ]
 }

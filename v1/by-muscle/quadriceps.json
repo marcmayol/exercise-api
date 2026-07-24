@@ -4,7 +4,7 @@
     "es": "Cuádriceps",
     "en": "Quadriceps"
   },
-  "count": 31,
+  "count": 32,
   "exercises": [
     {
       "slug": "leg-press",
@@ -687,6 +687,28 @@
         "female": "https://marcmayol.com/exercise-api/images/high-knees-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/high-knees.json"
+    },
+    {
+      "slug": "cable-squat",
+      "name": {
+        "es": "Sentadilla en polea",
+        "en": "Cable squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-squat-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-squat.json"
     }
   ]
 }

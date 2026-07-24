@@ -1,0 +1,59 @@
+{
+  "slug": "cable-chest-press",
+  "name": {
+    "es": "Press de pecho en polea",
+    "en": "Cable chest press"
+  },
+  "group": {
+    "id": "chest",
+    "es": "Pecho",
+    "en": "Chest"
+  },
+  "equipment": {
+    "id": "cable",
+    "es": "Polea",
+    "en": "Cable"
+  },
+  "primaryMuscles": [
+    {
+      "id": "chest",
+      "es": "Pectoral",
+      "en": "Chest"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    },
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta la altura de las poleas a nivel del pecho y selecciona el peso adecuado.",
+      "Párate en el centro, agarra las manijas con las palmas hacia abajo y da un paso adelante.",
+      "Con los codos ligeramente flexionados, empuja las manijas hacia adelante hasta que los brazos estén extendidos.",
+      "Regresa lentamente a la posición inicial, controlando el movimiento."
+    ],
+    "en": [
+      "Set the pulley height to chest level and select the appropriate weight.",
+      "Stand in the center, grab the handles with palms facing down, and step forward.",
+      "With elbows slightly bent, press the handles forward until arms are extended.",
+      "Slowly return to the starting position, controlling the movement."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/cable-chest-press-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/cable-chest-press-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-chest-press.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-chest-press.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-chest-press-f.svg"
+  }
+}

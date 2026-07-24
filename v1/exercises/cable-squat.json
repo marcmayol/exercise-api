@@ -1,0 +1,59 @@
+{
+  "slug": "cable-squat",
+  "name": {
+    "es": "Sentadilla en polea",
+    "en": "Cable squat"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "cable",
+    "es": "Polea",
+    "en": "Cable"
+  },
+  "primaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    },
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta la polea a la altura más baja y sujeta el mango con ambas manos.",
+      "Colócate de pie con los pies separados al ancho de los hombros, manteniendo la espalda recta.",
+      "Desciende en una sentadilla, llevando las caderas hacia atrás y manteniendo las rodillas alineadas con los pies.",
+      "Regresa a la posición inicial empujando con los talones y manteniendo el control del cable."
+    ],
+    "en": [
+      "Set the pulley to the lowest position and hold the handle with both hands.",
+      "Stand with feet shoulder-width apart, keeping your back straight.",
+      "Lower into a squat, pushing hips back and keeping knees aligned with feet.",
+      "Return to the starting position by pushing through your heels, maintaining control of the cable."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/cable-squat-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/cable-squat-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-squat.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-squat.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-squat-f.svg"
+  }
+}

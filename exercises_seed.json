@@ -1476,5 +1476,230 @@
       "abs",
       "calves"
     ]
+  },
+  {
+    "slug": "cable-shoulder-press",
+    "es": "Press de hombros en polea",
+    "en": "Cable shoulder press",
+    "group_es": "Hombros",
+    "group_en": "Shoulders",
+    "equipment": "cable",
+    "primary": [
+      "deltoids"
+    ],
+    "secondary": [
+      "triceps"
+    ]
+  },
+  {
+    "slug": "cable-upright-row",
+    "es": "Remo al mentón en polea",
+    "en": "Cable upright row",
+    "group_es": "Hombros",
+    "group_en": "Shoulders",
+    "equipment": "cable",
+    "primary": [
+      "deltoids"
+    ],
+    "secondary": [
+      "trapezius",
+      "biceps"
+    ]
+  },
+  {
+    "slug": "cable-squat",
+    "es": "Sentadilla en polea",
+    "en": "Cable squat",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "cable",
+    "primary": [
+      "quadriceps"
+    ],
+    "secondary": [
+      "gluteal",
+      "hamstring"
+    ]
+  },
+  {
+    "slug": "bench-dips",
+    "es": "Fondos de tríceps en banco",
+    "en": "Bench dips",
+    "group_es": "Brazos",
+    "group_en": "Arms",
+    "equipment": "bodyweight",
+    "primary": [
+      "triceps"
+    ],
+    "secondary": [
+      "deltoids",
+      "chest"
+    ]
+  },
+  {
+    "slug": "incline-dumbbell-curl",
+    "es": "Curl inclinado con mancuerna",
+    "en": "Incline dumbbell curl",
+    "group_es": "Brazos",
+    "group_en": "Arms",
+    "equipment": "dumbbell",
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearm"
+    ]
+  },
+  {
+    "slug": "dumbbell-shrug",
+    "es": "Encogimientos con mancuerna",
+    "en": "Dumbbell shrug",
+    "group_es": "Hombros",
+    "group_en": "Shoulders",
+    "equipment": "dumbbell",
+    "primary": [
+      "trapezius"
+    ],
+    "secondary": [
+      "deltoids"
+    ]
+  },
+  {
+    "slug": "cable-chest-press",
+    "es": "Press de pecho en polea",
+    "en": "Cable chest press",
+    "group_es": "Pecho",
+    "group_en": "Chest",
+    "equipment": "cable",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "deltoids",
+      "triceps"
+    ]
+  },
+  {
+    "slug": "low-cable-fly",
+    "es": "Cruce de poleas de abajo arriba",
+    "en": "Low cable fly (low-to-high)",
+    "group_es": "Pecho",
+    "group_en": "Chest",
+    "equipment": "cable",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "deltoids"
+    ]
+  },
+  {
+    "slug": "cable-overhead-triceps-extension",
+    "es": "Extensión de tríceps sobre la cabeza en polea",
+    "en": "Cable overhead triceps extension",
+    "group_es": "Brazos",
+    "group_en": "Arms",
+    "equipment": "cable",
+    "primary": [
+      "triceps"
+    ],
+    "secondary": []
+  },
+  {
+    "slug": "cable-front-raise",
+    "es": "Elevación frontal en polea",
+    "en": "Cable front raise",
+    "group_es": "Hombros",
+    "group_en": "Shoulders",
+    "equipment": "cable",
+    "primary": [
+      "deltoids"
+    ],
+    "secondary": []
+  },
+  {
+    "slug": "cable-hip-abduction",
+    "es": "Abducción de cadera en polea",
+    "en": "Cable hip abduction",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "cable",
+    "primary": [
+      "gluteal"
+    ],
+    "secondary": []
+  },
+  {
+    "slug": "cable-pullover",
+    "es": "Pullover en polea",
+    "en": "Cable pullover",
+    "group_es": "Espalda",
+    "group_en": "Back",
+    "equipment": "cable",
+    "primary": [
+      "upper-back"
+    ],
+    "secondary": [
+      "chest",
+      "triceps"
+    ]
+  },
+  {
+    "slug": "wall-angels",
+    "es": "Ángeles de pared",
+    "en": "Wall angels",
+    "group_es": "Hombros",
+    "group_en": "Shoulders",
+    "equipment": "bodyweight",
+    "primary": [
+      "deltoids"
+    ],
+    "secondary": [
+      "upper-back",
+      "trapezius"
+    ]
+  },
+  {
+    "slug": "cobra-stretch",
+    "es": "Estiramiento de cobra",
+    "en": "Cobra stretch",
+    "group_es": "Core",
+    "group_en": "Core",
+    "equipment": "bodyweight",
+    "primary": [
+      "lower-back"
+    ],
+    "secondary": [
+      "abs"
+    ]
+  },
+  {
+    "slug": "dead-hang",
+    "es": "Colgarse de la barra (dead hang)",
+    "en": "Dead hang",
+    "group_es": "Espalda",
+    "group_en": "Back",
+    "equipment": "bodyweight",
+    "primary": [
+      "upper-back"
+    ],
+    "secondary": [
+      "forearm",
+      "deltoids"
+    ]
+  },
+  {
+    "slug": "cat-cow",
+    "es": "Gato-vaca",
+    "en": "Cat-cow",
+    "group_es": "Core",
+    "group_en": "Core",
+    "equipment": "bodyweight",
+    "primary": [
+      "lower-back"
+    ],
+    "secondary": [
+      "abs"
+    ]
   }
 ]

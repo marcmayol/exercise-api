@@ -1,5 +1,5 @@
 {
-  "count": 104,
+  "count": 120,
   "exercises": [
     {
       "slug": "seated-chest-press",
@@ -2633,6 +2633,406 @@
       "url": "https://marcmayol.com/exercise-api/v1/exercises/high-knees.json",
       "primaryMuscles": [
         "quadriceps"
+      ]
+    },
+    {
+      "slug": "cable-shoulder-press",
+      "name": {
+        "es": "Press de hombros en polea",
+        "en": "Cable shoulder press"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-shoulder-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-shoulder-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-shoulder-press.json",
+      "primaryMuscles": [
+        "deltoids"
+      ]
+    },
+    {
+      "slug": "cable-upright-row",
+      "name": {
+        "es": "Remo al mentón en polea",
+        "en": "Cable upright row"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-upright-row-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-upright-row-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-upright-row.json",
+      "primaryMuscles": [
+        "deltoids"
+      ]
+    },
+    {
+      "slug": "cable-squat",
+      "name": {
+        "es": "Sentadilla en polea",
+        "en": "Cable squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-squat-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-squat.json",
+      "primaryMuscles": [
+        "quadriceps"
+      ]
+    },
+    {
+      "slug": "bench-dips",
+      "name": {
+        "es": "Fondos de tríceps en banco",
+        "en": "Bench dips"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/bench-dips-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/bench-dips-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/bench-dips.json",
+      "primaryMuscles": [
+        "triceps"
+      ]
+    },
+    {
+      "slug": "incline-dumbbell-curl",
+      "name": {
+        "es": "Curl inclinado con mancuerna",
+        "en": "Incline dumbbell curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/incline-dumbbell-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/incline-dumbbell-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/incline-dumbbell-curl.json",
+      "primaryMuscles": [
+        "biceps"
+      ]
+    },
+    {
+      "slug": "dumbbell-shrug",
+      "name": {
+        "es": "Encogimientos con mancuerna",
+        "en": "Dumbbell shrug"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dumbbell-shrug-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dumbbell-shrug-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-shrug.json",
+      "primaryMuscles": [
+        "trapezius"
+      ]
+    },
+    {
+      "slug": "cable-chest-press",
+      "name": {
+        "es": "Press de pecho en polea",
+        "en": "Cable chest press"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-chest-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-chest-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-chest-press.json",
+      "primaryMuscles": [
+        "chest"
+      ]
+    },
+    {
+      "slug": "low-cable-fly",
+      "name": {
+        "es": "Cruce de poleas de abajo arriba",
+        "en": "Low cable fly (low-to-high)"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/low-cable-fly-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/low-cable-fly-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/low-cable-fly.json",
+      "primaryMuscles": [
+        "chest"
+      ]
+    },
+    {
+      "slug": "cable-overhead-triceps-extension",
+      "name": {
+        "es": "Extensión de tríceps sobre la cabeza en polea",
+        "en": "Cable overhead triceps extension"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-overhead-triceps-extension-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-overhead-triceps-extension-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-overhead-triceps-extension.json",
+      "primaryMuscles": [
+        "triceps"
+      ]
+    },
+    {
+      "slug": "cable-front-raise",
+      "name": {
+        "es": "Elevación frontal en polea",
+        "en": "Cable front raise"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-front-raise-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-front-raise-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-front-raise.json",
+      "primaryMuscles": [
+        "deltoids"
+      ]
+    },
+    {
+      "slug": "cable-hip-abduction",
+      "name": {
+        "es": "Abducción de cadera en polea",
+        "en": "Cable hip abduction"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-hip-abduction-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-hip-abduction-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-hip-abduction.json",
+      "primaryMuscles": [
+        "gluteal"
+      ]
+    },
+    {
+      "slug": "cable-pullover",
+      "name": {
+        "es": "Pullover en polea",
+        "en": "Cable pullover"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-pullover-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-pullover-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-pullover.json",
+      "primaryMuscles": [
+        "upper-back"
+      ]
+    },
+    {
+      "slug": "wall-angels",
+      "name": {
+        "es": "Ángeles de pared",
+        "en": "Wall angels"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/wall-angels-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/wall-angels-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/wall-angels.json",
+      "primaryMuscles": [
+        "deltoids"
+      ]
+    },
+    {
+      "slug": "cobra-stretch",
+      "name": {
+        "es": "Estiramiento de cobra",
+        "en": "Cobra stretch"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cobra-stretch-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cobra-stretch-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cobra-stretch.json",
+      "primaryMuscles": [
+        "lower-back"
+      ]
+    },
+    {
+      "slug": "dead-hang",
+      "name": {
+        "es": "Colgarse de la barra (dead hang)",
+        "en": "Dead hang"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dead-hang-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dead-hang-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dead-hang.json",
+      "primaryMuscles": [
+        "upper-back"
+      ]
+    },
+    {
+      "slug": "cat-cow",
+      "name": {
+        "es": "Gato-vaca",
+        "en": "Cat-cow"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cat-cow-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cat-cow-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cat-cow.json",
+      "primaryMuscles": [
+        "lower-back"
       ]
     }
   ]

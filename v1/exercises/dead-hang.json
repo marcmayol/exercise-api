@@ -1,0 +1,59 @@
+{
+  "slug": "dead-hang",
+  "name": {
+    "es": "Colgarse de la barra (dead hang)",
+    "en": "Dead hang"
+  },
+  "group": {
+    "id": "back",
+    "es": "Espalda",
+    "en": "Back"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "upper-back",
+      "es": "Dorsal",
+      "en": "Upper back"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "forearm",
+      "es": "Antebrazo",
+      "en": "Forearm"
+    },
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "1. Encuentra una barra de dominadas y agárrala con las palmas mirando hacia adelante, a la altura de los hombros.",
+      "2. Cuélgate de la barra, manteniendo los brazos completamente extendidos y los pies fuera del suelo.",
+      "3. Mantén el cuerpo recto y relaja los hombros, permitiendo que el peso estire suavemente la espalda.",
+      "4. Aguanta la posición durante el tiempo deseado, respirando de manera controlada."
+    ],
+    "en": [
+      "1. Find a pull-up bar and grip it with palms facing forward, shoulder-width apart.",
+      "2. Hang from the bar, keeping your arms fully extended and feet off the ground.",
+      "3. Keep your body straight and relax your shoulders, allowing your weight to gently stretch your back.",
+      "4. Hold the position for the desired time, breathing in a controlled manner."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/dead-hang-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/dead-hang-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dead-hang.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/dead-hang.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/dead-hang-f.svg"
+  }
+}

@@ -4,7 +4,7 @@
     "es": "Femoral",
     "en": "Hamstrings"
   },
-  "count": 27,
+  "count": 28,
   "exercises": [
     {
       "slug": "leg-press",
@@ -599,6 +599,28 @@
         "female": "https://marcmayol.com/exercise-api/images/stair-climber-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/stair-climber.json"
+    },
+    {
+      "slug": "cable-squat",
+      "name": {
+        "es": "Sentadilla en polea",
+        "en": "Cable squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-squat-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-squat.json"
     }
   ]
 }

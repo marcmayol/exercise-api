@@ -1,0 +1,48 @@
+{
+  "slug": "cable-hip-abduction",
+  "name": {
+    "es": "Abducción de cadera en polea",
+    "en": "Cable hip abduction"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "cable",
+    "es": "Polea",
+    "en": "Cable"
+  },
+  "primaryMuscles": [
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    }
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "es": [
+      "Ajusta la polea baja a la altura de tu tobillo y coloca el brazalete en tu tobillo exterior.",
+      "Párate de lado a la máquina, sosteniéndote con una mano para mantener el equilibrio.",
+      "Con la pierna que lleva el brazalete, extiende hacia afuera y hacia un lado, manteniendo el tronco recto.",
+      "Regresa lentamente a la posición inicial y repite."
+    ],
+    "en": [
+      "Adjust the low pulley to ankle height and attach the cuff to your outer ankle.",
+      "Stand sideways to the machine, holding on with one hand for balance.",
+      "With the cuffed leg, extend outward and to the side, keeping your torso upright.",
+      "Slowly return to the starting position and repeat."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/cable-hip-abduction-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/cable-hip-abduction-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-hip-abduction.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-hip-abduction.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-hip-abduction-f.svg"
+  }
+}

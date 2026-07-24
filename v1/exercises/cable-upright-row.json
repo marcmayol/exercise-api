@@ -1,0 +1,59 @@
+{
+  "slug": "cable-upright-row",
+  "name": {
+    "es": "Remo al mentón en polea",
+    "en": "Cable upright row"
+  },
+  "group": {
+    "id": "shoulders",
+    "es": "Hombros",
+    "en": "Shoulders"
+  },
+  "equipment": {
+    "id": "cable",
+    "es": "Polea",
+    "en": "Cable"
+  },
+  "primaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "trapezius",
+      "es": "Trapecio",
+      "en": "Trapezius"
+    },
+    {
+      "id": "biceps",
+      "es": "Bíceps",
+      "en": "Biceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta la polea a la posición más baja y sujeta el mango con ambas manos.",
+      "Párate derecho con los pies al ancho de los hombros y el núcleo contraído.",
+      "Tira del mango hacia arriba, llevando los codos hacia los lados y más altos que las manos.",
+      "Baja lentamente el mango a la posición inicial, controlando el movimiento."
+    ],
+    "en": [
+      "Set the pulley to the lowest position and grasp the handle with both hands.",
+      "Stand upright with feet shoulder-width apart and core engaged.",
+      "Pull the handle upward, leading with elbows out to the sides and higher than hands.",
+      "Slowly lower the handle back to the starting position, controlling the movement."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/cable-upright-row-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/cable-upright-row-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-upright-row.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-upright-row.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-upright-row-f.svg"
+  }
+}

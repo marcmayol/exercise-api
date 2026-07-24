@@ -1,0 +1,59 @@
+{
+  "slug": "cable-pullover",
+  "name": {
+    "es": "Pullover en polea",
+    "en": "Cable pullover"
+  },
+  "group": {
+    "id": "back",
+    "es": "Espalda",
+    "en": "Back"
+  },
+  "equipment": {
+    "id": "cable",
+    "es": "Polea",
+    "en": "Cable"
+  },
+  "primaryMuscles": [
+    {
+      "id": "upper-back",
+      "es": "Dorsal",
+      "en": "Upper back"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "chest",
+      "es": "Pectoral",
+      "en": "Chest"
+    },
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta la polea a una posición alta y sujeta la cuerda con ambas manos.",
+      "Ponte de pie con los pies al ancho de los hombros y ligeramente inclinado hacia adelante.",
+      "Tira de la cuerda hacia abajo y hacia tu cuerpo, manteniendo los brazos rectos y los codos ligeramente flexionados.",
+      "Regresa lentamente a la posición inicial, controlando el movimiento."
+    ],
+    "en": [
+      "Adjust the pulley to a high position and grasp the rope with both hands.",
+      "Stand with feet shoulder-width apart and lean slightly forward.",
+      "Pull the rope down and towards your body, keeping arms straight and elbows slightly bent.",
+      "Slowly return to the starting position, controlling the movement."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/cable-pullover-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/cable-pullover-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-pullover.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-pullover.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-pullover-f.svg"
+  }
+}

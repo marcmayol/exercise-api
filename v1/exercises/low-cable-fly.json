@@ -1,0 +1,54 @@
+{
+  "slug": "low-cable-fly",
+  "name": {
+    "es": "Cruce de poleas de abajo arriba",
+    "en": "Low cable fly (low-to-high)"
+  },
+  "group": {
+    "id": "chest",
+    "es": "Pecho",
+    "en": "Chest"
+  },
+  "equipment": {
+    "id": "cable",
+    "es": "Polea",
+    "en": "Cable"
+  },
+  "primaryMuscles": [
+    {
+      "id": "chest",
+      "es": "Pectoral",
+      "en": "Chest"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta las poleas bajas a la posición más baja y sujeta las manijas con las palmas hacia arriba.",
+      "Da un paso adelante, manteniendo una ligera inclinación hacia adelante y los pies separados a la altura de los hombros.",
+      "Con los codos ligeramente flexionados, levanta las manijas hacia arriba y hacia el centro del cuerpo hasta que las manos se encuentren a la altura del pecho.",
+      "Regresa lentamente a la posición inicial, controlando el movimiento."
+    ],
+    "en": [
+      "Set the low pulleys to the lowest position and grasp the handles with palms facing up.",
+      "Step forward, maintaining a slight forward lean with feet shoulder-width apart.",
+      "With elbows slightly bent, lift the handles upward and toward the center of your body until hands meet at chest height.",
+      "Slowly return to the starting position, controlling the movement."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/low-cable-fly-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/low-cable-fly-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/low-cable-fly.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/low-cable-fly.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/low-cable-fly-f.svg"
+  }
+}

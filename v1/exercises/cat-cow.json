@@ -1,0 +1,54 @@
+{
+  "slug": "cat-cow",
+  "name": {
+    "es": "Gato-vaca",
+    "en": "Cat-cow"
+  },
+  "group": {
+    "id": "core",
+    "es": "Core",
+    "en": "Core"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "lower-back",
+      "es": "Lumbar",
+      "en": "Lower back"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "abs",
+      "es": "Abdomen",
+      "en": "Abs"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Colócate en posición de cuatro patas, con las manos alineadas con los hombros y las rodillas con las caderas.",
+      "Inhala profundamente mientras arqueas la espalda hacia abajo, levantando la cabeza y el coxis hacia el techo, entrando en la posición de 'vaca'.",
+      "Exhala mientras redondeas la espalda hacia arriba, llevando el mentón hacia el pecho y el coxis hacia abajo, entrando en la posición de 'gato'.",
+      "Repite el ciclo de movimientos de manera fluida, coordinando la respiración con cada cambio de posición."
+    ],
+    "en": [
+      "Get on all fours, with hands aligned under shoulders and knees under hips.",
+      "Inhale deeply as you arch your back downward, lifting your head and tailbone towards the ceiling, entering the 'cow' position.",
+      "Exhale as you round your back upward, tucking your chin to your chest and tailbone down, entering the 'cat' position.",
+      "Repeat the cycle of movements smoothly, coordinating your breath with each position change."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/cat-cow-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/cat-cow-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cat-cow.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/cat-cow.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/cat-cow-f.svg"
+  }
+}

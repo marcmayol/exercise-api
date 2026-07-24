@@ -4,7 +4,7 @@
     "es": "Pectoral",
     "en": "Chest"
   },
-  "count": 16,
+  "count": 20,
   "exercises": [
     {
       "slug": "seated-chest-press",
@@ -357,6 +357,94 @@
         "female": "https://marcmayol.com/exercise-api/images/close-grip-bench-press-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/close-grip-bench-press.json"
+    },
+    {
+      "slug": "bench-dips",
+      "name": {
+        "es": "Fondos de tríceps en banco",
+        "en": "Bench dips"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/bench-dips-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/bench-dips-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/bench-dips.json"
+    },
+    {
+      "slug": "cable-chest-press",
+      "name": {
+        "es": "Press de pecho en polea",
+        "en": "Cable chest press"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-chest-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-chest-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-chest-press.json"
+    },
+    {
+      "slug": "low-cable-fly",
+      "name": {
+        "es": "Cruce de poleas de abajo arriba",
+        "en": "Low cable fly (low-to-high)"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/low-cable-fly-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/low-cable-fly-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/low-cable-fly.json"
+    },
+    {
+      "slug": "cable-pullover",
+      "name": {
+        "es": "Pullover en polea",
+        "en": "Cable pullover"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-pullover-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-pullover-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-pullover.json"
     }
   ]
 }

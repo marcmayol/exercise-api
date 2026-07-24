@@ -1,0 +1,48 @@
+{
+  "slug": "cable-overhead-triceps-extension",
+  "name": {
+    "es": "Extensión de tríceps sobre la cabeza en polea",
+    "en": "Cable overhead triceps extension"
+  },
+  "group": {
+    "id": "arms",
+    "es": "Brazos",
+    "en": "Arms"
+  },
+  "equipment": {
+    "id": "cable",
+    "es": "Polea",
+    "en": "Cable"
+  },
+  "primaryMuscles": [
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    }
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "es": [
+      "Ajusta la polea a la posición más alta y sujeta la cuerda con ambas manos.",
+      "Colócate de pie con un pie delante del otro para mayor estabilidad.",
+      "Extiende los brazos hacia arriba y hacia adelante, manteniendo los codos cerca de la cabeza.",
+      "Regresa lentamente a la posición inicial sin mover los codos."
+    ],
+    "en": [
+      "Adjust the pulley to the highest position and grasp the rope with both hands.",
+      "Stand with one foot in front of the other for better stability.",
+      "Extend your arms upward and forward, keeping your elbows close to your head.",
+      "Slowly return to the starting position without moving your elbows."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/cable-overhead-triceps-extension-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/cable-overhead-triceps-extension-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-overhead-triceps-extension.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-overhead-triceps-extension.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-overhead-triceps-extension-f.svg"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "cable-shoulder-press",
+  "name": {
+    "es": "Press de hombros en polea",
+    "en": "Cable shoulder press"
+  },
+  "group": {
+    "id": "shoulders",
+    "es": "Hombros",
+    "en": "Shoulders"
+  },
+  "equipment": {
+    "id": "cable",
+    "es": "Polea",
+    "en": "Cable"
+  },
+  "primaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ajusta la polea a la altura de los hombros y sujeta las asas con un agarre por encima.",
+      "Ponte de pie con los pies al ancho de los hombros y los codos ligeramente flexionados.",
+      "Empuja las asas hacia arriba hasta que los brazos estén completamente extendidos, manteniendo el control.",
+      "Regresa lentamente a la posición inicial, evitando que las pesas choquen."
+    ],
+    "en": [
+      "Set the pulley to shoulder height and grab the handles with an overhand grip.",
+      "Stand with feet shoulder-width apart and elbows slightly bent.",
+      "Press the handles upward until arms are fully extended, maintaining control.",
+      "Slowly return to the starting position, avoiding weights from clashing."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/cable-shoulder-press-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/cable-shoulder-press-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-shoulder-press.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-shoulder-press.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-shoulder-press-f.svg"
+  }
+}

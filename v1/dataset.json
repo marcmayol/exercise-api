@@ -1,45 +1,45 @@
 {
   "name": "Exercise API dataset",
   "base": "https://marcmayol.com/exercise-api",
-  "generated": "2026-07-16",
-  "count": 104,
+  "generated": "2026-07-24",
+  "count": 120,
   "license": "Ilustraciones y datos propios · mapas musculares a partir de react-native-body-highlighter (MIT)",
   "groups": [
     {
       "id": "chest",
       "es": "Pecho",
       "en": "Chest",
-      "count": 12
+      "count": 14
     },
     {
       "id": "back",
       "es": "Espalda",
       "en": "Back",
-      "count": 13
+      "count": 15
     },
     {
       "id": "shoulders",
       "es": "Hombros",
       "en": "Shoulders",
-      "count": 11
+      "count": 16
     },
     {
       "id": "arms",
       "es": "Brazos",
       "en": "Arms",
-      "count": 13
+      "count": 16
     },
     {
       "id": "legs",
       "es": "Piernas",
       "en": "Legs",
-      "count": 28
+      "count": 30
     },
     {
       "id": "core",
       "es": "Core",
       "en": "Core",
-      "count": 16
+      "count": 18
     },
     {
       "id": "cardio",
@@ -136,13 +136,13 @@
       "id": "cable",
       "es": "Polea",
       "en": "Cable",
-      "count": 10
+      "count": 19
     },
     {
       "id": "dumbbell",
       "es": "Mancuerna",
       "en": "Dumbbell",
-      "count": 20
+      "count": 22
     },
     {
       "id": "barbell",
@@ -154,7 +154,7 @@
       "id": "bodyweight",
       "es": "Peso corporal",
       "en": "Bodyweight",
-      "count": 28
+      "count": 33
     },
     {
       "id": "cardio",
@@ -6073,6 +6073,887 @@
       "muscleMaps": {
         "male": "https://marcmayol.com/exercise-api/muscle-maps/high-knees.svg",
         "female": "https://marcmayol.com/exercise-api/muscle-maps/high-knees-f.svg"
+      }
+    },
+    {
+      "slug": "cable-shoulder-press",
+      "name": {
+        "es": "Press de hombros en polea",
+        "en": "Cable shoulder press"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "primaryMuscles": [
+        {
+          "id": "deltoids",
+          "es": "Hombros",
+          "en": "Shoulders"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "triceps",
+          "es": "Tríceps",
+          "en": "Triceps"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Ajusta la polea a la altura de los hombros y sujeta las asas con un agarre por encima.",
+          "Ponte de pie con los pies al ancho de los hombros y los codos ligeramente flexionados.",
+          "Empuja las asas hacia arriba hasta que los brazos estén completamente extendidos, manteniendo el control.",
+          "Regresa lentamente a la posición inicial, evitando que las pesas choquen."
+        ],
+        "en": [
+          "Set the pulley to shoulder height and grab the handles with an overhand grip.",
+          "Stand with feet shoulder-width apart and elbows slightly bent.",
+          "Press the handles upward until arms are fully extended, maintaining control.",
+          "Slowly return to the starting position, avoiding weights from clashing."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-shoulder-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-shoulder-press-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-shoulder-press.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-shoulder-press.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-shoulder-press-f.svg"
+      }
+    },
+    {
+      "slug": "cable-upright-row",
+      "name": {
+        "es": "Remo al mentón en polea",
+        "en": "Cable upright row"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "primaryMuscles": [
+        {
+          "id": "deltoids",
+          "es": "Hombros",
+          "en": "Shoulders"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "trapezius",
+          "es": "Trapecio",
+          "en": "Trapezius"
+        },
+        {
+          "id": "biceps",
+          "es": "Bíceps",
+          "en": "Biceps"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Ajusta la polea a la posición más baja y sujeta el mango con ambas manos.",
+          "Párate derecho con los pies al ancho de los hombros y el núcleo contraído.",
+          "Tira del mango hacia arriba, llevando los codos hacia los lados y más altos que las manos.",
+          "Baja lentamente el mango a la posición inicial, controlando el movimiento."
+        ],
+        "en": [
+          "Set the pulley to the lowest position and grasp the handle with both hands.",
+          "Stand upright with feet shoulder-width apart and core engaged.",
+          "Pull the handle upward, leading with elbows out to the sides and higher than hands.",
+          "Slowly lower the handle back to the starting position, controlling the movement."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-upright-row-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-upright-row-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-upright-row.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-upright-row.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-upright-row-f.svg"
+      }
+    },
+    {
+      "slug": "cable-squat",
+      "name": {
+        "es": "Sentadilla en polea",
+        "en": "Cable squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "primaryMuscles": [
+        {
+          "id": "quadriceps",
+          "es": "Cuádriceps",
+          "en": "Quadriceps"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "gluteal",
+          "es": "Glúteo",
+          "en": "Glutes"
+        },
+        {
+          "id": "hamstring",
+          "es": "Femoral",
+          "en": "Hamstrings"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Ajusta la polea a la altura más baja y sujeta el mango con ambas manos.",
+          "Colócate de pie con los pies separados al ancho de los hombros, manteniendo la espalda recta.",
+          "Desciende en una sentadilla, llevando las caderas hacia atrás y manteniendo las rodillas alineadas con los pies.",
+          "Regresa a la posición inicial empujando con los talones y manteniendo el control del cable."
+        ],
+        "en": [
+          "Set the pulley to the lowest position and hold the handle with both hands.",
+          "Stand with feet shoulder-width apart, keeping your back straight.",
+          "Lower into a squat, pushing hips back and keeping knees aligned with feet.",
+          "Return to the starting position by pushing through your heels, maintaining control of the cable."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-squat-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-squat.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-squat.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-squat-f.svg"
+      }
+    },
+    {
+      "slug": "bench-dips",
+      "name": {
+        "es": "Fondos de tríceps en banco",
+        "en": "Bench dips"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "triceps",
+          "es": "Tríceps",
+          "en": "Triceps"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "deltoids",
+          "es": "Hombros",
+          "en": "Shoulders"
+        },
+        {
+          "id": "chest",
+          "es": "Pectoral",
+          "en": "Chest"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Coloca tus manos en el borde de un banco, con los dedos hacia adelante y los brazos extendidos.",
+          "Desliza tus glúteos hacia adelante, manteniendo las piernas extendidas y los talones en el suelo.",
+          "Baja lentamente el cuerpo doblando los codos hasta que formen un ángulo de 90 grados.",
+          "Empuja hacia arriba con los brazos hasta volver a la posición inicial."
+        ],
+        "en": [
+          "Place your hands on the edge of a bench, fingers facing forward and arms extended.",
+          "Slide your glutes forward, keeping your legs extended and heels on the ground.",
+          "Lower your body slowly by bending your elbows until they form a 90-degree angle.",
+          "Push up with your arms to return to the starting position."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/bench-dips-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/bench-dips-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/bench-dips.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/bench-dips.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/bench-dips-f.svg"
+      }
+    },
+    {
+      "slug": "incline-dumbbell-curl",
+      "name": {
+        "es": "Curl inclinado con mancuerna",
+        "en": "Incline dumbbell curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "primaryMuscles": [
+        {
+          "id": "biceps",
+          "es": "Bíceps",
+          "en": "Biceps"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "forearm",
+          "es": "Antebrazo",
+          "en": "Forearm"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Siéntate en un banco inclinado con una mancuerna en cada mano.",
+          "Deja que los brazos cuelguen hacia abajo, con las palmas mirando hacia adelante.",
+          "Flexiona los codos para levantar las mancuernas hacia los hombros, manteniendo los codos cerca del torso.",
+          "Baja lentamente las mancuernas a la posición inicial, controlando el movimiento."
+        ],
+        "en": [
+          "Sit on an incline bench with a dumbbell in each hand.",
+          "Let your arms hang down with palms facing forward.",
+          "Curl the dumbbells towards your shoulders, keeping elbows close to your torso.",
+          "Slowly lower the dumbbells back to the starting position, controlling the movement."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/incline-dumbbell-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/incline-dumbbell-curl-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/incline-dumbbell-curl.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/incline-dumbbell-curl.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/incline-dumbbell-curl-f.svg"
+      }
+    },
+    {
+      "slug": "dumbbell-shrug",
+      "name": {
+        "es": "Encogimientos con mancuerna",
+        "en": "Dumbbell shrug"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "primaryMuscles": [
+        {
+          "id": "trapezius",
+          "es": "Trapecio",
+          "en": "Trapezius"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "deltoids",
+          "es": "Hombros",
+          "en": "Shoulders"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Párate derecho con los pies al ancho de los hombros.",
+          "Sujeta una mancuerna en cada mano con los brazos extendidos a los lados.",
+          "Levanta los hombros hacia las orejas, manteniendo los brazos rectos.",
+          "Baja lentamente los hombros a la posición inicial."
+        ],
+        "en": [
+          "Stand upright with feet shoulder-width apart.",
+          "Hold a dumbbell in each hand with arms extended at your sides.",
+          "Raise your shoulders towards your ears, keeping arms straight.",
+          "Slowly lower your shoulders back to the starting position."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/dumbbell-shrug-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dumbbell-shrug-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-shrug.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-shrug.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-shrug-f.svg"
+      }
+    },
+    {
+      "slug": "cable-chest-press",
+      "name": {
+        "es": "Press de pecho en polea",
+        "en": "Cable chest press"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "primaryMuscles": [
+        {
+          "id": "chest",
+          "es": "Pectoral",
+          "en": "Chest"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "deltoids",
+          "es": "Hombros",
+          "en": "Shoulders"
+        },
+        {
+          "id": "triceps",
+          "es": "Tríceps",
+          "en": "Triceps"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Ajusta la altura de las poleas a nivel del pecho y selecciona el peso adecuado.",
+          "Párate en el centro, agarra las manijas con las palmas hacia abajo y da un paso adelante.",
+          "Con los codos ligeramente flexionados, empuja las manijas hacia adelante hasta que los brazos estén extendidos.",
+          "Regresa lentamente a la posición inicial, controlando el movimiento."
+        ],
+        "en": [
+          "Set the pulley height to chest level and select the appropriate weight.",
+          "Stand in the center, grab the handles with palms facing down, and step forward.",
+          "With elbows slightly bent, press the handles forward until arms are extended.",
+          "Slowly return to the starting position, controlling the movement."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-chest-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-chest-press-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-chest-press.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-chest-press.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-chest-press-f.svg"
+      }
+    },
+    {
+      "slug": "low-cable-fly",
+      "name": {
+        "es": "Cruce de poleas de abajo arriba",
+        "en": "Low cable fly (low-to-high)"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "primaryMuscles": [
+        {
+          "id": "chest",
+          "es": "Pectoral",
+          "en": "Chest"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "deltoids",
+          "es": "Hombros",
+          "en": "Shoulders"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Ajusta las poleas bajas a la posición más baja y sujeta las manijas con las palmas hacia arriba.",
+          "Da un paso adelante, manteniendo una ligera inclinación hacia adelante y los pies separados a la altura de los hombros.",
+          "Con los codos ligeramente flexionados, levanta las manijas hacia arriba y hacia el centro del cuerpo hasta que las manos se encuentren a la altura del pecho.",
+          "Regresa lentamente a la posición inicial, controlando el movimiento."
+        ],
+        "en": [
+          "Set the low pulleys to the lowest position and grasp the handles with palms facing up.",
+          "Step forward, maintaining a slight forward lean with feet shoulder-width apart.",
+          "With elbows slightly bent, lift the handles upward and toward the center of your body until hands meet at chest height.",
+          "Slowly return to the starting position, controlling the movement."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/low-cable-fly-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/low-cable-fly-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/low-cable-fly.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/low-cable-fly.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/low-cable-fly-f.svg"
+      }
+    },
+    {
+      "slug": "cable-overhead-triceps-extension",
+      "name": {
+        "es": "Extensión de tríceps sobre la cabeza en polea",
+        "en": "Cable overhead triceps extension"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "primaryMuscles": [
+        {
+          "id": "triceps",
+          "es": "Tríceps",
+          "en": "Triceps"
+        }
+      ],
+      "secondaryMuscles": [],
+      "instructions": {
+        "es": [
+          "Ajusta la polea a la posición más alta y sujeta la cuerda con ambas manos.",
+          "Colócate de pie con un pie delante del otro para mayor estabilidad.",
+          "Extiende los brazos hacia arriba y hacia adelante, manteniendo los codos cerca de la cabeza.",
+          "Regresa lentamente a la posición inicial sin mover los codos."
+        ],
+        "en": [
+          "Adjust the pulley to the highest position and grasp the rope with both hands.",
+          "Stand with one foot in front of the other for better stability.",
+          "Extend your arms upward and forward, keeping your elbows close to your head.",
+          "Slowly return to the starting position without moving your elbows."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-overhead-triceps-extension-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-overhead-triceps-extension-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-overhead-triceps-extension.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-overhead-triceps-extension.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-overhead-triceps-extension-f.svg"
+      }
+    },
+    {
+      "slug": "cable-front-raise",
+      "name": {
+        "es": "Elevación frontal en polea",
+        "en": "Cable front raise"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "primaryMuscles": [
+        {
+          "id": "deltoids",
+          "es": "Hombros",
+          "en": "Shoulders"
+        }
+      ],
+      "secondaryMuscles": [],
+      "instructions": {
+        "es": [
+          "Ajusta la polea a la posición más baja y sujeta el mango con ambas manos, palmas hacia abajo.",
+          "Ponte de pie con los pies al ancho de los hombros y mantén una ligera flexión en las rodillas.",
+          "Levanta el mango hacia el frente hasta que tus brazos estén paralelos al suelo, manteniendo los codos ligeramente flexionados.",
+          "Baja lentamente el mango a la posición inicial, controlando el movimiento."
+        ],
+        "en": [
+          "Adjust the pulley to the lowest position and grab the handle with both hands, palms facing down.",
+          "Stand with feet shoulder-width apart and keep a slight bend in the knees.",
+          "Raise the handle in front of you until your arms are parallel to the floor, keeping elbows slightly bent.",
+          "Slowly lower the handle back to the starting position, controlling the movement."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-front-raise-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-front-raise-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-front-raise.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-front-raise.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-front-raise-f.svg"
+      }
+    },
+    {
+      "slug": "cable-hip-abduction",
+      "name": {
+        "es": "Abducción de cadera en polea",
+        "en": "Cable hip abduction"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "primaryMuscles": [
+        {
+          "id": "gluteal",
+          "es": "Glúteo",
+          "en": "Glutes"
+        }
+      ],
+      "secondaryMuscles": [],
+      "instructions": {
+        "es": [
+          "Ajusta la polea baja a la altura de tu tobillo y coloca el brazalete en tu tobillo exterior.",
+          "Párate de lado a la máquina, sosteniéndote con una mano para mantener el equilibrio.",
+          "Con la pierna que lleva el brazalete, extiende hacia afuera y hacia un lado, manteniendo el tronco recto.",
+          "Regresa lentamente a la posición inicial y repite."
+        ],
+        "en": [
+          "Adjust the low pulley to ankle height and attach the cuff to your outer ankle.",
+          "Stand sideways to the machine, holding on with one hand for balance.",
+          "With the cuffed leg, extend outward and to the side, keeping your torso upright.",
+          "Slowly return to the starting position and repeat."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-hip-abduction-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-hip-abduction-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-hip-abduction.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-hip-abduction.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-hip-abduction-f.svg"
+      }
+    },
+    {
+      "slug": "cable-pullover",
+      "name": {
+        "es": "Pullover en polea",
+        "en": "Cable pullover"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "primaryMuscles": [
+        {
+          "id": "upper-back",
+          "es": "Dorsal",
+          "en": "Upper back"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "chest",
+          "es": "Pectoral",
+          "en": "Chest"
+        },
+        {
+          "id": "triceps",
+          "es": "Tríceps",
+          "en": "Triceps"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Ajusta la polea a una posición alta y sujeta la cuerda con ambas manos.",
+          "Ponte de pie con los pies al ancho de los hombros y ligeramente inclinado hacia adelante.",
+          "Tira de la cuerda hacia abajo y hacia tu cuerpo, manteniendo los brazos rectos y los codos ligeramente flexionados.",
+          "Regresa lentamente a la posición inicial, controlando el movimiento."
+        ],
+        "en": [
+          "Adjust the pulley to a high position and grasp the rope with both hands.",
+          "Stand with feet shoulder-width apart and lean slightly forward.",
+          "Pull the rope down and towards your body, keeping arms straight and elbows slightly bent.",
+          "Slowly return to the starting position, controlling the movement."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-pullover-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-pullover-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-pullover.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-pullover.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-pullover-f.svg"
+      }
+    },
+    {
+      "slug": "wall-angels",
+      "name": {
+        "es": "Ángeles de pared",
+        "en": "Wall angels"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "deltoids",
+          "es": "Hombros",
+          "en": "Shoulders"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "upper-back",
+          "es": "Dorsal",
+          "en": "Upper back"
+        },
+        {
+          "id": "trapezius",
+          "es": "Trapecio",
+          "en": "Trapezius"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Párate con la espalda contra la pared, pies separados al ancho de los hombros.",
+          "Coloca los brazos en forma de 'W' con los codos y muñecas tocando la pared.",
+          "Desliza lentamente los brazos hacia arriba, formando una 'Y', manteniendo el contacto con la pared.",
+          "Baja los brazos a la posición inicial y repite."
+        ],
+        "en": [
+          "Stand with your back against the wall, feet shoulder-width apart.",
+          "Position your arms in a 'W' shape with elbows and wrists touching the wall.",
+          "Slowly slide your arms upward into a 'Y' shape, keeping contact with the wall.",
+          "Lower your arms back to the starting position and repeat."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/wall-angels-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/wall-angels-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/wall-angels.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/wall-angels.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/wall-angels-f.svg"
+      }
+    },
+    {
+      "slug": "cobra-stretch",
+      "name": {
+        "es": "Estiramiento de cobra",
+        "en": "Cobra stretch"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "lower-back",
+          "es": "Lumbar",
+          "en": "Lower back"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "abs",
+          "es": "Abdomen",
+          "en": "Abs"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Acuéstate boca abajo en el suelo con las piernas extendidas.",
+          "Coloca las palmas de las manos en el suelo a la altura de los hombros.",
+          "Inhala y levanta lentamente el pecho, manteniendo las caderas en el suelo.",
+          "Mantén la posición durante 15-30 segundos, luego baja suavemente."
+        ],
+        "en": [
+          "Lie face down on the floor with your legs extended.",
+          "Place your palms on the ground at shoulder level.",
+          "Inhale and slowly lift your chest, keeping your hips on the floor.",
+          "Hold the position for 15-30 seconds, then gently lower down."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/cobra-stretch-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cobra-stretch-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cobra-stretch.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/cobra-stretch.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/cobra-stretch-f.svg"
+      }
+    },
+    {
+      "slug": "dead-hang",
+      "name": {
+        "es": "Colgarse de la barra (dead hang)",
+        "en": "Dead hang"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "upper-back",
+          "es": "Dorsal",
+          "en": "Upper back"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "forearm",
+          "es": "Antebrazo",
+          "en": "Forearm"
+        },
+        {
+          "id": "deltoids",
+          "es": "Hombros",
+          "en": "Shoulders"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "1. Encuentra una barra de dominadas y agárrala con las palmas mirando hacia adelante, a la altura de los hombros.",
+          "2. Cuélgate de la barra, manteniendo los brazos completamente extendidos y los pies fuera del suelo.",
+          "3. Mantén el cuerpo recto y relaja los hombros, permitiendo que el peso estire suavemente la espalda.",
+          "4. Aguanta la posición durante el tiempo deseado, respirando de manera controlada."
+        ],
+        "en": [
+          "1. Find a pull-up bar and grip it with palms facing forward, shoulder-width apart.",
+          "2. Hang from the bar, keeping your arms fully extended and feet off the ground.",
+          "3. Keep your body straight and relax your shoulders, allowing your weight to gently stretch your back.",
+          "4. Hold the position for the desired time, breathing in a controlled manner."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/dead-hang-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dead-hang-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dead-hang.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/dead-hang.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/dead-hang-f.svg"
+      }
+    },
+    {
+      "slug": "cat-cow",
+      "name": {
+        "es": "Gato-vaca",
+        "en": "Cat-cow"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "lower-back",
+          "es": "Lumbar",
+          "en": "Lower back"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "abs",
+          "es": "Abdomen",
+          "en": "Abs"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Colócate en posición de cuatro patas, con las manos alineadas con los hombros y las rodillas con las caderas.",
+          "Inhala profundamente mientras arqueas la espalda hacia abajo, levantando la cabeza y el coxis hacia el techo, entrando en la posición de 'vaca'.",
+          "Exhala mientras redondeas la espalda hacia arriba, llevando el mentón hacia el pecho y el coxis hacia abajo, entrando en la posición de 'gato'.",
+          "Repite el ciclo de movimientos de manera fluida, coordinando la respiración con cada cambio de posición."
+        ],
+        "en": [
+          "Get on all fours, with hands aligned under shoulders and knees under hips.",
+          "Inhale deeply as you arch your back downward, lifting your head and tailbone towards the ceiling, entering the 'cow' position.",
+          "Exhale as you round your back upward, tucking your chin to your chest and tailbone down, entering the 'cat' position.",
+          "Repeat the cycle of movements smoothly, coordinating your breath with each position change."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/cat-cow-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cat-cow-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cat-cow.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/cat-cow.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/cat-cow-f.svg"
       }
     }
   ]

@@ -4,7 +4,7 @@
     "es": "Tríceps",
     "en": "Triceps"
   },
-  "count": 24,
+  "count": 29,
   "exercises": [
     {
       "slug": "seated-chest-press",
@@ -533,6 +533,116 @@
         "female": "https://marcmayol.com/exercise-api/images/close-grip-bench-press-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/close-grip-bench-press.json"
+    },
+    {
+      "slug": "cable-shoulder-press",
+      "name": {
+        "es": "Press de hombros en polea",
+        "en": "Cable shoulder press"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-shoulder-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-shoulder-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-shoulder-press.json"
+    },
+    {
+      "slug": "bench-dips",
+      "name": {
+        "es": "Fondos de tríceps en banco",
+        "en": "Bench dips"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/bench-dips-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/bench-dips-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/bench-dips.json"
+    },
+    {
+      "slug": "cable-chest-press",
+      "name": {
+        "es": "Press de pecho en polea",
+        "en": "Cable chest press"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-chest-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-chest-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-chest-press.json"
+    },
+    {
+      "slug": "cable-overhead-triceps-extension",
+      "name": {
+        "es": "Extensión de tríceps sobre la cabeza en polea",
+        "en": "Cable overhead triceps extension"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-overhead-triceps-extension-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-overhead-triceps-extension-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-overhead-triceps-extension.json"
+    },
+    {
+      "slug": "cable-pullover",
+      "name": {
+        "es": "Pullover en polea",
+        "en": "Cable pullover"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-pullover-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-pullover-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-pullover.json"
     }
   ]
 }

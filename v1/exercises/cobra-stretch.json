@@ -1,0 +1,54 @@
+{
+  "slug": "cobra-stretch",
+  "name": {
+    "es": "Estiramiento de cobra",
+    "en": "Cobra stretch"
+  },
+  "group": {
+    "id": "core",
+    "es": "Core",
+    "en": "Core"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "lower-back",
+      "es": "Lumbar",
+      "en": "Lower back"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "abs",
+      "es": "Abdomen",
+      "en": "Abs"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Acuéstate boca abajo en el suelo con las piernas extendidas.",
+      "Coloca las palmas de las manos en el suelo a la altura de los hombros.",
+      "Inhala y levanta lentamente el pecho, manteniendo las caderas en el suelo.",
+      "Mantén la posición durante 15-30 segundos, luego baja suavemente."
+    ],
+    "en": [
+      "Lie face down on the floor with your legs extended.",
+      "Place your palms on the ground at shoulder level.",
+      "Inhale and slowly lift your chest, keeping your hips on the floor.",
+      "Hold the position for 15-30 seconds, then gently lower down."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/cobra-stretch-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/cobra-stretch-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cobra-stretch.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/cobra-stretch.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/cobra-stretch-f.svg"
+  }
+}

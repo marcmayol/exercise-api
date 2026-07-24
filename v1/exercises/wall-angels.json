@@ -1,0 +1,59 @@
+{
+  "slug": "wall-angels",
+  "name": {
+    "es": "Ángeles de pared",
+    "en": "Wall angels"
+  },
+  "group": {
+    "id": "shoulders",
+    "es": "Hombros",
+    "en": "Shoulders"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "upper-back",
+      "es": "Dorsal",
+      "en": "Upper back"
+    },
+    {
+      "id": "trapezius",
+      "es": "Trapecio",
+      "en": "Trapezius"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Párate con la espalda contra la pared, pies separados al ancho de los hombros.",
+      "Coloca los brazos en forma de 'W' con los codos y muñecas tocando la pared.",
+      "Desliza lentamente los brazos hacia arriba, formando una 'Y', manteniendo el contacto con la pared.",
+      "Baja los brazos a la posición inicial y repite."
+    ],
+    "en": [
+      "Stand with your back against the wall, feet shoulder-width apart.",
+      "Position your arms in a 'W' shape with elbows and wrists touching the wall.",
+      "Slowly slide your arms upward into a 'Y' shape, keeping contact with the wall.",
+      "Lower your arms back to the starting position and repeat."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/wall-angels-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/wall-angels-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/wall-angels.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/wall-angels.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/wall-angels-f.svg"
+  }
+}

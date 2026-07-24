@@ -4,7 +4,7 @@
     "es": "Trapecio",
     "en": "Trapezius"
   },
-  "count": 9,
+  "count": 12,
   "exercises": [
     {
       "slug": "seated-row-machine",
@@ -203,6 +203,72 @@
         "female": "https://marcmayol.com/exercise-api/images/reverse-fly-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/reverse-fly.json"
+    },
+    {
+      "slug": "cable-upright-row",
+      "name": {
+        "es": "Remo al mentón en polea",
+        "en": "Cable upright row"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-upright-row-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-upright-row-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-upright-row.json"
+    },
+    {
+      "slug": "dumbbell-shrug",
+      "name": {
+        "es": "Encogimientos con mancuerna",
+        "en": "Dumbbell shrug"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dumbbell-shrug-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dumbbell-shrug-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-shrug.json"
+    },
+    {
+      "slug": "wall-angels",
+      "name": {
+        "es": "Ángeles de pared",
+        "en": "Wall angels"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/wall-angels-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/wall-angels-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/wall-angels.json"
     }
   ]
 }

@@ -1,0 +1,48 @@
+{
+  "slug": "cable-front-raise",
+  "name": {
+    "es": "Elevación frontal en polea",
+    "en": "Cable front raise"
+  },
+  "group": {
+    "id": "shoulders",
+    "es": "Hombros",
+    "en": "Shoulders"
+  },
+  "equipment": {
+    "id": "cable",
+    "es": "Polea",
+    "en": "Cable"
+  },
+  "primaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "es": [
+      "Ajusta la polea a la posición más baja y sujeta el mango con ambas manos, palmas hacia abajo.",
+      "Ponte de pie con los pies al ancho de los hombros y mantén una ligera flexión en las rodillas.",
+      "Levanta el mango hacia el frente hasta que tus brazos estén paralelos al suelo, manteniendo los codos ligeramente flexionados.",
+      "Baja lentamente el mango a la posición inicial, controlando el movimiento."
+    ],
+    "en": [
+      "Adjust the pulley to the lowest position and grab the handle with both hands, palms facing down.",
+      "Stand with feet shoulder-width apart and keep a slight bend in the knees.",
+      "Raise the handle in front of you until your arms are parallel to the floor, keeping elbows slightly bent.",
+      "Slowly lower the handle back to the starting position, controlling the movement."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/cable-front-raise-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/cable-front-raise-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/cable-front-raise.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/cable-front-raise.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/cable-front-raise-f.svg"
+  }
+}

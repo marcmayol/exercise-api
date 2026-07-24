@@ -4,7 +4,7 @@
     "es": "Lumbar",
     "en": "Lower back"
   },
-  "count": 8,
+  "count": 10,
   "exercises": [
     {
       "slug": "plank",
@@ -181,6 +181,50 @@
         "female": "https://marcmayol.com/exercise-api/images/sumo-deadlift-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/sumo-deadlift.json"
+    },
+    {
+      "slug": "cobra-stretch",
+      "name": {
+        "es": "Estiramiento de cobra",
+        "en": "Cobra stretch"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cobra-stretch-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cobra-stretch-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cobra-stretch.json"
+    },
+    {
+      "slug": "cat-cow",
+      "name": {
+        "es": "Gato-vaca",
+        "en": "Cat-cow"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cat-cow-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cat-cow-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cat-cow.json"
     }
   ]
 }

@@ -4,7 +4,7 @@
     "es": "Polea",
     "en": "Cable"
   },
-  "count": 10,
+  "count": 19,
   "exercises": [
     {
       "slug": "seated-cable-back-rows",
@@ -225,6 +225,204 @@
         "female": "https://marcmayol.com/exercise-api/images/cable-woodchopper-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-woodchopper.json"
+    },
+    {
+      "slug": "cable-shoulder-press",
+      "name": {
+        "es": "Press de hombros en polea",
+        "en": "Cable shoulder press"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-shoulder-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-shoulder-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-shoulder-press.json"
+    },
+    {
+      "slug": "cable-upright-row",
+      "name": {
+        "es": "Remo al mentón en polea",
+        "en": "Cable upright row"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-upright-row-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-upright-row-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-upright-row.json"
+    },
+    {
+      "slug": "cable-squat",
+      "name": {
+        "es": "Sentadilla en polea",
+        "en": "Cable squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-squat-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-squat.json"
+    },
+    {
+      "slug": "cable-chest-press",
+      "name": {
+        "es": "Press de pecho en polea",
+        "en": "Cable chest press"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-chest-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-chest-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-chest-press.json"
+    },
+    {
+      "slug": "low-cable-fly",
+      "name": {
+        "es": "Cruce de poleas de abajo arriba",
+        "en": "Low cable fly (low-to-high)"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/low-cable-fly-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/low-cable-fly-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/low-cable-fly.json"
+    },
+    {
+      "slug": "cable-overhead-triceps-extension",
+      "name": {
+        "es": "Extensión de tríceps sobre la cabeza en polea",
+        "en": "Cable overhead triceps extension"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-overhead-triceps-extension-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-overhead-triceps-extension-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-overhead-triceps-extension.json"
+    },
+    {
+      "slug": "cable-front-raise",
+      "name": {
+        "es": "Elevación frontal en polea",
+        "en": "Cable front raise"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-front-raise-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-front-raise-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-front-raise.json"
+    },
+    {
+      "slug": "cable-hip-abduction",
+      "name": {
+        "es": "Abducción de cadera en polea",
+        "en": "Cable hip abduction"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-hip-abduction-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-hip-abduction-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-hip-abduction.json"
+    },
+    {
+      "slug": "cable-pullover",
+      "name": {
+        "es": "Pullover en polea",
+        "en": "Cable pullover"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/cable-pullover-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/cable-pullover-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-pullover.json"
     }
   ]
 }

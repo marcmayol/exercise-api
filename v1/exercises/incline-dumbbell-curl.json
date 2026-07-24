@@ -1,0 +1,54 @@
+{
+  "slug": "incline-dumbbell-curl",
+  "name": {
+    "es": "Curl inclinado con mancuerna",
+    "en": "Incline dumbbell curl"
+  },
+  "group": {
+    "id": "arms",
+    "es": "Brazos",
+    "en": "Arms"
+  },
+  "equipment": {
+    "id": "dumbbell",
+    "es": "Mancuerna",
+    "en": "Dumbbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "biceps",
+      "es": "Bíceps",
+      "en": "Biceps"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "forearm",
+      "es": "Antebrazo",
+      "en": "Forearm"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Siéntate en un banco inclinado con una mancuerna en cada mano.",
+      "Deja que los brazos cuelguen hacia abajo, con las palmas mirando hacia adelante.",
+      "Flexiona los codos para levantar las mancuernas hacia los hombros, manteniendo los codos cerca del torso.",
+      "Baja lentamente las mancuernas a la posición inicial, controlando el movimiento."
+    ],
+    "en": [
+      "Sit on an incline bench with a dumbbell in each hand.",
+      "Let your arms hang down with palms facing forward.",
+      "Curl the dumbbells towards your shoulders, keeping elbows close to your torso.",
+      "Slowly lower the dumbbells back to the starting position, controlling the movement."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/incline-dumbbell-curl-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/incline-dumbbell-curl-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/incline-dumbbell-curl.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/incline-dumbbell-curl.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/incline-dumbbell-curl-f.svg"
+  }
+}
