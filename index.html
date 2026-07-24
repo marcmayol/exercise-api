@@ -22,7 +22,17 @@
   .lbl{font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:#6E6A76;font-weight:600;margin-right:4px}
   .epd{padding:12px 14px;color:#A0A0AC}
   pre{background:#0C0C10;border:1px solid #23232C;border-radius:12px;padding:14px 16px;overflow:auto;font-size:12.5px;color:#B9B9C4;margin:0}
+  html{overflow-x:clip} img,pre,table{max-width:100%}
   @media(max-width:720px){#ex-grid{grid-template-columns:1fr!important}}
+  @media(max-width:640px){
+    .wrap{padding:0 16px 64px}
+    header{padding:32px 0 8px!important}
+    header>div{flex-wrap:wrap;row-gap:10px}
+    h1{font-size:31px}
+    h2{font-size:20px}
+    table td{white-space:normal!important}
+    .mono{overflow-wrap:anywhere;word-break:break-word}
+  }
 </style>
 </head>
 <body>
