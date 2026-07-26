@@ -1701,5 +1701,20 @@
     "secondary": [
       "abs"
     ]
+  },
+  {
+    "slug": "dragon-flag",
+    "es": "Bandera del dragón",
+    "en": "Dragon flag",
+    "group_es": "Core",
+    "group_en": "Core",
+    "equipment": "bodyweight",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "obliques",
+      "lower-back"
+    ]
   }
 ]

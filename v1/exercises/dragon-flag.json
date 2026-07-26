@@ -1,0 +1,57 @@
+{
+  "slug": "dragon-flag",
+  "name": {
+    "es": "Bandera del dragón",
+    "en": "Dragon flag"
+  },
+  "group": {
+    "id": "core",
+    "es": "Core",
+    "en": "Core"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "abs",
+      "es": "Abdomen",
+      "en": "Abs"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "obliques",
+      "es": "Oblicuos",
+      "en": "Obliques"
+    },
+    {
+      "id": "lower-back",
+      "es": "Lumbar",
+      "en": "Lower back"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Acuéstate boca arriba en un banco, agarrando el borde con las manos.",
+      "Levanta las piernas y la cadera hacia arriba, manteniendo el cuerpo recto.",
+      "Baja lentamente el cuerpo sin tocar el banco, controlando el movimiento."
+    ],
+    "en": [
+      "Lie on your back on a bench, gripping the edge with your hands.",
+      "Lift your legs and hips upwards, keeping your body straight.",
+      "Lower your body slowly without touching the bench, controlling the movement."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/dragon-flag-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/dragon-flag-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dragon-flag.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/dragon-flag.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/dragon-flag-f.svg"
+  }
+}

@@ -4,7 +4,7 @@
     "es": "Peso corporal",
     "en": "Bodyweight"
   },
-  "count": 33,
+  "count": 34,
   "exercises": [
     {
       "slug": "box-squat",
@@ -731,6 +731,28 @@
         "female": "https://marcmayol.com/exercise-api/images/cat-cow-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/cat-cow.json"
+    },
+    {
+      "slug": "dragon-flag",
+      "name": {
+        "es": "Bandera del dragón",
+        "en": "Dragon flag"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dragon-flag-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dragon-flag-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dragon-flag.json"
     }
   ]
 }

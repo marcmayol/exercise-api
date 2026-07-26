@@ -4,7 +4,7 @@
     "es": "Oblicuos",
     "en": "Obliques"
   },
-  "count": 8,
+  "count": 9,
   "exercises": [
     {
       "slug": "plank",
@@ -181,6 +181,28 @@
         "female": "https://marcmayol.com/exercise-api/images/cable-woodchopper-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-woodchopper.json"
+    },
+    {
+      "slug": "dragon-flag",
+      "name": {
+        "es": "Bandera del dragón",
+        "en": "Dragon flag"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dragon-flag-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dragon-flag-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dragon-flag.json"
     }
   ]
 }
