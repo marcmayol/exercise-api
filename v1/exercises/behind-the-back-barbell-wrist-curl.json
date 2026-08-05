@@ -1,0 +1,46 @@
+{
+  "slug": "behind-the-back-barbell-wrist-curl",
+  "name": {
+    "es": "Curl de muñeca con barra tras la espalda",
+    "en": "Behind-the-back barbell wrist curl"
+  },
+  "group": {
+    "id": "arms",
+    "es": "Brazos",
+    "en": "Arms"
+  },
+  "equipment": {
+    "id": "barbell",
+    "es": "Barra",
+    "en": "Barbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "forearm",
+      "es": "Antebrazo",
+      "en": "Forearm"
+    }
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "es": [
+      "Colócate de pie con los pies separados al ancho de los hombros y sujeta la barra detrás de ti con las palmas hacia atrás.",
+      "Mantén los brazos rectos y levanta la barra flexionando solo las muñecas hacia arriba.",
+      "Baja lentamente la barra a la posición inicial controlando el movimiento."
+    ],
+    "en": [
+      "Stand with feet shoulder-width apart and hold the barbell behind you with palms facing backward.",
+      "Keep arms straight and lift the barbell by curling only your wrists upward.",
+      "Slowly lower the barbell back to the starting position, controlling the movement."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/behind-the-back-barbell-wrist-curl-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/behind-the-back-barbell-wrist-curl-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/behind-the-back-barbell-wrist-curl.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/behind-the-back-barbell-wrist-curl.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/behind-the-back-barbell-wrist-curl-f.svg"
+  }
+}

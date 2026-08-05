@@ -4,7 +4,7 @@
     "es": "Mancuerna",
     "en": "Dumbbell"
   },
-  "count": 22,
+  "count": 23,
   "exercises": [
     {
       "slug": "seated-dumbbell-overhead-shoulder-press",
@@ -489,6 +489,28 @@
         "female": "https://marcmayol.com/exercise-api/images/dumbbell-shrug-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-shrug.json"
+    },
+    {
+      "slug": "dumbbell-wrist-curl-over-bench",
+      "name": {
+        "es": "Curl de muñeca con mancuernas sobre banco",
+        "en": "Dumbbell wrist curl over bench"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dumbbell-wrist-curl-over-bench-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dumbbell-wrist-curl-over-bench-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-wrist-curl-over-bench.json"
     }
   ]
 }

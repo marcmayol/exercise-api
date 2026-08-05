@@ -1,0 +1,48 @@
+{
+  "slug": "dumbbell-wrist-curl-over-bench",
+  "name": {
+    "es": "Curl de muñeca con mancuernas sobre banco",
+    "en": "Dumbbell wrist curl over bench"
+  },
+  "group": {
+    "id": "arms",
+    "es": "Brazos",
+    "en": "Arms"
+  },
+  "equipment": {
+    "id": "dumbbell",
+    "es": "Mancuerna",
+    "en": "Dumbbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "forearm",
+      "es": "Antebrazo",
+      "en": "Forearm"
+    }
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "es": [
+      "Arrodíllate detrás de un banco plano y apoya los dos antebrazos a lo largo del banco, con las manos por fuera del borde.",
+      "Sujeta una mancuerna en cada mano con las palmas hacia arriba y deja caer las muñecas.",
+      "Flexiona las muñecas hacia arriba sin despegar los antebrazos del banco.",
+      "Baja las mancuernas despacio hasta la posición inicial y repite."
+    ],
+    "en": [
+      "Kneel behind a flat bench and rest both forearms along the pad, hands hanging past the edge.",
+      "Hold a dumbbell in each hand with your palms facing up and let your wrists drop.",
+      "Curl your wrists upward without lifting your forearms off the bench.",
+      "Lower the dumbbells slowly to the starting position and repeat."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/dumbbell-wrist-curl-over-bench-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/dumbbell-wrist-curl-over-bench-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-wrist-curl-over-bench.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-wrist-curl-over-bench.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-wrist-curl-over-bench-f.svg"
+  }
+}

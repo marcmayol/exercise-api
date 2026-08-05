@@ -1,5 +1,5 @@
 {
-  "count": 121,
+  "count": 126,
   "exercises": [
     {
       "slug": "seated-chest-press",
@@ -3058,6 +3058,131 @@
       "url": "https://marcmayol.com/exercise-api/v1/exercises/dragon-flag.json",
       "primaryMuscles": [
         "abs"
+      ]
+    },
+    {
+      "slug": "seated-barbell-wrist-curl",
+      "name": {
+        "es": "Curl de muñeca sentado con barra",
+        "en": "Seated barbell wrist curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/seated-barbell-wrist-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/seated-barbell-wrist-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-barbell-wrist-curl.json",
+      "primaryMuscles": [
+        "forearm"
+      ]
+    },
+    {
+      "slug": "behind-the-back-barbell-wrist-curl",
+      "name": {
+        "es": "Curl de muñeca con barra tras la espalda",
+        "en": "Behind-the-back barbell wrist curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/behind-the-back-barbell-wrist-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/behind-the-back-barbell-wrist-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/behind-the-back-barbell-wrist-curl.json",
+      "primaryMuscles": [
+        "forearm"
+      ]
+    },
+    {
+      "slug": "dumbbell-wrist-curl-over-bench",
+      "name": {
+        "es": "Curl de muñeca con mancuernas sobre banco",
+        "en": "Dumbbell wrist curl over bench"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/dumbbell-wrist-curl-over-bench-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dumbbell-wrist-curl-over-bench-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/dumbbell-wrist-curl-over-bench.json",
+      "primaryMuscles": [
+        "forearm"
+      ]
+    },
+    {
+      "slug": "barbell-wrist-curl-over-bench",
+      "name": {
+        "es": "Curl de muñeca con barra sobre banco",
+        "en": "Barbell wrist curl over bench"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-wrist-curl-over-bench-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-wrist-curl-over-bench-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/barbell-wrist-curl-over-bench.json",
+      "primaryMuscles": [
+        "forearm"
+      ]
+    },
+    {
+      "slug": "standing-barbell-reverse-wrist-curl",
+      "name": {
+        "es": "Curl de muñeca inverso de pie con barra",
+        "en": "Standing barbell reverse wrist curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/standing-barbell-reverse-wrist-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/standing-barbell-reverse-wrist-curl-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/standing-barbell-reverse-wrist-curl.json",
+      "primaryMuscles": [
+        "forearm"
       ]
     }
   ]

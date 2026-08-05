@@ -1,0 +1,48 @@
+{
+  "slug": "standing-barbell-reverse-wrist-curl",
+  "name": {
+    "es": "Curl de muñeca inverso de pie con barra",
+    "en": "Standing barbell reverse wrist curl"
+  },
+  "group": {
+    "id": "arms",
+    "es": "Brazos",
+    "en": "Arms"
+  },
+  "equipment": {
+    "id": "barbell",
+    "es": "Barra",
+    "en": "Barbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "forearm",
+      "es": "Antebrazo",
+      "en": "Forearm"
+    }
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "es": [
+      "De pie, sujeta la barra por delante de los muslos con las palmas hacia atrás (agarre prono) y las manos al ancho de los hombros.",
+      "Mantén los codos estirados y pegados al cuerpo: solo se mueven las muñecas.",
+      "Sube los nudillos hacia el antebrazo extendiendo las muñecas y aguanta un instante arriba.",
+      "Baja la barra despacio hasta dejar las muñecas relajadas y repite."
+    ],
+    "en": [
+      "Stand tall holding the barbell in front of your thighs with an overhand grip, hands shoulder-width apart.",
+      "Keep your elbows straight and close to your body: only the wrists move.",
+      "Raise your knuckles toward your forearms by extending your wrists and hold briefly at the top.",
+      "Lower the bar slowly until your wrists are relaxed again and repeat."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/standing-barbell-reverse-wrist-curl-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/standing-barbell-reverse-wrist-curl-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/standing-barbell-reverse-wrist-curl.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/standing-barbell-reverse-wrist-curl.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/standing-barbell-reverse-wrist-curl-f.svg"
+  }
+}

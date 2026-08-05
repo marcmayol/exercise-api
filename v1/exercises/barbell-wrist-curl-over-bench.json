@@ -1,0 +1,48 @@
+{
+  "slug": "barbell-wrist-curl-over-bench",
+  "name": {
+    "es": "Curl de muñeca con barra sobre banco",
+    "en": "Barbell wrist curl over bench"
+  },
+  "group": {
+    "id": "arms",
+    "es": "Brazos",
+    "en": "Arms"
+  },
+  "equipment": {
+    "id": "barbell",
+    "es": "Barra",
+    "en": "Barbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "forearm",
+      "es": "Antebrazo",
+      "en": "Forearm"
+    }
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "es": [
+      "Arrodíllate detrás de un banco plano y apoya los dos antebrazos a lo largo del banco, con las manos por fuera del borde.",
+      "Agarra la barra con las palmas hacia arriba, a la anchura de los hombros, y deja caer las muñecas.",
+      "Sube la barra flexionando solo las muñecas, con los antebrazos siempre pegados al banco.",
+      "Baja la barra despacio hasta la posición inicial y repite."
+    ],
+    "en": [
+      "Kneel behind a flat bench and rest both forearms along the pad, hands hanging past the edge.",
+      "Grip the barbell with your palms facing up, hands shoulder-width apart, and let your wrists drop.",
+      "Lift the bar by bending only your wrists, keeping your forearms pressed to the bench.",
+      "Lower the bar slowly to the starting position and repeat."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/barbell-wrist-curl-over-bench-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/barbell-wrist-curl-over-bench-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/barbell-wrist-curl-over-bench.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/barbell-wrist-curl-over-bench.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/barbell-wrist-curl-over-bench-f.svg"
+  }
+}

@@ -1,6 +1,6 @@
 # Exercise API — Dataset para IA
 
-Convierte la Exercise API (104 ejercicios) en un **dataset multimodal bilingüe (ES/EN)**
+Convierte la Exercise API (126 ejercicios) en un **dataset multimodal bilingüe (ES/EN)**
 listo para Hugging Face. Se genera con `make_dataset.py` a partir de `v1/dataset.json` y
 las imágenes del proyecto.
 
@@ -13,9 +13,9 @@ python make_dataset.py     # produce ./build/
 
 | Archivo | Filas | Uso |
 |---|---|---|
-| `images/` + `metadata.jsonl` | 208 | **Visión / multimodal**: clasificación de imagen e image-to-text (captioning / VQA). Formato Hugging Face `imagefolder`. |
-| `instructions.jsonl` | 832 | **Fine-tuning de LLM**: pares instrucción→respuesta bilingües. |
-| `exercises.jsonl` / `exercises.csv` | 104 | **Tabla plana**: una fila por ejercicio. |
+| `images/` + `metadata.jsonl` | 252 | **Visión / multimodal**: clasificación de imagen e image-to-text (captioning / VQA). Formato Hugging Face `imagefolder`. |
+| `instructions.jsonl` | 1008 | **Fine-tuning de LLM**: pares instrucción→respuesta bilingües. |
+| `exercises.jsonl` / `exercises.csv` | 126 | **Tabla plana**: una fila por ejercicio. |
 | `README.md` | — | Dataset card (con front-matter YAML de Hugging Face). |
 
 Cada imagen lleva etiquetas: grupo muscular, equipamiento, músculo principal/secundario,

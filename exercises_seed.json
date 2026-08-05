@@ -1716,5 +1716,65 @@
       "obliques",
       "lower-back"
     ]
+  },
+  {
+    "slug": "seated-barbell-wrist-curl",
+    "es": "Curl de muñeca sentado con barra",
+    "en": "Seated barbell wrist curl",
+    "group_es": "Brazos",
+    "group_en": "Arms",
+    "equipment": "barbell",
+    "primary": [
+      "forearm"
+    ],
+    "secondary": []
+  },
+  {
+    "slug": "behind-the-back-barbell-wrist-curl",
+    "es": "Curl de muñeca con barra tras la espalda",
+    "en": "Behind-the-back barbell wrist curl",
+    "group_es": "Brazos",
+    "group_en": "Arms",
+    "equipment": "barbell",
+    "primary": [
+      "forearm"
+    ],
+    "secondary": []
+  },
+  {
+    "slug": "dumbbell-wrist-curl-over-bench",
+    "es": "Curl de muñeca con mancuernas sobre banco",
+    "en": "Dumbbell wrist curl over bench",
+    "group_es": "Brazos",
+    "group_en": "Arms",
+    "equipment": "dumbbell",
+    "primary": [
+      "forearm"
+    ],
+    "secondary": []
+  },
+  {
+    "slug": "barbell-wrist-curl-over-bench",
+    "es": "Curl de muñeca con barra sobre banco",
+    "en": "Barbell wrist curl over bench",
+    "group_es": "Brazos",
+    "group_en": "Arms",
+    "equipment": "barbell",
+    "primary": [
+      "forearm"
+    ],
+    "secondary": []
+  },
+  {
+    "slug": "standing-barbell-reverse-wrist-curl",
+    "es": "Curl de muñeca inverso de pie con barra",
+    "en": "Standing barbell reverse wrist curl",
+    "group_es": "Brazos",
+    "group_en": "Arms",
+    "equipment": "barbell",
+    "primary": [
+      "forearm"
+    ],
+    "secondary": []
   }
 ]

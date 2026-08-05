@@ -1,8 +1,8 @@
 {
   "name": "Exercise API dataset",
   "base": "https://marcmayol.com/exercise-api",
-  "generated": "2026-07-26",
-  "count": 121,
+  "generated": "2026-08-05",
+  "count": 126,
   "license": "Ilustraciones y datos propios · mapas musculares a partir de react-native-body-highlighter (MIT)",
   "groups": [
     {
@@ -27,7 +27,7 @@
       "id": "arms",
       "es": "Brazos",
       "en": "Arms",
-      "count": 16
+      "count": 21
     },
     {
       "id": "legs",
@@ -142,13 +142,13 @@
       "id": "dumbbell",
       "es": "Mancuerna",
       "en": "Dumbbell",
-      "count": 22
+      "count": 23
     },
     {
       "id": "barbell",
       "es": "Barra",
       "en": "Barbell",
-      "count": 20
+      "count": 24
     },
     {
       "id": "bodyweight",
@@ -7011,6 +7011,244 @@
       "muscleMaps": {
         "male": "https://marcmayol.com/exercise-api/muscle-maps/dragon-flag.svg",
         "female": "https://marcmayol.com/exercise-api/muscle-maps/dragon-flag-f.svg"
+      }
+    },
+    {
+      "slug": "seated-barbell-wrist-curl",
+      "name": {
+        "es": "Curl de muñeca sentado con barra",
+        "en": "Seated barbell wrist curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "primaryMuscles": [
+        {
+          "id": "forearm",
+          "es": "Antebrazo",
+          "en": "Forearm"
+        }
+      ],
+      "secondaryMuscles": [],
+      "instructions": {
+        "es": [
+          "Siéntate en un banco con los pies firmemente en el suelo.",
+          "Sujeta la barra con las palmas hacia arriba y los antebrazos apoyados en los muslos.",
+          "Flexiona las muñecas hacia arriba, levantando la barra lo más alto posible.",
+          "Baja lentamente la barra a la posición inicial, manteniendo el control."
+        ],
+        "en": [
+          "Sit on a bench with your feet flat on the floor.",
+          "Grip the barbell with palms facing up, resting forearms on your thighs.",
+          "Curl your wrists upward, lifting the barbell as high as possible.",
+          "Slowly lower the barbell back to the starting position, maintaining control."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/seated-barbell-wrist-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/seated-barbell-wrist-curl-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-barbell-wrist-curl.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/seated-barbell-wrist-curl.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/seated-barbell-wrist-curl-f.svg"
+      }
+    },
+    {
+      "slug": "behind-the-back-barbell-wrist-curl",
+      "name": {
+        "es": "Curl de muñeca con barra tras la espalda",
+        "en": "Behind-the-back barbell wrist curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "primaryMuscles": [
+        {
+          "id": "forearm",
+          "es": "Antebrazo",
+          "en": "Forearm"
+        }
+      ],
+      "secondaryMuscles": [],
+      "instructions": {
+        "es": [
+          "Colócate de pie con los pies separados al ancho de los hombros y sujeta la barra detrás de ti con las palmas hacia atrás.",
+          "Mantén los brazos rectos y levanta la barra flexionando solo las muñecas hacia arriba.",
+          "Baja lentamente la barra a la posición inicial controlando el movimiento."
+        ],
+        "en": [
+          "Stand with feet shoulder-width apart and hold the barbell behind you with palms facing backward.",
+          "Keep arms straight and lift the barbell by curling only your wrists upward.",
+          "Slowly lower the barbell back to the starting position, controlling the movement."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/behind-the-back-barbell-wrist-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/behind-the-back-barbell-wrist-curl-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/behind-the-back-barbell-wrist-curl.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/behind-the-back-barbell-wrist-curl.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/behind-the-back-barbell-wrist-curl-f.svg"
+      }
+    },
+    {
+      "slug": "dumbbell-wrist-curl-over-bench",
+      "name": {
+        "es": "Curl de muñeca con mancuernas sobre banco",
+        "en": "Dumbbell wrist curl over bench"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "primaryMuscles": [
+        {
+          "id": "forearm",
+          "es": "Antebrazo",
+          "en": "Forearm"
+        }
+      ],
+      "secondaryMuscles": [],
+      "instructions": {
+        "es": [
+          "Arrodíllate detrás de un banco plano y apoya los dos antebrazos a lo largo del banco, con las manos por fuera del borde.",
+          "Sujeta una mancuerna en cada mano con las palmas hacia arriba y deja caer las muñecas.",
+          "Flexiona las muñecas hacia arriba sin despegar los antebrazos del banco.",
+          "Baja las mancuernas despacio hasta la posición inicial y repite."
+        ],
+        "en": [
+          "Kneel behind a flat bench and rest both forearms along the pad, hands hanging past the edge.",
+          "Hold a dumbbell in each hand with your palms facing up and let your wrists drop.",
+          "Curl your wrists upward without lifting your forearms off the bench.",
+          "Lower the dumbbells slowly to the starting position and repeat."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/dumbbell-wrist-curl-over-bench-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/dumbbell-wrist-curl-over-bench-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-wrist-curl-over-bench.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-wrist-curl-over-bench.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/dumbbell-wrist-curl-over-bench-f.svg"
+      }
+    },
+    {
+      "slug": "barbell-wrist-curl-over-bench",
+      "name": {
+        "es": "Curl de muñeca con barra sobre banco",
+        "en": "Barbell wrist curl over bench"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "primaryMuscles": [
+        {
+          "id": "forearm",
+          "es": "Antebrazo",
+          "en": "Forearm"
+        }
+      ],
+      "secondaryMuscles": [],
+      "instructions": {
+        "es": [
+          "Arrodíllate detrás de un banco plano y apoya los dos antebrazos a lo largo del banco, con las manos por fuera del borde.",
+          "Agarra la barra con las palmas hacia arriba, a la anchura de los hombros, y deja caer las muñecas.",
+          "Sube la barra flexionando solo las muñecas, con los antebrazos siempre pegados al banco.",
+          "Baja la barra despacio hasta la posición inicial y repite."
+        ],
+        "en": [
+          "Kneel behind a flat bench and rest both forearms along the pad, hands hanging past the edge.",
+          "Grip the barbell with your palms facing up, hands shoulder-width apart, and let your wrists drop.",
+          "Lift the bar by bending only your wrists, keeping your forearms pressed to the bench.",
+          "Lower the bar slowly to the starting position and repeat."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/barbell-wrist-curl-over-bench-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/barbell-wrist-curl-over-bench-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/barbell-wrist-curl-over-bench.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/barbell-wrist-curl-over-bench.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/barbell-wrist-curl-over-bench-f.svg"
+      }
+    },
+    {
+      "slug": "standing-barbell-reverse-wrist-curl",
+      "name": {
+        "es": "Curl de muñeca inverso de pie con barra",
+        "en": "Standing barbell reverse wrist curl"
+      },
+      "group": {
+        "id": "arms",
+        "es": "Brazos",
+        "en": "Arms"
+      },
+      "equipment": {
+        "id": "barbell",
+        "es": "Barra",
+        "en": "Barbell"
+      },
+      "primaryMuscles": [
+        {
+          "id": "forearm",
+          "es": "Antebrazo",
+          "en": "Forearm"
+        }
+      ],
+      "secondaryMuscles": [],
+      "instructions": {
+        "es": [
+          "De pie, sujeta la barra por delante de los muslos con las palmas hacia atrás (agarre prono) y las manos al ancho de los hombros.",
+          "Mantén los codos estirados y pegados al cuerpo: solo se mueven las muñecas.",
+          "Sube los nudillos hacia el antebrazo extendiendo las muñecas y aguanta un instante arriba.",
+          "Baja la barra despacio hasta dejar las muñecas relajadas y repite."
+        ],
+        "en": [
+          "Stand tall holding the barbell in front of your thighs with an overhand grip, hands shoulder-width apart.",
+          "Keep your elbows straight and close to your body: only the wrists move.",
+          "Raise your knuckles toward your forearms by extending your wrists and hold briefly at the top.",
+          "Lower the bar slowly until your wrists are relaxed again and repeat."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/standing-barbell-reverse-wrist-curl-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/standing-barbell-reverse-wrist-curl-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/standing-barbell-reverse-wrist-curl.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/standing-barbell-reverse-wrist-curl.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/standing-barbell-reverse-wrist-curl-f.svg"
       }
     }
   ]

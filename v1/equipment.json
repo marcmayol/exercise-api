@@ -17,14 +17,14 @@
     "id": "dumbbell",
     "es": "Mancuerna",
     "en": "Dumbbell",
-    "count": 22,
+    "count": 23,
     "url": "https://marcmayol.com/exercise-api/v1/by-equipment/dumbbell.json"
   },
   {
     "id": "barbell",
     "es": "Barra",
     "en": "Barbell",
-    "count": 20,
+    "count": 24,
     "url": "https://marcmayol.com/exercise-api/v1/by-equipment/barbell.json"
   },
   {

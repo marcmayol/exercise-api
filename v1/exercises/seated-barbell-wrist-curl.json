@@ -1,0 +1,48 @@
+{
+  "slug": "seated-barbell-wrist-curl",
+  "name": {
+    "es": "Curl de muñeca sentado con barra",
+    "en": "Seated barbell wrist curl"
+  },
+  "group": {
+    "id": "arms",
+    "es": "Brazos",
+    "en": "Arms"
+  },
+  "equipment": {
+    "id": "barbell",
+    "es": "Barra",
+    "en": "Barbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "forearm",
+      "es": "Antebrazo",
+      "en": "Forearm"
+    }
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "es": [
+      "Siéntate en un banco con los pies firmemente en el suelo.",
+      "Sujeta la barra con las palmas hacia arriba y los antebrazos apoyados en los muslos.",
+      "Flexiona las muñecas hacia arriba, levantando la barra lo más alto posible.",
+      "Baja lentamente la barra a la posición inicial, manteniendo el control."
+    ],
+    "en": [
+      "Sit on a bench with your feet flat on the floor.",
+      "Grip the barbell with palms facing up, resting forearms on your thighs.",
+      "Curl your wrists upward, lifting the barbell as high as possible.",
+      "Slowly lower the barbell back to the starting position, maintaining control."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/seated-barbell-wrist-curl-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/seated-barbell-wrist-curl-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-barbell-wrist-curl.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/seated-barbell-wrist-curl.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/seated-barbell-wrist-curl-f.svg"
+  }
+}
