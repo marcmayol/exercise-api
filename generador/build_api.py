@@ -98,7 +98,7 @@ def get_instructions(client, ex):
 # ---------------------------------------------------------------- build
 def main():
     from openai import OpenAI
-    from PIL import Image, ImageChops
+    from PIL import Image, ImageDraw
     client = OpenAI(api_key=load_key())
     seed = json.load(open(os.path.join(ROOT,"exercises_seed.json"),encoding="utf-8"))
 
@@ -109,12 +109,19 @@ def main():
         src = os.path.join(GEN_IMGS, f"{slug}-{gender}.png")
         if not os.path.exists(src): return None
         im = Image.open(src).convert("RGB")
-        # Los modelos devuelven el fondo a 250-254, no blanco puro (gpt-image-2 sobre todo): lo
-        # normalizamos a 255 para que ninguna ficha se vea como un rectángulo grisáceo sobre la
-        # tarjeta blanca de la landing.
+        # El fondo de las ilustraciones no sale blanco puro: gpt-image-2 lo deja en 250-254 y
+        # algunos lotes viejos en crema (#FAF8F5). Sobre la tarjeta blanca de la landing eso se
+        # ve como un rectángulo sucio, así que lo blanqueamos en dos pasos: subir el casi-blanco
+        # a 255 y, si aún queda color, rellenar desde las esquinas (solo el fondo continuo, la
+        # figura no se toca).
         # NO se recorta al contenido: todo el catálogo comparte el mismo encuadre 3:2 y recortar
         # cada ficha a su silueta dejaría unas apaisadas y otras cuadradas.
-        im = im.point(lambda p: 255 if p >= 248 else p)
+        # Máscara por luminancia: todo lo que ya es casi blanco pasa a blanco puro. Llega también
+        # al fondo encerrado dentro de una máquina, que un relleno desde los bordes no alcanza.
+        # El umbral 236 deja intactos la piel clara (~229), las esterillas grises (~230) y los
+        # grises de las máquinas (~180-210), pero alcanza el crema de los lotes viejos, que
+        # llega a bajar hasta 238 en las zonas con degradado.
+        im.paste((255,255,255), mask=im.convert("L").point(lambda v: 255 if v >= 236 else 0))
         if im.width>1024: im=im.resize((1024,round(im.height*1024/im.width)))
         rel = f"images/{slug}-{suffix}.jpg"; im.save(os.path.join(ROOT,rel),quality=85)
         return f"{BASE}/{rel}"
