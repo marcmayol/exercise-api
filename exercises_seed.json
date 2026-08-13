@@ -2119,5 +2119,20 @@
     "secondary": [
       "deltoids"
     ]
+  },
+  {
+    "slug": "lying-leg-raise",
+    "es": "Elevación de piernas tumbado",
+    "en": "Lying leg raise",
+    "group_es": "Core",
+    "group_en": "Core",
+    "equipment": "bodyweight",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "obliques",
+      "quadriceps"
+    ]
   }
 ]

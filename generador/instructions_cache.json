@@ -2048,5 +2048,19 @@
       "Turn your torso away from that arm until you feel the stretch across your chest.",
       "Hold while breathing deeply, then switch arms."
     ]
+  },
+  "lying-leg-raise": {
+    "es": [
+      "Túmbate boca arriba con las piernas juntas y estiradas y los brazos a los lados, palmas hacia abajo.",
+      "Pega la zona lumbar al suelo y aprieta el abdomen antes de empezar.",
+      "Sube las dos piernas rectas hasta la vertical sin despegar la cadera del suelo.",
+      "Baja despacio hasta dejarlas a un palmo del suelo, sin apoyarlas ni arquear la espalda."
+    ],
+    "en": [
+      "Lie face up with your legs straight and together and your arms by your sides, palms down.",
+      "Press your lower back into the floor and brace your core before you start.",
+      "Raise both straight legs to vertical without lifting your hips off the floor.",
+      "Lower them slowly until they hover just above the floor, without touching down or arching your back."
+    ]
   }
 }

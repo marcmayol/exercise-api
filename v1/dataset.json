@@ -1,8 +1,8 @@
 {
   "name": "Exercise API dataset",
   "base": "https://marcmayol.com/exercise-api",
-  "generated": "2026-08-13",
-  "count": 150,
+  "generated": "2026-08-14",
+  "count": 151,
   "license": "Ilustraciones y datos propios · mapas musculares a partir de react-native-body-highlighter (MIT)",
   "groups": [
     {
@@ -39,7 +39,7 @@
       "id": "core",
       "es": "Core",
       "en": "Core",
-      "count": 24
+      "count": 25
     },
     {
       "id": "cardio",
@@ -154,7 +154,7 @@
       "id": "bodyweight",
       "es": "Peso corporal",
       "en": "Bodyweight",
-      "count": 55
+      "count": 56
     },
     {
       "id": "cardio",
@@ -8588,6 +8588,65 @@
       "muscleMaps": {
         "male": "https://marcmayol.com/exercise-api/muscle-maps/doorway-chest-stretch.svg",
         "female": "https://marcmayol.com/exercise-api/muscle-maps/doorway-chest-stretch-f.svg"
+      }
+    },
+    {
+      "slug": "lying-leg-raise",
+      "name": {
+        "es": "Elevación de piernas tumbado",
+        "en": "Lying leg raise"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "abs",
+          "es": "Abdomen",
+          "en": "Abs"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "obliques",
+          "es": "Oblicuos",
+          "en": "Obliques"
+        },
+        {
+          "id": "quadriceps",
+          "es": "Cuádriceps",
+          "en": "Quadriceps"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Túmbate boca arriba con las piernas juntas y estiradas y los brazos a los lados, palmas hacia abajo.",
+          "Pega la zona lumbar al suelo y aprieta el abdomen antes de empezar.",
+          "Sube las dos piernas rectas hasta la vertical sin despegar la cadera del suelo.",
+          "Baja despacio hasta dejarlas a un palmo del suelo, sin apoyarlas ni arquear la espalda."
+        ],
+        "en": [
+          "Lie face up with your legs straight and together and your arms by your sides, palms down.",
+          "Press your lower back into the floor and brace your core before you start.",
+          "Raise both straight legs to vertical without lifting your hips off the floor.",
+          "Lower them slowly until they hover just above the floor, without touching down or arching your back."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/lying-leg-raise-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/lying-leg-raise-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/lying-leg-raise.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/lying-leg-raise.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/lying-leg-raise-f.svg"
       }
     }
   ]

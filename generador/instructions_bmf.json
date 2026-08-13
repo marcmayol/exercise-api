@@ -1,6 +1,5 @@
 {
   "_comentario": "Instrucciones ES/EN escritas a mano para el lote 'Building My Future' (24 ejercicios de core, calistenia, postura y movilidad). Se fusionan en instructions_cache.json con merge_instructions.py para que build_api.py no las pida a gpt-4o: el modelo se equivoca con los estiramientos y con los ejercicios de rodillas.",
-
   "bird-dog": {
     "es": [
       "Colócate a cuatro patas, con las manos bajo los hombros y las rodillas bajo las caderas.",
@@ -15,7 +14,6 @@
       "Return slowly to the starting position and alternate sides on each repetition."
     ]
   },
-
   "hollow-hold": {
     "es": [
       "Túmbate boca arriba y pega la zona lumbar al suelo.",
@@ -30,7 +28,6 @@
       "Hold the position without letting your lower back come off the floor; bend your knees if it is too hard."
     ]
   },
-
   "hollow-rock": {
     "es": [
       "Colócate en posición hollow: lumbar pegada al suelo, brazos estirados detrás de la cabeza y piernas rectas elevadas.",
@@ -45,7 +42,6 @@
       "Rock continuously and under control, without letting your feet or head touch the floor."
     ]
   },
-
   "pallof-press": {
     "es": [
       "Coloca la polea a la altura del pecho y sitúate de lado a ella, con los pies a la anchura de las caderas.",
@@ -60,7 +56,6 @@
       "Bring the handle slowly back to your chest and repeat; switch sides after the set."
     ]
   },
-
   "farmers-walk": {
     "es": [
       "Coge una mancuerna pesada con una mano y ponte de pie con el pecho alto y los hombros atrás.",
@@ -75,7 +70,6 @@
       "Cover the set distance, switch hands and repeat."
     ]
   },
-
   "diamond-push-up": {
     "es": [
       "Ponte en posición de flexión con las manos juntas bajo el pecho, formando un rombo con índices y pulgares.",
@@ -90,7 +84,6 @@
       "Push the floor away until your arms are straight, without arching your lower back."
     ]
   },
-
   "wall-handstand": {
     "es": [
       "Apoya las manos en el suelo a un palmo de la pared, con los brazos estirados y las manos a la anchura de los hombros.",
@@ -105,7 +98,6 @@
       "Hold while breathing steadily and come down one leg at a time."
     ]
   },
-
   "y-t-w-raise": {
     "es": [
       "Túmbate boca abajo sobre un banco inclinado con una mancuerna ligera en cada mano y los brazos colgando.",
@@ -120,7 +112,6 @@
       "Bend your elbows and pull them back into a W, squeezing your shoulder blades, then return to the start."
     ]
   },
-
   "chin-tuck": {
     "es": [
       "Ponte de pie o sentado con la espalda recta y los hombros relajados.",
@@ -135,7 +126,6 @@
       "Hold for two or three seconds and return slowly to the starting position."
     ]
   },
-
   "thoracic-extension-bench": {
     "es": [
       "Arrodíllate frente a un banco bajo y apoya los codos en él, con las manos juntas.",
@@ -150,7 +140,6 @@
       "Hold for a few seconds while breathing deeply, then return to neutral."
     ]
   },
-
   "quadruped-thoracic-rotation": {
     "es": [
       "Colócate a cuatro patas y lleva una mano detrás de la cabeza, con el codo abierto.",
@@ -165,7 +154,6 @@
       "Keep your hips still over your knees; repeat and switch sides."
     ]
   },
-
   "open-book-stretch": {
     "es": [
       "Túmbate de lado con las rodillas dobladas a 90 grados, una encima de la otra.",
@@ -180,7 +168,6 @@
       "Keep your knees down, hold for a few seconds and switch sides."
     ]
   },
-
   "assisted-pistol-squat": {
     "es": [
       "Sujétate con una mano a un soporte firme y apóyate sobre una sola pierna.",
@@ -195,7 +182,6 @@
       "Drive through the heel to stand back up, using the arm only as much as you need, then switch legs."
     ]
   },
-
   "deep-squat-hold": {
     "es": [
       "Sujétate con las dos manos a un soporte a la altura del pecho, con los pies algo más abiertos que los hombros.",
@@ -210,7 +196,6 @@
       "Hold the position while breathing deeply, then stand up using the support."
     ]
   },
-
   "hip-hinge-dowel": {
     "es": [
       "Coloca un palo en vertical a lo largo de la espalda, tocando la cabeza, la espalda alta y el sacro.",
@@ -225,7 +210,6 @@
       "Go as far as you can while the dowel keeps all three contact points, then stand up by squeezing your glutes."
     ]
   },
-
   "hip-flexor-stretch": {
     "es": [
       "Apoya una rodilla en el suelo y coloca el otro pie delante, con la rodilla a 90 grados.",
@@ -240,7 +224,6 @@
       "Reach the arm on that side overhead to increase it, hold, then switch legs."
     ]
   },
-
   "low-lunge-rotation": {
     "es": [
       "Desde una zancada con la rodilla de atrás en el suelo, apoya las dos manos por dentro del pie de delante.",
@@ -255,7 +238,6 @@
       "Bring the hand back down, repeat a few times and switch sides."
     ]
   },
-
   "figure-4-stretch": {
     "es": [
       "Túmbate boca arriba con las rodillas dobladas y los pies apoyados.",
@@ -270,7 +252,6 @@
       "Keep your head and shoulders on the floor, hold, then switch sides."
     ]
   },
-
   "supine-hamstring-stretch": {
     "es": [
       "Túmbate boca arriba con una pierna estirada en el suelo.",
@@ -285,7 +266,6 @@
       "Hold while breathing, lower slowly and switch legs."
     ]
   },
-
   "seated-forward-fold": {
     "es": [
       "Siéntate en el suelo con las piernas estiradas y juntas y las puntas de los pies hacia ti.",
@@ -300,7 +280,6 @@
       "Go as far as you can with your knees straight and hold while breathing."
     ]
   },
-
   "hip-90-90": {
     "es": [
       "Siéntate en el suelo con una pierna delante y la otra al lado, ambas dobladas a 90 grados.",
@@ -315,7 +294,6 @@
       "Rotate both knees over to the other side to switch position and repeat."
     ]
   },
-
   "calf-stretch-wall": {
     "es": [
       "Apoya las dos manos en la pared a la altura de los hombros.",
@@ -330,7 +308,6 @@
       "Hold while you feel the stretch in the calf, then switch legs."
     ]
   },
-
   "ankle-dorsiflexion-wall": {
     "es": [
       "Ponte de rodillas frente a la pared y adelanta un pie a un palmo de ella.",
@@ -345,7 +322,6 @@
       "Come back and repeat; move the foot further away if it is easy, then switch sides."
     ]
   },
-
   "doorway-chest-stretch": {
     "es": [
       "Apoya el antebrazo en el marco de la puerta con el codo a la altura del hombro.",
@@ -358,6 +334,20 @@
       "Step forward with the foot on the same side.",
       "Turn your torso away from that arm until you feel the stretch across your chest.",
       "Hold while breathing deeply, then switch arms."
+    ]
+  },
+  "lying-leg-raise": {
+    "es": [
+      "Túmbate boca arriba con las piernas juntas y estiradas y los brazos a los lados, palmas hacia abajo.",
+      "Pega la zona lumbar al suelo y aprieta el abdomen antes de empezar.",
+      "Sube las dos piernas rectas hasta la vertical sin despegar la cadera del suelo.",
+      "Baja despacio hasta dejarlas a un palmo del suelo, sin apoyarlas ni arquear la espalda."
+    ],
+    "en": [
+      "Lie face up with your legs straight and together and your arms by your sides, palms down.",
+      "Press your lower back into the floor and brace your core before you start.",
+      "Raise both straight legs to vertical without lifting your hips off the floor.",
+      "Lower them slowly until they hover just above the floor, without touching down or arching your back."
     ]
   }
 }

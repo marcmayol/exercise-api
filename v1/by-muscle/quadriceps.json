@@ -4,7 +4,7 @@
     "es": "Cuádriceps",
     "en": "Quadriceps"
   },
-  "count": 37,
+  "count": 38,
   "exercises": [
     {
       "slug": "leg-press",
@@ -819,6 +819,28 @@
         "female": "https://marcmayol.com/exercise-api/images/low-lunge-rotation-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/low-lunge-rotation.json"
+    },
+    {
+      "slug": "lying-leg-raise",
+      "name": {
+        "es": "Elevación de piernas tumbado",
+        "en": "Lying leg raise"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/lying-leg-raise-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/lying-leg-raise-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/lying-leg-raise.json"
     }
   ]
 }
