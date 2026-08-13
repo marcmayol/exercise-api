@@ -42,6 +42,30 @@
       "Lower your shoulders slowly back to the starting position."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Girar los hombros en círculos.",
+      "Doblar los codos y convertirlo en un remo.",
+      "Recorrido corto: hay que subir hasta arriba del todo."
+    ],
+    "en": [
+      "Rolling your shoulders in circles.",
+      "Bending your elbows and turning it into a row.",
+      "Short range of motion: you need to lift all the way up."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Encogimientos con mancuernas.",
+      "Encogimientos en máquina o en polea.",
+      "Face pull si buscas también el trapecio medio."
+    ],
+    "en": [
+      "Dumbbell shrugs.",
+      "Machine or cable shrugs.",
+      "Face pull if you're also targeting the middle traps."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/barbell-shrug-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/barbell-shrug-f.jpg"

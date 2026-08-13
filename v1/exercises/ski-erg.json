@@ -57,6 +57,30 @@
       "Slowly return to the starting position, controlling the movement."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Tirar solo con los brazos sin acompañar con el tronco.",
+      "Redondear la espalda al bajar.",
+      "Bloquear las rodillas rígidas todo el rato."
+    ],
+    "en": [
+      "Pulling only with your arms without engaging your torso.",
+      "Rounding your back as you lower.",
+      "Locking your knees rigid the whole time."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Remo (cardio).",
+      "Bicicleta de aire.",
+      "Jalón con brazos rectos en polea."
+    ],
+    "en": [
+      "Rowing (cardio).",
+      "Air bike.",
+      "Straight-arm pulldown on cable machine."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/ski-erg-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/ski-erg-f.jpg"

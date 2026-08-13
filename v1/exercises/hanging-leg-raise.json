@@ -47,6 +47,30 @@
       "Lower your legs slowly back to the starting position."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Balancearte para subir las piernas.",
+      "Doblar la cadera sin activar el abdomen.",
+      "Dejar caer las piernas de golpe."
+    ],
+    "en": [
+      "Swinging to lift your legs.",
+      "Bending at the hips without engaging your core.",
+      "Letting your legs drop suddenly."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Elevación de rodillas colgado.",
+      "Elevación de piernas tumbado en el suelo.",
+      "Plancha si te falla el agarre."
+    ],
+    "en": [
+      "Hanging knee raise.",
+      "Lying leg raise.",
+      "Plank if your grip fails."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/hanging-leg-raise-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/hanging-leg-raise-f.jpg"

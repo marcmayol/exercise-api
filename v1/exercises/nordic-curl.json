@@ -42,6 +42,30 @@
       "Use your hands to cushion the fall and push slightly to return to the starting position."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Doblar la cadera y bajar en bloque.",
+      "Caer de golpe sin frenar.",
+      "Empezar sin ayuda cuando aún no controlas la bajada."
+    ],
+    "en": [
+      "Bending at the hip and lowering in one block.",
+      "Dropping suddenly without control.",
+      "Starting without assistance when you haven't mastered the descent."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Curl nórdico ayudándote con las manos.",
+      "Curl de piernas tumbado.",
+      "Peso muerto rumano."
+    ],
+    "en": [
+      "Nordic curl using your hands for assistance.",
+      "Lying leg curl.",
+      "Romanian deadlift."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/nordic-curl-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/nordic-curl-f.jpg"

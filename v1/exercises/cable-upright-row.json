@@ -47,6 +47,30 @@
       "Slowly lower the handle back to the starting position, controlling the movement."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Subir los codos muy por encima de los hombros.",
+      "Separarte de la polea y tirar en diagonal.",
+      "Encoger los hombros al final."
+    ],
+    "en": [
+      "Raising your elbows too far above your shoulders.",
+      "Stepping away from the cable and pulling diagonally.",
+      "Shrugging your shoulders at the end."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Elevaciones laterales en polea.",
+      "Face pull.",
+      "Remo al mentón con barra y agarre ancho."
+    ],
+    "en": [
+      "Cable lateral raises.",
+      "Face pull.",
+      "Wide-grip barbell upright row."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/cable-upright-row-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/cable-upright-row-f.jpg"

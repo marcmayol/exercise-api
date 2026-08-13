@@ -52,6 +52,30 @@
       "Push through your heels to return to the starting position."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Redondear la espalda o caer hacia delante.",
+      "Que las rodillas colapsen hacia dentro.",
+      "Despegar los talones del suelo."
+    ],
+    "en": [
+      "Rounding your back or leaning forward.",
+      "Letting your knees collapse inward.",
+      "Lifting your heels off the ground."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Sentadilla en máquina (hack o Smith).",
+      "Prensa de piernas.",
+      "Sentadilla a cajón."
+    ],
+    "en": [
+      "Hack or Smith machine squat.",
+      "Leg press.",
+      "Box squat."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/goblet-squats-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/goblet-squats-f.jpg"

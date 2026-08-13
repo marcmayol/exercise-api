@@ -42,6 +42,30 @@
       "Slowly lower the dumbbell back to the starting position and repeat."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Balancear el brazo apoyándote en el muslo.",
+      "Girar el tronco para ayudarte.",
+      "Subir el hombro en vez de flexionar solo el codo."
+    ],
+    "en": [
+      "Swinging your arm by resting it on your thigh.",
+      "Twisting your torso to assist.",
+      "Raising your shoulder instead of flexing only the elbow."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Curl en banco predicador.",
+      "Curl alterno con mancuernas.",
+      "Curl en polea baja a un brazo."
+    ],
+    "en": [
+      "Preacher curl.",
+      "Alternating dumbbell curl.",
+      "Single-arm low cable curl."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/concentration-curl-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/concentration-curl-f.jpg"

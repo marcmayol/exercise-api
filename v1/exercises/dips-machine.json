@@ -47,6 +47,30 @@
       "Slowly return to the starting position without locking the elbows."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Abrir mucho los codos hacia los lados.",
+      "Bajar demasiado rápido sin control.",
+      "Usar un peso que te obligue a hacer trampa con el cuerpo."
+    ],
+    "en": [
+      "Flaring your elbows out too much.",
+      "Lowering too quickly without control.",
+      "Using a weight that forces you to cheat with your body."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Extensión de tríceps en polea con cuerda.",
+      "Fondos entre dos bancos.",
+      "Press cerrado con mancuernas."
+    ],
+    "en": [
+      "Tricep rope extension on cable machine.",
+      "Bench dips.",
+      "Close grip dumbbell press."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/dips-machine-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/dips-machine-f.jpg"

@@ -1,0 +1,1965 @@
+{
+  "ab-wheel-rollout": {
+    "mistakes": [
+      "Arching your lower back as you stretch out: it's the mistake that causes injury.",
+      "Rolling out so far that you can't return without jerking.",
+      "Raising your hips before your torso as you return."
+    ],
+    "alternatives": [
+      "Forearm plank, holding longer.",
+      "Kneeling rollout with short range.",
+      "Slow dead bug."
+    ],
+    "_firma": "d813095a694d"
+  },
+  "air-bike": {
+    "mistakes": [
+      "Pedaling only with your legs and keeping your arms still.",
+      "Rounding your back.",
+      "Going all out and burning out in thirty seconds."
+    ],
+    "alternatives": [
+      "Stationary bike.",
+      "Rowing machine (cardio).",
+      "Elliptical."
+    ],
+    "_firma": "152a38e87566"
+  },
+  "alternating-dumbbell-biceps-curl": {
+    "mistakes": [
+      "Swinging your body to lift the weight.",
+      "Moving your elbow forward instead of keeping it fixed.",
+      "Lowering the weight without control."
+    ],
+    "alternatives": [
+      "Cable curl with bar.",
+      "Preacher curl or curl machine.",
+      "EZ bar curl."
+    ],
+    "_firma": "35867af0671a"
+  },
+  "ankle-dorsiflexion-wall": {
+    "mistakes": [
+      "Lifting your heel to reach further.",
+      "Turning your foot outward to gain range.",
+      "Pushing in jerks instead of moving slowly back and forth."
+    ],
+    "alternatives": [
+      "Calf stretch on wall.",
+      "Same movement seated, pushing the knee with your hands.",
+      "Lowering and raising the heel from a step."
+    ],
+    "_firma": "96224b3ce7fe"
+  },
+  "arnold-press": {
+    "mistakes": [
+      "Jerking your wrists.",
+      "Arching your lower back as you push.",
+      "Lowering your elbows behind your body."
+    ],
+    "alternatives": [
+      "Dumbbell shoulder press.",
+      "Machine shoulder press.",
+      "Barbell military press."
+    ],
+    "_firma": "f2b458eea6e6"
+  },
+  "assisted-pistol-squat": {
+    "mistakes": [
+      "Pulling on the support with your arm instead of just using it for balance.",
+      "Dropping your hip suddenly as you lower.",
+      "Lifting the heel of your supporting leg."
+    ],
+    "alternatives": [
+      "Single-leg box squat.",
+      "Bulgarian split squat.",
+      "Bodyweight squat if you haven't mastered balance yet."
+    ],
+    "_firma": "5d82691a265b"
+  },
+  "back-extension": {
+    "mistakes": [
+      "Raising beyond the body's line and arching your lower back.",
+      "Using momentum.",
+      "Incorrectly positioning the support: it should be below the hips."
+    ],
+    "alternatives": [
+      "Superman on the floor.",
+      "Good mornings with an empty barbell.",
+      "Light Romanian deadlift."
+    ],
+    "_firma": "278f368d6f5b"
+  },
+  "barbell-bench-press": {
+    "mistakes": [
+      "Bouncing the bar off your chest.",
+      "Lifting your glutes off the bench.",
+      "Flaring your elbows at 90 degrees from your body."
+    ],
+    "alternatives": [
+      "Dumbbell press.",
+      "Chest press machine.",
+      "Push-ups if no bench is available."
+    ],
+    "_firma": "693756e271e8"
+  },
+  "barbell-biceps-curl": {
+    "mistakes": [
+      "Leaning your back backward to lift the weight.",
+      "Pushing your elbows forward at the end of the movement.",
+      "Not fully extending your arm at the bottom."
+    ],
+    "alternatives": [
+      "Dumbbell curl.",
+      "Low cable curl.",
+      "EZ bar if your wrists hurt."
+    ],
+    "_firma": "10a0765cb3a9"
+  },
+  "barbell-hip-thrust": {
+    "mistakes": [
+      "Arching your lower back instead of driving with your glutes.",
+      "Not fully extending (short range of motion).",
+      "Resting your neck instead of your upper back."
+    ],
+    "alternatives": [
+      "Floor glute bridge with plate.",
+      "Hip thrust on a specific machine.",
+      "Cable glute kickback."
+    ],
+    "_firma": "d81321102734"
+  },
+  "barbell-overhead-press": {
+    "mistakes": [
+      "Arching your lower back to compensate for lack of shoulder mobility.",
+      "Pushing your head forward and hitting your chin with the bar.",
+      "Pushing forward instead of upward."
+    ],
+    "alternatives": [
+      "Dumbbell shoulder press.",
+      "Machine shoulder press.",
+      "Seated press with back support if your back arches."
+    ],
+    "_firma": "69bc31b1e58d"
+  },
+  "barbell-row": {
+    "mistakes": [
+      "Rounding your lower back as you lift.",
+      "Standing up with each rep to gain momentum.",
+      "Bringing the bar to your chest instead of your navel."
+    ],
+    "alternatives": [
+      "Dumbbell row with bench support.",
+      "Seated cable row.",
+      "Chest-supported machine row."
+    ],
+    "_firma": "d12ebbcfee83"
+  },
+  "barbell-shrug": {
+    "mistakes": [
+      "Rolling your shoulders in circles.",
+      "Bending your elbows and turning it into a row.",
+      "Short range of motion: you need to lift all the way up."
+    ],
+    "alternatives": [
+      "Dumbbell shrugs.",
+      "Machine or cable shrugs.",
+      "Face pull if you're also targeting the middle traps."
+    ],
+    "_firma": "014c4002f76f"
+  },
+  "barbell-squat": {
+    "mistakes": [
+      "Lifting your heels off the ground.",
+      "Letting your knees cave inward.",
+      "Raising your hips first and ending up with a bent back."
+    ],
+    "alternatives": [
+      "Goblet squat.",
+      "Leg press.",
+      "Hack squat on machine."
+    ],
+    "_firma": "8501141360a0"
+  },
+  "barbell-wrist-curl-over-bench": {
+    "mistakes": [
+      "Lifting your forearms off the bench.",
+      "Gripping the bar with rigid wrists and not letting it lower.",
+      "Using so much weight that it strains your elbow."
+    ],
+    "alternatives": [
+      "Dumbbell wrist curl over bench.",
+      "Seated wrist curl.",
+      "Standing reverse wrist curl."
+    ],
+    "_firma": "8ba8eea6f184"
+  },
+  "behind-the-back-barbell-wrist-curl": {
+    "mistakes": [
+      "Bending your elbows to assist.",
+      "Separating the barbell from your glutes.",
+      "Shrugging your shoulders."
+    ],
+    "alternatives": [
+      "Seated barbell wrist curl.",
+      "Dumbbell wrist curl.",
+      "Wrist curl over bench."
+    ],
+    "_firma": "83dcc4c442fc"
+  },
+  "bench-dips": {
+    "mistakes": [
+      "Lowering so much that your shoulder goes below your elbow.",
+      "Moving your body away from the bench: loads the shoulder instead of the triceps.",
+      "Using your legs for assistance when you can still manage with your arms."
+    ],
+    "alternatives": [
+      "Tricep extension on cable machine.",
+      "Assisted dips.",
+      "Close-grip push-ups."
+    ],
+    "_firma": "030d54d85378"
+  },
+  "bicycle-crunch": {
+    "mistakes": [
+      "Pulling on your neck with your hands.",
+      "Going fast and stopping torso rotation.",
+      "Lifting your lower back off the floor."
+    ],
+    "alternatives": [
+      "Crunch with elevated legs.",
+      "Dead bug.",
+      "Side plank."
+    ],
+    "_firma": "da54859e855d"
+  },
+  "bird-dog": {
+    "mistakes": [
+      "Rotating your hip as you lift your leg.",
+      "Raising your leg higher than your back and arching your lower back.",
+      "Going fast: the exercise is about control, not repetitions."
+    ],
+    "alternatives": [
+      "Arm only or leg only, until you master balance.",
+      "Dead bug lying down.",
+      "Forearm plank."
+    ],
+    "_firma": "724f1fd7e4e8"
+  },
+  "bodyweight-squat": {
+    "mistakes": [
+      "Leaning your shoulders forward and staying on your toes.",
+      "Lowering only a few inches.",
+      "Bringing your knees together as you rise."
+    ],
+    "alternatives": [
+      "Box or chair squat.",
+      "Goblet squat with a light dumbbell.",
+      "Leg press."
+    ],
+    "_firma": "5065ec14ad00"
+  },
+  "box-squat": {
+    "mistakes": [
+      "Dropping onto the box.",
+      "Letting your knees cave in.",
+      "Rounding your back as you lower."
+    ],
+    "alternatives": [
+      "Goblet squat with dumbbell.",
+      "Leg press.",
+      "Free squat without box (if you control the technique)."
+    ],
+    "_firma": "8ce672f18bc3"
+  },
+  "bulgarian-split-squat": {
+    "mistakes": [
+      "Placing your front foot too close to the bench.",
+      "Putting weight on your back leg.",
+      "Losing balance by looking at the ground."
+    ],
+    "alternatives": [
+      "Regular lunges.",
+      "Assisted single-leg squat.",
+      "Single-leg press."
+    ],
+    "_firma": "d79ffe4353af"
+  },
+  "burpees": {
+    "mistakes": [
+      "Letting your hips sag during the push-up.",
+      "Landing with your knees caving in.",
+      "Chaining repetitions without control when you're already tired."
+    ],
+    "alternatives": [
+      "Burpee without push-up or jump.",
+      "Mountain climbers.",
+      "Jumping jacks."
+    ],
+    "_firma": "6a390453624c"
+  },
+  "butterflies": {
+    "mistakes": [
+      "Opening too far back (overstretching the shoulder).",
+      "Using momentum or dropping the weight as you open.",
+      "Shrugging your shoulders towards your ears."
+    ],
+    "alternatives": [
+      "Dumbbell fly on bench.",
+      "Chest press on machine.",
+      "Cable crossover."
+    ],
+    "_firma": "e285d013041f"
+  },
+  "cable-chest-press": {
+    "mistakes": [
+      "Pushing your shoulder too far forward at the end.",
+      "Arching your lower back.",
+      "Positioning yourself so far back that the cable pulls you backward."
+    ],
+    "alternatives": [
+      "Chest press machine.",
+      "Dumbbell press.",
+      "Push-ups."
+    ],
+    "_firma": "6501af711a6d"
+  },
+  "cable-crossover": {
+    "mistakes": [
+      "Bending your elbows to assist.",
+      "Opening too far back and straining your shoulder.",
+      "Using momentum with your torso."
+    ],
+    "alternatives": [
+      "Pec deck.",
+      "Dumbbell flyes.",
+      "Low-to-high cable crossover."
+    ],
+    "_firma": "d9a67787ec9a"
+  },
+  "cable-crunch": {
+    "mistakes": [
+      "Hinging at the hips instead of curling the spine.",
+      "Pulling with your arms.",
+      "Moving your hips back and forth."
+    ],
+    "alternatives": [
+      "Floor crunch.",
+      "Ab wheel rollout.",
+      "Hanging leg raise."
+    ],
+    "_firma": "4e082120e645"
+  },
+  "cable-curl": {
+    "mistakes": [
+      "Pushing your elbows forward at the end of the movement.",
+      "Leaning back to lift the weight.",
+      "Releasing abruptly on the way down."
+    ],
+    "alternatives": [
+      "Barbell curl.",
+      "Dumbbell curl.",
+      "Preacher curl."
+    ],
+    "_firma": "b91d6d326b68"
+  },
+  "cable-front-raise": {
+    "mistakes": [
+      "Lifting above eye level.",
+      "Swinging for momentum.",
+      "Bending your elbow to assist."
+    ],
+    "alternatives": [
+      "Dumbbell front raise.",
+      "Shoulder press.",
+      "Cable lateral raises."
+    ],
+    "_firma": "37eb4d14bb39"
+  },
+  "cable-glute-kickback": {
+    "mistakes": [
+      "Arching your lower back to lift your leg higher.",
+      "Rotating your hip outward.",
+      "Releasing abruptly on the return."
+    ],
+    "alternatives": [
+      "Quadruped glute kickback without weight.",
+      "Hip thrust.",
+      "Single-leg bridge."
+    ],
+    "_firma": "f673bfce5186"
+  },
+  "cable-hip-abduction": {
+    "mistakes": [
+      "Leaning your torso to the opposite side to increase range.",
+      "Turning your toe outward.",
+      "Releasing abruptly when closing."
+    ],
+    "alternatives": [
+      "Machine hip abduction.",
+      "Side-lying abduction.",
+      "Resistance band above the knees."
+    ],
+    "_firma": "c55b42deb411"
+  },
+  "cable-lateral-raises": {
+    "mistakes": [
+      "Lifting your arm above shoulder height.",
+      "Using body momentum.",
+      "Twisting your wrist upwards at the end."
+    ],
+    "alternatives": [
+      "Dumbbell lateral raises.",
+      "Machine lateral raises.",
+      "Rear delt flyes if targeting the back of the shoulder."
+    ],
+    "_firma": "cfa40ca7a0e2"
+  },
+  "cable-overhead-triceps-extension": {
+    "mistakes": [
+      "Flaring your elbows out.",
+      "Arching your lower back to move the weight back.",
+      "Moving your shoulders with each repetition."
+    ],
+    "alternatives": [
+      "Overhead dumbbell extension.",
+      "Front cable triceps extension.",
+      "French press."
+    ],
+    "_firma": "d7d5ec2ce910"
+  },
+  "cable-pullover": {
+    "mistakes": [
+      "Bending your elbows and turning it into a row.",
+      "Pulling with your lower back instead of your lats.",
+      "Letting the weight lift your shoulders as you return."
+    ],
+    "alternatives": [
+      "Dumbbell pullover.",
+      "Lat pulldown.",
+      "Cable row."
+    ],
+    "_firma": "f895427c6aa2"
+  },
+  "cable-shoulder-press": {
+    "mistakes": [
+      "Arching your lower back to push.",
+      "Standing too far from the cable machine and leaning forward.",
+      "Locking your elbows abruptly at the top."
+    ],
+    "alternatives": [
+      "Dumbbell shoulder press.",
+      "Machine shoulder press.",
+      "Barbell military press."
+    ],
+    "_firma": "63bf0f2e437f"
+  },
+  "cable-squat": {
+    "mistakes": [
+      "Letting the cable pull you forward.",
+      "Lifting your heels.",
+      "Lowering only a few inches."
+    ],
+    "alternatives": [
+      "Goblet squat.",
+      "Leg press.",
+      "Bodyweight squat."
+    ],
+    "_firma": "b81a569c60fd"
+  },
+  "cable-upright-row": {
+    "mistakes": [
+      "Raising your elbows too far above your shoulders.",
+      "Stepping away from the cable and pulling diagonally.",
+      "Shrugging your shoulders at the end."
+    ],
+    "alternatives": [
+      "Cable lateral raises.",
+      "Face pull.",
+      "Wide-grip barbell upright row."
+    ],
+    "_firma": "eac508bef590"
+  },
+  "cable-woodchopper": {
+    "mistakes": [
+      "Rotating with your arms instead of your torso.",
+      "Moving your hips instead of keeping them stable.",
+      "Using so much weight that it pulls you."
+    ],
+    "alternatives": [
+      "Pallof press.",
+      "Russian twist.",
+      "Side plank."
+    ],
+    "_firma": "c6abd821b361"
+  },
+  "calf-stretch-wall": {
+    "mistakes": [
+      "Lifting your back heel.",
+      "Bending your back knee: stops stretching the calf.",
+      "Bouncing instead of holding the position."
+    ],
+    "alternatives": [
+      "Calf stretch from a step.",
+      "Ankle dorsiflexion on wall.",
+      "Same stretch with slightly bent knee, for the soleus."
+    ],
+    "_firma": "651998225422"
+  },
+  "cat-cow": {
+    "mistakes": [
+      "Moving only your lower back instead of your entire spine.",
+      "Jerking the movement.",
+      "Locking your elbows forcefully."
+    ],
+    "alternatives": [
+      "Quadruped thoracic rotation.",
+      "Thoracic extension on bench.",
+      "Cobra stretch."
+    ],
+    "_firma": "e82b834acf66"
+  },
+  "chest-dips": {
+    "mistakes": [
+      "Lowering more than your shoulder can handle.",
+      "Staying vertical: for chest, lean your torso forward.",
+      "Shrugging your shoulders as you lower."
+    ],
+    "alternatives": [
+      "Assisted dip machine.",
+      "Decline bench press.",
+      "Feet-elevated push-ups."
+    ],
+    "_firma": "da1eb6d1099d"
+  },
+  "chest-pulldown": {
+    "mistakes": [
+      "Leaning too far back and pulling with momentum.",
+      "Bringing the bar behind your neck.",
+      "Pulling only with your arms without squeezing your shoulder blades together."
+    ],
+    "alternatives": [
+      "Assisted pull-ups (with band or negatives if needed).",
+      "Dumbbell pullover lying on a bench.",
+      "Pulldown on any high cable machine with a neutral grip or triangle handle."
+    ],
+    "_firma": "80f5ba4c819c"
+  },
+  "chin-tuck": {
+    "mistakes": [
+      "Dropping your chin to your chest instead of sliding your head back.",
+      "Shrugging your shoulders.",
+      "Using jerky movements."
+    ],
+    "alternatives": [
+      "The same movement lying on your back.",
+      "Wall angels.",
+      "Thoracic extension on a bench."
+    ],
+    "_firma": "175b5641364d"
+  },
+  "close-grip-bench-press": {
+    "mistakes": [
+      "Bringing your hands so close together that your wrists bear the load.",
+      "Flaring your elbows out.",
+      "Bouncing the barbell off your chest."
+    ],
+    "alternatives": [
+      "French press.",
+      "Tricep extension on cable machine.",
+      "Machine dips."
+    ],
+    "_firma": "cb46c4a51ace"
+  },
+  "close-grip-chest-pulldown": {
+    "mistakes": [
+      "Leaning too far back and pulling with momentum.",
+      "Bringing the bar behind your neck.",
+      "Pulling only with your arms without squeezing your shoulder blades."
+    ],
+    "alternatives": [
+      "Assisted pull-ups (with band or negatives if needed).",
+      "Dumbbell pullover lying on a bench.",
+      "Pulldown on any high cable machine with a neutral handle or triangle."
+    ],
+    "_firma": "80f5ba4c819c"
+  },
+  "cobra-stretch": {
+    "mistakes": [
+      "Pushing with your arms to force your lower back.",
+      "Shrugging your shoulders towards your ears.",
+      "Lifting your hips off the floor."
+    ],
+    "alternatives": [
+      "Forearm extension (sphinx).",
+      "Cat-cow.",
+      "Thoracic extension on bench."
+    ],
+    "_firma": "4aa445152de3"
+  },
+  "concentration-curl": {
+    "mistakes": [
+      "Swinging your arm by resting it on your thigh.",
+      "Twisting your torso to assist.",
+      "Raising your shoulder instead of flexing only the elbow."
+    ],
+    "alternatives": [
+      "Preacher curl.",
+      "Alternating dumbbell curl.",
+      "Single-arm low cable curl."
+    ],
+    "_firma": "a9e270add720"
+  },
+  "crunch": {
+    "mistakes": [
+      "Pulling your neck with your hands.",
+      "Lifting your entire torso: only your shoulder blades should lift.",
+      "Using your arms for momentum."
+    ],
+    "alternatives": [
+      "Crunch with legs elevated.",
+      "Dead bug.",
+      "Plank."
+    ],
+    "_firma": "d0243c919f26"
+  },
+  "dead-bug": {
+    "mistakes": [
+      "Arching your lower back: it should stay flat on the floor at all times.",
+      "Going fast or using momentum instead of a slow, controlled movement.",
+      "Holding your breath (exhale as you extend arm and leg)."
+    ],
+    "alternatives": [
+      "Dead bug with legs only (arms still) if coordination is difficult.",
+      "Bird dog (on all fours, extend opposite arm and leg).",
+      "Front plank if you prefer an isometric exercise."
+    ],
+    "_firma": "38fc62f25a2f"
+  },
+  "dead-hang": {
+    "mistakes": [
+      "Hanging with your shoulders shrugged up to your ears the whole time.",
+      "Gripping the bar so tightly that only your forearm holds you up.",
+      "Swinging."
+    ],
+    "alternatives": [
+      "Hanging with your feet supported to reduce weight.",
+      "Lat pulldown.",
+      "Inverted row."
+    ],
+    "_firma": "f38e3eb9d824"
+  },
+  "deadlift": {
+    "mistakes": [
+      "Rounding your lower back as you lift.",
+      "Letting the bar drift away from your body.",
+      "Pulling with your arms instead of pushing the floor with your legs."
+    ],
+    "alternatives": [
+      "Romanian deadlift with dumbbells.",
+      "Hip hinge with a stick to learn the pattern.",
+      "Hip thrust if your back hurts."
+    ],
+    "_firma": "4cc1629e29be"
+  },
+  "decline-bench-press": {
+    "mistakes": [
+      "Lowering the bar too high, towards the sternum.",
+      "Bouncing the bar.",
+      "Releasing your legs from the anchor and slipping."
+    ],
+    "alternatives": [
+      "Flat bench press.",
+      "Dips on parallel bars.",
+      "Chest press on machine."
+    ],
+    "_firma": "4b0173af0e39"
+  },
+  "deep-squat-hold": {
+    "mistakes": [
+      "Lifting your heels.",
+      "Dropping your chest towards the floor.",
+      "Holding your breath."
+    ],
+    "alternatives": [
+      "Deep squat holding onto a support.",
+      "Placing a plate under your heels.",
+      "Box squat."
+    ],
+    "_firma": "c5c7a49413f7"
+  },
+  "diamond-push-up": {
+    "mistakes": [
+      "Flaring your elbows out.",
+      "Letting your hips sag.",
+      "Lowering only halfway."
+    ],
+    "alternatives": [
+      "Diamond push-up with elevated hands.",
+      "Tricep extension on cable machine.",
+      "Tricep dips on bench."
+    ],
+    "_firma": "1d1d569763dc"
+  },
+  "dips-machine": {
+    "mistakes": [
+      "Flaring your elbows out too much.",
+      "Lowering too quickly without control.",
+      "Using a weight that forces you to cheat with your body."
+    ],
+    "alternatives": [
+      "Tricep rope extension on cable machine.",
+      "Bench dips.",
+      "Close grip dumbbell press."
+    ],
+    "_firma": "b29d48c19f27"
+  },
+  "doorway-chest-stretch": {
+    "mistakes": [
+      "Placing your elbow higher than your shoulder.",
+      "Twisting your body abruptly.",
+      "Arching your lower back to gain stretch."
+    ],
+    "alternatives": [
+      "Lying chest opener (open book).",
+      "Same stretch with arm extended on the wall.",
+      "Wall angels."
+    ],
+    "_firma": "563cb3e2c3d8"
+  },
+  "dragon-flag": {
+    "mistakes": [
+      "Bending at the hips and turning it into a leg raise.",
+      "Dropping your body suddenly on the way down.",
+      "Straining your neck instead of gripping the bench securely."
+    ],
+    "alternatives": [
+      "Dragon flag with bent knees.",
+      "Lying leg raise.",
+      "Hollow hold."
+    ],
+    "_firma": "6b7bc1f70220"
+  },
+  "dumbbell-bench-press": {
+    "mistakes": [
+      "Banging the dumbbells together at the top and losing tension.",
+      "Lowering your elbows behind the line of your body.",
+      "Lifting your glutes off the bench."
+    ],
+    "alternatives": [
+      "Barbell bench press.",
+      "Chest press machine.",
+      "Push-ups."
+    ],
+    "_firma": "e07595be8c88"
+  },
+  "dumbbell-flyes": {
+    "mistakes": [
+      "Bending and straightening your elbows: this is not a press.",
+      "Lowering so much that your shoulder is strained.",
+      "Using dumbbells that are too heavy."
+    ],
+    "alternatives": [
+      "Pec deck.",
+      "Cable crossover.",
+      "Dumbbell chest press."
+    ],
+    "_firma": "db20b94378a6"
+  },
+  "dumbbell-hammer-biceps-curl": {
+    "mistakes": [
+      "Swinging your body to lift the weight.",
+      "Moving your elbow forward instead of keeping it fixed.",
+      "Lowering the weight without control."
+    ],
+    "alternatives": [
+      "Low cable curl with bar.",
+      "Preacher curl or curl machine.",
+      "EZ bar curl."
+    ],
+    "_firma": "35867af0671a"
+  },
+  "dumbbell-lateral-raises": {
+    "mistakes": [
+      "Using too much weight and swinging your body.",
+      "Shrugging your shoulders towards your ears (engaging the traps).",
+      "Raising above shoulder level."
+    ],
+    "alternatives": [
+      "Single-arm cable lateral raises.",
+      "Lateral raises on a specific machine.",
+      "Do them seated for more stability."
+    ],
+    "_firma": "042cb24fa346"
+  },
+  "dumbbell-lunges": {
+    "mistakes": [
+      "Taking too short a step and loading your knee.",
+      "Leaning your torso forward.",
+      "Banging the ground with your back knee."
+    ],
+    "alternatives": [
+      "Bodyweight lunges.",
+      "Bulgarian split squat.",
+      "Single-leg leg press."
+    ],
+    "_firma": "184592417ba4"
+  },
+  "dumbbell-pullover": {
+    "mistakes": [
+      "Bending your elbows and turning it into a press.",
+      "Arching your lower back as you bring the weight back.",
+      "Lowering more than your shoulder can handle."
+    ],
+    "alternatives": [
+      "Cable pullover.",
+      "Straight-arm pulldown.",
+      "Lat pulldown."
+    ],
+    "_firma": "1a6ed35939c6"
+  },
+  "dumbbell-row": {
+    "mistakes": [
+      "Rotating your torso to lift the dumbbell higher.",
+      "Pulling only with your arm, without moving your shoulder blade back.",
+      "Rounding your back."
+    ],
+    "alternatives": [
+      "Seated cable row.",
+      "Machine row.",
+      "Inverted row with low bar."
+    ],
+    "_firma": "5b370dfa47dd"
+  },
+  "dumbbell-shrug": {
+    "mistakes": [
+      "Making circles with your shoulders.",
+      "Bending your elbows.",
+      "Not reaching the top."
+    ],
+    "alternatives": [
+      "Barbell shrugs.",
+      "Cable shrugs.",
+      "Face pull."
+    ],
+    "_firma": "a79aa18b3251"
+  },
+  "dumbbell-wrist-curl-over-bench": {
+    "mistakes": [
+      "Lifting your forearms off the bench.",
+      "Using a short range of motion without letting the dumbbell roll to your fingers.",
+      "Loading too much weight and pulling with your elbow."
+    ],
+    "alternatives": [
+      "Seated barbell wrist curl.",
+      "Barbell wrist curl over bench.",
+      "Reverse wrist curl."
+    ],
+    "_firma": "eb674065ce20"
+  },
+  "elliptical": {
+    "mistakes": [
+      "Putting all your weight on your arms.",
+      "Hunching over the console.",
+      "Going so fast that you lose control of the pedaling."
+    ],
+    "alternatives": [
+      "Treadmill.",
+      "Stationary bike.",
+      "Rowing if you want to engage your back more."
+    ],
+    "_firma": "4fa6d69e8d82"
+  },
+  "face-pull": {
+    "mistakes": [
+      "Using too much weight and pulling with your whole body.",
+      "Dropping your elbows (turns into a row).",
+      "Not spreading your hands at the end."
+    ],
+    "alternatives": [
+      "Bent-over rear delt fly with dumbbells.",
+      "Face pull with resistance band.",
+      "Cable high pull."
+    ],
+    "_firma": "e6654d16424b"
+  },
+  "farmers-walk": {
+    "mistakes": [
+      "Leaning towards the weighted side.",
+      "Shrugging the loaded shoulder.",
+      "Taking long steps and losing posture."
+    ],
+    "alternatives": [
+      "Loaded carry with both hands.",
+      "Side plank.",
+      "Pallof press."
+    ],
+    "_firma": "22631ddad3ce"
+  },
+  "figure-4-stretch": {
+    "mistakes": [
+      "Lifting your head and shoulders off the floor.",
+      "Pulling on your foot instead of your thigh.",
+      "Forcing until it pinches."
+    ],
+    "alternatives": [
+      "The same stretch seated in a chair.",
+      "90/90 hip position.",
+      "Standing glute stretch crossing the leg."
+    ],
+    "_firma": "60ad40c434f5"
+  },
+  "front-raise": {
+    "mistakes": [
+      "Lifting above eye level.",
+      "Swinging your torso.",
+      "Shrugging your shoulders as you lift."
+    ],
+    "alternatives": [
+      "Cable front raise.",
+      "Shoulder press.",
+      "Lateral raises."
+    ],
+    "_firma": "daee88cd4614"
+  },
+  "front-squat": {
+    "mistakes": [
+      "Dropping your elbows and losing the bar forward.",
+      "Rounding your upper back.",
+      "Lifting your heels."
+    ],
+    "alternatives": [
+      "Goblet squat.",
+      "Back squat.",
+      "Leg press."
+    ],
+    "_firma": "1014d81e7db3"
+  },
+  "glute-bridge": {
+    "mistakes": [
+      "Pushing with your lower back and arching your back up.",
+      "Letting your knees spread or come together as you lift.",
+      "Placing your feet too far away: then your hamstrings do the work."
+    ],
+    "alternatives": [
+      "Barbell or machine hip thrust.",
+      "Single-leg bridge.",
+      "Cable glute kickback."
+    ],
+    "_firma": "337729655c81"
+  },
+  "goblet-squats": {
+    "mistakes": [
+      "Rounding your back or leaning forward.",
+      "Letting your knees collapse inward.",
+      "Lifting your heels off the ground."
+    ],
+    "alternatives": [
+      "Hack or Smith machine squat.",
+      "Leg press.",
+      "Box squat."
+    ],
+    "_firma": "513e162df8fe"
+  },
+  "good-morning": {
+    "mistakes": [
+      "Bending your knees as in a squat.",
+      "Rounding your back.",
+      "Loading too much weight on an exercise that requires little."
+    ],
+    "alternatives": [
+      "Hip hinge with a stick.",
+      "Romanian deadlift.",
+      "Hyperextensions."
+    ],
+    "_firma": "bd8c45273411"
+  },
+  "hack-squat": {
+    "mistakes": [
+      "Lowering so much that your hips lift off the backrest.",
+      "Placing your feet too low and straining your knee.",
+      "Locking your knees abruptly at the top."
+    ],
+    "alternatives": [
+      "Leg press.",
+      "Goblet squat.",
+      "Barbell squat."
+    ],
+    "_firma": "bd5f67826334"
+  },
+  "hanging-leg-raise": {
+    "mistakes": [
+      "Swinging to lift your legs.",
+      "Bending at the hips without engaging your core.",
+      "Letting your legs drop suddenly."
+    ],
+    "alternatives": [
+      "Hanging knee raise.",
+      "Lying leg raise.",
+      "Plank if your grip fails."
+    ],
+    "_firma": "e003d217028b"
+  },
+  "high-knees": {
+    "mistakes": [
+      "Not lifting your knee high enough.",
+      "Leaning your torso back.",
+      "Landing heavily on your heel."
+    ],
+    "alternatives": [
+      "Marching with high knees, not running.",
+      "Mountain climbers.",
+      "Jump rope."
+    ],
+    "_firma": "3ce60e8de805"
+  },
+  "hip-90-90": {
+    "mistakes": [
+      "Rounding your back as you rotate.",
+      "Forcing the rotation with your hands until your knee pinches.",
+      "Leaving the weight on one glute."
+    ],
+    "alternatives": [
+      "Figure 4 glute stretch.",
+      "Sitting cross-legged and bringing your chest forward.",
+      "Hip flexor stretch."
+    ],
+    "_firma": "b087b176b726"
+  },
+  "hip-abduction": {
+    "mistakes": [
+      "Leaning your torso back to open more.",
+      "Letting go abruptly when closing.",
+      "Using so much weight that you only open a few inches."
+    ],
+    "alternatives": [
+      "Cable machine hip abduction.",
+      "Side-lying hip abduction.",
+      "Resistance band above the knees."
+    ],
+    "_firma": "c8cad8b68923"
+  },
+  "hip-adduction": {
+    "mistakes": [
+      "Slamming the weights shut.",
+      "Leaning your torso back.",
+      "Opening so wide at the start that it strains the groin."
+    ],
+    "alternatives": [
+      "Cable machine adductors.",
+      "Sumo squat.",
+      "Side-lying adductor."
+    ],
+    "_firma": "2291e5129b64"
+  },
+  "hip-flexor-stretch": {
+    "mistakes": [
+      "Arching your lower back instead of tucking your pelvis.",
+      "Pushing your front knee past your toes.",
+      "Bouncing."
+    ],
+    "alternatives": [
+      "Same stretch with back foot on a bench.",
+      "Low lunge with rotation.",
+      "Standing quadriceps stretch."
+    ],
+    "_firma": "2c99d5af2239"
+  },
+  "hip-hinge-dowel": {
+    "mistakes": [
+      "Bending your knees like in a squat instead of pushing your hips back.",
+      "Losing contact of the dowel with your upper back or sacrum.",
+      "Lowering more than your mobility allows."
+    ],
+    "alternatives": [
+      "Hip hinge touching the wall with your glutes.",
+      "Light Romanian deadlift.",
+      "Good mornings with an empty barbell."
+    ],
+    "_firma": "35f5ccb4e2f0"
+  },
+  "hollow-hold": {
+    "mistakes": [
+      "Lifting your lower back off the floor: this is the mistake that invalidates it.",
+      "Holding your breath.",
+      "Raising your legs too high to make it easier."
+    ],
+    "alternatives": [
+      "Hollow with bent knees.",
+      "Dead bug.",
+      "Forearm plank."
+    ],
+    "_firma": "a75ae44e69c1"
+  },
+  "hollow-rock": {
+    "mistakes": [
+      "Breaking the banana shape and rocking in segments.",
+      "Using momentum from your arms or legs.",
+      "Hitting your head on the floor when rocking back."
+    ],
+    "alternatives": [
+      "Static hollow hold.",
+      "Hollow rock with bent knees.",
+      "Slow dead bug."
+    ],
+    "_firma": "bc644a380ae4"
+  },
+  "incline-barbell-bench-press": {
+    "mistakes": [
+      "Inclining the bench too much and turning it into a shoulder press.",
+      "Bouncing the bar off your chest.",
+      "Flaring your elbows out wide."
+    ],
+    "alternatives": [
+      "Incline dumbbell press.",
+      "Incline machine press.",
+      "Pec deck."
+    ],
+    "_firma": "6f46f02c3114"
+  },
+  "incline-chest-press-machine": {
+    "mistakes": [
+      "Tilting the bench too much (turns into a shoulder press).",
+      "Pulling your elbows all the way back as you lower.",
+      "Using momentum instead of controlling the weight."
+    ],
+    "alternatives": [
+      "Pec deck.",
+      "Incline dumbbell press.",
+      "Flat chest press if no incline bench is available."
+    ],
+    "_firma": "963e9cd487b5"
+  },
+  "incline-dumbbell-curl": {
+    "mistakes": [
+      "Bringing your shoulder forward to help.",
+      "Not fully extending at the bottom: that's exactly what this exercise offers.",
+      "Setting the bench too reclined and loading the shoulder."
+    ],
+    "alternatives": [
+      "Standing bicep curl.",
+      "Preacher bench curl.",
+      "Low cable curl."
+    ],
+    "_firma": "31ef210f46d5"
+  },
+  "incline-dumbbell-press": {
+    "mistakes": [
+      "Inclining the bench too much and turning it into a shoulder press.",
+      "Banging the dumbbells together at the top and losing tension.",
+      "Lowering your elbows behind the line of your body."
+    ],
+    "alternatives": [
+      "Incline machine press.",
+      "Flat dumbbell chest press.",
+      "Pec deck."
+    ],
+    "_firma": "00fbf8fd21f6"
+  },
+  "inverted-row": {
+    "mistakes": [
+      "Letting your hips drop.",
+      "Pulling only with your arms without squeezing your shoulder blades.",
+      "Setting the bar so high that there's almost no range of motion."
+    ],
+    "alternatives": [
+      "Seated cable row.",
+      "Dumbbell row.",
+      "Inverted row with bent knees to reduce weight."
+    ],
+    "_firma": "fb63da974898"
+  },
+  "jump-rope": {
+    "mistakes": [
+      "Jumping too high.",
+      "Rotating with your whole arm instead of your wrist.",
+      "Landing with stiff legs."
+    ],
+    "alternatives": [
+      "Rope-less jumps in place.",
+      "High knees.",
+      "Jumping jacks."
+    ],
+    "_firma": "c633626db4b7"
+  },
+  "jumping-jacks": {
+    "mistakes": [
+      "Landing with stiff knees.",
+      "Not fully extending your arms overhead.",
+      "Losing rhythm and ending up with uneven jumps."
+    ],
+    "alternatives": [
+      "Low-impact jumping jacks, stepping out one foot at a time.",
+      "High knees.",
+      "Jump rope."
+    ],
+    "_firma": "422b3cc410bc"
+  },
+  "leg-press": {
+    "mistakes": [
+      "Lowering so much that your hips/lower back lift off the seat.",
+      "Locking your knees abruptly at the top.",
+      "Placing your feet too low (excessive load on knees)."
+    ],
+    "alternatives": [
+      "Goblet squat with dumbbell.",
+      "Squat on Smith machine or hack squat.",
+      "Lunges with dumbbells."
+    ],
+    "_firma": "e08f71d8f941"
+  },
+  "legs-up-crunch": {
+    "mistakes": [
+      "Swinging your legs to lift.",
+      "Pulling on your neck.",
+      "Lifting your lower back off the floor."
+    ],
+    "alternatives": [
+      "Standard crunch.",
+      "Lying leg raise.",
+      "Dead bug."
+    ],
+    "_firma": "2676dfe35120"
+  },
+  "low-cable-fly": {
+    "mistakes": [
+      "Bending your elbows and turning it into a press.",
+      "Raising your hands above your shoulders.",
+      "Shrugging your shoulders as you bring them together."
+    ],
+    "alternatives": [
+      "Classic cable crossover.",
+      "Pec deck.",
+      "Incline bench dumbbell flyes."
+    ],
+    "_firma": "517a220d845a"
+  },
+  "low-lunge-rotation": {
+    "mistakes": [
+      "Rotating from the hip instead of the upper back.",
+      "Dropping your chest to the floor.",
+      "Jerking movements."
+    ],
+    "alternatives": [
+      "Quadruped thoracic rotation.",
+      "Lying chest opener (open book).",
+      "Low lunge without rotation."
+    ],
+    "_firma": "e265cd2fb6c0"
+  },
+  "lying-leg-curls": {
+    "mistakes": [
+      "Lifting your hips to help you.",
+      "Doing a short range of motion.",
+      "Dropping the weight suddenly."
+    ],
+    "alternatives": [
+      "Dumbbell leg curl between feet (lying).",
+      "Romanian deadlift with dumbbells (proper form).",
+      "Assisted Nordic curl."
+    ],
+    "_firma": "a4ed9a26638d"
+  },
+  "lying-leg-raise": {
+    "mistakes": [
+      "Lifting your lower back off the floor as you lower your legs.",
+      "Letting your legs drop suddenly.",
+      "Pulling your neck with your hands."
+    ],
+    "alternatives": [
+      "Knee-bent leg raise.",
+      "Dead bug.",
+      "Hanging leg raise if you master the control."
+    ],
+    "_firma": "c5b120ab84c7"
+  },
+  "machine-hip-thrust": {
+    "mistakes": [
+      "Arching your lower back instead of squeezing your glutes.",
+      "Using a short range of motion.",
+      "Misplacing the pad: it should be over your hips."
+    ],
+    "alternatives": [
+      "Barbell hip thrust.",
+      "Floor glute bridge.",
+      "Cable glute kickback."
+    ],
+    "_firma": "ecf6dcb1acfa"
+  },
+  "machine-shoulder-press": {
+    "mistakes": [
+      "Overarching your back as you press.",
+      "Lowering too little (not reaching ear level).",
+      "Using leg/torso momentum to press."
+    ],
+    "alternatives": [
+      "Seated dumbbell military press.",
+      "Shoulder press on cable machine.",
+      "Lateral raises if no press available."
+    ],
+    "_firma": "42b940097df5"
+  },
+  "mountain-climbers": {
+    "mistakes": [
+      "Raising your hips with each knee.",
+      "Dropping your lower back.",
+      "Placing your hands in front of your shoulders."
+    ],
+    "alternatives": [
+      "Slow climbers, no jumping.",
+      "Plank.",
+      "Standing high knees."
+    ],
+    "_firma": "711a869539ca"
+  },
+  "neutral-grip-pulldown": {
+    "mistakes": [
+      "Leaning too far back.",
+      "Pulling only with your arms without squeezing your shoulder blades.",
+      "Letting go abruptly on the way up."
+    ],
+    "alternatives": [
+      "Wide-grip pulldown.",
+      "Assisted neutral-grip pull-up.",
+      "Cable row."
+    ],
+    "_firma": "c6d23bd8df4d"
+  },
+  "nordic-curl": {
+    "mistakes": [
+      "Bending at the hip and lowering in one block.",
+      "Dropping suddenly without control.",
+      "Starting without assistance when you haven't mastered the descent."
+    ],
+    "alternatives": [
+      "Nordic curl using your hands for assistance.",
+      "Lying leg curl.",
+      "Romanian deadlift."
+    ],
+    "_firma": "9c4f4e5f5bb2"
+  },
+  "open-book-stretch": {
+    "mistakes": [
+      "Letting your knees lift off the floor as you open.",
+      "Forcing your arm until it strains your shoulder.",
+      "Holding your breath."
+    ],
+    "alternatives": [
+      "Quadruped thoracic rotation.",
+      "Thoracic extension on a bench.",
+      "Seated chair twist."
+    ],
+    "_firma": "787d152803c1"
+  },
+  "overhead-triceps-extension": {
+    "mistakes": [
+      "Flaring your elbows out.",
+      "Arching your lower back to move the weight back.",
+      "Lowering so much that your shoulder dislocates."
+    ],
+    "alternatives": [
+      "Cable triceps extension.",
+      "Lying French press.",
+      "Bench triceps dips."
+    ],
+    "_firma": "4b126c45076b"
+  },
+  "pallof-press": {
+    "mistakes": [
+      "Letting the cable rotate your torso as you extend your arms.",
+      "Shifting your feet to compensate.",
+      "Loading so much weight that you only hold with your arms."
+    ],
+    "alternatives": [
+      "Band Pallof press.",
+      "Side plank.",
+      "Single-arm farmer's walk."
+    ],
+    "_firma": "0434e8dc06ae"
+  },
+  "plank": {
+    "mistakes": [
+      "Raising your butt or sinking your hips.",
+      "Holding your breath.",
+      "Dropping your head or looking forward straining your neck."
+    ],
+    "alternatives": [
+      "Knee plank (easier).",
+      "High plank (on hands).",
+      "Dead bug or hypopressive abs."
+    ],
+    "_firma": "c4c97779dad2"
+  },
+  "preacher-curl": {
+    "mistakes": [
+      "Lifting your elbows off the bench to gain momentum.",
+      "Not fully extending at the bottom.",
+      "Letting the weight drop on the descent."
+    ],
+    "alternatives": [
+      "Incline dumbbell curl.",
+      "Standing EZ bar curl.",
+      "Low cable curl."
+    ],
+    "_firma": "11c80f859363"
+  },
+  "pull-ups": {
+    "mistakes": [
+      "Kicking to get up.",
+      "Not fully extending at the bottom.",
+      "Shrugging your shoulders when hanging."
+    ],
+    "alternatives": [
+      "Assisted pull-up with machine or band.",
+      "Negatives: use assistance to go up and lower in five seconds.",
+      "Lat pulldown."
+    ],
+    "_firma": "cd2b18a999cd"
+  },
+  "push-ups": {
+    "mistakes": [
+      "Letting your hips sag.",
+      "Flaring your elbows out.",
+      "Lowering only a few inches."
+    ],
+    "alternatives": [
+      "Incline push-ups on a bench.",
+      "Knee push-ups.",
+      "Chest press on machine."
+    ],
+    "_firma": "157fd599cd15"
+  },
+  "quadruped-thoracic-rotation": {
+    "mistakes": [
+      "Rotating your hip instead of your upper back.",
+      "Dropping your supporting elbow.",
+      "Going fast."
+    ],
+    "alternatives": [
+      "Open book stretch.",
+      "Thoracic extension on a bench.",
+      "Seated chair twist."
+    ],
+    "_firma": "07d3254ee1e8"
+  },
+  "reverse-fly": {
+    "mistakes": [
+      "Raising your arms above shoulder level.",
+      "Using momentum from your torso.",
+      "Extending your elbows so much that you engage your biceps."
+    ],
+    "alternatives": [
+      "Face pull on cable machine.",
+      "Machine reverse fly.",
+      "High row with dumbbells."
+    ],
+    "_firma": "5962d7ba827c"
+  },
+  "romanian-deadlift": {
+    "mistakes": [
+      "Bending your knees like in a squat.",
+      "Rounding your back as you lower.",
+      "Keeping the barbell or dumbbells away from your body."
+    ],
+    "alternatives": [
+      "Hip hinge with a stick.",
+      "Good mornings with an empty barbell.",
+      "Leg curl if your back hurts."
+    ],
+    "_firma": "6a2b361d08f8"
+  },
+  "rowing-machine": {
+    "mistakes": [
+      "Pulling with your arms before pushing with your legs.",
+      "Rounding your back as you move forward.",
+      "Pulling the handle towards your face instead of your abdomen."
+    ],
+    "alternatives": [
+      "Ski machine.",
+      "Air bike.",
+      "Cable row if you're looking for strength instead of cardio."
+    ],
+    "_firma": "afddaace4cbd"
+  },
+  "russian-twist": {
+    "mistakes": [
+      "Moving only your arms and not your torso.",
+      "Rounding your back.",
+      "Going fast and losing control of the weight."
+    ],
+    "alternatives": [
+      "Pallof press.",
+      "Cable woodchopper.",
+      "Side plank."
+    ],
+    "_firma": "a2073a45787f"
+  },
+  "scissor-kicks": {
+    "mistakes": [
+      "Lifting your lower back off the floor.",
+      "Raising your legs too high and losing abdominal tension.",
+      "Holding your breath."
+    ],
+    "alternatives": [
+      "Scissors with slightly bent knees.",
+      "Dead bug.",
+      "Lying leg raise."
+    ],
+    "_firma": "5b9308e982ba"
+  },
+  "seated-barbell-wrist-curl": {
+    "mistakes": [
+      "Lifting your forearms off your thighs.",
+      "Doing half reps: open your hand at the bottom and close at the top.",
+      "Using so much weight that your elbows strain."
+    ],
+    "alternatives": [
+      "Dumbbell wrist curl.",
+      "Wrist curl on a bench.",
+      "Behind-the-back barbell wrist curl."
+    ],
+    "_firma": "281b5c0b2048"
+  },
+  "seated-cable-back-rows": {
+    "mistakes": [
+      "Swinging your torso back to move the weight.",
+      "Rounding your back as you extend your arms.",
+      "Shrugging your shoulders towards your ears."
+    ],
+    "alternatives": [
+      "Bent-over barbell row.",
+      "One-arm dumbbell row with knee on bench.",
+      "Low cable row with triangle handle."
+    ],
+    "_firma": "6d42a44ac8a0"
+  },
+  "seated-calf-raises": {
+    "mistakes": [
+      "Bouncing quickly without control.",
+      "Using a short range of motion (not stretching down or going all the way up).",
+      "Bending your knees too much (in the standing version)."
+    ],
+    "alternatives": [
+      "Standing calf raise with dumbbell in hand.",
+      "Calf press on leg press machine (pushing with the toes).",
+      "Single-leg on a step."
+    ],
+    "_firma": "7f0e5fe5b0a2"
+  },
+  "seated-chest-press": {
+    "mistakes": [
+      "Dropping the weight abruptly instead of controlling the return.",
+      "Lifting your back off the seat or excessively arching your lower back.",
+      "Locking your elbows abruptly at the end of the press."
+    ],
+    "alternatives": [
+      "Pec deck or machine fly.",
+      "Flat bench dumbbell press.",
+      "Push-ups (if no machine is available)."
+    ],
+    "_firma": "2c584c541450"
+  },
+  "seated-dumbbell-overhead-shoulder-press": {
+    "mistakes": [
+      "Overarching your back as you press.",
+      "Lowering with a short range of motion (not reaching ear level).",
+      "Using leg/torso momentum to push."
+    ],
+    "alternatives": [
+      "Seated dumbbell military press.",
+      "Shoulder press on cable machine.",
+      "Lateral raises if no press available."
+    ],
+    "_firma": "42b940097df5"
+  },
+  "seated-forward-fold": {
+    "mistakes": [
+      "Rounding your back to reach your feet.",
+      "Unintentionally bending your knees.",
+      "Bouncing."
+    ],
+    "alternatives": [
+      "Same stretch with a strap around your feet.",
+      "Lying hamstring stretch.",
+      "Standing hamstring stretch with foot on a bench."
+    ],
+    "_firma": "50765fba5528"
+  },
+  "seated-leg-curl": {
+    "mistakes": [
+      "Lifting your hips to help you.",
+      "Doing a short range of motion.",
+      "Dropping the weight suddenly."
+    ],
+    "alternatives": [
+      "Dumbbell leg curl between feet (lying).",
+      "Romanian deadlift with dumbbells (focus on form).",
+      "Assisted Nordic curl."
+    ],
+    "_firma": "a4ed9a26638d"
+  },
+  "seated-leg-extensions": {
+    "mistakes": [
+      "Dropping the weight suddenly on the descent.",
+      "Using momentum by lifting your body.",
+      "Loading so much that you only do half the range of motion."
+    ],
+    "alternatives": [
+      "Goblet squat.",
+      "Lunges or Bulgarian split squat.",
+      "Leg press with low foot placement."
+    ],
+    "_firma": "7bcfb901978f"
+  },
+  "seated-row-machine": {
+    "mistakes": [
+      "Swinging your torso backward to move the weight.",
+      "Rounding your back as you extend your arms.",
+      "Shrugging your shoulders towards your ears."
+    ],
+    "alternatives": [
+      "Bent-over barbell row.",
+      "One-arm dumbbell row with knee on bench.",
+      "Low pulley row with triangle handle."
+    ],
+    "_firma": "6d42a44ac8a0"
+  },
+  "side-plank": {
+    "mistakes": [
+      "Letting your hip drop towards the floor (breaks body line).",
+      "Placing your elbow forward or backward instead of directly under the shoulder.",
+      "Rotating your torso forward or backward instead of staying side-on."
+    ],
+    "alternatives": [
+      "Side plank with bottom knee down (easier).",
+      "Standard front plank.",
+      "Side hip raises, supported on forearm."
+    ],
+    "_firma": "46c355087c5b"
+  },
+  "side-plank-rotation": {
+    "mistakes": [
+      "Letting your hip drop as you rotate.",
+      "Placing your elbow in front of your shoulder.",
+      "Rotating so quickly that you lose body alignment."
+    ],
+    "alternatives": [
+      "Static side plank.",
+      "Side plank with knees down.",
+      "Pallof press."
+    ],
+    "_firma": "0a5874f63f3c"
+  },
+  "sissy-squat": {
+    "mistakes": [
+      "Letting your hips drop back: here the knees go forward and the hips stay aligned.",
+      "Lowering more than your knees can handle.",
+      "Doing it without support when you haven't mastered balance."
+    ],
+    "alternatives": [
+      "Leg extension on machine.",
+      "Sissy squat holding onto a support.",
+      "Goblet squat."
+    ],
+    "_firma": "a7290f867d46"
+  },
+  "sit-ups": {
+    "mistakes": [
+      "Pulling your neck with your hands.",
+      "Using your arms for momentum.",
+      "Anchoring your feet and pulling with your hip flexors."
+    ],
+    "alternatives": [
+      "Crunch: less range and less lower back.",
+      "Dead bug.",
+      "Plank."
+    ],
+    "_firma": "a8dbea7b2eae"
+  },
+  "ski-erg": {
+    "mistakes": [
+      "Pulling only with your arms without engaging your torso.",
+      "Rounding your back as you lower.",
+      "Locking your knees rigid the whole time."
+    ],
+    "alternatives": [
+      "Rowing (cardio).",
+      "Air bike.",
+      "Straight-arm pulldown on cable machine."
+    ],
+    "_firma": "5fa8419775cc"
+  },
+  "skull-crusher": {
+    "mistakes": [
+      "Flaring your elbows out as you lower.",
+      "Moving your shoulders instead of keeping your arm still and rotating only at the elbow.",
+      "Lowering the bar to your forehead without control."
+    ],
+    "alternatives": [
+      "Tricep extension on cable machine.",
+      "Overhead dumbbell extension.",
+      "Close-grip bench press."
+    ],
+    "_firma": "6a0e9d20d5ce"
+  },
+  "sled-hack-squat": {
+    "mistakes": [
+      "Lifting your hips off the backrest as you lower.",
+      "Locking your knees abruptly at the top.",
+      "Placing your feet too low."
+    ],
+    "alternatives": [
+      "Leg press.",
+      "Vertical hack squat.",
+      "Goblet squat."
+    ],
+    "_firma": "119cb18f8aa0"
+  },
+  "stair-climber": {
+    "mistakes": [
+      "Hanging onto the handrails.",
+      "Stepping on your toes without heel support.",
+      "Leaning your torso too far forward."
+    ],
+    "alternatives": [
+      "Incline treadmill.",
+      "Weighted step-up.",
+      "Elliptical."
+    ],
+    "_firma": "a48fe83e4b54"
+  },
+  "standing-barbell-reverse-wrist-curl": {
+    "mistakes": [
+      "Switching to a supine grip without noticing: here palms face backward.",
+      "Bending your elbows to assist.",
+      "Loading too much weight: here you move very little weight."
+    ],
+    "alternatives": [
+      "Reverse wrist curl on a bench.",
+      "Regular wrist curl.",
+      "Hammer curl for forearms."
+    ],
+    "_firma": "b0b396de57d1"
+  },
+  "standing-calf-raises": {
+    "mistakes": [
+      "Bouncing instead of controlling up and down.",
+      "Not lowering your heel completely.",
+      "Bending your knees to assist."
+    ],
+    "alternatives": [
+      "Seated calf raise.",
+      "Calf raise on leg press.",
+      "Single-leg raise holding onto something."
+    ],
+    "_firma": "229e5413062e"
+  },
+  "stationary-bike": {
+    "mistakes": [
+      "Having the seat too low: knee too bent at the bottom.",
+      "Swaying your hips while pedaling.",
+      "Putting weight on your wrists."
+    ],
+    "alternatives": [
+      "Elliptical.",
+      "Treadmill.",
+      "Air bike if you want to engage your arms."
+    ],
+    "_firma": "59107f629910"
+  },
+  "step-up": {
+    "mistakes": [
+      "Pushing off with your lower leg instead of stepping up with your upper leg.",
+      "Using a box so high that your knee caves inward.",
+      "Dropping down abruptly."
+    ],
+    "alternatives": [
+      "Step-up without weight or with a lower box.",
+      "Lunges.",
+      "Bulgarian split squat."
+    ],
+    "_firma": "4a8a0dde7a9e"
+  },
+  "straight-arm-pulldown": {
+    "mistakes": [
+      "Bending your elbows: then it works the triceps.",
+      "Rounding your back.",
+      "Using so much weight that your body sways."
+    ],
+    "alternatives": [
+      "Cable pullover.",
+      "Dumbbell pullover.",
+      "Lat pulldown."
+    ],
+    "_firma": "5897f840858d"
+  },
+  "sumo-deadlift": {
+    "mistakes": [
+      "Letting your knees cave in.",
+      "Raising your hips before your chest.",
+      "Letting the bar drift away from your body."
+    ],
+    "alternatives": [
+      "Conventional deadlift.",
+      "Romanian deadlift.",
+      "Wide goblet squat."
+    ],
+    "_firma": "45c4b3bc2f43"
+  },
+  "superman": {
+    "mistakes": [
+      "Pulling your head back while looking forward.",
+      "Jerking up.",
+      "Holding your breath."
+    ],
+    "alternatives": [
+      "Bird dog.",
+      "Hyperextensions on bench.",
+      "Glute bridge."
+    ],
+    "_firma": "65912ad017b9"
+  },
+  "supine-hamstring-stretch": {
+    "mistakes": [
+      "Bending the knee of the leg you're stretching.",
+      "Lifting the other leg off the floor.",
+      "Pulling the strap until it pinches."
+    ],
+    "alternatives": [
+      "Seated forward bend.",
+      "Hamstring stretch with foot on a bench.",
+      "Glute stretch (figure 4) if the discomfort is further back."
+    ],
+    "_firma": "6c275ea64a34"
+  },
+  "t-bar-row": {
+    "mistakes": [
+      "Rounding your lower back as you lift.",
+      "Standing up with each rep.",
+      "Flaring your elbows too much."
+    ],
+    "alternatives": [
+      "Barbell row.",
+      "Chest-supported machine row.",
+      "Dumbbell row."
+    ],
+    "_firma": "5498cbe8b755"
+  },
+  "thoracic-extension-bench": {
+    "mistakes": [
+      "Arching your lower back instead of your upper back.",
+      "Pushing your hips forward past your knees.",
+      "Forcing until your shoulder feels uncomfortable."
+    ],
+    "alternatives": [
+      "Foam roller extension.",
+      "Quadruped thoracic rotation.",
+      "Wall angels."
+    ],
+    "_firma": "6118f06658b2"
+  },
+  "treadmill": {
+    "mistakes": [
+      "Holding onto the handrails and unloading your weight.",
+      "Looking at your feet instead of ahead.",
+      "Setting an incline so high that you end up hanging onto the machine."
+    ],
+    "alternatives": [
+      "Walking or running outdoors.",
+      "Elliptical if your knees bother you.",
+      "Stationary bike."
+    ],
+    "_firma": "38e163dff7a3"
+  },
+  "triceps-kickback": {
+    "mistakes": [
+      "Lowering your elbow instead of keeping your arm parallel to the floor.",
+      "Twisting your torso to throw the weight.",
+      "Using a dumbbell so heavy you can't fully extend."
+    ],
+    "alternatives": [
+      "Triceps extension on cable machine.",
+      "Overhead dumbbell extension.",
+      "Triceps dips on bench."
+    ],
+    "_firma": "4262b0cd8516"
+  },
+  "triceps-pushdown": {
+    "mistakes": [
+      "Lifting your elbows away from your body and using your shoulder.",
+      "Leaning over the cable machine to push with your body weight.",
+      "Not fully extending your elbow at the bottom."
+    ],
+    "alternatives": [
+      "Dumbbell or EZ bar French press.",
+      "Overhead triceps extension with dumbbell.",
+      "Bench or machine dips."
+    ],
+    "_firma": "9c70e1a6f4e8"
+  },
+  "upright-row": {
+    "mistakes": [
+      "Raising your elbows too far above your shoulders.",
+      "Gripping the bar too narrowly.",
+      "Using momentum from your legs."
+    ],
+    "alternatives": [
+      "Lateral raises.",
+      "Face pull on cable machine.",
+      "Upright row on cable machine with wide grip."
+    ],
+    "_firma": "c1ebad44d33c"
+  },
+  "wall-angels": {
+    "mistakes": [
+      "Arching your lower back away from the wall.",
+      "Losing contact with your wrists or elbows.",
+      "Raising higher than your shoulder allows."
+    ],
+    "alternatives": [
+      "The same movement lying on the floor.",
+      "Face pull on a cable machine.",
+      "Chin tuck if the issue is neck posture."
+    ],
+    "_firma": "b5467e5472ac"
+  },
+  "wall-handstand": {
+    "mistakes": [
+      "Arching your lower back and forming a banana shape.",
+      "Placing your hands too far from the wall.",
+      "Holding until your arms give out and you fall backward."
+    ],
+    "alternatives": [
+      "Handstand with feet on the wall at hip height.",
+      "Dumbbell shoulder press.",
+      "Plank with weight shifted forward over hands."
+    ],
+    "_firma": "d8e974ee0cb5"
+  },
+  "wrist-curl": {
+    "mistakes": [
+      "Moving your elbow or forearm instead of just your wrist.",
+      "Loading so much that you only do half the range of motion.",
+      "Dropping the weight suddenly on the way down."
+    ],
+    "alternatives": [
+      "Wrist curl on bench.",
+      "Reverse wrist curl.",
+      "Holding a dumbbell with fingers (grip work)."
+    ],
+    "_firma": "eff5285e0eda"
+  },
+  "y-t-w-raise": {
+    "mistakes": [
+      "Using heavy dumbbells: weight is unnecessary here.",
+      "Shrugging your shoulders towards your ears.",
+      "Lifting your chest off the bench to gain momentum."
+    ],
+    "alternatives": [
+      "The same movement lying face down on the floor, no weight.",
+      "Face pull on cable machine.",
+      "Dumbbell reverse fly."
+    ],
+    "_firma": "6130faca7a7d"
+  }
+}

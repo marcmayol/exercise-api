@@ -57,6 +57,30 @@
       "Gradually increase speed and resistance according to your fitness level."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Apoyar todo el peso en los brazos.",
+      "Encorvar la espalda sobre la consola.",
+      "Ir tan rápido que pierdes el control del pedaleo."
+    ],
+    "en": [
+      "Putting all your weight on your arms.",
+      "Hunching over the console.",
+      "Going so fast that you lose control of the pedaling."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Cinta de correr.",
+      "Bicicleta estática.",
+      "Remo si quieres implicar más la espalda."
+    ],
+    "en": [
+      "Treadmill.",
+      "Stationary bike.",
+      "Rowing if you want to engage your back more."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/elliptical-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/elliptical-f.jpg"

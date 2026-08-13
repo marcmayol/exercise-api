@@ -36,6 +36,30 @@
       "Slowly lower the dumbbells back to the starting position."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Subir por encima de la línea de los ojos.",
+      "Balancear el tronco.",
+      "Encoger los hombros al subir."
+    ],
+    "en": [
+      "Lifting above eye level.",
+      "Swinging your torso.",
+      "Shrugging your shoulders as you lift."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Elevación frontal en polea.",
+      "Press de hombros.",
+      "Elevaciones laterales."
+    ],
+    "en": [
+      "Cable front raise.",
+      "Shoulder press.",
+      "Lateral raises."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/front-raise-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/front-raise-f.jpg"

@@ -42,6 +42,30 @@
       "Repeat the cycle of movements smoothly, coordinating your breath with each position change."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Mover solo la lumbar en vez de toda la columna.",
+      "Ir a tirones.",
+      "Bloquear los codos con fuerza."
+    ],
+    "en": [
+      "Moving only your lower back instead of your entire spine.",
+      "Jerking the movement.",
+      "Locking your elbows forcefully."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Rotación torácica en cuadrupedia.",
+      "Extensión torácica sobre banco.",
+      "Estiramiento de cobra."
+    ],
+    "en": [
+      "Quadruped thoracic rotation.",
+      "Thoracic extension on bench.",
+      "Cobra stretch."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/cat-cow-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/cat-cow-f.jpg"

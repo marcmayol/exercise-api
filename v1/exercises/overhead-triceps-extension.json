@@ -34,6 +34,30 @@
       "Extend your arms back up to return to the starting position."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Abrir los codos hacia fuera.",
+      "Arquear la lumbar para llevar el peso atrás.",
+      "Bajar tanto que el hombro se descoloca."
+    ],
+    "en": [
+      "Flaring your elbows out.",
+      "Arching your lower back to move the weight back.",
+      "Lowering so much that your shoulder dislocates."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Extensión de tríceps en polea.",
+      "Press francés tumbado.",
+      "Fondos de tríceps en banco."
+    ],
+    "en": [
+      "Cable triceps extension.",
+      "Lying French press.",
+      "Bench triceps dips."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/overhead-triceps-extension-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/overhead-triceps-extension-f.jpg"

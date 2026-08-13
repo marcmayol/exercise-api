@@ -47,6 +47,30 @@
       "Keep your knees down, hold for a few seconds and switch sides."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Dejar que las rodillas se despeguen del suelo al abrir.",
+      "Forzar el brazo hasta que tire el hombro.",
+      "Aguantar la respiración."
+    ],
+    "en": [
+      "Letting your knees lift off the floor as you open.",
+      "Forcing your arm until it strains your shoulder.",
+      "Holding your breath."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Rotación torácica en cuadrupedia.",
+      "Extensión torácica sobre banco.",
+      "Giro sentado en una silla."
+    ],
+    "en": [
+      "Quadruped thoracic rotation.",
+      "Thoracic extension on a bench.",
+      "Seated chair twist."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/open-book-stretch-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/open-book-stretch-f.jpg"

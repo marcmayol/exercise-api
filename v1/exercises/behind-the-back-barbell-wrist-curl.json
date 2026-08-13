@@ -34,6 +34,30 @@
       "Slowly lower the barbell back to the starting position, controlling the movement."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Doblar los codos para ayudarte.",
+      "Separar la barra de los glúteos.",
+      "Encoger los hombros."
+    ],
+    "en": [
+      "Bending your elbows to assist.",
+      "Separating the barbell from your glutes.",
+      "Shrugging your shoulders."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Curl de muñeca sentado con barra.",
+      "Curl de muñeca con mancuernas.",
+      "Curl de muñeca sobre banco."
+    ],
+    "en": [
+      "Seated barbell wrist curl.",
+      "Dumbbell wrist curl.",
+      "Wrist curl over bench."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/behind-the-back-barbell-wrist-curl-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/behind-the-back-barbell-wrist-curl-f.jpg"

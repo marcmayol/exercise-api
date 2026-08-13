@@ -89,6 +89,20 @@ def main():
         add(f"What equipment do I need for '{name_en}'?", eq_en)
         add(f"¿A qué grupo muscular pertenece '{name_es}'?", g_es)
         add(f"What muscle group does '{name_en}' belong to?", g_en)
+        # errores típicos y alternativas (solo si la ficha los trae)
+        mis, alt = ex.get("mistakes", {}), ex.get("alternatives", {})
+        if mis.get("es"):
+            add(f"¿Qué errores típicos hay que evitar en '{name_es}'?",
+                " ".join(mis["es"]))
+        if mis.get("en"):
+            add(f"What common mistakes should I avoid in '{name_en}'?",
+                " ".join(mis["en"]))
+        if alt.get("es"):
+            add(f"¿Por qué puedo sustituir '{name_es}' si la máquina está ocupada?",
+                " ".join(alt["es"]))
+        if alt.get("en"):
+            add(f"What can I do instead of '{name_en}' if the machine is busy?",
+                " ".join(alt["en"]))
 
     # ---- escribir salidas ----
     def wjsonl(path, rows):

@@ -1,0 +1,224 @@
+{
+  "_comentario": "Errores típicos y alternativas en ES, escritos a mano, por slug. Se fusionan con tips_desde_app.json (material previo del propio autor) en tips.json, y build_api.py los publica como mistakes/alternatives de cada ficha. La traducción al inglés la hace translate_tips.py y queda cacheada.",
+
+  "ab-wheel-rollout": {
+    "mistakes": ["Arquear la zona lumbar al estirarte: es el fallo que hace daño.", "Salir tan lejos que ya no puedes volver sin dar un tirón.", "Levantar la cadera antes que el tronco al regresar."],
+    "alternatives": ["Plancha con antebrazos, aguantando más tiempo.", "Rueda desde rodillas y con recorrido corto.", "Dead bug lento."]
+  },
+  "ankle-dorsiflexion-wall": {
+    "mistakes": ["Levantar el talón para llegar más lejos.", "Girar el pie hacia fuera para ganar recorrido.", "Empujar a tirones en vez de ir y volver despacio."],
+    "alternatives": ["Estiramiento de gemelo en pared.", "El mismo movimiento sentado, empujando la rodilla con las manos.", "Bajar y subir el talón desde un escalón."]
+  },
+  "assisted-pistol-squat": {
+    "mistakes": ["Tirar del soporte con el brazo en vez de apoyarte lo justo.", "Dejar caer la cadera de golpe al bajar.", "Levantar el talón de la pierna de apoyo."],
+    "alternatives": ["Sentadilla a cajón a una pierna.", "Sentadilla búlgara.", "Sentadilla sin peso a dos piernas si aún no controlas el equilibrio."]
+  },
+  "barbell-bench-press": {
+    "mistakes": ["Rebotar la barra en el pecho.", "Despegar los glúteos del banco.", "Abrir los codos a 90 grados del cuerpo."],
+    "alternatives": ["Press con mancuernas.", "Press de pecho en máquina.", "Flexiones si no hay banco libre."]
+  },
+  "barbell-biceps-curl": {
+    "mistakes": ["Echar la espalda atrás para subir el peso.", "Adelantar los codos al final del recorrido.", "No estirar del todo el brazo abajo."],
+    "alternatives": ["Curl con mancuernas.", "Curl en polea baja.", "Barra Z si te molestan las muñecas."]
+  },
+  "barbell-overhead-press": {
+    "mistakes": ["Arquear la lumbar para compensar la falta de movilidad de hombro.", "Sacar la cabeza hacia delante y golpear la barbilla con la barra.", "Empujar hacia delante en vez de hacia arriba."],
+    "alternatives": ["Press de hombros con mancuernas.", "Press de hombros en máquina.", "Press sentado con respaldo si la espalda se arquea."]
+  },
+  "barbell-row": {
+    "mistakes": ["Redondear la espalda al tirar.", "Incorporarte con cada repetición para dar impulso.", "Llevar la barra al pecho en vez de al ombligo."],
+    "alternatives": ["Remo con mancuerna apoyado en el banco.", "Remo en polea sentado.", "Remo en máquina con apoyo de pecho."]
+  },
+  "barbell-squat": {
+    "mistakes": ["Levantar los talones del suelo.", "Dejar que las rodillas se metan hacia dentro.", "Subir primero la cadera y quedarte con la espalda doblada."],
+    "alternatives": ["Sentadilla goblet.", "Prensa de piernas.", "Sentadilla hack en máquina."]
+  },
+  "bench-dips": {
+    "mistakes": ["Bajar tanto que el hombro queda por debajo del codo.", "Separar el cuerpo del banco: carga el hombro en vez del tríceps.", "Ayudarte con las piernas cuando aún puedes con los brazos."],
+    "alternatives": ["Extensión de tríceps en polea.", "Fondos en máquina asistida.", "Flexiones con manos juntas."]
+  },
+  "bird-dog": {
+    "mistakes": ["Girar la cadera al levantar la pierna.", "Subir la pierna más alto que la espalda y arquear la lumbar.", "Ir rápido: el ejercicio es de control, no de repeticiones."],
+    "alternatives": ["Solo brazo o solo pierna, hasta controlar el equilibrio.", "Dead bug tumbado.", "Plancha con antebrazos."]
+  },
+  "bodyweight-squat": {
+    "mistakes": ["Adelantar los hombros y quedarte de puntillas.", "Bajar solo un palmo.", "Juntar las rodillas al subir."],
+    "alternatives": ["Sentadilla a cajón o silla.", "Sentadilla goblet con una mancuerna ligera.", "Prensa de piernas."]
+  },
+  "bulgarian-split-squat": {
+    "mistakes": ["Poner el pie de delante demasiado cerca del banco.", "Apoyar el peso en la pierna de atrás.", "Perder el equilibrio por mirar al suelo."],
+    "alternatives": ["Zancadas normales.", "Sentadilla a una pierna asistida.", "Prensa a una pierna."]
+  },
+  "cable-lateral-raises": {
+    "mistakes": ["Subir el brazo por encima del hombro.", "Dar impulso con el cuerpo.", "Girar la muñeca hacia arriba al final."],
+    "alternatives": ["Elevaciones laterales con mancuernas.", "Elevaciones en máquina.", "Pájaros si buscas la parte trasera del hombro."]
+  },
+  "cable-pullover": {
+    "mistakes": ["Doblar los codos y convertirlo en un jalón.", "Tirar con la lumbar en vez de con el dorsal.", "Dejar que el peso te levante los hombros al volver."],
+    "alternatives": ["Pullover con mancuerna.", "Jalón al pecho.", "Remo en polea."]
+  },
+  "cable-woodchopper": {
+    "mistakes": ["Girar con los brazos y no con el tronco.", "Mover las caderas en vez de mantenerlas firmes.", "Poner tanto peso que te arrastra."],
+    "alternatives": ["Press Pallof.", "Giro ruso.", "Plancha lateral."]
+  },
+  "calf-stretch-wall": {
+    "mistakes": ["Levantar el talón de atrás.", "Doblar la rodilla de atrás: deja de estirar el gemelo.", "Rebotar en vez de aguantar la posición."],
+    "alternatives": ["Estiramiento de gemelo desde un escalón.", "Dorsiflexión de tobillo en pared.", "El mismo estiramiento con la rodilla algo doblada, para el sóleo."]
+  },
+  "chin-tuck": {
+    "mistakes": ["Bajar la barbilla al pecho en vez de deslizar la cabeza atrás.", "Encoger los hombros.", "Hacerlo con tirones fuertes."],
+    "alternatives": ["El mismo movimiento tumbado boca arriba.", "Ángeles de pared.", "Extensión torácica sobre banco."]
+  },
+  "dead-hang": {
+    "mistakes": ["Colgarte con los hombros pegados a las orejas todo el rato.", "Apretar la barra hasta que solo aguanta el antebrazo.", "Balancearte."],
+    "alternatives": ["Colgarte con los pies apoyados para quitar peso.", "Jalón al pecho.", "Remo invertido."]
+  },
+  "deadlift": {
+    "mistakes": ["Redondear la espalda al despegar la barra.", "Separar la barra del cuerpo.", "Tirar con los brazos en vez de empujar el suelo con las piernas."],
+    "alternatives": ["Peso muerto rumano con mancuernas.", "Bisagra de cadera con palo para aprender el patrón.", "Hip thrust si la espalda molesta."]
+  },
+  "deep-squat-hold": {
+    "mistakes": ["Levantar los talones.", "Dejar caer el pecho hacia el suelo.", "Aguantar la respiración."],
+    "alternatives": ["Sentadilla profunda sujetándote a un soporte.", "Poner un disco bajo los talones.", "Sentadilla a cajón."]
+  },
+  "diamond-push-up": {
+    "mistakes": ["Abrir los codos hacia fuera.", "Dejar caer la cadera.", "Bajar solo medio recorrido."],
+    "alternatives": ["Flexión en diamante con las manos elevadas.", "Extensión de tríceps en polea.", "Fondos de tríceps en banco."]
+  },
+  "doorway-chest-stretch": {
+    "mistakes": ["Poner el codo más alto que el hombro.", "Girar el cuerpo de golpe.", "Arquear la lumbar para ganar estiramiento."],
+    "alternatives": ["Apertura de pecho tumbado (libro abierto).", "El mismo estiramiento con el brazo estirado en la pared.", "Ángeles de pared."]
+  },
+  "dumbbell-lunges": {
+    "mistakes": ["Dar un paso demasiado corto y cargar la rodilla.", "Inclinar el tronco hacia delante.", "Golpear el suelo con la rodilla de atrás."],
+    "alternatives": ["Zancadas sin peso.", "Sentadilla búlgara.", "Prensa de piernas a una pierna."]
+  },
+  "dumbbell-row": {
+    "mistakes": ["Girar el tronco para subir más la mancuerna.", "Tirar solo con el brazo, sin llevar el omóplato atrás.", "Redondear la espalda."],
+    "alternatives": ["Remo en polea sentado.", "Remo en máquina.", "Remo invertido con barra baja."]
+  },
+  "farmers-walk": {
+    "mistakes": ["Inclinarte hacia el lado que lleva el peso.", "Encoger el hombro cargado.", "Dar pasos largos y perder la postura."],
+    "alternatives": ["Paseo con las dos manos cargadas.", "Plancha lateral.", "Press Pallof."]
+  },
+  "figure-4-stretch": {
+    "mistakes": ["Despegar la cabeza y los hombros del suelo.", "Tirar del pie en vez del muslo.", "Forzar hasta que pinche."],
+    "alternatives": ["El mismo estiramiento sentado en una silla.", "Postura 90/90 de cadera.", "Estiramiento de glúteo cruzando la pierna de pie."]
+  },
+  "glute-bridge": {
+    "mistakes": ["Empujar con la lumbar y arquear la espalda arriba.", "Separar o juntar las rodillas al subir.", "Apoyar los pies demasiado lejos: entonces trabajan los isquios."],
+    "alternatives": ["Hip thrust con barra o en máquina.", "Puente a una pierna.", "Patada de glúteo en polea."]
+  },
+  "hack-squat": {
+    "mistakes": ["Bajar tanto que la cadera se despega del respaldo.", "Poner los pies muy bajos y cargar la rodilla.", "Bloquear las rodillas de golpe arriba."],
+    "alternatives": ["Prensa de piernas.", "Sentadilla goblet.", "Sentadilla con barra."]
+  },
+  "hanging-leg-raise": {
+    "mistakes": ["Balancearte para subir las piernas.", "Doblar la cadera sin activar el abdomen.", "Dejar caer las piernas de golpe."],
+    "alternatives": ["Elevación de rodillas colgado.", "Elevación de piernas tumbado en el suelo.", "Plancha si te falla el agarre."]
+  },
+  "hip-90-90": {
+    "mistakes": ["Encorvar la espalda al girar.", "Forzar el giro con las manos hasta que pinche la rodilla.", "Dejar el peso sobre una sola nalga."],
+    "alternatives": ["Estiramiento de glúteo (figura 4).", "Sentarte con las piernas cruzadas y llevar el pecho al frente.", "Estiramiento de flexores de cadera."]
+  },
+  "hip-abduction": {
+    "mistakes": ["Echar el tronco hacia atrás para abrir más.", "Soltar de golpe al cerrar.", "Poner tanto peso que solo abres un palmo."],
+    "alternatives": ["Abducción en polea baja.", "Abducción tumbado de lado.", "Banda elástica por encima de las rodillas."]
+  },
+  "hip-flexor-stretch": {
+    "mistakes": ["Arquear la lumbar en vez de meter la pelvis.", "Adelantar la rodilla de delante por encima de la punta del pie.", "Rebotar."],
+    "alternatives": ["El mismo estiramiento con el pie de atrás sobre un banco.", "Zancada baja con rotación.", "Estiramiento de cuádriceps de pie."]
+  },
+  "hip-hinge-dowel": {
+    "mistakes": ["Doblar las rodillas como en una sentadilla en vez de llevar la cadera atrás.", "Perder el contacto del palo con la espalda alta o el sacro.", "Bajar más de lo que aguanta tu movilidad."],
+    "alternatives": ["Bisagra tocando la pared con el glúteo.", "Peso muerto rumano ligero.", "Buenos días con barra vacía."]
+  },
+  "hollow-hold": {
+    "mistakes": ["Despegar la lumbar del suelo: es el fallo que lo invalida.", "Aguantar la respiración.", "Subir demasiado las piernas para que sea más fácil."],
+    "alternatives": ["Hollow con las rodillas dobladas.", "Dead bug.", "Plancha con antebrazos."]
+  },
+  "hollow-rock": {
+    "mistakes": ["Romper la forma de banana y mecerte a trozos.", "Impulsarte con los brazos o las piernas.", "Golpear la cabeza contra el suelo al ir hacia atrás."],
+    "alternatives": ["Hollow hold estático.", "Hollow rock con las rodillas dobladas.", "Dead bug lento."]
+  },
+  "incline-dumbbell-curl": {
+    "mistakes": ["Adelantar el hombro para ayudarte.", "No estirar del todo abajo: es justo lo que aporta este ejercicio.", "Poner el banco demasiado tumbado y cargar el hombro."],
+    "alternatives": ["Curl de bíceps de pie.", "Curl en banco predicador.", "Curl en polea baja."]
+  },
+  "incline-dumbbell-press": {
+    "mistakes": ["Inclinar el banco de más y convertirlo en press de hombro.", "Chocar las mancuernas arriba y perder la tensión.", "Bajar los codos por detrás de la línea del cuerpo."],
+    "alternatives": ["Press inclinado en máquina.", "Press de pecho plano con mancuernas.", "Pec deck."]
+  },
+  "inverted-row": {
+    "mistakes": ["Dejar caer la cadera.", "Tirar solo con los brazos sin juntar los omóplatos.", "Poner la barra tan alta que casi no hay recorrido."],
+    "alternatives": ["Remo en polea sentado.", "Remo con mancuerna.", "Remo invertido con las rodillas dobladas para quitar peso."]
+  },
+  "low-lunge-rotation": {
+    "mistakes": ["Girar desde la cadera en vez de desde la espalda alta.", "Dejar caer el pecho al suelo.", "Ir a tirones."],
+    "alternatives": ["Rotación torácica en cuadrupedia.", "Apertura de pecho tumbado (libro abierto).", "Zancada baja sin rotación."]
+  },
+  "lying-leg-raise": {
+    "mistakes": ["Despegar la lumbar del suelo al bajar las piernas.", "Dejar caer las piernas de golpe.", "Tirar del cuello con las manos."],
+    "alternatives": ["Elevación de piernas con las rodillas dobladas.", "Dead bug.", "Elevación de piernas colgado si dominas el control."]
+  },
+  "open-book-stretch": {
+    "mistakes": ["Dejar que las rodillas se despeguen del suelo al abrir.", "Forzar el brazo hasta que tire el hombro.", "Aguantar la respiración."],
+    "alternatives": ["Rotación torácica en cuadrupedia.", "Extensión torácica sobre banco.", "Giro sentado en una silla."]
+  },
+  "overhead-triceps-extension": {
+    "mistakes": ["Abrir los codos hacia fuera.", "Arquear la lumbar para llevar el peso atrás.", "Bajar tanto que el hombro se descoloca."],
+    "alternatives": ["Extensión de tríceps en polea.", "Press francés tumbado.", "Fondos de tríceps en banco."]
+  },
+  "pallof-press": {
+    "mistakes": ["Dejar que el cable te gire el tronco al estirar los brazos.", "Mover los pies para compensar.", "Poner tanto peso que solo aguantas con los brazos."],
+    "alternatives": ["Press Pallof con banda elástica.", "Plancha lateral.", "Paseo del granjero con una mano."]
+  },
+  "pull-ups": {
+    "mistakes": ["Dar patadas para subir.", "No estirar del todo abajo.", "Encoger los hombros al colgarte."],
+    "alternatives": ["Dominada asistida en máquina o con goma.", "Negativas: subir con ayuda y bajar en cinco segundos.", "Jalón al pecho."]
+  },
+  "push-ups": {
+    "mistakes": ["Dejar caer la cadera.", "Abrir los codos en cruz.", "Bajar solo un palmo."],
+    "alternatives": ["Flexiones con las manos en un banco.", "Flexiones de rodillas.", "Press de pecho en máquina."]
+  },
+  "quadruped-thoracic-rotation": {
+    "mistakes": ["Girar la cadera en vez de la espalda alta.", "Dejar caer el codo de apoyo.", "Ir rápido."],
+    "alternatives": ["Apertura de pecho tumbado (libro abierto).", "Extensión torácica sobre banco.", "Giro sentado en una silla."]
+  },
+  "reverse-fly": {
+    "mistakes": ["Subir los brazos por encima de la línea del hombro.", "Dar impulso con el tronco.", "Estirar tanto los codos que acabas cargando el bíceps."],
+    "alternatives": ["Face pull en polea.", "Pájaros en máquina.", "Remo alto con mancuernas."]
+  },
+  "romanian-deadlift": {
+    "mistakes": ["Doblar las rodillas como en una sentadilla.", "Redondear la espalda al bajar.", "Separar la barra o las mancuernas del cuerpo."],
+    "alternatives": ["Bisagra de cadera con palo.", "Buenos días con barra vacía.", "Curl de piernas si la espalda molesta."]
+  },
+  "seated-forward-fold": {
+    "mistakes": ["Encorvar la espalda para llegar a los pies.", "Doblar las rodillas sin querer.", "Rebotar."],
+    "alternatives": ["El mismo estiramiento con una cinta en los pies.", "Estiramiento de isquios tumbado.", "Estiramiento de isquios de pie con el pie en un banco."]
+  },
+  "standing-calf-raises": {
+    "mistakes": ["Rebotar en vez de subir y bajar controlando.", "No bajar el talón del todo.", "Doblar las rodillas para ayudarte."],
+    "alternatives": ["Elevación de gemelos sentado.", "Elevación de gemelos en prensa.", "Elevación a una pierna sujetándote a algo."]
+  },
+  "supine-hamstring-stretch": {
+    "mistakes": ["Doblar la rodilla de la pierna que estiras.", "Despegar la otra pierna del suelo.", "Tirar de la cinta hasta que pinche."],
+    "alternatives": ["Flexión adelante sentado.", "Estiramiento de isquios con el pie en un banco.", "Estiramiento de glúteo (figura 4) si la molestia es más atrás."]
+  },
+  "thoracic-extension-bench": {
+    "mistakes": ["Arquear la lumbar en vez de la espalda alta.", "Adelantar las caderas por delante de las rodillas.", "Forzar hasta que moleste el hombro."],
+    "alternatives": ["Extensión sobre un foam roller.", "Rotación torácica en cuadrupedia.", "Ángeles de pared."]
+  },
+  "wall-angels": {
+    "mistakes": ["Despegar la lumbar de la pared arqueando la espalda.", "Perder el contacto de las muñecas o los codos.", "Subir más de lo que te deja el hombro."],
+    "alternatives": ["El mismo movimiento tumbado en el suelo.", "Face pull en polea.", "Retracción de barbilla si el problema es la postura del cuello."]
+  },
+  "wall-handstand": {
+    "mistakes": ["Arquear la lumbar y quedarte en banana.", "Poner las manos demasiado lejos de la pared.", "Aguantar hasta que se te van los brazos y caes de espaldas."],
+    "alternatives": ["Pino con los pies apoyados en la pared a la altura de la cadera.", "Press de hombros con mancuernas.", "Plancha con el peso adelantado sobre las manos."]
+  },
+  "y-t-w-raise": {
+    "mistakes": ["Usar mancuernas pesadas: aquí sobra peso.", "Encoger los hombros hacia las orejas.", "Despegar el pecho del banco para dar impulso."],
+    "alternatives": ["El mismo movimiento tumbado boca abajo en el suelo, sin peso.", "Face pull en polea.", "Pájaros con mancuernas."]
+  }
+}

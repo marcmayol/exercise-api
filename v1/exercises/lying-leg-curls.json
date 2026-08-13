@@ -42,6 +42,30 @@
       "Slowly lower your legs back to the starting position without dropping the weight abruptly."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Levantar la cadera para ayudarte.",
+      "Hacer el recorrido corto.",
+      "Bajar el peso de golpe."
+    ],
+    "en": [
+      "Lifting your hips to help you.",
+      "Doing a short range of motion.",
+      "Dropping the weight suddenly."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Curl femoral con mancuerna entre los pies (tumbado).",
+      "Peso muerto rumano con mancuernas (técnica cuidada).",
+      "Curl nórdico asistido."
+    ],
+    "en": [
+      "Dumbbell leg curl between feet (lying).",
+      "Romanian deadlift with dumbbells (proper form).",
+      "Assisted Nordic curl."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/lying-leg-curls-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/lying-leg-curls-f.jpg"

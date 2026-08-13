@@ -42,6 +42,30 @@
       "Reach the arm on that side overhead to increase it, hold, then switch legs."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Arquear la lumbar en vez de meter la pelvis.",
+      "Adelantar la rodilla de delante por encima de la punta del pie.",
+      "Rebotar."
+    ],
+    "en": [
+      "Arching your lower back instead of tucking your pelvis.",
+      "Pushing your front knee past your toes.",
+      "Bouncing."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "El mismo estiramiento con el pie de atrás sobre un banco.",
+      "Zancada baja con rotación.",
+      "Estiramiento de cuádriceps de pie."
+    ],
+    "en": [
+      "Same stretch with back foot on a bench.",
+      "Low lunge with rotation.",
+      "Standing quadriceps stretch."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/hip-flexor-stretch-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/hip-flexor-stretch-f.jpg"

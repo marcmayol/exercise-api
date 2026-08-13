@@ -52,6 +52,30 @@
       "Slowly return to the starting position, controlling the movement."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Bajar tanto que la cadera/lumbar se despega del asiento.",
+      "Bloquear las rodillas de golpe arriba.",
+      "Poner los pies demasiado bajos (carga excesiva en rodillas)."
+    ],
+    "en": [
+      "Lowering so much that your hips/lower back lift off the seat.",
+      "Locking your knees abruptly at the top.",
+      "Placing your feet too low (excessive load on knees)."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Sentadilla goblet con mancuerna.",
+      "Sentadilla en máquina Smith o hack.",
+      "Zancadas con mancuernas."
+    ],
+    "en": [
+      "Goblet squat with dumbbell.",
+      "Squat on Smith machine or hack squat.",
+      "Lunges with dumbbells."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/leg-press-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/leg-press-f.jpg"

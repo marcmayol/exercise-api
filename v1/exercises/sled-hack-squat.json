@@ -45,6 +45,30 @@
       "Push through your heels to return to the starting position, keeping your back straight."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Despegar la cadera del respaldo al bajar.",
+      "Bloquear las rodillas de golpe arriba.",
+      "Poner los pies demasiado bajos."
+    ],
+    "en": [
+      "Lifting your hips off the backrest as you lower.",
+      "Locking your knees abruptly at the top.",
+      "Placing your feet too low."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Prensa de piernas.",
+      "Sentadilla hack vertical.",
+      "Sentadilla goblet."
+    ],
+    "en": [
+      "Leg press.",
+      "Vertical hack squat.",
+      "Goblet squat."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/sled-hack-squat-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/sled-hack-squat-f.jpg"

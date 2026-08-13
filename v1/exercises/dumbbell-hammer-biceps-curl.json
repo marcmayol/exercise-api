@@ -42,6 +42,30 @@
       "Slowly lower the dumbbells back to the starting position."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Balancear el cuerpo para subir el peso.",
+      "Mover el codo hacia delante en vez de mantenerlo fijo.",
+      "Bajar soltando el peso sin control."
+    ],
+    "en": [
+      "Swinging your body to lift the weight.",
+      "Moving your elbow forward instead of keeping it fixed.",
+      "Lowering the weight without control."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Curl en polea baja con barra.",
+      "Curl en banco predicador o máquina de curl.",
+      "Curl con barra Z."
+    ],
+    "en": [
+      "Low cable curl with bar.",
+      "Preacher curl or curl machine.",
+      "EZ bar curl."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/dumbbell-hammer-biceps-curl-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/dumbbell-hammer-biceps-curl-f.jpg"

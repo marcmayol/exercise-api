@@ -47,6 +47,30 @@
       "Slowly lower the dumbbells back to the starting position."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Chocar las mancuernas arriba y perder la tensión.",
+      "Bajar los codos por detrás de la línea del cuerpo.",
+      "Despegar los glúteos del banco."
+    ],
+    "en": [
+      "Banging the dumbbells together at the top and losing tension.",
+      "Lowering your elbows behind the line of your body.",
+      "Lifting your glutes off the bench."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Press de banca con barra.",
+      "Press de pecho en máquina.",
+      "Flexiones."
+    ],
+    "en": [
+      "Barbell bench press.",
+      "Chest press machine.",
+      "Push-ups."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/dumbbell-bench-press-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/dumbbell-bench-press-f.jpg"

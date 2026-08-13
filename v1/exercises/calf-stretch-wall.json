@@ -36,6 +36,30 @@
       "Hold while you feel the stretch in the calf, then switch legs."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Levantar el talón de atrás.",
+      "Doblar la rodilla de atrás: deja de estirar el gemelo.",
+      "Rebotar en vez de aguantar la posición."
+    ],
+    "en": [
+      "Lifting your back heel.",
+      "Bending your back knee: stops stretching the calf.",
+      "Bouncing instead of holding the position."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Estiramiento de gemelo desde un escalón.",
+      "Dorsiflexión de tobillo en pared.",
+      "El mismo estiramiento con la rodilla algo doblada, para el sóleo."
+    ],
+    "en": [
+      "Calf stretch from a step.",
+      "Ankle dorsiflexion on wall.",
+      "Same stretch with slightly bent knee, for the soleus."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/calf-stretch-wall-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/calf-stretch-wall-f.jpg"

@@ -1,0 +1,290 @@
+{
+  "_comentario": "Segunda tanda de errores típicos y alternativas en ES (los 70 que faltaban para cubrir las 151 fichas). Mismo formato que tips_manual.json.",
+
+  "skull-crusher": {
+    "mistakes": ["Abrir los codos hacia fuera al bajar.", "Mover los hombros en vez de dejar el brazo quieto y girar solo el codo.", "Bajar la barra a la frente sin control."],
+    "alternatives": ["Extensión de tríceps en polea.", "Extensión sobre la cabeza con mancuerna.", "Press de banca cerrado."]
+  },
+  "preacher-curl": {
+    "mistakes": ["Despegar los codos del atril para dar impulso.", "No estirar del todo abajo.", "Dejar caer el peso en la bajada."],
+    "alternatives": ["Curl inclinado con mancuerna.", "Curl con barra Z de pie.", "Curl en polea baja."]
+  },
+  "concentration-curl": {
+    "mistakes": ["Balancear el brazo apoyándote en el muslo.", "Girar el tronco para ayudarte.", "Subir el hombro en vez de flexionar solo el codo."],
+    "alternatives": ["Curl en banco predicador.", "Curl alterno con mancuernas.", "Curl en polea baja a un brazo."]
+  },
+  "cable-curl": {
+    "mistakes": ["Adelantar los codos al final del recorrido.", "Echarte hacia atrás para subir el peso.", "Soltar de golpe en la bajada."],
+    "alternatives": ["Curl con barra.", "Curl con mancuernas.", "Curl en banco predicador."]
+  },
+  "triceps-kickback": {
+    "mistakes": ["Bajar el codo en vez de mantener el brazo paralelo al suelo.", "Girar el tronco para lanzar el peso.", "Usar una mancuerna tan pesada que no puedes estirar del todo."],
+    "alternatives": ["Extensión de tríceps en polea.", "Extensión sobre la cabeza con mancuerna.", "Fondos de tríceps en banco."]
+  },
+  "close-grip-bench-press": {
+    "mistakes": ["Juntar tanto las manos que se cargan las muñecas.", "Abrir los codos hacia fuera.", "Rebotar la barra en el pecho."],
+    "alternatives": ["Press francés.", "Extensión de tríceps en polea.", "Fondos en máquina."]
+  },
+  "wrist-curl": {
+    "mistakes": ["Mover el codo o el antebrazo en vez de solo la muñeca.", "Cargar tanto que solo haces medio recorrido.", "Soltar el peso de golpe al bajar."],
+    "alternatives": ["Curl de muñeca sobre banco.", "Curl de muñeca inverso.", "Aguantar una mancuerna con los dedos (trabajo de agarre)."]
+  },
+  "cable-overhead-triceps-extension": {
+    "mistakes": ["Abrir los codos hacia fuera.", "Arquear la lumbar para llevar el peso atrás.", "Mover los hombros en cada repetición."],
+    "alternatives": ["Extensión sobre la cabeza con mancuerna.", "Extensión de tríceps en polea por delante.", "Press francés."]
+  },
+  "seated-barbell-wrist-curl": {
+    "mistakes": ["Despegar los antebrazos de los muslos.", "Hacer medio recorrido: hay que abrir la mano abajo y cerrar arriba.", "Poner tanto peso que se cargan los codos."],
+    "alternatives": ["Curl de muñeca con mancuernas.", "Curl de muñeca sobre un banco.", "Curl de muñeca con barra tras la espalda."]
+  },
+  "behind-the-back-barbell-wrist-curl": {
+    "mistakes": ["Doblar los codos para ayudarte.", "Separar la barra de los glúteos.", "Encoger los hombros."],
+    "alternatives": ["Curl de muñeca sentado con barra.", "Curl de muñeca con mancuernas.", "Curl de muñeca sobre banco."]
+  },
+  "dumbbell-wrist-curl-over-bench": {
+    "mistakes": ["Levantar los antebrazos del banco.", "Recorrido corto, sin dejar que la mancuerna ruede hacia los dedos.", "Cargar demasiado y tirar con el codo."],
+    "alternatives": ["Curl de muñeca sentado con barra.", "Curl de muñeca con barra sobre banco.", "Curl de muñeca inverso."]
+  },
+  "barbell-wrist-curl-over-bench": {
+    "mistakes": ["Levantar los antebrazos del banco.", "Agarrar la barra con las muñecas rígidas y no dejarla bajar.", "Poner tanto peso que se carga el codo."],
+    "alternatives": ["Curl de muñeca con mancuernas sobre banco.", "Curl de muñeca sentado.", "Curl de muñeca inverso de pie."]
+  },
+  "standing-barbell-reverse-wrist-curl": {
+    "mistakes": ["Cambiar el agarre a supino sin darte cuenta: aquí las palmas miran hacia atrás.", "Doblar los codos para ayudarte.", "Cargar demasiado: aquí se mueve muy poco peso."],
+    "alternatives": ["Curl de muñeca inverso apoyado en un banco.", "Curl de muñeca normal.", "Curl martillo para el antebrazo."]
+  },
+
+  "treadmill": {
+    "mistakes": ["Agarrarte a los pasamanos y descargar el peso.", "Mirar los pies en vez de al frente.", "Poner una inclinación tan alta que acabas colgado de la máquina."],
+    "alternatives": ["Caminar o correr al aire libre.", "Elíptica si te molestan las rodillas.", "Bicicleta estática."]
+  },
+  "elliptical": {
+    "mistakes": ["Apoyar todo el peso en los brazos.", "Encorvar la espalda sobre la consola.", "Ir tan rápido que pierdes el control del pedaleo."],
+    "alternatives": ["Cinta de correr.", "Bicicleta estática.", "Remo si quieres implicar más la espalda."]
+  },
+  "stationary-bike": {
+    "mistakes": ["Sillín demasiado bajo: la rodilla queda muy flexionada abajo.", "Balancear la cadera al pedalear.", "Cargar el peso en las muñecas."],
+    "alternatives": ["Elíptica.", "Cinta de correr.", "Bicicleta de aire si quieres implicar los brazos."]
+  },
+  "rowing-machine": {
+    "mistakes": ["Tirar con los brazos antes de empujar con las piernas.", "Redondear la espalda al ir hacia delante.", "Tirar del mango hacia la cara en vez de al abdomen."],
+    "alternatives": ["Máquina de esquí.", "Bicicleta de aire.", "Remo en polea si buscas fuerza en vez de cardio."]
+  },
+  "burpees": {
+    "mistakes": ["Dejar caer la cadera en la flexión.", "Aterrizar con las rodillas hacia dentro.", "Encadenar repeticiones sin control cuando ya estás cansado."],
+    "alternatives": ["Burpee sin flexión ni salto.", "Escaladores.", "Jumping jacks."]
+  },
+  "ski-erg": {
+    "mistakes": ["Tirar solo con los brazos sin acompañar con el tronco.", "Redondear la espalda al bajar.", "Bloquear las rodillas rígidas todo el rato."],
+    "alternatives": ["Remo (cardio).", "Bicicleta de aire.", "Jalón con brazos rectos en polea."]
+  },
+  "air-bike": {
+    "mistakes": ["Pedalear solo con las piernas y dejar los brazos quietos.", "Encorvar la espalda.", "Salir a tope y morir en treinta segundos."],
+    "alternatives": ["Bicicleta estática.", "Remo (cardio).", "Elíptica."]
+  },
+  "jump-rope": {
+    "mistakes": ["Saltar demasiado alto.", "Girar con todo el brazo en vez de con la muñeca.", "Caer con las piernas rígidas."],
+    "alternatives": ["Saltos sin cuerda en el sitio.", "Rodillas altas.", "Jumping jacks."]
+  },
+  "stair-climber": {
+    "mistakes": ["Colgarte de los pasamanos.", "Subir de puntillas sin apoyar el talón.", "Inclinar mucho el tronco hacia delante."],
+    "alternatives": ["Cinta con inclinación.", "Step-up con peso.", "Elíptica."]
+  },
+  "jumping-jacks": {
+    "mistakes": ["Caer con las rodillas rígidas.", "No estirar los brazos del todo arriba.", "Perder el ritmo y acabar dando saltos torcidos."],
+    "alternatives": ["Jumping jacks sin salto, saliendo con un pie cada vez.", "Rodillas altas.", "Comba."]
+  },
+  "high-knees": {
+    "mistakes": ["Subir poco la rodilla.", "Echar el tronco hacia atrás.", "Aterrizar con el talón de golpe."],
+    "alternatives": ["Marcha elevando rodillas, sin correr.", "Escaladores.", "Comba."]
+  },
+
+  "crunch": {
+    "mistakes": ["Tirar del cuello con las manos.", "Subir todo el tronco: aquí solo despegan los omóplatos.", "Coger impulso con los brazos."],
+    "alternatives": ["Crunch con las piernas elevadas.", "Dead bug.", "Plancha."]
+  },
+  "legs-up-crunch": {
+    "mistakes": ["Balancear las piernas para subir.", "Tirar del cuello.", "Despegar la lumbar del suelo."],
+    "alternatives": ["Crunch normal.", "Elevación de piernas tumbado.", "Dead bug."]
+  },
+  "scissor-kicks": {
+    "mistakes": ["Despegar la lumbar del suelo.", "Subir demasiado las piernas y perder la tensión del abdomen.", "Aguantar la respiración."],
+    "alternatives": ["Tijeras con las rodillas algo dobladas.", "Dead bug.", "Elevación de piernas tumbado."]
+  },
+  "sit-ups": {
+    "mistakes": ["Tirar del cuello con las manos.", "Coger impulso con los brazos.", "Anclar los pies y tirar con los flexores de cadera."],
+    "alternatives": ["Crunch: menos recorrido y menos lumbar.", "Dead bug.", "Plancha."]
+  },
+  "russian-twist": {
+    "mistakes": ["Girar solo los brazos y no el tronco.", "Redondear la espalda.", "Ir rápido perdiendo el control del peso."],
+    "alternatives": ["Press Pallof.", "Leñador en polea.", "Plancha lateral."]
+  },
+  "side-plank-rotation": {
+    "mistakes": ["Dejar caer la cadera al girar.", "Apoyar el codo por delante del hombro.", "Girar tan rápido que pierdes la línea del cuerpo."],
+    "alternatives": ["Plancha lateral estática.", "Plancha lateral con rodillas apoyadas.", "Press Pallof."]
+  },
+  "superman": {
+    "mistakes": ["Tirar la cabeza hacia atrás mirando al frente.", "Subir a tirones.", "Aguantar la respiración."],
+    "alternatives": ["Bird dog.", "Hiperextensiones en banco.", "Puente de glúteo."]
+  },
+  "bicycle-crunch": {
+    "mistakes": ["Tirar del cuello con las manos.", "Ir rápido y dejar de girar el tronco.", "Despegar la lumbar del suelo."],
+    "alternatives": ["Crunch con piernas elevadas.", "Dead bug.", "Plancha lateral."]
+  },
+  "cable-crunch": {
+    "mistakes": ["Flexionar la cadera en vez de la columna: hay que enrollar el tronco.", "Tirar con los brazos.", "Mover las caderas adelante y atrás."],
+    "alternatives": ["Crunch en el suelo.", "Rueda abdominal.", "Elevación de piernas colgado."]
+  },
+  "mountain-climbers": {
+    "mistakes": ["Subir la cadera con cada rodilla.", "Dejar caer la zona lumbar.", "Apoyar las manos por delante de los hombros."],
+    "alternatives": ["Escaladores lentos, sin saltar.", "Plancha.", "Rodillas altas de pie."]
+  },
+  "cobra-stretch": {
+    "mistakes": ["Empujar con los brazos hasta forzar la lumbar.", "Encoger los hombros hacia las orejas.", "Despegar la cadera del suelo."],
+    "alternatives": ["Extensión sobre los antebrazos (esfinge).", "Gato-vaca.", "Extensión torácica sobre banco."]
+  },
+  "cat-cow": {
+    "mistakes": ["Mover solo la lumbar en vez de toda la columna.", "Ir a tirones.", "Bloquear los codos con fuerza."],
+    "alternatives": ["Rotación torácica en cuadrupedia.", "Extensión torácica sobre banco.", "Estiramiento de cobra."]
+  },
+  "dragon-flag": {
+    "mistakes": ["Doblar la cadera y convertirlo en una elevación de piernas.", "Dejar caer el cuerpo de golpe al bajar.", "Cargar el cuello en vez de agarrarte bien al banco."],
+    "alternatives": ["Bandera del dragón con las rodillas dobladas.", "Elevación de piernas tumbado.", "Hollow hold."]
+  },
+
+  "neutral-grip-pulldown": {
+    "mistakes": ["Echar mucho el tronco hacia atrás.", "Tirar solo con los brazos sin juntar los omóplatos.", "Subir soltando de golpe."],
+    "alternatives": ["Jalón al pecho con agarre ancho.", "Dominada asistida con agarre neutro.", "Remo en polea."]
+  },
+  "t-bar-row": {
+    "mistakes": ["Redondear la espalda al tirar.", "Incorporarte con cada repetición.", "Abrir mucho los codos."],
+    "alternatives": ["Remo con barra.", "Remo en máquina con apoyo de pecho.", "Remo con mancuerna."]
+  },
+  "back-extension": {
+    "mistakes": ["Subir más allá de la línea del cuerpo y arquear la lumbar.", "Coger impulso.", "Colocar mal el apoyo: debe quedar por debajo de la cadera."],
+    "alternatives": ["Superman en el suelo.", "Buenos días con barra vacía.", "Peso muerto rumano ligero."]
+  },
+  "dumbbell-pullover": {
+    "mistakes": ["Doblar los codos y convertirlo en un press.", "Arquear la lumbar al llevar el peso atrás.", "Bajar más de lo que aguanta tu hombro."],
+    "alternatives": ["Pullover en polea.", "Jalón con brazos rectos.", "Jalón al pecho."]
+  },
+  "straight-arm-pulldown": {
+    "mistakes": ["Doblar los codos: entonces trabaja el tríceps.", "Encorvar la espalda.", "Usar tanto peso que el cuerpo se balancea."],
+    "alternatives": ["Pullover en polea.", "Pullover con mancuerna.", "Jalón al pecho."]
+  },
+
+  "upright-row": {
+    "mistakes": ["Subir los codos muy por encima de los hombros.", "Agarrar la barra demasiado estrecho.", "Dar impulso con las piernas."],
+    "alternatives": ["Elevaciones laterales.", "Face pull en polea.", "Remo al mentón en polea con agarre ancho."]
+  },
+  "barbell-shrug": {
+    "mistakes": ["Girar los hombros en círculos.", "Doblar los codos y convertirlo en un remo.", "Recorrido corto: hay que subir hasta arriba del todo."],
+    "alternatives": ["Encogimientos con mancuernas.", "Encogimientos en máquina o en polea.", "Face pull si buscas también el trapecio medio."]
+  },
+  "front-raise": {
+    "mistakes": ["Subir por encima de la línea de los ojos.", "Balancear el tronco.", "Encoger los hombros al subir."],
+    "alternatives": ["Elevación frontal en polea.", "Press de hombros.", "Elevaciones laterales."]
+  },
+  "arnold-press": {
+    "mistakes": ["Girar las muñecas de golpe.", "Arquear la lumbar al empujar.", "Bajar los codos por detrás del cuerpo."],
+    "alternatives": ["Press de hombros con mancuernas.", "Press de hombros en máquina.", "Press militar con barra."]
+  },
+  "cable-shoulder-press": {
+    "mistakes": ["Arquear la lumbar para empujar.", "Colocarte demasiado lejos de la polea y quedar inclinado.", "Bloquear los codos de golpe arriba."],
+    "alternatives": ["Press de hombros con mancuernas.", "Press de hombros en máquina.", "Press militar con barra."]
+  },
+  "cable-upright-row": {
+    "mistakes": ["Subir los codos muy por encima de los hombros.", "Separarte de la polea y tirar en diagonal.", "Encoger los hombros al final."],
+    "alternatives": ["Elevaciones laterales en polea.", "Face pull.", "Remo al mentón con barra y agarre ancho."]
+  },
+  "dumbbell-shrug": {
+    "mistakes": ["Hacer círculos con los hombros.", "Doblar los codos.", "No llegar arriba del todo."],
+    "alternatives": ["Encogimientos con barra.", "Encogimientos en polea.", "Face pull."]
+  },
+  "cable-front-raise": {
+    "mistakes": ["Subir por encima de la línea de los ojos.", "Balancearte para dar impulso.", "Doblar el codo para ayudarte."],
+    "alternatives": ["Elevación frontal con mancuernas.", "Press de hombros.", "Elevaciones laterales en polea."]
+  },
+
+  "dumbbell-bench-press": {
+    "mistakes": ["Chocar las mancuernas arriba y perder la tensión.", "Bajar los codos por detrás de la línea del cuerpo.", "Despegar los glúteos del banco."],
+    "alternatives": ["Press de banca con barra.", "Press de pecho en máquina.", "Flexiones."]
+  },
+  "dumbbell-flyes": {
+    "mistakes": ["Doblar y estirar los codos: esto no es un press.", "Bajar tanto que el hombro queda forzado.", "Usar mancuernas demasiado pesadas."],
+    "alternatives": ["Pec deck.", "Cruce de poleas.", "Press de pecho con mancuernas."]
+  },
+  "incline-barbell-bench-press": {
+    "mistakes": ["Inclinar el banco de más y convertirlo en press de hombro.", "Rebotar la barra en el pecho.", "Abrir los codos en cruz."],
+    "alternatives": ["Press inclinado con mancuernas.", "Press inclinado en máquina.", "Pec deck."]
+  },
+  "cable-crossover": {
+    "mistakes": ["Doblar los codos para ayudarte.", "Abrir demasiado atrás y forzar el hombro.", "Dar impulso con el tronco."],
+    "alternatives": ["Pec deck.", "Aperturas con mancuernas.", "Cruce de poleas de abajo arriba."]
+  },
+  "chest-dips": {
+    "mistakes": ["Bajar más de lo que aguanta tu hombro.", "Quedarte vertical: para pecho hay que inclinar el tronco hacia delante.", "Encoger los hombros al bajar."],
+    "alternatives": ["Fondos en máquina asistida.", "Press de pecho declinado.", "Flexiones con los pies elevados."]
+  },
+  "decline-bench-press": {
+    "mistakes": ["Bajar la barra demasiado alta, hacia el esternón.", "Rebotar la barra.", "Soltar las piernas del anclaje y resbalar."],
+    "alternatives": ["Press de banca plano.", "Fondos en paralelas.", "Press de pecho en máquina."]
+  },
+  "cable-chest-press": {
+    "mistakes": ["Sacar mucho el hombro hacia delante al final.", "Arquear la lumbar.", "Colocarte tan lejos que el cable te tira hacia atrás."],
+    "alternatives": ["Press de pecho en máquina.", "Press con mancuernas.", "Flexiones."]
+  },
+  "low-cable-fly": {
+    "mistakes": ["Doblar los codos y convertirlo en un press.", "Subir las manos por encima de los hombros.", "Encoger los hombros al juntar."],
+    "alternatives": ["Cruce de poleas clásico.", "Pec deck.", "Aperturas con mancuernas en banco inclinado."]
+  },
+
+  "front-squat": {
+    "mistakes": ["Dejar caer los codos y perder la barra hacia delante.", "Redondear la espalda alta.", "Levantar los talones."],
+    "alternatives": ["Sentadilla goblet.", "Sentadilla con barra atrás.", "Prensa de piernas."]
+  },
+  "step-up": {
+    "mistakes": ["Impulsarte con la pierna de abajo en vez de subir con la de arriba.", "Usar un cajón tan alto que la rodilla se va hacia dentro.", "Bajar de golpe."],
+    "alternatives": ["Step-up sin peso o con cajón más bajo.", "Zancadas.", "Sentadilla búlgara."]
+  },
+  "hip-adduction": {
+    "mistakes": ["Cerrar de golpe soltando el peso.", "Echar el tronco hacia atrás.", "Abrir tanto al inicio que se fuerza la ingle."],
+    "alternatives": ["Aductores en polea baja.", "Sentadilla sumo.", "Aductor tumbado de lado."]
+  },
+  "machine-hip-thrust": {
+    "mistakes": ["Arquear la lumbar arriba en vez de apretar el glúteo.", "Recorrido corto.", "Colocar mal la almohadilla: debe quedar sobre la cadera."],
+    "alternatives": ["Hip thrust con barra.", "Puente de glúteo en el suelo.", "Patada de glúteo en polea."]
+  },
+  "sled-hack-squat": {
+    "mistakes": ["Despegar la cadera del respaldo al bajar.", "Bloquear las rodillas de golpe arriba.", "Poner los pies demasiado bajos."],
+    "alternatives": ["Prensa de piernas.", "Sentadilla hack vertical.", "Sentadilla goblet."]
+  },
+  "good-morning": {
+    "mistakes": ["Doblar las rodillas como en una sentadilla.", "Redondear la espalda.", "Cargar demasiado peso en un ejercicio que pide poco."],
+    "alternatives": ["Bisagra de cadera con palo.", "Peso muerto rumano.", "Hiperextensiones."]
+  },
+  "sumo-deadlift": {
+    "mistakes": ["Meter las rodillas hacia dentro.", "Subir la cadera antes que el pecho.", "Separar la barra del cuerpo."],
+    "alternatives": ["Peso muerto convencional.", "Peso muerto rumano.", "Sentadilla goblet ancha."]
+  },
+  "nordic-curl": {
+    "mistakes": ["Doblar la cadera y bajar en bloque.", "Caer de golpe sin frenar.", "Empezar sin ayuda cuando aún no controlas la bajada."],
+    "alternatives": ["Curl nórdico ayudándote con las manos.", "Curl de piernas tumbado.", "Peso muerto rumano."]
+  },
+  "cable-glute-kickback": {
+    "mistakes": ["Arquear la lumbar para subir más la pierna.", "Girar la cadera hacia fuera.", "Soltar de golpe al volver."],
+    "alternatives": ["Patada de glúteo a cuatro patas sin peso.", "Hip thrust.", "Puente a una pierna."]
+  },
+  "sissy-squat": {
+    "mistakes": ["Dejar caer la cadera hacia atrás: aquí las rodillas van adelante y la cadera queda alineada.", "Bajar más de lo que aguanta la rodilla.", "Hacerlo sin sujeción cuando aún no controlas el equilibrio."],
+    "alternatives": ["Extensión de piernas en máquina.", "Sentadilla sissy sujetándote a un soporte.", "Sentadilla goblet."]
+  },
+  "cable-squat": {
+    "mistakes": ["Dejar que el cable te tire hacia delante.", "Levantar los talones.", "Bajar solo un palmo."],
+    "alternatives": ["Sentadilla goblet.", "Prensa de piernas.", "Sentadilla sin peso."]
+  },
+  "cable-hip-abduction": {
+    "mistakes": ["Inclinar el tronco hacia el lado contrario para abrir más.", "Girar la punta del pie hacia fuera.", "Soltar de golpe al cerrar."],
+    "alternatives": ["Abductores en máquina.", "Abducción tumbado de lado.", "Banda elástica por encima de las rodillas."]
+  }
+}

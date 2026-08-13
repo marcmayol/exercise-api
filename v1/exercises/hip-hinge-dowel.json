@@ -47,6 +47,30 @@
       "Go as far as you can while the dowel keeps all three contact points, then stand up by squeezing your glutes."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Doblar las rodillas como en una sentadilla en vez de llevar la cadera atrás.",
+      "Perder el contacto del palo con la espalda alta o el sacro.",
+      "Bajar más de lo que aguanta tu movilidad."
+    ],
+    "en": [
+      "Bending your knees like in a squat instead of pushing your hips back.",
+      "Losing contact of the dowel with your upper back or sacrum.",
+      "Lowering more than your mobility allows."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Bisagra tocando la pared con el glúteo.",
+      "Peso muerto rumano ligero.",
+      "Buenos días con barra vacía."
+    ],
+    "en": [
+      "Hip hinge touching the wall with your glutes.",
+      "Light Romanian deadlift.",
+      "Good mornings with an empty barbell."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/hip-hinge-dowel-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/hip-hinge-dowel-f.jpg"

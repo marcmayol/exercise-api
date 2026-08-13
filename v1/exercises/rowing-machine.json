@@ -62,6 +62,30 @@
       "Return to the starting position by extending your arms and bending your knees."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Tirar con los brazos antes de empujar con las piernas.",
+      "Redondear la espalda al ir hacia delante.",
+      "Tirar del mango hacia la cara en vez de al abdomen."
+    ],
+    "en": [
+      "Pulling with your arms before pushing with your legs.",
+      "Rounding your back as you move forward.",
+      "Pulling the handle towards your face instead of your abdomen."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Máquina de esquí.",
+      "Bicicleta de aire.",
+      "Remo en polea si buscas fuerza en vez de cardio."
+    ],
+    "en": [
+      "Ski machine.",
+      "Air bike.",
+      "Cable row if you're looking for strength instead of cardio."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/rowing-machine-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/rowing-machine-f.jpg"

@@ -34,6 +34,30 @@
       "3. Hold the elevated position for a second, then lower your heels in a controlled manner."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Rebotar en vez de subir y bajar controlando.",
+      "No bajar el talón del todo.",
+      "Doblar las rodillas para ayudarte."
+    ],
+    "en": [
+      "Bouncing instead of controlling up and down.",
+      "Not lowering your heel completely.",
+      "Bending your knees to assist."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Elevación de gemelos sentado.",
+      "Elevación de gemelos en prensa.",
+      "Elevación a una pierna sujetándote a algo."
+    ],
+    "en": [
+      "Seated calf raise.",
+      "Calf raise on leg press.",
+      "Single-leg raise holding onto something."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/standing-calf-raises-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/standing-calf-raises-f.jpg"

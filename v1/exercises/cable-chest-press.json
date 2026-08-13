@@ -47,6 +47,30 @@
       "Slowly return to the starting position, controlling the movement."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Sacar mucho el hombro hacia delante al final.",
+      "Arquear la lumbar.",
+      "Colocarte tan lejos que el cable te tira hacia atrás."
+    ],
+    "en": [
+      "Pushing your shoulder too far forward at the end.",
+      "Arching your lower back.",
+      "Positioning yourself so far back that the cable pulls you backward."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Press de pecho en máquina.",
+      "Press con mancuernas.",
+      "Flexiones."
+    ],
+    "en": [
+      "Chest press machine.",
+      "Dumbbell press.",
+      "Push-ups."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/cable-chest-press-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/cable-chest-press-f.jpg"

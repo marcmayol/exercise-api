@@ -47,6 +47,30 @@
       "Lower the barbell in a controlled manner and repeat."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Redondear la espalda al tirar.",
+      "Incorporarte con cada repetición para dar impulso.",
+      "Llevar la barra al pecho en vez de al ombligo."
+    ],
+    "en": [
+      "Rounding your lower back as you lift.",
+      "Standing up with each rep to gain momentum.",
+      "Bringing the bar to your chest instead of your navel."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Remo con mancuerna apoyado en el banco.",
+      "Remo en polea sentado.",
+      "Remo en máquina con apoyo de pecho."
+    ],
+    "en": [
+      "Dumbbell row with bench support.",
+      "Seated cable row.",
+      "Chest-supported machine row."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/barbell-row-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/barbell-row-f.jpg"

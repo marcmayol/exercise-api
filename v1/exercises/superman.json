@@ -47,6 +47,30 @@
       "Exhale and slowly lower your arms, chest, and legs back to the ground."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Tirar la cabeza hacia atrás mirando al frente.",
+      "Subir a tirones.",
+      "Aguantar la respiración."
+    ],
+    "en": [
+      "Pulling your head back while looking forward.",
+      "Jerking up.",
+      "Holding your breath."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Bird dog.",
+      "Hiperextensiones en banco.",
+      "Puente de glúteo."
+    ],
+    "en": [
+      "Bird dog.",
+      "Hyperextensions on bench.",
+      "Glute bridge."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/superman-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/superman-f.jpg"

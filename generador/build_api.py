@@ -78,6 +78,23 @@ def load_key():
         if line.startswith("OPENAI_API_KEY="): return line.split("=",1)[1].strip()
 CACHE = os.path.join(HERE,"instructions_cache.json")
 
+# ---------------------------------------------------------------- errores y alternativas
+# Escritos a mano en ES (tips.json, que fusiona build_tips.py) y traducidos con
+# translate_tips.py. Si un ejercicio no los tiene, la ficha sale sin esos campos.
+def load_tips():
+    def leer(f):
+        p = os.path.join(HERE, f)
+        return json.load(open(p, encoding="utf-8")) if os.path.exists(p) else {}
+    es, en = leer("tips.json"), leer("tips_en.json")
+    out = {}
+    for slug, t in es.items():
+        e = en.get(slug, {})
+        out[slug] = {
+            "mistakes":     {"es": t["mistakes"],     "en": e.get("mistakes", [])},
+            "alternatives": {"es": t["alternatives"], "en": e.get("alternatives", [])},
+        }
+    return out
+
 def get_instructions(client, ex):
     cache = json.load(open(CACHE,encoding="utf-8")) if os.path.exists(CACHE) else {}
     if ex["slug"] in cache: return cache[ex["slug"]]
@@ -101,6 +118,7 @@ def main():
     from PIL import Image, ImageDraw
     client = OpenAI(api_key=load_key())
     seed = json.load(open(os.path.join(ROOT,"exercises_seed.json"),encoding="utf-8"))
+    TIPS = load_tips()
 
     for d in ("v1","v1/exercises","v1/by-muscle","v1/by-group","v1/by-equipment","images","muscle-maps"):
         os.makedirs(os.path.join(ROOT,d), exist_ok=True)
@@ -148,6 +166,8 @@ def main():
           "primaryMuscles":mlist(ex["primary"]),
           "secondaryMuscles":mlist(ex["secondary"]),
           "instructions":instr,
+          **({"mistakes":TIPS[slug]["mistakes"],
+              "alternatives":TIPS[slug]["alternatives"]} if slug in TIPS else {}),
           "images":{"male":img_m,"female":img_f},
           "muscleMap":f"{BASE}/{svg_rel}",
           "muscleMaps":{"male":f"{BASE}/{svg_rel}","female":f"{BASE}/{svg_f_rel}"},

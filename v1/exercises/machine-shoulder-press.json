@@ -42,6 +42,30 @@
       "Slowly return to the starting position without letting the weights touch."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Arquear mucho la espalda al empujar.",
+      "Bajar poco recorrido (no llegar a la altura de las orejas).",
+      "Empujar con impulso de piernas/tronco."
+    ],
+    "en": [
+      "Overarching your back as you press.",
+      "Lowering too little (not reaching ear level).",
+      "Using leg/torso momentum to press."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Press militar sentado con mancuernas.",
+      "Press de hombros en multiestación con poleas.",
+      "Elevaciones laterales si no hay para press."
+    ],
+    "en": [
+      "Seated dumbbell military press.",
+      "Shoulder press on cable machine.",
+      "Lateral raises if no press available."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/machine-shoulder-press-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/machine-shoulder-press-f.jpg"

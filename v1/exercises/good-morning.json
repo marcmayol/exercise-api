@@ -47,6 +47,30 @@
       "Return to the starting position using your glutes and hamstrings."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Doblar las rodillas como en una sentadilla.",
+      "Redondear la espalda.",
+      "Cargar demasiado peso en un ejercicio que pide poco."
+    ],
+    "en": [
+      "Bending your knees as in a squat.",
+      "Rounding your back.",
+      "Loading too much weight on an exercise that requires little."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Bisagra de cadera con palo.",
+      "Peso muerto rumano.",
+      "Hiperextensiones."
+    ],
+    "en": [
+      "Hip hinge with a stick.",
+      "Romanian deadlift.",
+      "Hyperextensions."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/good-morning-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/good-morning-f.jpg"

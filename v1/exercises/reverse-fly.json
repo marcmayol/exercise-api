@@ -47,6 +47,30 @@
       "4. Slowly lower the dumbbells back to the starting position and repeat."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Subir los brazos por encima de la línea del hombro.",
+      "Dar impulso con el tronco.",
+      "Estirar tanto los codos que acabas cargando el bíceps."
+    ],
+    "en": [
+      "Raising your arms above shoulder level.",
+      "Using momentum from your torso.",
+      "Extending your elbows so much that you engage your biceps."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Face pull en polea.",
+      "Pájaros en máquina.",
+      "Remo alto con mancuernas."
+    ],
+    "en": [
+      "Face pull on cable machine.",
+      "Machine reverse fly.",
+      "High row with dumbbells."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/reverse-fly-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/reverse-fly-f.jpg"

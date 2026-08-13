@@ -42,6 +42,30 @@
       "Keep your hips still over your knees; repeat and switch sides."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Girar la cadera en vez de la espalda alta.",
+      "Dejar caer el codo de apoyo.",
+      "Ir rápido."
+    ],
+    "en": [
+      "Rotating your hip instead of your upper back.",
+      "Dropping your supporting elbow.",
+      "Going fast."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Apertura de pecho tumbado (libro abierto).",
+      "Extensión torácica sobre banco.",
+      "Giro sentado en una silla."
+    ],
+    "en": [
+      "Open book stretch.",
+      "Thoracic extension on a bench.",
+      "Seated chair twist."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/quadruped-thoracic-rotation-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/quadruped-thoracic-rotation-f.jpg"

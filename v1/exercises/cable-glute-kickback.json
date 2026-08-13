@@ -42,6 +42,30 @@
       "Slowly return to the starting position without letting the weight stack touch."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Arquear la lumbar para subir más la pierna.",
+      "Girar la cadera hacia fuera.",
+      "Soltar de golpe al volver."
+    ],
+    "en": [
+      "Arching your lower back to lift your leg higher.",
+      "Rotating your hip outward.",
+      "Releasing abruptly on the return."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Patada de glúteo a cuatro patas sin peso.",
+      "Hip thrust.",
+      "Puente a una pierna."
+    ],
+    "en": [
+      "Quadruped glute kickback without weight.",
+      "Hip thrust.",
+      "Single-leg bridge."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/cable-glute-kickback-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/cable-glute-kickback-f.jpg"

@@ -42,6 +42,30 @@
       "Rotate both knees over to the other side to switch position and repeat."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Encorvar la espalda al girar.",
+      "Forzar el giro con las manos hasta que pinche la rodilla.",
+      "Dejar el peso sobre una sola nalga."
+    ],
+    "en": [
+      "Rounding your back as you rotate.",
+      "Forcing the rotation with your hands until your knee pinches.",
+      "Leaving the weight on one glute."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Estiramiento de glúteo (figura 4).",
+      "Sentarte con las piernas cruzadas y llevar el pecho al frente.",
+      "Estiramiento de flexores de cadera."
+    ],
+    "en": [
+      "Figure 4 glute stretch.",
+      "Sitting cross-legged and bringing your chest forward.",
+      "Hip flexor stretch."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/hip-90-90-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/hip-90-90-f.jpg"

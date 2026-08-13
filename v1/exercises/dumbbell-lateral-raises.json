@@ -34,6 +34,30 @@
       "Slowly lower the dumbbells back to the starting position, controlling the movement."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Usar demasiado peso y subir con balanceo del cuerpo.",
+      "Encoger los hombros hacia las orejas (entra el trapecio).",
+      "Subir por encima de la línea de los hombros."
+    ],
+    "en": [
+      "Using too much weight and swinging your body.",
+      "Shrugging your shoulders towards your ears (engaging the traps).",
+      "Raising above shoulder level."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Elevaciones laterales en polea (un brazo).",
+      "Elevaciones laterales en máquina específica.",
+      "Hazlas sentado para más estabilidad."
+    ],
+    "en": [
+      "Single-arm cable lateral raises.",
+      "Lateral raises on a specific machine.",
+      "Do them seated for more stability."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/dumbbell-lateral-raises-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/dumbbell-lateral-raises-f.jpg"

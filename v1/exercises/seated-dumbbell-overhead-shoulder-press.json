@@ -42,6 +42,30 @@
       "Slowly lower the dumbbells back to the starting position."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Arquear mucho la espalda al empujar.",
+      "Bajar poco recorrido (no llegar a la altura de las orejas).",
+      "Empujar con impulso de piernas/tronco."
+    ],
+    "en": [
+      "Overarching your back as you press.",
+      "Lowering with a short range of motion (not reaching ear level).",
+      "Using leg/torso momentum to push."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Press militar sentado con mancuernas.",
+      "Press de hombros en multiestación con poleas.",
+      "Elevaciones laterales si no hay para press."
+    ],
+    "en": [
+      "Seated dumbbell military press.",
+      "Shoulder press on cable machine.",
+      "Lateral raises if no press available."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/seated-dumbbell-overhead-shoulder-press-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/seated-dumbbell-overhead-shoulder-press-f.jpg"

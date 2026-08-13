@@ -47,6 +47,30 @@
       "Bend your elbows and pull them back into a W, squeezing your shoulder blades, then return to the start."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Usar mancuernas pesadas: aquí sobra peso.",
+      "Encoger los hombros hacia las orejas.",
+      "Despegar el pecho del banco para dar impulso."
+    ],
+    "en": [
+      "Using heavy dumbbells: weight is unnecessary here.",
+      "Shrugging your shoulders towards your ears.",
+      "Lifting your chest off the bench to gain momentum."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "El mismo movimiento tumbado boca abajo en el suelo, sin peso.",
+      "Face pull en polea.",
+      "Pájaros con mancuernas."
+    ],
+    "en": [
+      "The same movement lying face down on the floor, no weight.",
+      "Face pull on cable machine.",
+      "Dumbbell reverse fly."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/y-t-w-raise-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/y-t-w-raise-f.jpg"

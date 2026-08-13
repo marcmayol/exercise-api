@@ -50,6 +50,30 @@
       "Descend until your thighs are parallel to the floor, then push through your heels to return to the starting position."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Dejar caer los codos y perder la barra hacia delante.",
+      "Redondear la espalda alta.",
+      "Levantar los talones."
+    ],
+    "en": [
+      "Dropping your elbows and losing the bar forward.",
+      "Rounding your upper back.",
+      "Lifting your heels."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Sentadilla goblet.",
+      "Sentadilla con barra atrás.",
+      "Prensa de piernas."
+    ],
+    "en": [
+      "Goblet squat.",
+      "Back squat.",
+      "Leg press."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/front-squat-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/front-squat-f.jpg"

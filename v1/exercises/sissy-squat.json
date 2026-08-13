@@ -36,6 +36,30 @@
       "Return to the starting position by pushing with your quadriceps."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Dejar caer la cadera hacia atrás: aquí las rodillas van adelante y la cadera queda alineada.",
+      "Bajar más de lo que aguanta la rodilla.",
+      "Hacerlo sin sujeción cuando aún no controlas el equilibrio."
+    ],
+    "en": [
+      "Letting your hips drop back: here the knees go forward and the hips stay aligned.",
+      "Lowering more than your knees can handle.",
+      "Doing it without support when you haven't mastered balance."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Extensión de piernas en máquina.",
+      "Sentadilla sissy sujetándote a un soporte.",
+      "Sentadilla goblet."
+    ],
+    "en": [
+      "Leg extension on machine.",
+      "Sissy squat holding onto a support.",
+      "Goblet squat."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/sissy-squat-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/sissy-squat-f.jpg"

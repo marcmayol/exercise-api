@@ -42,6 +42,30 @@
       "Slowly return to the starting position with control."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Echar mucho el tronco hacia atrás.",
+      "Tirar solo con los brazos sin juntar los omóplatos.",
+      "Subir soltando de golpe."
+    ],
+    "en": [
+      "Leaning too far back.",
+      "Pulling only with your arms without squeezing your shoulder blades.",
+      "Letting go abruptly on the way up."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Jalón al pecho con agarre ancho.",
+      "Dominada asistida con agarre neutro.",
+      "Remo en polea."
+    ],
+    "en": [
+      "Wide-grip pulldown.",
+      "Assisted neutral-grip pull-up.",
+      "Cable row."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/neutral-grip-pulldown-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/neutral-grip-pulldown-f.jpg"

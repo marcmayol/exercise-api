@@ -55,6 +55,30 @@
       "Keep your torso upright and push through the front heel to return to the starting position."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Dar un paso demasiado corto y cargar la rodilla.",
+      "Inclinar el tronco hacia delante.",
+      "Golpear el suelo con la rodilla de atrás."
+    ],
+    "en": [
+      "Taking too short a step and loading your knee.",
+      "Leaning your torso forward.",
+      "Banging the ground with your back knee."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Zancadas sin peso.",
+      "Sentadilla búlgara.",
+      "Prensa de piernas a una pierna."
+    ],
+    "en": [
+      "Bodyweight lunges.",
+      "Bulgarian split squat.",
+      "Single-leg leg press."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/dumbbell-lunges-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/dumbbell-lunges-f.jpg"

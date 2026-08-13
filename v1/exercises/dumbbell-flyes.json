@@ -42,6 +42,30 @@
       "Return to the starting position by squeezing your chest and repeat."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Doblar y estirar los codos: esto no es un press.",
+      "Bajar tanto que el hombro queda forzado.",
+      "Usar mancuernas demasiado pesadas."
+    ],
+    "en": [
+      "Bending and straightening your elbows: this is not a press.",
+      "Lowering so much that your shoulder is strained.",
+      "Using dumbbells that are too heavy."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Pec deck.",
+      "Cruce de poleas.",
+      "Press de pecho con mancuernas."
+    ],
+    "en": [
+      "Pec deck.",
+      "Cable crossover.",
+      "Dumbbell chest press."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/dumbbell-flyes-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/dumbbell-flyes-f.jpg"

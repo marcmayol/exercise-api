@@ -36,6 +36,30 @@
       "Slowly lower the handle back to the starting position, controlling the movement."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Subir por encima de la línea de los ojos.",
+      "Balancearte para dar impulso.",
+      "Doblar el codo para ayudarte."
+    ],
+    "en": [
+      "Lifting above eye level.",
+      "Swinging for momentum.",
+      "Bending your elbow to assist."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Elevación frontal con mancuernas.",
+      "Press de hombros.",
+      "Elevaciones laterales en polea."
+    ],
+    "en": [
+      "Dumbbell front raise.",
+      "Shoulder press.",
+      "Cable lateral raises."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/cable-front-raise-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/cable-front-raise-f.jpg"

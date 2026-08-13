@@ -36,6 +36,30 @@
       "Come back and repeat; move the foot further away if it is easy, then switch sides."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Levantar el talón para llegar más lejos.",
+      "Girar el pie hacia fuera para ganar recorrido.",
+      "Empujar a tirones en vez de ir y volver despacio."
+    ],
+    "en": [
+      "Lifting your heel to reach further.",
+      "Turning your foot outward to gain range.",
+      "Pushing in jerks instead of moving slowly back and forth."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Estiramiento de gemelo en pared.",
+      "El mismo movimiento sentado, empujando la rodilla con las manos.",
+      "Bajar y subir el talón desde un escalón."
+    ],
+    "en": [
+      "Calf stretch on wall.",
+      "Same movement seated, pushing the knee with your hands.",
+      "Lowering and raising the heel from a step."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/ankle-dorsiflexion-wall-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/ankle-dorsiflexion-wall-f.jpg"

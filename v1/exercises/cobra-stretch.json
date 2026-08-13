@@ -42,6 +42,30 @@
       "Hold the position for 15-30 seconds, then gently lower down."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Empujar con los brazos hasta forzar la lumbar.",
+      "Encoger los hombros hacia las orejas.",
+      "Despegar la cadera del suelo."
+    ],
+    "en": [
+      "Pushing with your arms to force your lower back.",
+      "Shrugging your shoulders towards your ears.",
+      "Lifting your hips off the floor."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Extensión sobre los antebrazos (esfinge).",
+      "Gato-vaca.",
+      "Extensión torácica sobre banco."
+    ],
+    "en": [
+      "Forearm extension (sphinx).",
+      "Cat-cow.",
+      "Thoracic extension on bench."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/cobra-stretch-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/cobra-stretch-f.jpg"

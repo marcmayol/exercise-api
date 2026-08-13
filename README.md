@@ -32,6 +32,8 @@ ex.name.en;              // "Leg press"
 ex.equipment.es;         // "Máquina"
 ex.primaryMuscles[0].es; // "Cuádriceps"
 ex.instructions.en;      // [ "Adjust the seat…", … ]
+ex.mistakes.es;          // [ "Bajar tanto que la cadera se despega…", … ]
+ex.alternatives.es;      // [ "Sentadilla goblet.", … ]
 ex.images.female;        // .../leg-press-f.jpg
 ```
 

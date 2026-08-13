@@ -39,6 +39,30 @@
       "Twist your torso to one side, bringing your hands or an object towards the floor, then repeat to the opposite side."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Girar solo los brazos y no el tronco.",
+      "Redondear la espalda.",
+      "Ir rápido perdiendo el control del peso."
+    ],
+    "en": [
+      "Moving only your arms and not your torso.",
+      "Rounding your back.",
+      "Going fast and losing control of the weight."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Press Pallof.",
+      "Leñador en polea.",
+      "Plancha lateral."
+    ],
+    "en": [
+      "Pallof press.",
+      "Cable woodchopper.",
+      "Side plank."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/russian-twist-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/russian-twist-f.jpg"

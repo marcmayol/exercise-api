@@ -34,6 +34,30 @@
       "Curl your wrists upwards, lifting the dumbbells as high as possible, then slowly lower back to the starting position."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Mover el codo o el antebrazo en vez de solo la muñeca.",
+      "Cargar tanto que solo haces medio recorrido.",
+      "Soltar el peso de golpe al bajar."
+    ],
+    "en": [
+      "Moving your elbow or forearm instead of just your wrist.",
+      "Loading so much that you only do half the range of motion.",
+      "Dropping the weight suddenly on the way down."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Curl de muñeca sobre banco.",
+      "Curl de muñeca inverso.",
+      "Aguantar una mancuerna con los dedos (trabajo de agarre)."
+    ],
+    "en": [
+      "Wrist curl on bench.",
+      "Reverse wrist curl.",
+      "Holding a dumbbell with fingers (grip work)."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/wrist-curl-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/wrist-curl-f.jpg"

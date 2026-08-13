@@ -47,6 +47,30 @@
       "Bring the hand back down, repeat a few times and switch sides."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Girar desde la cadera en vez de desde la espalda alta.",
+      "Dejar caer el pecho al suelo.",
+      "Ir a tirones."
+    ],
+    "en": [
+      "Rotating from the hip instead of the upper back.",
+      "Dropping your chest to the floor.",
+      "Jerking movements."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Rotación torácica en cuadrupedia.",
+      "Apertura de pecho tumbado (libro abierto).",
+      "Zancada baja sin rotación."
+    ],
+    "en": [
+      "Quadruped thoracic rotation.",
+      "Lying chest opener (open book).",
+      "Low lunge without rotation."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/low-lunge-rotation-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/low-lunge-rotation-f.jpg"

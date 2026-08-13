@@ -42,6 +42,30 @@
       "Slowly return to the starting position, controlling the movement."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Girar con los brazos y no con el tronco.",
+      "Mover las caderas en vez de mantenerlas firmes.",
+      "Poner tanto peso que te arrastra."
+    ],
+    "en": [
+      "Rotating with your arms instead of your torso.",
+      "Moving your hips instead of keeping them stable.",
+      "Using so much weight that it pulls you."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Press Pallof.",
+      "Giro ruso.",
+      "Plancha lateral."
+    ],
+    "en": [
+      "Pallof press.",
+      "Russian twist.",
+      "Side plank."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/cable-woodchopper-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/cable-woodchopper-f.jpg"

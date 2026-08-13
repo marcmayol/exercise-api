@@ -47,6 +47,30 @@
       "Return to the starting position, ensuring you control the movement."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Doblar los codos y convertirlo en un press.",
+      "Arquear la lumbar al llevar el peso atrás.",
+      "Bajar más de lo que aguanta tu hombro."
+    ],
+    "en": [
+      "Bending your elbows and turning it into a press.",
+      "Arching your lower back as you bring the weight back.",
+      "Lowering more than your shoulder can handle."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Pullover en polea.",
+      "Jalón con brazos rectos.",
+      "Jalón al pecho."
+    ],
+    "en": [
+      "Cable pullover.",
+      "Straight-arm pulldown.",
+      "Lat pulldown."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/dumbbell-pullover-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/dumbbell-pullover-f.jpg"

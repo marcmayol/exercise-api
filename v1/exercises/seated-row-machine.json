@@ -47,6 +47,30 @@
       "Slowly return to the starting position without releasing tension."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Balancear el tronco hacia atrás para mover el peso.",
+      "Redondear la espalda al estirar los brazos.",
+      "Encoger los hombros hacia las orejas."
+    ],
+    "en": [
+      "Swinging your torso backward to move the weight.",
+      "Rounding your back as you extend your arms.",
+      "Shrugging your shoulders towards your ears."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Remo con barra inclinado (bent-over row).",
+      "Remo a un brazo con mancuerna apoyando rodilla en el banco.",
+      "Remo en polea baja con triángulo."
+    ],
+    "en": [
+      "Bent-over barbell row.",
+      "One-arm dumbbell row with knee on bench.",
+      "Low pulley row with triangle handle."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/seated-row-machine-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/seated-row-machine-f.jpg"

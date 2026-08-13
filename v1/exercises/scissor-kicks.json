@@ -42,6 +42,30 @@
       "Alternate crossing your legs, one over the other, keeping your core engaged."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Despegar la lumbar del suelo.",
+      "Subir demasiado las piernas y perder la tensión del abdomen.",
+      "Aguantar la respiración."
+    ],
+    "en": [
+      "Lifting your lower back off the floor.",
+      "Raising your legs too high and losing abdominal tension.",
+      "Holding your breath."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Tijeras con las rodillas algo dobladas.",
+      "Dead bug.",
+      "Elevación de piernas tumbado."
+    ],
+    "en": [
+      "Scissors with slightly bent knees.",
+      "Dead bug.",
+      "Lying leg raise."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/scissor-kicks-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/scissor-kicks-f.jpg"

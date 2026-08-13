@@ -47,6 +47,30 @@
       "Lower your arms back to the starting position and repeat."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Despegar la lumbar de la pared arqueando la espalda.",
+      "Perder el contacto de las muñecas o los codos.",
+      "Subir más de lo que te deja el hombro."
+    ],
+    "en": [
+      "Arching your lower back away from the wall.",
+      "Losing contact with your wrists or elbows.",
+      "Raising higher than your shoulder allows."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "El mismo movimiento tumbado en el suelo.",
+      "Face pull en polea.",
+      "Retracción de barbilla si el problema es la postura del cuello."
+    ],
+    "en": [
+      "The same movement lying on the floor.",
+      "Face pull on a cable machine.",
+      "Chin tuck if the issue is neck posture."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/wall-angels-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/wall-angels-f.jpg"

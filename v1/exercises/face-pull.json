@@ -47,6 +47,30 @@
       "Slowly return to the starting position, controlling the movement."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Usar demasiado peso y tirar con todo el cuerpo.",
+      "Bajar los codos (se convierte en remo).",
+      "No abrir las manos al final."
+    ],
+    "en": [
+      "Using too much weight and pulling with your whole body.",
+      "Dropping your elbows (turns into a row).",
+      "Not spreading your hands at the end."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Pájaros (aperturas posteriores) con mancuernas inclinado.",
+      "Face pull con goma elástica.",
+      "Remo al cuello en polea."
+    ],
+    "en": [
+      "Bent-over rear delt fly with dumbbells.",
+      "Face pull with resistance band.",
+      "Cable high pull."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/face-pull-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/face-pull-f.jpg"

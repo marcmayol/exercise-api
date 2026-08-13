@@ -36,6 +36,30 @@
       "Return to the starting position by extending your arms without locking the elbows."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Abrir los codos hacia fuera al bajar.",
+      "Mover los hombros en vez de dejar el brazo quieto y girar solo el codo.",
+      "Bajar la barra a la frente sin control."
+    ],
+    "en": [
+      "Flaring your elbows out as you lower.",
+      "Moving your shoulders instead of keeping your arm still and rotating only at the elbow.",
+      "Lowering the bar to your forehead without control."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Extensión de tríceps en polea.",
+      "Extensión sobre la cabeza con mancuerna.",
+      "Press de banca cerrado."
+    ],
+    "en": [
+      "Tricep extension on cable machine.",
+      "Overhead dumbbell extension.",
+      "Close-grip bench press."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/skull-crusher-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/skull-crusher-f.jpg"

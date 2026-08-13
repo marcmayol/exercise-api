@@ -45,6 +45,30 @@
       "Lower yourself in a controlled manner back to the starting position."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Dar patadas para subir.",
+      "No estirar del todo abajo.",
+      "Encoger los hombros al colgarte."
+    ],
+    "en": [
+      "Kicking to get up.",
+      "Not fully extending at the bottom.",
+      "Shrugging your shoulders when hanging."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Dominada asistida en máquina o con goma.",
+      "Negativas: subir con ayuda y bajar en cinco segundos.",
+      "Jalón al pecho."
+    ],
+    "en": [
+      "Assisted pull-up with machine or band.",
+      "Negatives: use assistance to go up and lower in five seconds.",
+      "Lat pulldown."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/pull-ups-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/pull-ups-f.jpg"

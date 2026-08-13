@@ -36,6 +36,30 @@
       "Slowly lower your shoulders back to the floor and repeat."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Tirar del cuello con las manos.",
+      "Subir todo el tronco: aquí solo despegan los omóplatos.",
+      "Coger impulso con los brazos."
+    ],
+    "en": [
+      "Pulling your neck with your hands.",
+      "Lifting your entire torso: only your shoulder blades should lift.",
+      "Using your arms for momentum."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Crunch con las piernas elevadas.",
+      "Dead bug.",
+      "Plancha."
+    ],
+    "en": [
+      "Crunch with legs elevated.",
+      "Dead bug.",
+      "Plank."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/crunch-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/crunch-f.jpg"

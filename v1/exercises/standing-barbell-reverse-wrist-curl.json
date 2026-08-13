@@ -36,6 +36,30 @@
       "Lower the bar slowly until your wrists are relaxed again and repeat."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Cambiar el agarre a supino sin darte cuenta: aquí las palmas miran hacia atrás.",
+      "Doblar los codos para ayudarte.",
+      "Cargar demasiado: aquí se mueve muy poco peso."
+    ],
+    "en": [
+      "Switching to a supine grip without noticing: here palms face backward.",
+      "Bending your elbows to assist.",
+      "Loading too much weight: here you move very little weight."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Curl de muñeca inverso apoyado en un banco.",
+      "Curl de muñeca normal.",
+      "Curl martillo para el antebrazo."
+    ],
+    "en": [
+      "Reverse wrist curl on a bench.",
+      "Regular wrist curl.",
+      "Hammer curl for forearms."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/standing-barbell-reverse-wrist-curl-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/standing-barbell-reverse-wrist-curl-f.jpg"

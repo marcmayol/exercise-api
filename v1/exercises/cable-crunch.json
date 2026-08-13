@@ -36,6 +36,30 @@
       "Slowly return to the starting position, maintaining control."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Flexionar la cadera en vez de la columna: hay que enrollar el tronco.",
+      "Tirar con los brazos.",
+      "Mover las caderas adelante y atrás."
+    ],
+    "en": [
+      "Hinging at the hips instead of curling the spine.",
+      "Pulling with your arms.",
+      "Moving your hips back and forth."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Crunch en el suelo.",
+      "Rueda abdominal.",
+      "Elevación de piernas colgado."
+    ],
+    "en": [
+      "Floor crunch.",
+      "Ab wheel rollout.",
+      "Hanging leg raise."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/cable-crunch-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/cable-crunch-f.jpg"

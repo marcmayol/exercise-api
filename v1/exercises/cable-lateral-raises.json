@@ -36,6 +36,30 @@
       "Slowly lower the arm back to the starting position and repeat."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Subir el brazo por encima del hombro.",
+      "Dar impulso con el cuerpo.",
+      "Girar la muñeca hacia arriba al final."
+    ],
+    "en": [
+      "Lifting your arm above shoulder height.",
+      "Using body momentum.",
+      "Twisting your wrist upwards at the end."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Elevaciones laterales con mancuernas.",
+      "Elevaciones en máquina.",
+      "Pájaros si buscas la parte trasera del hombro."
+    ],
+    "en": [
+      "Dumbbell lateral raises.",
+      "Machine lateral raises.",
+      "Rear delt flyes if targeting the back of the shoulder."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/cable-lateral-raises-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/cable-lateral-raises-f.jpg"

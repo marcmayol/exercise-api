@@ -47,6 +47,30 @@
       "Push the bar up until your arms are fully extended."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Rebotar la barra en el pecho.",
+      "Despegar los glúteos del banco.",
+      "Abrir los codos a 90 grados del cuerpo."
+    ],
+    "en": [
+      "Bouncing the bar off your chest.",
+      "Lifting your glutes off the bench.",
+      "Flaring your elbows at 90 degrees from your body."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Press con mancuernas.",
+      "Press de pecho en máquina.",
+      "Flexiones si no hay banco libre."
+    ],
+    "en": [
+      "Dumbbell press.",
+      "Chest press machine.",
+      "Push-ups if no bench is available."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/barbell-bench-press-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/barbell-bench-press-f.jpg"

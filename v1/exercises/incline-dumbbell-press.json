@@ -47,6 +47,30 @@
       "Press the dumbbells upward until your arms are nearly extended, then lower slowly."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Inclinar el banco de más y convertirlo en press de hombro.",
+      "Chocar las mancuernas arriba y perder la tensión.",
+      "Bajar los codos por detrás de la línea del cuerpo."
+    ],
+    "en": [
+      "Inclining the bench too much and turning it into a shoulder press.",
+      "Banging the dumbbells together at the top and losing tension.",
+      "Lowering your elbows behind the line of your body."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Press inclinado en máquina.",
+      "Press de pecho plano con mancuernas.",
+      "Pec deck."
+    ],
+    "en": [
+      "Incline machine press.",
+      "Flat dumbbell chest press.",
+      "Pec deck."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/incline-dumbbell-press-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/incline-dumbbell-press-f.jpg"

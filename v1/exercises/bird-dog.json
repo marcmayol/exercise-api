@@ -47,6 +47,30 @@
       "Return slowly to the starting position and alternate sides on each repetition."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Girar la cadera al levantar la pierna.",
+      "Subir la pierna más alto que la espalda y arquear la lumbar.",
+      "Ir rápido: el ejercicio es de control, no de repeticiones."
+    ],
+    "en": [
+      "Rotating your hip as you lift your leg.",
+      "Raising your leg higher than your back and arching your lower back.",
+      "Going fast: the exercise is about control, not repetitions."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Solo brazo o solo pierna, hasta controlar el equilibrio.",
+      "Dead bug tumbado.",
+      "Plancha con antebrazos."
+    ],
+    "en": [
+      "Arm only or leg only, until you master balance.",
+      "Dead bug lying down.",
+      "Forearm plank."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/bird-dog-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/bird-dog-f.jpg"

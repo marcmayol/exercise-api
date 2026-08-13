@@ -50,6 +50,30 @@
       "Stop when you feel a stretch in your hamstrings, then return to the starting position."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Doblar las rodillas como en una sentadilla.",
+      "Redondear la espalda al bajar.",
+      "Separar la barra o las mancuernas del cuerpo."
+    ],
+    "en": [
+      "Bending your knees like in a squat.",
+      "Rounding your back as you lower.",
+      "Keeping the barbell or dumbbells away from your body."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Bisagra de cadera con palo.",
+      "Buenos días con barra vacía.",
+      "Curl de piernas si la espalda molesta."
+    ],
+    "en": [
+      "Hip hinge with a stick.",
+      "Good mornings with an empty barbell.",
+      "Leg curl if your back hurts."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/romanian-deadlift-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/romanian-deadlift-f.jpg"

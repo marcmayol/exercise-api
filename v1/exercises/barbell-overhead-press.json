@@ -42,6 +42,30 @@
       "Lower the barbell slowly back to the starting position, controlling the movement."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Arquear la lumbar para compensar la falta de movilidad de hombro.",
+      "Sacar la cabeza hacia delante y golpear la barbilla con la barra.",
+      "Empujar hacia delante en vez de hacia arriba."
+    ],
+    "en": [
+      "Arching your lower back to compensate for lack of shoulder mobility.",
+      "Pushing your head forward and hitting your chin with the bar.",
+      "Pushing forward instead of upward."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Press de hombros con mancuernas.",
+      "Press de hombros en máquina.",
+      "Press sentado con respaldo si la espalda se arquea."
+    ],
+    "en": [
+      "Dumbbell shoulder press.",
+      "Machine shoulder press.",
+      "Seated press with back support if your back arches."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/barbell-overhead-press-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/barbell-overhead-press-f.jpg"

@@ -47,6 +47,30 @@
       "Lower yourself back to the starting position in a controlled manner without arching your back."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Subir más allá de la línea del cuerpo y arquear la lumbar.",
+      "Coger impulso.",
+      "Colocar mal el apoyo: debe quedar por debajo de la cadera."
+    ],
+    "en": [
+      "Raising beyond the body's line and arching your lower back.",
+      "Using momentum.",
+      "Incorrectly positioning the support: it should be below the hips."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Superman en el suelo.",
+      "Buenos días con barra vacía.",
+      "Peso muerto rumano ligero."
+    ],
+    "en": [
+      "Superman on the floor.",
+      "Good mornings with an empty barbell.",
+      "Light Romanian deadlift."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/back-extension-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/back-extension-f.jpg"

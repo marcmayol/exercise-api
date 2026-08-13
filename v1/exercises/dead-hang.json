@@ -47,6 +47,30 @@
       "4. Hold the position for the desired time, breathing in a controlled manner."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Colgarte con los hombros pegados a las orejas todo el rato.",
+      "Apretar la barra hasta que solo aguanta el antebrazo.",
+      "Balancearte."
+    ],
+    "en": [
+      "Hanging with your shoulders shrugged up to your ears the whole time.",
+      "Gripping the bar so tightly that only your forearm holds you up.",
+      "Swinging."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Colgarte con los pies apoyados para quitar peso.",
+      "Jalón al pecho.",
+      "Remo invertido."
+    ],
+    "en": [
+      "Hanging with your feet supported to reduce weight.",
+      "Lat pulldown.",
+      "Inverted row."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/dead-hang-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/dead-hang-f.jpg"

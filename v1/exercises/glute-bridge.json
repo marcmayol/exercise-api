@@ -47,6 +47,30 @@
       "Hold the position briefly, then slowly lower your hips back to the floor."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Empujar con la lumbar y arquear la espalda arriba.",
+      "Separar o juntar las rodillas al subir.",
+      "Apoyar los pies demasiado lejos: entonces trabajan los isquios."
+    ],
+    "en": [
+      "Pushing with your lower back and arching your back up.",
+      "Letting your knees spread or come together as you lift.",
+      "Placing your feet too far away: then your hamstrings do the work."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Hip thrust con barra o en máquina.",
+      "Puente a una pierna.",
+      "Patada de glúteo en polea."
+    ],
+    "en": [
+      "Barbell or machine hip thrust.",
+      "Single-leg bridge.",
+      "Cable glute kickback."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/glute-bridge-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/glute-bridge-f.jpg"

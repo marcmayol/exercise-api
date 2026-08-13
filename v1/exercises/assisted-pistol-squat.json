@@ -47,6 +47,30 @@
       "Drive through the heel to stand back up, using the arm only as much as you need, then switch legs."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Tirar del soporte con el brazo en vez de apoyarte lo justo.",
+      "Dejar caer la cadera de golpe al bajar.",
+      "Levantar el talón de la pierna de apoyo."
+    ],
+    "en": [
+      "Pulling on the support with your arm instead of just using it for balance.",
+      "Dropping your hip suddenly as you lower.",
+      "Lifting the heel of your supporting leg."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Sentadilla a cajón a una pierna.",
+      "Sentadilla búlgara.",
+      "Sentadilla sin peso a dos piernas si aún no controlas el equilibrio."
+    ],
+    "en": [
+      "Single-leg box squat.",
+      "Bulgarian split squat.",
+      "Bodyweight squat if you haven't mastered balance yet."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/assisted-pistol-squat-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/assisted-pistol-squat-f.jpg"

@@ -47,6 +47,30 @@
       "Hold the position while breathing deeply, then stand up using the support."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Levantar los talones.",
+      "Dejar caer el pecho hacia el suelo.",
+      "Aguantar la respiración."
+    ],
+    "en": [
+      "Lifting your heels.",
+      "Dropping your chest towards the floor.",
+      "Holding your breath."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Sentadilla profunda sujetándote a un soporte.",
+      "Poner un disco bajo los talones.",
+      "Sentadilla a cajón."
+    ],
+    "en": [
+      "Deep squat holding onto a support.",
+      "Placing a plate under your heels.",
+      "Box squat."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/deep-squat-hold-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/deep-squat-hold-f.jpg"

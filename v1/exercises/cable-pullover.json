@@ -47,6 +47,30 @@
       "Slowly return to the starting position, controlling the movement."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Doblar los codos y convertirlo en un jalón.",
+      "Tirar con la lumbar en vez de con el dorsal.",
+      "Dejar que el peso te levante los hombros al volver."
+    ],
+    "en": [
+      "Bending your elbows and turning it into a row.",
+      "Pulling with your lower back instead of your lats.",
+      "Letting the weight lift your shoulders as you return."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Pullover con mancuerna.",
+      "Jalón al pecho.",
+      "Remo en polea."
+    ],
+    "en": [
+      "Dumbbell pullover.",
+      "Lat pulldown.",
+      "Cable row."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/cable-pullover-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/cable-pullover-f.jpg"

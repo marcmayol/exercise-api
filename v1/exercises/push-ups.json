@@ -45,6 +45,30 @@
       "Push up until your arms are fully extended."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Dejar caer la cadera.",
+      "Abrir los codos en cruz.",
+      "Bajar solo un palmo."
+    ],
+    "en": [
+      "Letting your hips sag.",
+      "Flaring your elbows out.",
+      "Lowering only a few inches."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Flexiones con las manos en un banco.",
+      "Flexiones de rodillas.",
+      "Press de pecho en máquina."
+    ],
+    "en": [
+      "Incline push-ups on a bench.",
+      "Knee push-ups.",
+      "Chest press on machine."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/push-ups-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/push-ups-f.jpg"

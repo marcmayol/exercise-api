@@ -47,6 +47,30 @@
       "Return to the starting position and repeat before switching sides."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Dejar caer la cadera al girar.",
+      "Apoyar el codo por delante del hombro.",
+      "Girar tan rápido que pierdes la línea del cuerpo."
+    ],
+    "en": [
+      "Letting your hip drop as you rotate.",
+      "Placing your elbow in front of your shoulder.",
+      "Rotating so quickly that you lose body alignment."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Plancha lateral estática.",
+      "Plancha lateral con rodillas apoyadas.",
+      "Press Pallof."
+    ],
+    "en": [
+      "Static side plank.",
+      "Side plank with knees down.",
+      "Pallof press."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/side-plank-rotation-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/side-plank-rotation-f.jpg"

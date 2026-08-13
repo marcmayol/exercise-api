@@ -50,6 +50,30 @@
       "Start pedaling at a comfortable pace, keeping your back straight and shoulders relaxed."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Sillín demasiado bajo: la rodilla queda muy flexionada abajo.",
+      "Balancear la cadera al pedalear.",
+      "Cargar el peso en las muñecas."
+    ],
+    "en": [
+      "Having the seat too low: knee too bent at the bottom.",
+      "Swaying your hips while pedaling.",
+      "Putting weight on your wrists."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Elíptica.",
+      "Cinta de correr.",
+      "Bicicleta de aire si quieres implicar los brazos."
+    ],
+    "en": [
+      "Elliptical.",
+      "Treadmill.",
+      "Air bike if you want to engage your arms."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/stationary-bike-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/stationary-bike-f.jpg"

@@ -67,6 +67,30 @@
       "Maintain a steady pace and control your breathing."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Pedalear solo con las piernas y dejar los brazos quietos.",
+      "Encorvar la espalda.",
+      "Salir a tope y morir en treinta segundos."
+    ],
+    "en": [
+      "Pedaling only with your legs and keeping your arms still.",
+      "Rounding your back.",
+      "Going all out and burning out in thirty seconds."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Bicicleta estática.",
+      "Remo (cardio).",
+      "Elíptica."
+    ],
+    "en": [
+      "Stationary bike.",
+      "Rowing machine (cardio).",
+      "Elliptical."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/air-bike-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/air-bike-f.jpg"

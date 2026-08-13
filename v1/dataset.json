@@ -213,6 +213,30 @@
           "Slowly return to the starting position, controlling the movement."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Bajar/soltar el peso de golpe en vez de controlar la vuelta.",
+          "Despegar la espalda del respaldo o arquear mucho la zona lumbar.",
+          "Bloquear los codos de golpe al final del empuje."
+        ],
+        "en": [
+          "Dropping the weight abruptly instead of controlling the return.",
+          "Lifting your back off the seat or excessively arching your lower back.",
+          "Locking your elbows abruptly at the end of the press."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Pec deck o aperturas en máquina.",
+          "Press con mancuernas en banco plano.",
+          "Flexiones (si no hay máquina libre)."
+        ],
+        "en": [
+          "Pec deck or machine fly.",
+          "Flat bench dumbbell press.",
+          "Push-ups (if no machine is available)."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/seated-chest-press-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/seated-chest-press-f.jpg"
@@ -272,6 +296,30 @@
           "Slowly return to the starting position, maintaining control."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Inclinar demasiado el banco (se convierte en press de hombro).",
+          "Sacar los codos del todo hacia atrás al bajar.",
+          "Usar impulso en vez de controlar el peso."
+        ],
+        "en": [
+          "Tilting the bench too much (turns into a shoulder press).",
+          "Pulling your elbows all the way back as you lower.",
+          "Using momentum instead of controlling the weight."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Pec deck (aperturas en máquina).",
+          "Press inclinado con mancuernas.",
+          "Press de pecho plano si no hay banco inclinable."
+        ],
+        "en": [
+          "Pec deck.",
+          "Incline dumbbell press.",
+          "Flat chest press if no incline bench is available."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/incline-chest-press-machine-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/incline-chest-press-machine-f.jpg"
@@ -324,6 +372,30 @@
           "Sit with your back supported and grasp the handles with elbows slightly bent.",
           "Exhale as you bring the handles together in front of you, keeping elbows in the same position.",
           "Inhale as you slowly return to the starting position without letting the weights touch."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Abrir demasiado atrás (estira en exceso el hombro).",
+          "Usar impulso o soltar el peso al abrir.",
+          "Encoger los hombros hacia las orejas."
+        ],
+        "en": [
+          "Opening too far back (overstretching the shoulder).",
+          "Using momentum or dropping the weight as you open.",
+          "Shrugging your shoulders towards your ears."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Aperturas con mancuernas en banco.",
+          "Press de pecho en máquina.",
+          "Cruce de poleas (cable crossover)."
+        ],
+        "en": [
+          "Dumbbell fly on bench.",
+          "Chest press on machine.",
+          "Cable crossover."
         ]
       },
       "images": {
@@ -380,6 +452,30 @@
           "Slowly return the bar to the starting position, controlling the movement."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Echar mucho el cuerpo hacia atrás y tirar con impulso.",
+          "Llevar la barra detrás de la nuca.",
+          "Tirar solo con los brazos sin juntar los omóplatos."
+        ],
+        "en": [
+          "Leaning too far back and pulling with momentum.",
+          "Bringing the bar behind your neck.",
+          "Pulling only with your arms without squeezing your shoulder blades together."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Dominadas (asistidas con goma o negativas si no llegas).",
+          "Pullover con mancuerna tumbado en banco.",
+          "Jalón en cualquier polea alta con maneral neutro o triángulo."
+        ],
+        "en": [
+          "Assisted pull-ups (with band or negatives if needed).",
+          "Dumbbell pullover lying on a bench.",
+          "Pulldown on any high cable machine with a neutral grip or triangle handle."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/chest-pulldown-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/chest-pulldown-f.jpg"
@@ -432,6 +528,30 @@
           "Grab the bar with a close grip, palms facing you.",
           "Pull the bar down until it touches the top of your chest, keeping your back straight.",
           "Slowly return to the starting position, controlling the movement."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Echar mucho el cuerpo hacia atrás y tirar con impulso.",
+          "Llevar la barra detrás de la nuca.",
+          "Tirar solo con los brazos sin juntar los omóplatos."
+        ],
+        "en": [
+          "Leaning too far back and pulling with momentum.",
+          "Bringing the bar behind your neck.",
+          "Pulling only with your arms without squeezing your shoulder blades."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Dominadas (asistidas con goma o negativas si no llegas).",
+          "Pullover con mancuerna tumbado en banco.",
+          "Jalón en cualquier polea alta con maneral neutro o triángulo."
+        ],
+        "en": [
+          "Assisted pull-ups (with band or negatives if needed).",
+          "Dumbbell pullover lying on a bench.",
+          "Pulldown on any high cable machine with a neutral handle or triangle."
         ]
       },
       "images": {
@@ -493,6 +613,30 @@
           "Slowly return to the starting position without releasing tension."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Balancear el tronco hacia atrás para mover el peso.",
+          "Redondear la espalda al estirar los brazos.",
+          "Encoger los hombros hacia las orejas."
+        ],
+        "en": [
+          "Swinging your torso backward to move the weight.",
+          "Rounding your back as you extend your arms.",
+          "Shrugging your shoulders towards your ears."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Remo con barra inclinado (bent-over row).",
+          "Remo a un brazo con mancuerna apoyando rodilla en el banco.",
+          "Remo en polea baja con triángulo."
+        ],
+        "en": [
+          "Bent-over barbell row.",
+          "One-arm dumbbell row with knee on bench.",
+          "Low pulley row with triangle handle."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/seated-row-machine-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/seated-row-machine-f.jpg"
@@ -552,6 +696,30 @@
           "Slowly return to the starting position, controlling the movement."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Balancear el tronco hacia atrás para mover el peso.",
+          "Redondear la espalda al estirar los brazos.",
+          "Encoger los hombros hacia las orejas."
+        ],
+        "en": [
+          "Swinging your torso back to move the weight.",
+          "Rounding your back as you extend your arms.",
+          "Shrugging your shoulders towards your ears."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Remo con barra inclinado (bent-over row).",
+          "Remo a un brazo con mancuerna apoyando rodilla en el banco.",
+          "Remo en polea baja con triángulo."
+        ],
+        "en": [
+          "Bent-over barbell row.",
+          "One-arm dumbbell row with knee on bench.",
+          "Low cable row with triangle handle."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/seated-cable-back-rows-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/seated-cable-back-rows-f.jpg"
@@ -604,6 +772,30 @@
           "Hold a dumbbell in each hand at shoulder height, palms facing forward.",
           "Press the dumbbells upward until arms are extended, without locking elbows.",
           "Slowly lower the dumbbells back to the starting position."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Arquear mucho la espalda al empujar.",
+          "Bajar poco recorrido (no llegar a la altura de las orejas).",
+          "Empujar con impulso de piernas/tronco."
+        ],
+        "en": [
+          "Overarching your back as you press.",
+          "Lowering with a short range of motion (not reaching ear level).",
+          "Using leg/torso momentum to push."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Press militar sentado con mancuernas.",
+          "Press de hombros en multiestación con poleas.",
+          "Elevaciones laterales si no hay para press."
+        ],
+        "en": [
+          "Seated dumbbell military press.",
+          "Shoulder press on cable machine.",
+          "Lateral raises if no press available."
         ]
       },
       "images": {
@@ -660,6 +852,30 @@
           "Slowly return to the starting position without letting the weights touch."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Arquear mucho la espalda al empujar.",
+          "Bajar poco recorrido (no llegar a la altura de las orejas).",
+          "Empujar con impulso de piernas/tronco."
+        ],
+        "en": [
+          "Overarching your back as you press.",
+          "Lowering too little (not reaching ear level).",
+          "Using leg/torso momentum to press."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Press militar sentado con mancuernas.",
+          "Press de hombros en multiestación con poleas.",
+          "Elevaciones laterales si no hay para press."
+        ],
+        "en": [
+          "Seated dumbbell military press.",
+          "Shoulder press on cable machine.",
+          "Lateral raises if no press available."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/machine-shoulder-press-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/machine-shoulder-press-f.jpg"
@@ -704,6 +920,30 @@
           "Stand with feet shoulder-width apart, holding a dumbbell in each hand at your sides.",
           "Keep a slight bend in the elbows and raise your arms to the sides until they are parallel to the floor.",
           "Slowly lower the dumbbells back to the starting position, controlling the movement."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Usar demasiado peso y subir con balanceo del cuerpo.",
+          "Encoger los hombros hacia las orejas (entra el trapecio).",
+          "Subir por encima de la línea de los hombros."
+        ],
+        "en": [
+          "Using too much weight and swinging your body.",
+          "Shrugging your shoulders towards your ears (engaging the traps).",
+          "Raising above shoulder level."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Elevaciones laterales en polea (un brazo).",
+          "Elevaciones laterales en máquina específica.",
+          "Hazlas sentado para más estabilidad."
+        ],
+        "en": [
+          "Single-arm cable lateral raises.",
+          "Lateral raises on a specific machine.",
+          "Do them seated for more stability."
         ]
       },
       "images": {
@@ -765,6 +1005,30 @@
           "Slowly return to the starting position, controlling the movement."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Usar demasiado peso y tirar con todo el cuerpo.",
+          "Bajar los codos (se convierte en remo).",
+          "No abrir las manos al final."
+        ],
+        "en": [
+          "Using too much weight and pulling with your whole body.",
+          "Dropping your elbows (turns into a row).",
+          "Not spreading your hands at the end."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Pájaros (aperturas posteriores) con mancuernas inclinado.",
+          "Face pull con goma elástica.",
+          "Remo al cuello en polea."
+        ],
+        "en": [
+          "Bent-over rear delt fly with dumbbells.",
+          "Face pull with resistance band.",
+          "Cable high pull."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/face-pull-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/face-pull-f.jpg"
@@ -815,6 +1079,30 @@
           "Hold a dumbbell in each hand with palms facing forward and arms extended at your sides.",
           "Bend your right elbow, lifting the dumbbell towards your shoulder while keeping the elbow close to your body.",
           "Slowly lower the dumbbell back to the starting position and repeat with the left arm."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Balancear el cuerpo para subir el peso.",
+          "Mover el codo hacia delante en vez de mantenerlo fijo.",
+          "Bajar soltando el peso sin control."
+        ],
+        "en": [
+          "Swinging your body to lift the weight.",
+          "Moving your elbow forward instead of keeping it fixed.",
+          "Lowering the weight without control."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Curl en polea baja con barra.",
+          "Curl en banco predicador o máquina de curl.",
+          "Curl con barra Z."
+        ],
+        "en": [
+          "Cable curl with bar.",
+          "Preacher curl or curl machine.",
+          "EZ bar curl."
         ]
       },
       "images": {
@@ -871,6 +1159,30 @@
           "Slowly lower the dumbbells back to the starting position."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Balancear el cuerpo para subir el peso.",
+          "Mover el codo hacia delante en vez de mantenerlo fijo.",
+          "Bajar soltando el peso sin control."
+        ],
+        "en": [
+          "Swinging your body to lift the weight.",
+          "Moving your elbow forward instead of keeping it fixed.",
+          "Lowering the weight without control."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Curl en polea baja con barra.",
+          "Curl en banco predicador o máquina de curl.",
+          "Curl con barra Z."
+        ],
+        "en": [
+          "Low cable curl with bar.",
+          "Preacher curl or curl machine.",
+          "EZ bar curl."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/dumbbell-hammer-biceps-curl-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/dumbbell-hammer-biceps-curl-f.jpg"
@@ -917,6 +1229,30 @@
           "Stand with feet shoulder-width apart and grip the bar with palms facing down.",
           "Keep elbows close to your body and push the bar down until arms are fully extended.",
           "Slowly return the bar to the starting position without moving the elbows."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Despegar los codos del cuerpo y ayudarte con el hombro.",
+          "Inclinarte sobre la polea para empujar con el peso del cuerpo.",
+          "No estirar del todo el codo abajo."
+        ],
+        "en": [
+          "Lifting your elbows away from your body and using your shoulder.",
+          "Leaning over the cable machine to push with your body weight.",
+          "Not fully extending your elbow at the bottom."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Press francés con mancuerna o barra Z.",
+          "Extensión de tríceps por encima de la cabeza con mancuerna.",
+          "Fondos en banco o en máquina."
+        ],
+        "en": [
+          "Dumbbell or EZ bar French press.",
+          "Overhead triceps extension with dumbbell.",
+          "Bench or machine dips."
         ]
       },
       "images": {
@@ -976,6 +1312,30 @@
           "Grip the handles with a firm and comfortable hold.",
           "Push down until your arms are nearly straight, maintaining control.",
           "Slowly return to the starting position without locking the elbows."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Abrir mucho los codos hacia los lados.",
+          "Bajar demasiado rápido sin control.",
+          "Usar un peso que te obligue a hacer trampa con el cuerpo."
+        ],
+        "en": [
+          "Flaring your elbows out too much.",
+          "Lowering too quickly without control.",
+          "Using a weight that forces you to cheat with your body."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Extensión de tríceps en polea con cuerda.",
+          "Fondos entre dos bancos.",
+          "Press cerrado con mancuernas."
+        ],
+        "en": [
+          "Tricep rope extension on cable machine.",
+          "Bench dips.",
+          "Close grip dumbbell press."
         ]
       },
       "images": {
@@ -1042,6 +1402,30 @@
           "Slowly return to the starting position, controlling the movement."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Bajar tanto que la cadera/lumbar se despega del asiento.",
+          "Bloquear las rodillas de golpe arriba.",
+          "Poner los pies demasiado bajos (carga excesiva en rodillas)."
+        ],
+        "en": [
+          "Lowering so much that your hips/lower back lift off the seat.",
+          "Locking your knees abruptly at the top.",
+          "Placing your feet too low (excessive load on knees)."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Sentadilla goblet con mancuerna.",
+          "Sentadilla en máquina Smith o hack.",
+          "Zancadas con mancuernas."
+        ],
+        "en": [
+          "Goblet squat with dumbbell.",
+          "Squat on Smith machine or hack squat.",
+          "Lunges with dumbbells."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/leg-press-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/leg-press-f.jpg"
@@ -1094,6 +1478,30 @@
           "Sit down and ensure your back is supported against the backrest.",
           "Hold the handles and bend your knees, bringing the pad towards your glutes.",
           "Slowly return to the starting position without letting the weight stack hit."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Levantar la cadera para ayudarte.",
+          "Hacer el recorrido corto.",
+          "Bajar el peso de golpe."
+        ],
+        "en": [
+          "Lifting your hips to help you.",
+          "Doing a short range of motion.",
+          "Dropping the weight suddenly."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Curl femoral con mancuerna entre los pies (tumbado).",
+          "Peso muerto rumano con mancuernas (técnica cuidada).",
+          "Curl nórdico asistido."
+        ],
+        "en": [
+          "Dumbbell leg curl between feet (lying).",
+          "Romanian deadlift with dumbbells (focus on form).",
+          "Assisted Nordic curl."
         ]
       },
       "images": {
@@ -1150,6 +1558,30 @@
           "Slowly lower your legs back to the starting position without dropping the weight abruptly."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Levantar la cadera para ayudarte.",
+          "Hacer el recorrido corto.",
+          "Bajar el peso de golpe."
+        ],
+        "en": [
+          "Lifting your hips to help you.",
+          "Doing a short range of motion.",
+          "Dropping the weight suddenly."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Curl femoral con mancuerna entre los pies (tumbado).",
+          "Peso muerto rumano con mancuernas (técnica cuidada).",
+          "Curl nórdico asistido."
+        ],
+        "en": [
+          "Dumbbell leg curl between feet (lying).",
+          "Romanian deadlift with dumbbells (proper form).",
+          "Assisted Nordic curl."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/lying-leg-curls-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/lying-leg-curls-f.jpg"
@@ -1196,6 +1628,30 @@
           "Place your feet under the padded rollers, ensuring your ankles are comfortable.",
           "Slowly extend your legs until they are nearly straight, avoiding locking the knees.",
           "Return to the starting position in a controlled manner, keeping tension on the quadriceps."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Soltar el peso de golpe en la bajada.",
+          "Usar impulso levantando el cuerpo.",
+          "Cargar tanto que solo hagas medio recorrido."
+        ],
+        "en": [
+          "Dropping the weight suddenly on the descent.",
+          "Using momentum by lifting your body.",
+          "Loading so much that you only do half the range of motion."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Sentadilla goblet.",
+          "Zancadas o sentadilla búlgara.",
+          "Prensa de piernas con pies bajos."
+        ],
+        "en": [
+          "Goblet squat.",
+          "Lunges or Bulgarian split squat.",
+          "Leg press with low foot placement."
         ]
       },
       "images": {
@@ -1250,6 +1706,30 @@
           "Roll the barbell over your hips and ensure it is centered.",
           "With feet flat and knees bent, thrust your hips upward until your body forms a straight line from shoulders to knees.",
           "Lower your hips slowly back to the ground and repeat."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Arquear la zona lumbar en vez de empujar con el glúteo.",
+          "No subir del todo (recorrido corto).",
+          "Apoyar el cuello en vez de la parte alta de la espalda."
+        ],
+        "en": [
+          "Arching your lower back instead of driving with your glutes.",
+          "Not fully extending (short range of motion).",
+          "Resting your neck instead of your upper back."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Puente de glúteos en el suelo con disco.",
+          "Hip thrust en máquina específica.",
+          "Patada de glúteo en polea."
+        ],
+        "en": [
+          "Floor glute bridge with plate.",
+          "Hip thrust on a specific machine.",
+          "Cable glute kickback."
         ]
       },
       "images": {
@@ -1309,6 +1789,30 @@
           "Stand with your feet shoulder-width apart.",
           "Lower yourself in a controlled manner until your glutes touch the box.",
           "Push through your heels to return to the starting position."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Dejarte caer de golpe sobre el cajón.",
+          "Que las rodillas se vayan hacia dentro.",
+          "Redondear la espalda al bajar."
+        ],
+        "en": [
+          "Dropping onto the box.",
+          "Letting your knees cave in.",
+          "Rounding your back as you lower."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Sentadilla goblet con mancuerna.",
+          "Prensa de piernas.",
+          "Sentadilla libre sin cajón (si controlas la técnica)."
+        ],
+        "en": [
+          "Goblet squat with dumbbell.",
+          "Leg press.",
+          "Free squat without box (if you control the technique)."
         ]
       },
       "images": {
@@ -1375,6 +1879,30 @@
           "Push through your heels to return to the starting position."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Redondear la espalda o caer hacia delante.",
+          "Que las rodillas colapsen hacia dentro.",
+          "Despegar los talones del suelo."
+        ],
+        "en": [
+          "Rounding your back or leaning forward.",
+          "Letting your knees collapse inward.",
+          "Lifting your heels off the ground."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Sentadilla en máquina (hack o Smith).",
+          "Prensa de piernas.",
+          "Sentadilla a cajón."
+        ],
+        "en": [
+          "Hack or Smith machine squat.",
+          "Leg press.",
+          "Box squat."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/goblet-squats-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/goblet-squats-f.jpg"
@@ -1421,6 +1949,30 @@
           "Position the pads on your thighs and adjust the height if needed.",
           "Lift your heels as high as possible while keeping the balls of your feet on the platform.",
           "Slowly lower your heels until you feel a good stretch in your calves."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Hacer rebotes rápidos sin control.",
+          "Recorrido corto (no estirar abajo ni subir del todo).",
+          "Doblar mucho las rodillas (en la versión de pie)."
+        ],
+        "en": [
+          "Bouncing quickly without control.",
+          "Using a short range of motion (not stretching down or going all the way up).",
+          "Bending your knees too much (in the standing version)."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Elevación de gemelos de pie con mancuerna en la mano.",
+          "Gemelos en prensa (empujando con la punta).",
+          "A una pierna en un escalón."
+        ],
+        "en": [
+          "Standing calf raise with dumbbell in hand.",
+          "Calf press on leg press machine (pushing with the toes).",
+          "Single-leg on a step."
         ]
       },
       "images": {
@@ -1480,6 +2032,30 @@
           "Engage your core muscles and hold the position, breathing steadily."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Subir el culo o hundir la cadera.",
+          "Aguantar la respiración.",
+          "Dejar caer la cabeza o mirar al frente forzando el cuello."
+        ],
+        "en": [
+          "Raising your butt or sinking your hips.",
+          "Holding your breath.",
+          "Dropping your head or looking forward straining your neck."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Plancha con rodillas apoyadas (más fácil).",
+          "Plancha alta (sobre las manos).",
+          "Dead bug o abdominales hipopresivos."
+        ],
+        "en": [
+          "Knee plank (easier).",
+          "High plank (on hands).",
+          "Dead bug or hypopressive abs."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/plank-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/plank-f.jpg"
@@ -1532,6 +2108,30 @@
           "Place your forearm on the floor, aligning the elbow with the shoulder.",
           "Lift your hips to form a straight line from feet to head.",
           "Hold the position, ensuring not to let the hips drop."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Dejar caer la cadera hacia el suelo (rompe la línea del cuerpo).",
+          "Apoyar el codo adelantado o atrasado en vez de justo bajo el hombro.",
+          "Rotar el tronco hacia delante o hacia atrás en vez de quedarte de perfil."
+        ],
+        "en": [
+          "Letting your hip drop towards the floor (breaks body line).",
+          "Placing your elbow forward or backward instead of directly under the shoulder.",
+          "Rotating your torso forward or backward instead of staying side-on."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Plancha lateral con la rodilla de abajo apoyada (más fácil).",
+          "Plancha frontal normal.",
+          "Elevaciones de cadera de lado, apoyado en el antebrazo."
+        ],
+        "en": [
+          "Side plank with bottom knee down (easier).",
+          "Standard front plank.",
+          "Side hip raises, supported on forearm."
         ]
       },
       "images": {
@@ -1588,6 +2188,30 @@
           "Return to the starting position and repeat with your left arm and right leg."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Arquear la zona lumbar: debe quedar pegada al suelo todo el rato.",
+          "Ir rápido o con impulso en vez de movimiento lento y controlado.",
+          "Aguantar la respiración (espira al estirar brazo y pierna)."
+        ],
+        "en": [
+          "Arching your lower back: it should stay flat on the floor at all times.",
+          "Going fast or using momentum instead of a slow, controlled movement.",
+          "Holding your breath (exhale as you extend arm and leg)."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Dead bug solo con las piernas (brazos quietos) si te cuesta coordinar.",
+          "Bird dog (a cuatro patas, estirar brazo y pierna contraria).",
+          "Plancha frontal si prefieres un isométrico."
+        ],
+        "en": [
+          "Dead bug with legs only (arms still) if coordination is difficult.",
+          "Bird dog (on all fours, extend opposite arm and leg).",
+          "Front plank if you prefer an isometric exercise."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/dead-bug-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/dead-bug-f.jpg"
@@ -1640,6 +2264,30 @@
           "Grip the bar with a neutral grip, palms facing each other.",
           "Pull the bar down until it touches the top of your chest, keeping your back straight.",
           "Slowly return to the starting position with control."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Echar mucho el tronco hacia atrás.",
+          "Tirar solo con los brazos sin juntar los omóplatos.",
+          "Subir soltando de golpe."
+        ],
+        "en": [
+          "Leaning too far back.",
+          "Pulling only with your arms without squeezing your shoulder blades.",
+          "Letting go abruptly on the way up."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Jalón al pecho con agarre ancho.",
+          "Dominada asistida con agarre neutro.",
+          "Remo en polea."
+        ],
+        "en": [
+          "Wide-grip pulldown.",
+          "Assisted neutral-grip pull-up.",
+          "Cable row."
         ]
       },
       "images": {
@@ -1699,6 +2347,30 @@
           "2. Keep your back straight and lift the barbell upwards, keeping it close to your body.",
           "3. Raise your elbows up and out until the bar reaches chest height.",
           "4. Lower the barbell slowly back to the starting position, controlling the movement."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Subir los codos muy por encima de los hombros.",
+          "Agarrar la barra demasiado estrecho.",
+          "Dar impulso con las piernas."
+        ],
+        "en": [
+          "Raising your elbows too far above your shoulders.",
+          "Gripping the bar too narrowly.",
+          "Using momentum from your legs."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Elevaciones laterales.",
+          "Face pull en polea.",
+          "Remo al mentón en polea con agarre ancho."
+        ],
+        "en": [
+          "Lateral raises.",
+          "Face pull on cable machine.",
+          "Upright row on cable machine with wide grip."
         ]
       },
       "images": {
@@ -1763,6 +2435,30 @@
           "Descend until your thighs are at least parallel to the ground, then push through your heels to return to the starting position."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Levantar los talones del suelo.",
+          "Dejar que las rodillas se metan hacia dentro.",
+          "Subir primero la cadera y quedarte con la espalda doblada."
+        ],
+        "en": [
+          "Lifting your heels off the ground.",
+          "Letting your knees cave inward.",
+          "Raising your hips first and ending up with a bent back."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Sentadilla goblet.",
+          "Prensa de piernas.",
+          "Sentadilla hack en máquina."
+        ],
+        "en": [
+          "Goblet squat.",
+          "Leg press.",
+          "Hack squat on machine."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/barbell-squat-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/barbell-squat-f.jpg"
@@ -1820,6 +2516,30 @@
           "Step forward with the other foot, ensuring your torso remains upright.",
           "Slowly lower the back knee toward the ground, keeping the front knee aligned with the ankle.",
           "Push through the heel of the front foot to return to the starting position."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Poner el pie de delante demasiado cerca del banco.",
+          "Apoyar el peso en la pierna de atrás.",
+          "Perder el equilibrio por mirar al suelo."
+        ],
+        "en": [
+          "Placing your front foot too close to the bench.",
+          "Putting weight on your back leg.",
+          "Losing balance by looking at the ground."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Zancadas normales.",
+          "Sentadilla a una pierna asistida.",
+          "Prensa a una pierna."
+        ],
+        "en": [
+          "Regular lunges.",
+          "Assisted single-leg squat.",
+          "Single-leg press."
         ]
       },
       "images": {
@@ -1881,6 +2601,30 @@
           "Push the bar up until your arms are fully extended."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Rebotar la barra en el pecho.",
+          "Despegar los glúteos del banco.",
+          "Abrir los codos a 90 grados del cuerpo."
+        ],
+        "en": [
+          "Bouncing the bar off your chest.",
+          "Lifting your glutes off the bench.",
+          "Flaring your elbows at 90 degrees from your body."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Press con mancuernas.",
+          "Press de pecho en máquina.",
+          "Flexiones si no hay banco libre."
+        ],
+        "en": [
+          "Dumbbell press.",
+          "Chest press machine.",
+          "Push-ups if no bench is available."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/barbell-bench-press-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/barbell-bench-press-f.jpg"
@@ -1938,6 +2682,30 @@
           "Position the dumbbells at chest level with elbows bent at a 90-degree angle.",
           "Press the dumbbells upward until your arms are fully extended.",
           "Slowly lower the dumbbells back to the starting position."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Chocar las mancuernas arriba y perder la tensión.",
+          "Bajar los codos por detrás de la línea del cuerpo.",
+          "Despegar los glúteos del banco."
+        ],
+        "en": [
+          "Banging the dumbbells together at the top and losing tension.",
+          "Lowering your elbows behind the line of your body.",
+          "Lifting your glutes off the bench."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Press de banca con barra.",
+          "Press de pecho en máquina.",
+          "Flexiones."
+        ],
+        "en": [
+          "Barbell bench press.",
+          "Chest press machine.",
+          "Push-ups."
         ]
       },
       "images": {
@@ -1999,6 +2767,30 @@
           "Press the dumbbells upward until your arms are nearly extended, then lower slowly."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Inclinar el banco de más y convertirlo en press de hombro.",
+          "Chocar las mancuernas arriba y perder la tensión.",
+          "Bajar los codos por detrás de la línea del cuerpo."
+        ],
+        "en": [
+          "Inclining the bench too much and turning it into a shoulder press.",
+          "Banging the dumbbells together at the top and losing tension.",
+          "Lowering your elbows behind the line of your body."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Press inclinado en máquina.",
+          "Press de pecho plano con mancuernas.",
+          "Pec deck."
+        ],
+        "en": [
+          "Incline machine press.",
+          "Flat dumbbell chest press.",
+          "Pec deck."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/incline-dumbbell-press-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/incline-dumbbell-press-f.jpg"
@@ -2051,6 +2843,30 @@
           "Extend your arms above you with palms facing each other and a slight bend in the elbows.",
           "Lower the dumbbells slowly to the sides in a wide arc until you feel a stretch in the chest.",
           "Return to the starting position by squeezing your chest and repeat."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Doblar y estirar los codos: esto no es un press.",
+          "Bajar tanto que el hombro queda forzado.",
+          "Usar mancuernas demasiado pesadas."
+        ],
+        "en": [
+          "Bending and straightening your elbows: this is not a press.",
+          "Lowering so much that your shoulder is strained.",
+          "Using dumbbells that are too heavy."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Pec deck.",
+          "Cruce de poleas.",
+          "Press de pecho con mancuernas."
+        ],
+        "en": [
+          "Pec deck.",
+          "Cable crossover.",
+          "Dumbbell chest press."
         ]
       },
       "images": {
@@ -2112,6 +2928,30 @@
           "Lower the barbell in a controlled manner and repeat."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Redondear la espalda al tirar.",
+          "Incorporarte con cada repetición para dar impulso.",
+          "Llevar la barra al pecho en vez de al ombligo."
+        ],
+        "en": [
+          "Rounding your lower back as you lift.",
+          "Standing up with each rep to gain momentum.",
+          "Bringing the bar to your chest instead of your navel."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Remo con mancuerna apoyado en el banco.",
+          "Remo en polea sentado.",
+          "Remo en máquina con apoyo de pecho."
+        ],
+        "en": [
+          "Dumbbell row with bench support.",
+          "Seated cable row.",
+          "Chest-supported machine row."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/barbell-row-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/barbell-row-f.jpg"
@@ -2164,6 +3004,30 @@
           "2. Bend your torso forward at the hips, keeping your back straight and knees slightly bent.",
           "3. With arms extended downward, pull the dumbbells towards your waist, keeping elbows close to your body.",
           "4. Lower the dumbbells in a controlled manner and repeat the movement."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Girar el tronco para subir más la mancuerna.",
+          "Tirar solo con el brazo, sin llevar el omóplato atrás.",
+          "Redondear la espalda."
+        ],
+        "en": [
+          "Rotating your torso to lift the dumbbell higher.",
+          "Pulling only with your arm, without moving your shoulder blade back.",
+          "Rounding your back."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Remo en polea sentado.",
+          "Remo en máquina.",
+          "Remo invertido con barra baja."
+        ],
+        "en": [
+          "Seated cable row.",
+          "Machine row.",
+          "Inverted row with low bar."
         ]
       },
       "images": {
@@ -2220,6 +3084,30 @@
           "Lower the barbell slowly back to the starting position, controlling the movement."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Arquear la lumbar para compensar la falta de movilidad de hombro.",
+          "Sacar la cabeza hacia delante y golpear la barbilla con la barra.",
+          "Empujar hacia delante en vez de hacia arriba."
+        ],
+        "en": [
+          "Arching your lower back to compensate for lack of shoulder mobility.",
+          "Pushing your head forward and hitting your chin with the bar.",
+          "Pushing forward instead of upward."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Press de hombros con mancuernas.",
+          "Press de hombros en máquina.",
+          "Press sentado con respaldo si la espalda se arquea."
+        ],
+        "en": [
+          "Dumbbell shoulder press.",
+          "Machine shoulder press.",
+          "Seated press with back support if your back arches."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/barbell-overhead-press-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/barbell-overhead-press-f.jpg"
@@ -2266,6 +3154,30 @@
           "Stand sideways to the machine with feet shoulder-width apart.",
           "Raise your arm laterally until it is shoulder height, keeping the elbow slightly bent.",
           "Slowly lower the arm back to the starting position and repeat."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Subir el brazo por encima del hombro.",
+          "Dar impulso con el cuerpo.",
+          "Girar la muñeca hacia arriba al final."
+        ],
+        "en": [
+          "Lifting your arm above shoulder height.",
+          "Using body momentum.",
+          "Twisting your wrist upwards at the end."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Elevaciones laterales con mancuernas.",
+          "Elevaciones en máquina.",
+          "Pájaros si buscas la parte trasera del hombro."
+        ],
+        "en": [
+          "Dumbbell lateral raises.",
+          "Machine lateral raises.",
+          "Rear delt flyes if targeting the back of the shoulder."
         ]
       },
       "images": {
@@ -2322,6 +3234,30 @@
           "Slowly lower the bar back to the starting position."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Echar la espalda atrás para subir el peso.",
+          "Adelantar los codos al final del recorrido.",
+          "No estirar del todo el brazo abajo."
+        ],
+        "en": [
+          "Leaning your back backward to lift the weight.",
+          "Pushing your elbows forward at the end of the movement.",
+          "Not fully extending your arm at the bottom."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Curl con mancuernas.",
+          "Curl en polea baja.",
+          "Barra Z si te molestan las muñecas."
+        ],
+        "en": [
+          "Dumbbell curl.",
+          "Low cable curl.",
+          "EZ bar if your wrists hurt."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/barbell-biceps-curl-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/barbell-biceps-curl-f.jpg"
@@ -2368,6 +3304,30 @@
           "Extend your arms back up to return to the starting position."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Abrir los codos hacia fuera.",
+          "Arquear la lumbar para llevar el peso atrás.",
+          "Bajar tanto que el hombro se descoloca."
+        ],
+        "en": [
+          "Flaring your elbows out.",
+          "Arching your lower back to move the weight back.",
+          "Lowering so much that your shoulder dislocates."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Extensión de tríceps en polea.",
+          "Press francés tumbado.",
+          "Fondos de tríceps en banco."
+        ],
+        "en": [
+          "Cable triceps extension.",
+          "Lying French press.",
+          "Bench triceps dips."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/overhead-triceps-extension-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/overhead-triceps-extension-f.jpg"
@@ -2412,6 +3372,30 @@
           "1. Stand with feet shoulder-width apart and toes pointing forward.",
           "2. Keep your back straight and core engaged as you slowly rise onto the balls of your feet.",
           "3. Hold the elevated position for a second, then lower your heels in a controlled manner."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Rebotar en vez de subir y bajar controlando.",
+          "No bajar el talón del todo.",
+          "Doblar las rodillas para ayudarte."
+        ],
+        "en": [
+          "Bouncing instead of controlling up and down.",
+          "Not lowering your heel completely.",
+          "Bending your knees to assist."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Elevación de gemelos sentado.",
+          "Elevación de gemelos en prensa.",
+          "Elevación a una pierna sujetándote a algo."
+        ],
+        "en": [
+          "Seated calf raise.",
+          "Calf raise on leg press.",
+          "Single-leg raise holding onto something."
         ]
       },
       "images": {
@@ -2483,6 +3467,30 @@
           "Push through your heels to return to the starting position."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Adelantar los hombros y quedarte de puntillas.",
+          "Bajar solo un palmo.",
+          "Juntar las rodillas al subir."
+        ],
+        "en": [
+          "Leaning your shoulders forward and staying on your toes.",
+          "Lowering only a few inches.",
+          "Bringing your knees together as you rise."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Sentadilla a cajón o silla.",
+          "Sentadilla goblet con una mancuerna ligera.",
+          "Prensa de piernas."
+        ],
+        "en": [
+          "Box or chair squat.",
+          "Goblet squat with a light dumbbell.",
+          "Leg press."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/bodyweight-squat-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/bodyweight-squat-f.jpg"
@@ -2538,6 +3546,30 @@
           "Place your feet shoulder-width apart on the platform of the hack squat machine.",
           "Slowly lower yourself by bending your knees until your thighs are parallel to the floor.",
           "Push through your heels to return to the starting position, keeping your back straight."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Bajar tanto que la cadera se despega del respaldo.",
+          "Poner los pies muy bajos y cargar la rodilla.",
+          "Bloquear las rodillas de golpe arriba."
+        ],
+        "en": [
+          "Lowering so much that your hips lift off the backrest.",
+          "Placing your feet too low and straining your knee.",
+          "Locking your knees abruptly at the top."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Prensa de piernas.",
+          "Sentadilla goblet.",
+          "Sentadilla con barra."
+        ],
+        "en": [
+          "Leg press.",
+          "Goblet squat.",
+          "Barbell squat."
         ]
       },
       "images": {
@@ -2619,6 +3651,30 @@
           "Lower the bar back to the ground in a controlled manner, maintaining form."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Redondear la espalda al despegar la barra.",
+          "Separar la barra del cuerpo.",
+          "Tirar con los brazos en vez de empujar el suelo con las piernas."
+        ],
+        "en": [
+          "Rounding your lower back as you lift.",
+          "Letting the bar drift away from your body.",
+          "Pulling with your arms instead of pushing the floor with your legs."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Peso muerto rumano con mancuernas.",
+          "Bisagra de cadera con palo para aprender el patrón.",
+          "Hip thrust si la espalda molesta."
+        ],
+        "en": [
+          "Romanian deadlift with dumbbells.",
+          "Hip hinge with a stick to learn the pattern.",
+          "Hip thrust if your back hurts."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/deadlift-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/deadlift-f.jpg"
@@ -2674,6 +3730,30 @@
           "Grab the bar with palms facing forward, shoulder-width apart.",
           "Hang fully extended, then pull your body up until your chin clears the bar.",
           "Lower yourself in a controlled manner back to the starting position."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Dar patadas para subir.",
+          "No estirar del todo abajo.",
+          "Encoger los hombros al colgarte."
+        ],
+        "en": [
+          "Kicking to get up.",
+          "Not fully extending at the bottom.",
+          "Shrugging your shoulders when hanging."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Dominada asistida en máquina o con goma.",
+          "Negativas: subir con ayuda y bajar en cinco segundos.",
+          "Jalón al pecho."
+        ],
+        "en": [
+          "Assisted pull-up with machine or band.",
+          "Negatives: use assistance to go up and lower in five seconds.",
+          "Lat pulldown."
         ]
       },
       "images": {
@@ -2737,6 +3817,30 @@
           "Maintain an upright and relaxed posture while walking or running.",
           "Use a natural stride, landing softly on your heel.",
           "Keep a steady pace and breathe regularly."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Agarrarte a los pasamanos y descargar el peso.",
+          "Mirar los pies en vez de al frente.",
+          "Poner una inclinación tan alta que acabas colgado de la máquina."
+        ],
+        "en": [
+          "Holding onto the handrails and unloading your weight.",
+          "Looking at your feet instead of ahead.",
+          "Setting an incline so high that you end up hanging onto the machine."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Caminar o correr al aire libre.",
+          "Elíptica si te molestan las rodillas.",
+          "Bicicleta estática."
+        ],
+        "en": [
+          "Walking or running outdoors.",
+          "Elliptical if your knees bother you.",
+          "Stationary bike."
         ]
       },
       "images": {
@@ -2808,6 +3912,30 @@
           "Gradually increase speed and resistance according to your fitness level."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Apoyar todo el peso en los brazos.",
+          "Encorvar la espalda sobre la consola.",
+          "Ir tan rápido que pierdes el control del pedaleo."
+        ],
+        "en": [
+          "Putting all your weight on your arms.",
+          "Hunching over the console.",
+          "Going so fast that you lose control of the pedaling."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Cinta de correr.",
+          "Bicicleta estática.",
+          "Remo si quieres implicar más la espalda."
+        ],
+        "en": [
+          "Treadmill.",
+          "Stationary bike.",
+          "Rowing if you want to engage your back more."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/elliptical-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/elliptical-f.jpg"
@@ -2868,6 +3996,30 @@
           "Adjust the seat height so your legs are slightly bent when pedaling.",
           "Place your feet on the pedals and secure the straps if necessary.",
           "Start pedaling at a comfortable pace, keeping your back straight and shoulders relaxed."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Sillín demasiado bajo: la rodilla queda muy flexionada abajo.",
+          "Balancear la cadera al pedalear.",
+          "Cargar el peso en las muñecas."
+        ],
+        "en": [
+          "Having the seat too low: knee too bent at the bottom.",
+          "Swaying your hips while pedaling.",
+          "Putting weight on your wrists."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Elíptica.",
+          "Cinta de correr.",
+          "Bicicleta de aire si quieres implicar los brazos."
+        ],
+        "en": [
+          "Elliptical.",
+          "Treadmill.",
+          "Air bike if you want to engage your arms."
         ]
       },
       "images": {
@@ -2944,6 +4096,30 @@
           "Return to the starting position by extending your arms and bending your knees."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Tirar con los brazos antes de empujar con las piernas.",
+          "Redondear la espalda al ir hacia delante.",
+          "Tirar del mango hacia la cara en vez de al abdomen."
+        ],
+        "en": [
+          "Pulling with your arms before pushing with your legs.",
+          "Rounding your back as you move forward.",
+          "Pulling the handle towards your face instead of your abdomen."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Máquina de esquí.",
+          "Bicicleta de aire.",
+          "Remo en polea si buscas fuerza en vez de cardio."
+        ],
+        "en": [
+          "Ski machine.",
+          "Air bike.",
+          "Cable row if you're looking for strength instead of cardio."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/rowing-machine-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/rowing-machine-f.jpg"
@@ -3018,6 +4194,30 @@
           "Perform a push-up, then jump your feet forward and rise up with a jump."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Dejar caer la cadera en la flexión.",
+          "Aterrizar con las rodillas hacia dentro.",
+          "Encadenar repeticiones sin control cuando ya estás cansado."
+        ],
+        "en": [
+          "Letting your hips sag during the push-up.",
+          "Landing with your knees caving in.",
+          "Chaining repetitions without control when you're already tired."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Burpee sin flexión ni salto.",
+          "Escaladores.",
+          "Jumping jacks."
+        ],
+        "en": [
+          "Burpee without push-up or jump.",
+          "Mountain climbers.",
+          "Jumping jacks."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/burpees-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/burpees-f.jpg"
@@ -3064,6 +4264,30 @@
           "Place your hands lightly behind your head, avoiding pulling on the neck.",
           "Engage your abdominal muscles and lift your shoulders off the floor, keeping the lower back in contact with the ground.",
           "Slowly lower your shoulders back to the floor and repeat."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Tirar del cuello con las manos.",
+          "Subir todo el tronco: aquí solo despegan los omóplatos.",
+          "Coger impulso con los brazos."
+        ],
+        "en": [
+          "Pulling your neck with your hands.",
+          "Lifting your entire torso: only your shoulder blades should lift.",
+          "Using your arms for momentum."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Crunch con las piernas elevadas.",
+          "Dead bug.",
+          "Plancha."
+        ],
+        "en": [
+          "Crunch with legs elevated.",
+          "Dead bug.",
+          "Plank."
         ]
       },
       "images": {
@@ -3120,6 +4344,30 @@
           "Slowly lower your shoulders back to the floor without dropping your legs."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Balancear las piernas para subir.",
+          "Tirar del cuello.",
+          "Despegar la lumbar del suelo."
+        ],
+        "en": [
+          "Swinging your legs to lift.",
+          "Pulling on your neck.",
+          "Lifting your lower back off the floor."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Crunch normal.",
+          "Elevación de piernas tumbado.",
+          "Dead bug."
+        ],
+        "en": [
+          "Standard crunch.",
+          "Lying leg raise.",
+          "Dead bug."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/legs-up-crunch-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/legs-up-crunch-f.jpg"
@@ -3172,6 +4420,30 @@
           "Place your hands under your glutes for support.",
           "Lift both legs a few inches off the ground.",
           "Alternate crossing your legs, one over the other, keeping your core engaged."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Despegar la lumbar del suelo.",
+          "Subir demasiado las piernas y perder la tensión del abdomen.",
+          "Aguantar la respiración."
+        ],
+        "en": [
+          "Lifting your lower back off the floor.",
+          "Raising your legs too high and losing abdominal tension.",
+          "Holding your breath."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Tijeras con las rodillas algo dobladas.",
+          "Dead bug.",
+          "Elevación de piernas tumbado."
+        ],
+        "en": [
+          "Scissors with slightly bent knees.",
+          "Dead bug.",
+          "Lying leg raise."
         ]
       },
       "images": {
@@ -3228,6 +4500,30 @@
           "Slowly lower back to the starting position without dropping your body."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Tirar del cuello con las manos.",
+          "Coger impulso con los brazos.",
+          "Anclar los pies y tirar con los flexores de cadera."
+        ],
+        "en": [
+          "Pulling your neck with your hands.",
+          "Using your arms for momentum.",
+          "Anchoring your feet and pulling with your hip flexors."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Crunch: menos recorrido y menos lumbar.",
+          "Dead bug.",
+          "Plancha."
+        ],
+        "en": [
+          "Crunch: less range and less lower back.",
+          "Dead bug.",
+          "Plank."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/sit-ups-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/sit-ups-f.jpg"
@@ -3277,6 +4573,30 @@
           "Sit on the floor with your knees bent and feet slightly elevated.",
           "Lean your torso back while keeping your back straight, forming about a 45-degree angle.",
           "Twist your torso to one side, bringing your hands or an object towards the floor, then repeat to the opposite side."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Girar solo los brazos y no el tronco.",
+          "Redondear la espalda.",
+          "Ir rápido perdiendo el control del peso."
+        ],
+        "en": [
+          "Moving only your arms and not your torso.",
+          "Rounding your back.",
+          "Going fast and losing control of the weight."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Press Pallof.",
+          "Leñador en polea.",
+          "Plancha lateral."
+        ],
+        "en": [
+          "Pallof press.",
+          "Cable woodchopper.",
+          "Side plank."
         ]
       },
       "images": {
@@ -3338,6 +4658,30 @@
           "Hold the position briefly, then slowly lower your hips back to the floor."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Empujar con la lumbar y arquear la espalda arriba.",
+          "Separar o juntar las rodillas al subir.",
+          "Apoyar los pies demasiado lejos: entonces trabajan los isquios."
+        ],
+        "en": [
+          "Pushing with your lower back and arching your back up.",
+          "Letting your knees spread or come together as you lift.",
+          "Placing your feet too far away: then your hamstrings do the work."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Hip thrust con barra o en máquina.",
+          "Puente a una pierna.",
+          "Patada de glúteo en polea."
+        ],
+        "en": [
+          "Barbell or machine hip thrust.",
+          "Single-leg bridge.",
+          "Cable glute kickback."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/glute-bridge-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/glute-bridge-f.jpg"
@@ -3395,6 +4739,30 @@
           "Lift your hips to form a straight line from feet to head.",
           "Extend the free arm towards the ceiling, then slowly bring it under your torso while rotating your core.",
           "Return to the starting position and repeat before switching sides."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Dejar caer la cadera al girar.",
+          "Apoyar el codo por delante del hombro.",
+          "Girar tan rápido que pierdes la línea del cuerpo."
+        ],
+        "en": [
+          "Letting your hip drop as you rotate.",
+          "Placing your elbow in front of your shoulder.",
+          "Rotating so quickly that you lose body alignment."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Plancha lateral estática.",
+          "Plancha lateral con rodillas apoyadas.",
+          "Press Pallof."
+        ],
+        "en": [
+          "Static side plank.",
+          "Side plank with knees down.",
+          "Pallof press."
         ]
       },
       "images": {
@@ -3456,6 +4824,30 @@
           "Exhale and slowly lower your arms, chest, and legs back to the ground."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Tirar la cabeza hacia atrás mirando al frente.",
+          "Subir a tirones.",
+          "Aguantar la respiración."
+        ],
+        "en": [
+          "Pulling your head back while looking forward.",
+          "Jerking up.",
+          "Holding your breath."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Bird dog.",
+          "Hiperextensiones en banco.",
+          "Puente de glúteo."
+        ],
+        "en": [
+          "Bird dog.",
+          "Hyperextensions on bench.",
+          "Glute bridge."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/superman-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/superman-f.jpg"
@@ -3513,6 +4905,30 @@
           "Lie back on the bench with feet firmly on the ground.",
           "Grip the barbell slightly wider than shoulder-width apart.",
           "Lower the bar to the upper chest, then press up until arms are fully extended."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Inclinar el banco de más y convertirlo en press de hombro.",
+          "Rebotar la barra en el pecho.",
+          "Abrir los codos en cruz."
+        ],
+        "en": [
+          "Inclining the bench too much and turning it into a shoulder press.",
+          "Bouncing the bar off your chest.",
+          "Flaring your elbows out wide."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Press inclinado con mancuernas.",
+          "Press inclinado en máquina.",
+          "Pec deck."
+        ],
+        "en": [
+          "Incline dumbbell press.",
+          "Incline machine press.",
+          "Pec deck."
         ]
       },
       "images": {
@@ -3577,6 +4993,30 @@
           "Stop when you feel a stretch in your hamstrings, then return to the starting position."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Doblar las rodillas como en una sentadilla.",
+          "Redondear la espalda al bajar.",
+          "Separar la barra o las mancuernas del cuerpo."
+        ],
+        "en": [
+          "Bending your knees like in a squat.",
+          "Rounding your back as you lower.",
+          "Keeping the barbell or dumbbells away from your body."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Bisagra de cadera con palo.",
+          "Buenos días con barra vacía.",
+          "Curl de piernas si la espalda molesta."
+        ],
+        "en": [
+          "Hip hinge with a stick.",
+          "Good mornings with an empty barbell.",
+          "Leg curl if your back hurts."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/romanian-deadlift-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/romanian-deadlift-f.jpg"
@@ -3637,6 +5077,30 @@
           "Place the barbell on the front of your shoulders, crossing your arms to hold it.",
           "Keep your feet shoulder-width apart and slowly lower by bending your knees, maintaining a straight back.",
           "Descend until your thighs are parallel to the floor, then push through your heels to return to the starting position."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Dejar caer los codos y perder la barra hacia delante.",
+          "Redondear la espalda alta.",
+          "Levantar los talones."
+        ],
+        "en": [
+          "Dropping your elbows and losing the bar forward.",
+          "Rounding your upper back.",
+          "Lifting your heels."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Sentadilla goblet.",
+          "Sentadilla con barra atrás.",
+          "Prensa de piernas."
+        ],
+        "en": [
+          "Goblet squat.",
+          "Back squat.",
+          "Leg press."
         ]
       },
       "images": {
@@ -3701,6 +5165,30 @@
           "Hold a dumbbell in each hand, arms at your sides.",
           "Step one foot onto the bench, push through the heel to lift your body.",
           "Lower down with control and repeat with the other leg."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Impulsarte con la pierna de abajo en vez de subir con la de arriba.",
+          "Usar un cajón tan alto que la rodilla se va hacia dentro.",
+          "Bajar de golpe."
+        ],
+        "en": [
+          "Pushing off with your lower leg instead of stepping up with your upper leg.",
+          "Using a box so high that your knee caves inward.",
+          "Dropping down abruptly."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Step-up sin peso o con cajón más bajo.",
+          "Zancadas.",
+          "Sentadilla búlgara."
+        ],
+        "en": [
+          "Step-up without weight or with a lower box.",
+          "Lunges.",
+          "Bulgarian split squat."
         ]
       },
       "images": {
@@ -3770,6 +5258,30 @@
           "Keep your torso upright and push through the front heel to return to the starting position."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Dar un paso demasiado corto y cargar la rodilla.",
+          "Inclinar el tronco hacia delante.",
+          "Golpear el suelo con la rodilla de atrás."
+        ],
+        "en": [
+          "Taking too short a step and loading your knee.",
+          "Leaning your torso forward.",
+          "Banging the ground with your back knee."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Zancadas sin peso.",
+          "Sentadilla búlgara.",
+          "Prensa de piernas a una pierna."
+        ],
+        "en": [
+          "Bodyweight lunges.",
+          "Bulgarian split squat.",
+          "Single-leg leg press."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/dumbbell-lunges-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/dumbbell-lunges-f.jpg"
@@ -3818,6 +5330,30 @@
           "Slowly return to the starting position without letting the pads snap together."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Echar el tronco hacia atrás para abrir más.",
+          "Soltar de golpe al cerrar.",
+          "Poner tanto peso que solo abres un palmo."
+        ],
+        "en": [
+          "Leaning your torso back to open more.",
+          "Letting go abruptly when closing.",
+          "Using so much weight that you only open a few inches."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Abducción en polea baja.",
+          "Abducción tumbado de lado.",
+          "Banda elástica por encima de las rodillas."
+        ],
+        "en": [
+          "Cable machine hip abduction.",
+          "Side-lying hip abduction.",
+          "Resistance band above the knees."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/hip-abduction-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/hip-abduction-f.jpg"
@@ -3864,6 +5400,30 @@
           "Sit down and place your legs on the pads, ensuring they align with your knees.",
           "Slowly squeeze your legs together, maintaining control throughout the movement.",
           "Return to the starting position in a controlled manner, avoiding the pads from slamming."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Cerrar de golpe soltando el peso.",
+          "Echar el tronco hacia atrás.",
+          "Abrir tanto al inicio que se fuerza la ingle."
+        ],
+        "en": [
+          "Slamming the weights shut.",
+          "Leaning your torso back.",
+          "Opening so wide at the start that it strains the groin."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Aductores en polea baja.",
+          "Sentadilla sumo.",
+          "Aductor tumbado de lado."
+        ],
+        "en": [
+          "Cable machine adductors.",
+          "Sumo squat.",
+          "Side-lying adductor."
         ]
       },
       "images": {
@@ -3930,6 +5490,30 @@
           "Pull the bar towards your chest, squeezing your shoulder blades, then lower slowly."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Redondear la espalda al tirar.",
+          "Incorporarte con cada repetición.",
+          "Abrir mucho los codos."
+        ],
+        "en": [
+          "Rounding your lower back as you lift.",
+          "Standing up with each rep.",
+          "Flaring your elbows too much."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Remo con barra.",
+          "Remo en máquina con apoyo de pecho.",
+          "Remo con mancuerna."
+        ],
+        "en": [
+          "Barbell row.",
+          "Chest-supported machine row.",
+          "Dumbbell row."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/t-bar-row-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/t-bar-row-f.jpg"
@@ -3976,6 +5560,30 @@
           "Extend your arms upwards, keeping elbows slightly bent.",
           "Lower the bar slowly towards your forehead, controlling the movement.",
           "Return to the starting position by extending your arms without locking the elbows."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Abrir los codos hacia fuera al bajar.",
+          "Mover los hombros en vez de dejar el brazo quieto y girar solo el codo.",
+          "Bajar la barra a la frente sin control."
+        ],
+        "en": [
+          "Flaring your elbows out as you lower.",
+          "Moving your shoulders instead of keeping your arm still and rotating only at the elbow.",
+          "Lowering the bar to your forehead without control."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Extensión de tríceps en polea.",
+          "Extensión sobre la cabeza con mancuerna.",
+          "Press de banca cerrado."
+        ],
+        "en": [
+          "Tricep extension on cable machine.",
+          "Overhead dumbbell extension.",
+          "Close-grip bench press."
         ]
       },
       "images": {
@@ -4030,6 +5638,30 @@
           "Grip the bar or dumbbells with an underhand grip, arms extended.",
           "Bend your elbows to lift the weight towards your shoulders, keeping elbows fixed.",
           "Slowly lower back to the starting position, controlling the movement."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Despegar los codos del atril para dar impulso.",
+          "No estirar del todo abajo.",
+          "Dejar caer el peso en la bajada."
+        ],
+        "en": [
+          "Lifting your elbows off the bench to gain momentum.",
+          "Not fully extending at the bottom.",
+          "Letting the weight drop on the descent."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Curl inclinado con mancuerna.",
+          "Curl con barra Z de pie.",
+          "Curl en polea baja."
+        ],
+        "en": [
+          "Incline dumbbell curl.",
+          "Standing EZ bar curl.",
+          "Low cable curl."
         ]
       },
       "images": {
@@ -4099,6 +5731,30 @@
           "Lean slightly forward, keeping your back straight.",
           "Pull the handles down and back, extending your arms and engaging your upper back and triceps.",
           "Slowly return to the starting position, controlling the movement."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Tirar solo con los brazos sin acompañar con el tronco.",
+          "Redondear la espalda al bajar.",
+          "Bloquear las rodillas rígidas todo el rato."
+        ],
+        "en": [
+          "Pulling only with your arms without engaging your torso.",
+          "Rounding your back as you lower.",
+          "Locking your knees rigid the whole time."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Remo (cardio).",
+          "Bicicleta de aire.",
+          "Jalón con brazos rectos en polea."
+        ],
+        "en": [
+          "Rowing (cardio).",
+          "Air bike.",
+          "Straight-arm pulldown on cable machine."
         ]
       },
       "images": {
@@ -4180,6 +5836,30 @@
           "Maintain a steady pace and control your breathing."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Pedalear solo con las piernas y dejar los brazos quietos.",
+          "Encorvar la espalda.",
+          "Salir a tope y morir en treinta segundos."
+        ],
+        "en": [
+          "Pedaling only with your legs and keeping your arms still.",
+          "Rounding your back.",
+          "Going all out and burning out in thirty seconds."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Bicicleta estática.",
+          "Remo (cardio).",
+          "Elíptica."
+        ],
+        "en": [
+          "Stationary bike.",
+          "Rowing machine (cardio).",
+          "Elliptical."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/air-bike-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/air-bike-f.jpg"
@@ -4239,6 +5919,30 @@
           "Lower your hips slowly back to the starting position, maintaining control."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Arquear la lumbar arriba en vez de apretar el glúteo.",
+          "Recorrido corto.",
+          "Colocar mal la almohadilla: debe quedar sobre la cadera."
+        ],
+        "en": [
+          "Arching your lower back instead of squeezing your glutes.",
+          "Using a short range of motion.",
+          "Misplacing the pad: it should be over your hips."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Hip thrust con barra.",
+          "Puente de glúteo en el suelo.",
+          "Patada de glúteo en polea."
+        ],
+        "en": [
+          "Barbell hip thrust.",
+          "Floor glute bridge.",
+          "Cable glute kickback."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/machine-hip-thrust-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/machine-hip-thrust-f.jpg"
@@ -4296,6 +6000,30 @@
           "Push through your heels to return to the starting position, keeping your back straight."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Despegar la cadera del respaldo al bajar.",
+          "Bloquear las rodillas de golpe arriba.",
+          "Poner los pies demasiado bajos."
+        ],
+        "en": [
+          "Lifting your hips off the backrest as you lower.",
+          "Locking your knees abruptly at the top.",
+          "Placing your feet too low."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Prensa de piernas.",
+          "Sentadilla hack vertical.",
+          "Sentadilla goblet."
+        ],
+        "en": [
+          "Leg press.",
+          "Vertical hack squat.",
+          "Goblet squat."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/sled-hack-squat-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/sled-hack-squat-f.jpg"
@@ -4345,6 +6073,30 @@
           "Lie on your back with your hands behind your head and legs raised.",
           "Bring your right elbow towards your left knee while extending your right leg.",
           "Alternate the movement by bringing your left elbow towards your right knee, maintaining a steady pace."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Tirar del cuello con las manos.",
+          "Ir rápido y dejar de girar el tronco.",
+          "Despegar la lumbar del suelo."
+        ],
+        "en": [
+          "Pulling on your neck with your hands.",
+          "Going fast and stopping torso rotation.",
+          "Lifting your lower back off the floor."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Crunch con piernas elevadas.",
+          "Dead bug.",
+          "Plancha lateral."
+        ],
+        "en": [
+          "Crunch with elevated legs.",
+          "Dead bug.",
+          "Side plank."
         ]
       },
       "images": {
@@ -4404,6 +6156,30 @@
           "Push up until your arms are fully extended."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Dejar caer la cadera.",
+          "Abrir los codos en cruz.",
+          "Bajar solo un palmo."
+        ],
+        "en": [
+          "Letting your hips sag.",
+          "Flaring your elbows out.",
+          "Lowering only a few inches."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Flexiones con las manos en un banco.",
+          "Flexiones de rodillas.",
+          "Press de pecho en máquina."
+        ],
+        "en": [
+          "Incline push-ups on a bench.",
+          "Knee push-ups.",
+          "Chest press on machine."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/push-ups-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/push-ups-f.jpg"
@@ -4454,6 +6230,30 @@
           "Adjust the pulleys to shoulder height and select the appropriate weight.",
           "Grab a handle in each hand and step forward, keeping a slight bend in the elbows.",
           "Cross your hands in front of you, squeezing your chest, then slowly return to the starting position."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Doblar los codos para ayudarte.",
+          "Abrir demasiado atrás y forzar el hombro.",
+          "Dar impulso con el tronco."
+        ],
+        "en": [
+          "Bending your elbows to assist.",
+          "Opening too far back and straining your shoulder.",
+          "Using momentum with your torso."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Pec deck.",
+          "Aperturas con mancuernas.",
+          "Cruce de poleas de abajo arriba."
+        ],
+        "en": [
+          "Pec deck.",
+          "Dumbbell flyes.",
+          "Low-to-high cable crossover."
         ]
       },
       "images": {
@@ -4515,6 +6315,30 @@
           "Push up to return to the starting position."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Bajar más de lo que aguanta tu hombro.",
+          "Quedarte vertical: para pecho hay que inclinar el tronco hacia delante.",
+          "Encoger los hombros al bajar."
+        ],
+        "en": [
+          "Lowering more than your shoulder can handle.",
+          "Staying vertical: for chest, lean your torso forward.",
+          "Shrugging your shoulders as you lower."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Fondos en máquina asistida.",
+          "Press de pecho declinado.",
+          "Flexiones con los pies elevados."
+        ],
+        "en": [
+          "Assisted dip machine.",
+          "Decline bench press.",
+          "Feet-elevated push-ups."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/chest-dips-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/chest-dips-f.jpg"
@@ -4567,6 +6391,30 @@
           "Lie on the bench with feet firmly on the ground and grip the bar slightly wider than shoulder-width.",
           "Lower the bar slowly towards your chest, keeping elbows at a 45-degree angle.",
           "Press the bar upwards until arms are fully extended, without locking the elbows."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Bajar la barra demasiado alta, hacia el esternón.",
+          "Rebotar la barra.",
+          "Soltar las piernas del anclaje y resbalar."
+        ],
+        "en": [
+          "Lowering the bar too high, towards the sternum.",
+          "Bouncing the bar.",
+          "Releasing your legs from the anchor and slipping."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Press de banca plano.",
+          "Fondos en paralelas.",
+          "Press de pecho en máquina."
+        ],
+        "en": [
+          "Flat bench press.",
+          "Dips on parallel bars.",
+          "Chest press on machine."
         ]
       },
       "images": {
@@ -4628,6 +6476,30 @@
           "Lower yourself back to the starting position in a controlled manner without arching your back."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Subir más allá de la línea del cuerpo y arquear la lumbar.",
+          "Coger impulso.",
+          "Colocar mal el apoyo: debe quedar por debajo de la cadera."
+        ],
+        "en": [
+          "Raising beyond the body's line and arching your lower back.",
+          "Using momentum.",
+          "Incorrectly positioning the support: it should be below the hips."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Superman en el suelo.",
+          "Buenos días con barra vacía.",
+          "Peso muerto rumano ligero."
+        ],
+        "en": [
+          "Superman on the floor.",
+          "Good mornings with an empty barbell.",
+          "Light Romanian deadlift."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/back-extension-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/back-extension-f.jpg"
@@ -4687,6 +6559,30 @@
           "Return to the starting position, ensuring you control the movement."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Doblar los codos y convertirlo en un press.",
+          "Arquear la lumbar al llevar el peso atrás.",
+          "Bajar más de lo que aguanta tu hombro."
+        ],
+        "en": [
+          "Bending your elbows and turning it into a press.",
+          "Arching your lower back as you bring the weight back.",
+          "Lowering more than your shoulder can handle."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Pullover en polea.",
+          "Jalón con brazos rectos.",
+          "Jalón al pecho."
+        ],
+        "en": [
+          "Cable pullover.",
+          "Straight-arm pulldown.",
+          "Lat pulldown."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/dumbbell-pullover-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/dumbbell-pullover-f.jpg"
@@ -4739,6 +6635,30 @@
           "Grab the bar with both hands, keeping arms straight and slightly bent.",
           "Pull the bar down until your hands reach your thighs, maintaining straight arms.",
           "Slowly return to the starting position, controlling the movement."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Doblar los codos: entonces trabaja el tríceps.",
+          "Encorvar la espalda.",
+          "Usar tanto peso que el cuerpo se balancea."
+        ],
+        "en": [
+          "Bending your elbows: then it works the triceps.",
+          "Rounding your back.",
+          "Using so much weight that your body sways."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Pullover en polea.",
+          "Pullover con mancuerna.",
+          "Jalón al pecho."
+        ],
+        "en": [
+          "Cable pullover.",
+          "Dumbbell pullover.",
+          "Lat pulldown."
         ]
       },
       "images": {
@@ -4800,6 +6720,30 @@
           "Lower yourself slowly back to the starting position without touching the ground."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Dejar caer la cadera.",
+          "Tirar solo con los brazos sin juntar los omóplatos.",
+          "Poner la barra tan alta que casi no hay recorrido."
+        ],
+        "en": [
+          "Letting your hips drop.",
+          "Pulling only with your arms without squeezing your shoulder blades.",
+          "Setting the bar so high that there's almost no range of motion."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Remo en polea sentado.",
+          "Remo con mancuerna.",
+          "Remo invertido con las rodillas dobladas para quitar peso."
+        ],
+        "en": [
+          "Seated cable row.",
+          "Dumbbell row.",
+          "Inverted row with bent knees to reduce weight."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/inverted-row-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/inverted-row-f.jpg"
@@ -4852,6 +6796,30 @@
           "Hold the barbell with an overhand grip, hands slightly wider than shoulder-width.",
           "Lift your shoulders towards your ears while keeping arms straight.",
           "Lower your shoulders slowly back to the starting position."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Girar los hombros en círculos.",
+          "Doblar los codos y convertirlo en un remo.",
+          "Recorrido corto: hay que subir hasta arriba del todo."
+        ],
+        "en": [
+          "Rolling your shoulders in circles.",
+          "Bending your elbows and turning it into a row.",
+          "Short range of motion: you need to lift all the way up."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Encogimientos con mancuernas.",
+          "Encogimientos en máquina o en polea.",
+          "Face pull si buscas también el trapecio medio."
+        ],
+        "en": [
+          "Dumbbell shrugs.",
+          "Machine or cable shrugs.",
+          "Face pull if you're also targeting the middle traps."
         ]
       },
       "images": {
@@ -4913,6 +6881,30 @@
           "4. Slowly lower the dumbbells back to the starting position and repeat."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Subir los brazos por encima de la línea del hombro.",
+          "Dar impulso con el tronco.",
+          "Estirar tanto los codos que acabas cargando el bíceps."
+        ],
+        "en": [
+          "Raising your arms above shoulder level.",
+          "Using momentum from your torso.",
+          "Extending your elbows so much that you engage your biceps."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Face pull en polea.",
+          "Pájaros en máquina.",
+          "Remo alto con mancuernas."
+        ],
+        "en": [
+          "Face pull on cable machine.",
+          "Machine reverse fly.",
+          "High row with dumbbells."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/reverse-fly-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/reverse-fly-f.jpg"
@@ -4959,6 +6951,30 @@
           "Hold a dumbbell in each hand with arms extended in front of your thighs.",
           "Raise the dumbbells forward until your arms are parallel to the floor.",
           "Slowly lower the dumbbells back to the starting position."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Subir por encima de la línea de los ojos.",
+          "Balancear el tronco.",
+          "Encoger los hombros al subir."
+        ],
+        "en": [
+          "Lifting above eye level.",
+          "Swinging your torso.",
+          "Shrugging your shoulders as you lift."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Elevación frontal en polea.",
+          "Press de hombros.",
+          "Elevaciones laterales."
+        ],
+        "en": [
+          "Cable front raise.",
+          "Shoulder press.",
+          "Lateral raises."
         ]
       },
       "images": {
@@ -5011,6 +7027,30 @@
           "Sit on a bench with back support, holding a dumbbell in each hand at shoulder height, palms facing your body.",
           "Rotate your palms forward as you press the dumbbells upward in an arcing motion.",
           "Fully extend your arms without locking your elbows, then slowly lower the dumbbells back to the starting position."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Girar las muñecas de golpe.",
+          "Arquear la lumbar al empujar.",
+          "Bajar los codos por detrás del cuerpo."
+        ],
+        "en": [
+          "Jerking your wrists.",
+          "Arching your lower back as you push.",
+          "Lowering your elbows behind your body."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Press de hombros con mancuernas.",
+          "Press de hombros en máquina.",
+          "Press militar con barra."
+        ],
+        "en": [
+          "Dumbbell shoulder press.",
+          "Machine shoulder press.",
+          "Barbell military press."
         ]
       },
       "images": {
@@ -5067,6 +7107,30 @@
           "Slowly lower the dumbbell back to the starting position and repeat."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Balancear el brazo apoyándote en el muslo.",
+          "Girar el tronco para ayudarte.",
+          "Subir el hombro en vez de flexionar solo el codo."
+        ],
+        "en": [
+          "Swinging your arm by resting it on your thigh.",
+          "Twisting your torso to assist.",
+          "Raising your shoulder instead of flexing only the elbow."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Curl en banco predicador.",
+          "Curl alterno con mancuernas.",
+          "Curl en polea baja a un brazo."
+        ],
+        "en": [
+          "Preacher curl.",
+          "Alternating dumbbell curl.",
+          "Single-arm low cable curl."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/concentration-curl-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/concentration-curl-f.jpg"
@@ -5121,6 +7185,30 @@
           "Slowly lower the bar back to the starting position, controlling the movement."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Adelantar los codos al final del recorrido.",
+          "Echarte hacia atrás para subir el peso.",
+          "Soltar de golpe en la bajada."
+        ],
+        "en": [
+          "Pushing your elbows forward at the end of the movement.",
+          "Leaning back to lift the weight.",
+          "Releasing abruptly on the way down."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Curl con barra.",
+          "Curl con mancuernas.",
+          "Curl en banco predicador."
+        ],
+        "en": [
+          "Barbell curl.",
+          "Dumbbell curl.",
+          "Preacher curl."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/cable-curl-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/cable-curl-f.jpg"
@@ -5167,6 +7255,30 @@
           "Lean your torso forward while keeping your back straight.",
           "Bend your elbows at 90 degrees, then extend your arms backward.",
           "Slowly return to the starting position without moving your shoulders."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Bajar el codo en vez de mantener el brazo paralelo al suelo.",
+          "Girar el tronco para lanzar el peso.",
+          "Usar una mancuerna tan pesada que no puedes estirar del todo."
+        ],
+        "en": [
+          "Lowering your elbow instead of keeping your arm parallel to the floor.",
+          "Twisting your torso to throw the weight.",
+          "Using a dumbbell so heavy you can't fully extend."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Extensión de tríceps en polea.",
+          "Extensión sobre la cabeza con mancuerna.",
+          "Fondos de tríceps en banco."
+        ],
+        "en": [
+          "Triceps extension on cable machine.",
+          "Overhead dumbbell extension.",
+          "Triceps dips on bench."
         ]
       },
       "images": {
@@ -5228,6 +7340,30 @@
           "Press the bar upward until your arms are fully extended."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Juntar tanto las manos que se cargan las muñecas.",
+          "Abrir los codos hacia fuera.",
+          "Rebotar la barra en el pecho."
+        ],
+        "en": [
+          "Bringing your hands so close together that your wrists bear the load.",
+          "Flaring your elbows out.",
+          "Bouncing the barbell off your chest."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Press francés.",
+          "Extensión de tríceps en polea.",
+          "Fondos en máquina."
+        ],
+        "en": [
+          "French press.",
+          "Tricep extension on cable machine.",
+          "Machine dips."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/close-grip-bench-press-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/close-grip-bench-press-f.jpg"
@@ -5272,6 +7408,30 @@
           "Sit on a bench with your forearms resting on your thighs, holding a dumbbell in each hand with palms facing up.",
           "Let your wrists hang over the edge of your knees, keeping your arms still.",
           "Curl your wrists upwards, lifting the dumbbells as high as possible, then slowly lower back to the starting position."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Mover el codo o el antebrazo en vez de solo la muñeca.",
+          "Cargar tanto que solo haces medio recorrido.",
+          "Soltar el peso de golpe al bajar."
+        ],
+        "en": [
+          "Moving your elbow or forearm instead of just your wrist.",
+          "Loading so much that you only do half the range of motion.",
+          "Dropping the weight suddenly on the way down."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Curl de muñeca sobre banco.",
+          "Curl de muñeca inverso.",
+          "Aguantar una mancuerna con los dedos (trabajo de agarre)."
+        ],
+        "en": [
+          "Wrist curl on bench.",
+          "Reverse wrist curl.",
+          "Holding a dumbbell with fingers (grip work)."
         ]
       },
       "images": {
@@ -5331,6 +7491,30 @@
           "Hold a barbell across your shoulders, ensuring it's balanced.",
           "Bend your torso forward from the hips, keeping your legs slightly bent.",
           "Return to the starting position using your glutes and hamstrings."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Doblar las rodillas como en una sentadilla.",
+          "Redondear la espalda.",
+          "Cargar demasiado peso en un ejercicio que pide poco."
+        ],
+        "en": [
+          "Bending your knees as in a squat.",
+          "Rounding your back.",
+          "Loading too much weight on an exercise that requires little."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Bisagra de cadera con palo.",
+          "Peso muerto rumano.",
+          "Hiperextensiones."
+        ],
+        "en": [
+          "Hip hinge with a stick.",
+          "Romanian deadlift.",
+          "Hyperextensions."
         ]
       },
       "images": {
@@ -5400,6 +7584,30 @@
           "Lift the bar by extending your hips and knees until you stand upright."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Meter las rodillas hacia dentro.",
+          "Subir la cadera antes que el pecho.",
+          "Separar la barra del cuerpo."
+        ],
+        "en": [
+          "Letting your knees cave in.",
+          "Raising your hips before your chest.",
+          "Letting the bar drift away from your body."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Peso muerto convencional.",
+          "Peso muerto rumano.",
+          "Sentadilla goblet ancha."
+        ],
+        "en": [
+          "Conventional deadlift.",
+          "Romanian deadlift.",
+          "Wide goblet squat."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/sumo-deadlift-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/sumo-deadlift-f.jpg"
@@ -5452,6 +7660,30 @@
           "Start on your knees, keeping your body straight from knees to head.",
           "Slowly lower yourself forward, maintaining control, until you can no longer hold without falling.",
           "Use your hands to cushion the fall and push slightly to return to the starting position."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Doblar la cadera y bajar en bloque.",
+          "Caer de golpe sin frenar.",
+          "Empezar sin ayuda cuando aún no controlas la bajada."
+        ],
+        "en": [
+          "Bending at the hip and lowering in one block.",
+          "Dropping suddenly without control.",
+          "Starting without assistance when you haven't mastered the descent."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Curl nórdico ayudándote con las manos.",
+          "Curl de piernas tumbado.",
+          "Peso muerto rumano."
+        ],
+        "en": [
+          "Nordic curl using your hands for assistance.",
+          "Lying leg curl.",
+          "Romanian deadlift."
         ]
       },
       "images": {
@@ -5508,6 +7740,30 @@
           "Slowly return to the starting position without letting the weight stack touch."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Arquear la lumbar para subir más la pierna.",
+          "Girar la cadera hacia fuera.",
+          "Soltar de golpe al volver."
+        ],
+        "en": [
+          "Arching your lower back to lift your leg higher.",
+          "Rotating your hip outward.",
+          "Releasing abruptly on the return."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Patada de glúteo a cuatro patas sin peso.",
+          "Hip thrust.",
+          "Puente a una pierna."
+        ],
+        "en": [
+          "Quadruped glute kickback without weight.",
+          "Hip thrust.",
+          "Single-leg bridge."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/cable-glute-kickback-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/cable-glute-kickback-f.jpg"
@@ -5554,6 +7810,30 @@
           "Slightly lean your torso back while bending your knees.",
           "Lower your body in a controlled manner until your knees are almost at 90 degrees.",
           "Return to the starting position by pushing with your quadriceps."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Dejar caer la cadera hacia atrás: aquí las rodillas van adelante y la cadera queda alineada.",
+          "Bajar más de lo que aguanta la rodilla.",
+          "Hacerlo sin sujeción cuando aún no controlas el equilibrio."
+        ],
+        "en": [
+          "Letting your hips drop back: here the knees go forward and the hips stay aligned.",
+          "Lowering more than your knees can handle.",
+          "Doing it without support when you haven't mastered balance."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Extensión de piernas en máquina.",
+          "Sentadilla sissy sujetándote a un soporte.",
+          "Sentadilla goblet."
+        ],
+        "en": [
+          "Leg extension on machine.",
+          "Sissy squat holding onto a support.",
+          "Goblet squat."
         ]
       },
       "images": {
@@ -5615,6 +7895,30 @@
           "Lower your legs slowly back to the starting position."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Balancearte para subir las piernas.",
+          "Doblar la cadera sin activar el abdomen.",
+          "Dejar caer las piernas de golpe."
+        ],
+        "en": [
+          "Swinging to lift your legs.",
+          "Bending at the hips without engaging your core.",
+          "Letting your legs drop suddenly."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Elevación de rodillas colgado.",
+          "Elevación de piernas tumbado en el suelo.",
+          "Plancha si te falla el agarre."
+        ],
+        "en": [
+          "Hanging knee raise.",
+          "Lying leg raise.",
+          "Plank if your grip fails."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/hanging-leg-raise-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/hanging-leg-raise-f.jpg"
@@ -5661,6 +7965,30 @@
           "Kneel in front of the machine, keeping your back straight.",
           "Lean your torso forward, bringing your elbows towards your knees as you contract your abs.",
           "Slowly return to the starting position, maintaining control."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Flexionar la cadera en vez de la columna: hay que enrollar el tronco.",
+          "Tirar con los brazos.",
+          "Mover las caderas adelante y atrás."
+        ],
+        "en": [
+          "Hinging at the hips instead of curling the spine.",
+          "Pulling with your arms.",
+          "Moving your hips back and forth."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Crunch en el suelo.",
+          "Rueda abdominal.",
+          "Elevación de piernas colgado."
+        ],
+        "en": [
+          "Floor crunch.",
+          "Ab wheel rollout.",
+          "Hanging leg raise."
         ]
       },
       "images": {
@@ -5722,6 +8050,30 @@
           "Keep your core tight and breathe steadily throughout the exercise."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Subir la cadera con cada rodilla.",
+          "Dejar caer la zona lumbar.",
+          "Apoyar las manos por delante de los hombros."
+        ],
+        "en": [
+          "Raising your hips with each knee.",
+          "Dropping your lower back.",
+          "Placing your hands in front of your shoulders."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Escaladores lentos, sin saltar.",
+          "Plancha.",
+          "Rodillas altas de pie."
+        ],
+        "en": [
+          "Slow climbers, no jumping.",
+          "Plank.",
+          "Standing high knees."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/mountain-climbers-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/mountain-climbers-f.jpg"
@@ -5772,6 +8124,30 @@
           "Kneel on the floor, holding the ab wheel with both hands.",
           "Lean your torso forward and slowly roll the ab wheel forward, keeping your back straight.",
           "Stop when you feel you can't maintain proper form, then roll back to the starting position."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Arquear la zona lumbar al estirarte: es el fallo que hace daño.",
+          "Salir tan lejos que ya no puedes volver sin dar un tirón.",
+          "Levantar la cadera antes que el tronco al regresar."
+        ],
+        "en": [
+          "Arching your lower back as you stretch out: it's the mistake that causes injury.",
+          "Rolling out so far that you can't return without jerking.",
+          "Raising your hips before your torso as you return."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Plancha con antebrazos, aguantando más tiempo.",
+          "Rueda desde rodillas y con recorrido corto.",
+          "Dead bug lento."
+        ],
+        "en": [
+          "Forearm plank, holding longer.",
+          "Kneeling rollout with short range.",
+          "Slow dead bug."
         ]
       },
       "images": {
@@ -5826,6 +8202,30 @@
           "Stand with feet shoulder-width apart, turning your torso towards the pulley.",
           "Pull the handle down and across your body, rotating your torso and slightly bending your knees.",
           "Slowly return to the starting position, controlling the movement."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Girar con los brazos y no con el tronco.",
+          "Mover las caderas en vez de mantenerlas firmes.",
+          "Poner tanto peso que te arrastra."
+        ],
+        "en": [
+          "Rotating with your arms instead of your torso.",
+          "Moving your hips instead of keeping them stable.",
+          "Using so much weight that it pulls you."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Press Pallof.",
+          "Giro ruso.",
+          "Plancha lateral."
+        ],
+        "en": [
+          "Pallof press.",
+          "Russian twist.",
+          "Side plank."
         ]
       },
       "images": {
@@ -5885,6 +8285,30 @@
           "2. Rotate the rope using your wrists, not your arms.",
           "3. Jump lightly as the rope approaches your feet.",
           "4. Maintain a steady rhythm and land softly on the balls of your feet."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Saltar demasiado alto.",
+          "Girar con todo el brazo en vez de con la muñeca.",
+          "Caer con las piernas rígidas."
+        ],
+        "en": [
+          "Jumping too high.",
+          "Rotating with your whole arm instead of your wrist.",
+          "Landing with stiff legs."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Saltos sin cuerda en el sitio.",
+          "Rodillas altas.",
+          "Jumping jacks."
+        ],
+        "en": [
+          "Rope-less jumps in place.",
+          "High knees.",
+          "Jumping jacks."
         ]
       },
       "images": {
@@ -5951,6 +8375,30 @@
           "Step down alternating feet and repeat the movement."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Colgarte de los pasamanos.",
+          "Subir de puntillas sin apoyar el talón.",
+          "Inclinar mucho el tronco hacia delante."
+        ],
+        "en": [
+          "Hanging onto the handrails.",
+          "Stepping on your toes without heel support.",
+          "Leaning your torso too far forward."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Cinta con inclinación.",
+          "Step-up con peso.",
+          "Elíptica."
+        ],
+        "en": [
+          "Incline treadmill.",
+          "Weighted step-up.",
+          "Elliptical."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/stair-climber-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/stair-climber-f.jpg"
@@ -6006,6 +8454,30 @@
           "Stand upright with feet together and arms at your sides.",
           "Jump, spreading your legs shoulder-width apart while raising your arms overhead.",
           "Return to the starting position by bringing your feet together and lowering your arms."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Caer con las rodillas rígidas.",
+          "No estirar los brazos del todo arriba.",
+          "Perder el ritmo y acabar dando saltos torcidos."
+        ],
+        "en": [
+          "Landing with stiff knees.",
+          "Not fully extending your arms overhead.",
+          "Losing rhythm and ending up with uneven jumps."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Jumping jacks sin salto, saliendo con un pie cada vez.",
+          "Rodillas altas.",
+          "Comba."
+        ],
+        "en": [
+          "Low-impact jumping jacks, stepping out one foot at a time.",
+          "High knees.",
+          "Jump rope."
         ]
       },
       "images": {
@@ -6065,6 +8537,30 @@
           "Quickly alternate knees, moving arms in sync."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Subir poco la rodilla.",
+          "Echar el tronco hacia atrás.",
+          "Aterrizar con el talón de golpe."
+        ],
+        "en": [
+          "Not lifting your knee high enough.",
+          "Leaning your torso back.",
+          "Landing heavily on your heel."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Marcha elevando rodillas, sin correr.",
+          "Escaladores.",
+          "Comba."
+        ],
+        "en": [
+          "Marching with high knees, not running.",
+          "Mountain climbers.",
+          "Jump rope."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/high-knees-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/high-knees-f.jpg"
@@ -6117,6 +8613,30 @@
           "Stand with feet shoulder-width apart and elbows slightly bent.",
           "Press the handles upward until arms are fully extended, maintaining control.",
           "Slowly return to the starting position, avoiding weights from clashing."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Arquear la lumbar para empujar.",
+          "Colocarte demasiado lejos de la polea y quedar inclinado.",
+          "Bloquear los codos de golpe arriba."
+        ],
+        "en": [
+          "Arching your lower back to push.",
+          "Standing too far from the cable machine and leaning forward.",
+          "Locking your elbows abruptly at the top."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Press de hombros con mancuernas.",
+          "Press de hombros en máquina.",
+          "Press militar con barra."
+        ],
+        "en": [
+          "Dumbbell shoulder press.",
+          "Machine shoulder press.",
+          "Barbell military press."
         ]
       },
       "images": {
@@ -6178,6 +8698,30 @@
           "Slowly lower the handle back to the starting position, controlling the movement."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Subir los codos muy por encima de los hombros.",
+          "Separarte de la polea y tirar en diagonal.",
+          "Encoger los hombros al final."
+        ],
+        "en": [
+          "Raising your elbows too far above your shoulders.",
+          "Stepping away from the cable and pulling diagonally.",
+          "Shrugging your shoulders at the end."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Elevaciones laterales en polea.",
+          "Face pull.",
+          "Remo al mentón con barra y agarre ancho."
+        ],
+        "en": [
+          "Cable lateral raises.",
+          "Face pull.",
+          "Wide-grip barbell upright row."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/cable-upright-row-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/cable-upright-row-f.jpg"
@@ -6235,6 +8779,30 @@
           "Stand with feet shoulder-width apart, keeping your back straight.",
           "Lower into a squat, pushing hips back and keeping knees aligned with feet.",
           "Return to the starting position by pushing through your heels, maintaining control of the cable."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Dejar que el cable te tire hacia delante.",
+          "Levantar los talones.",
+          "Bajar solo un palmo."
+        ],
+        "en": [
+          "Letting the cable pull you forward.",
+          "Lifting your heels.",
+          "Lowering only a few inches."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Sentadilla goblet.",
+          "Prensa de piernas.",
+          "Sentadilla sin peso."
+        ],
+        "en": [
+          "Goblet squat.",
+          "Leg press.",
+          "Bodyweight squat."
         ]
       },
       "images": {
@@ -6296,6 +8864,30 @@
           "Push up with your arms to return to the starting position."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Bajar tanto que el hombro queda por debajo del codo.",
+          "Separar el cuerpo del banco: carga el hombro en vez del tríceps.",
+          "Ayudarte con las piernas cuando aún puedes con los brazos."
+        ],
+        "en": [
+          "Lowering so much that your shoulder goes below your elbow.",
+          "Moving your body away from the bench: loads the shoulder instead of the triceps.",
+          "Using your legs for assistance when you can still manage with your arms."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Extensión de tríceps en polea.",
+          "Fondos en máquina asistida.",
+          "Flexiones con manos juntas."
+        ],
+        "en": [
+          "Tricep extension on cable machine.",
+          "Assisted dips.",
+          "Close-grip push-ups."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/bench-dips-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/bench-dips-f.jpg"
@@ -6350,6 +8942,30 @@
           "Slowly lower the dumbbells back to the starting position, controlling the movement."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Adelantar el hombro para ayudarte.",
+          "No estirar del todo abajo: es justo lo que aporta este ejercicio.",
+          "Poner el banco demasiado tumbado y cargar el hombro."
+        ],
+        "en": [
+          "Bringing your shoulder forward to help.",
+          "Not fully extending at the bottom: that's exactly what this exercise offers.",
+          "Setting the bench too reclined and loading the shoulder."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Curl de bíceps de pie.",
+          "Curl en banco predicador.",
+          "Curl en polea baja."
+        ],
+        "en": [
+          "Standing bicep curl.",
+          "Preacher bench curl.",
+          "Low cable curl."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/incline-dumbbell-curl-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/incline-dumbbell-curl-f.jpg"
@@ -6402,6 +9018,30 @@
           "Hold a dumbbell in each hand with arms extended at your sides.",
           "Raise your shoulders towards your ears, keeping arms straight.",
           "Slowly lower your shoulders back to the starting position."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Hacer círculos con los hombros.",
+          "Doblar los codos.",
+          "No llegar arriba del todo."
+        ],
+        "en": [
+          "Making circles with your shoulders.",
+          "Bending your elbows.",
+          "Not reaching the top."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Encogimientos con barra.",
+          "Encogimientos en polea.",
+          "Face pull."
+        ],
+        "en": [
+          "Barbell shrugs.",
+          "Cable shrugs.",
+          "Face pull."
         ]
       },
       "images": {
@@ -6463,6 +9103,30 @@
           "Slowly return to the starting position, controlling the movement."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Sacar mucho el hombro hacia delante al final.",
+          "Arquear la lumbar.",
+          "Colocarte tan lejos que el cable te tira hacia atrás."
+        ],
+        "en": [
+          "Pushing your shoulder too far forward at the end.",
+          "Arching your lower back.",
+          "Positioning yourself so far back that the cable pulls you backward."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Press de pecho en máquina.",
+          "Press con mancuernas.",
+          "Flexiones."
+        ],
+        "en": [
+          "Chest press machine.",
+          "Dumbbell press.",
+          "Push-ups."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/cable-chest-press-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/cable-chest-press-f.jpg"
@@ -6517,6 +9181,30 @@
           "Slowly return to the starting position, controlling the movement."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Doblar los codos y convertirlo en un press.",
+          "Subir las manos por encima de los hombros.",
+          "Encoger los hombros al juntar."
+        ],
+        "en": [
+          "Bending your elbows and turning it into a press.",
+          "Raising your hands above your shoulders.",
+          "Shrugging your shoulders as you bring them together."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Cruce de poleas clásico.",
+          "Pec deck.",
+          "Aperturas con mancuernas en banco inclinado."
+        ],
+        "en": [
+          "Classic cable crossover.",
+          "Pec deck.",
+          "Incline bench dumbbell flyes."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/low-cable-fly-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/low-cable-fly-f.jpg"
@@ -6563,6 +9251,30 @@
           "Stand with one foot in front of the other for better stability.",
           "Extend your arms upward and forward, keeping your elbows close to your head.",
           "Slowly return to the starting position without moving your elbows."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Abrir los codos hacia fuera.",
+          "Arquear la lumbar para llevar el peso atrás.",
+          "Mover los hombros en cada repetición."
+        ],
+        "en": [
+          "Flaring your elbows out.",
+          "Arching your lower back to move the weight back.",
+          "Moving your shoulders with each repetition."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Extensión sobre la cabeza con mancuerna.",
+          "Extensión de tríceps en polea por delante.",
+          "Press francés."
+        ],
+        "en": [
+          "Overhead dumbbell extension.",
+          "Front cable triceps extension.",
+          "French press."
         ]
       },
       "images": {
@@ -6613,6 +9325,30 @@
           "Slowly lower the handle back to the starting position, controlling the movement."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Subir por encima de la línea de los ojos.",
+          "Balancearte para dar impulso.",
+          "Doblar el codo para ayudarte."
+        ],
+        "en": [
+          "Lifting above eye level.",
+          "Swinging for momentum.",
+          "Bending your elbow to assist."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Elevación frontal con mancuernas.",
+          "Press de hombros.",
+          "Elevaciones laterales en polea."
+        ],
+        "en": [
+          "Dumbbell front raise.",
+          "Shoulder press.",
+          "Cable lateral raises."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/cable-front-raise-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/cable-front-raise-f.jpg"
@@ -6659,6 +9395,30 @@
           "Stand sideways to the machine, holding on with one hand for balance.",
           "With the cuffed leg, extend outward and to the side, keeping your torso upright.",
           "Slowly return to the starting position and repeat."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Inclinar el tronco hacia el lado contrario para abrir más.",
+          "Girar la punta del pie hacia fuera.",
+          "Soltar de golpe al cerrar."
+        ],
+        "en": [
+          "Leaning your torso to the opposite side to increase range.",
+          "Turning your toe outward.",
+          "Releasing abruptly when closing."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Abductores en máquina.",
+          "Abducción tumbado de lado.",
+          "Banda elástica por encima de las rodillas."
+        ],
+        "en": [
+          "Machine hip abduction.",
+          "Side-lying abduction.",
+          "Resistance band above the knees."
         ]
       },
       "images": {
@@ -6720,6 +9480,30 @@
           "Slowly return to the starting position, controlling the movement."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Doblar los codos y convertirlo en un jalón.",
+          "Tirar con la lumbar en vez de con el dorsal.",
+          "Dejar que el peso te levante los hombros al volver."
+        ],
+        "en": [
+          "Bending your elbows and turning it into a row.",
+          "Pulling with your lower back instead of your lats.",
+          "Letting the weight lift your shoulders as you return."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Pullover con mancuerna.",
+          "Jalón al pecho.",
+          "Remo en polea."
+        ],
+        "en": [
+          "Dumbbell pullover.",
+          "Lat pulldown.",
+          "Cable row."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/cable-pullover-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/cable-pullover-f.jpg"
@@ -6779,6 +9563,30 @@
           "Lower your arms back to the starting position and repeat."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Despegar la lumbar de la pared arqueando la espalda.",
+          "Perder el contacto de las muñecas o los codos.",
+          "Subir más de lo que te deja el hombro."
+        ],
+        "en": [
+          "Arching your lower back away from the wall.",
+          "Losing contact with your wrists or elbows.",
+          "Raising higher than your shoulder allows."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "El mismo movimiento tumbado en el suelo.",
+          "Face pull en polea.",
+          "Retracción de barbilla si el problema es la postura del cuello."
+        ],
+        "en": [
+          "The same movement lying on the floor.",
+          "Face pull on a cable machine.",
+          "Chin tuck if the issue is neck posture."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/wall-angels-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/wall-angels-f.jpg"
@@ -6831,6 +9639,30 @@
           "Place your palms on the ground at shoulder level.",
           "Inhale and slowly lift your chest, keeping your hips on the floor.",
           "Hold the position for 15-30 seconds, then gently lower down."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Empujar con los brazos hasta forzar la lumbar.",
+          "Encoger los hombros hacia las orejas.",
+          "Despegar la cadera del suelo."
+        ],
+        "en": [
+          "Pushing with your arms to force your lower back.",
+          "Shrugging your shoulders towards your ears.",
+          "Lifting your hips off the floor."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Extensión sobre los antebrazos (esfinge).",
+          "Gato-vaca.",
+          "Extensión torácica sobre banco."
+        ],
+        "en": [
+          "Forearm extension (sphinx).",
+          "Cat-cow.",
+          "Thoracic extension on bench."
         ]
       },
       "images": {
@@ -6892,6 +9724,30 @@
           "4. Hold the position for the desired time, breathing in a controlled manner."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Colgarte con los hombros pegados a las orejas todo el rato.",
+          "Apretar la barra hasta que solo aguanta el antebrazo.",
+          "Balancearte."
+        ],
+        "en": [
+          "Hanging with your shoulders shrugged up to your ears the whole time.",
+          "Gripping the bar so tightly that only your forearm holds you up.",
+          "Swinging."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Colgarte con los pies apoyados para quitar peso.",
+          "Jalón al pecho.",
+          "Remo invertido."
+        ],
+        "en": [
+          "Hanging with your feet supported to reduce weight.",
+          "Lat pulldown.",
+          "Inverted row."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/dead-hang-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/dead-hang-f.jpg"
@@ -6944,6 +9800,30 @@
           "Inhale deeply as you arch your back downward, lifting your head and tailbone towards the ceiling, entering the 'cow' position.",
           "Exhale as you round your back upward, tucking your chin to your chest and tailbone down, entering the 'cat' position.",
           "Repeat the cycle of movements smoothly, coordinating your breath with each position change."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Mover solo la lumbar en vez de toda la columna.",
+          "Ir a tirones.",
+          "Bloquear los codos con fuerza."
+        ],
+        "en": [
+          "Moving only your lower back instead of your entire spine.",
+          "Jerking the movement.",
+          "Locking your elbows forcefully."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Rotación torácica en cuadrupedia.",
+          "Extensión torácica sobre banco.",
+          "Estiramiento de cobra."
+        ],
+        "en": [
+          "Quadruped thoracic rotation.",
+          "Thoracic extension on bench.",
+          "Cobra stretch."
         ]
       },
       "images": {
@@ -7003,6 +9883,30 @@
           "Lower your body slowly without touching the bench, controlling the movement."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Doblar la cadera y convertirlo en una elevación de piernas.",
+          "Dejar caer el cuerpo de golpe al bajar.",
+          "Cargar el cuello en vez de agarrarte bien al banco."
+        ],
+        "en": [
+          "Bending at the hips and turning it into a leg raise.",
+          "Dropping your body suddenly on the way down.",
+          "Straining your neck instead of gripping the bench securely."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Bandera del dragón con las rodillas dobladas.",
+          "Elevación de piernas tumbado.",
+          "Hollow hold."
+        ],
+        "en": [
+          "Dragon flag with bent knees.",
+          "Lying leg raise.",
+          "Hollow hold."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/dragon-flag-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/dragon-flag-f.jpg"
@@ -7051,6 +9955,30 @@
           "Slowly lower the barbell back to the starting position, maintaining control."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Despegar los antebrazos de los muslos.",
+          "Hacer medio recorrido: hay que abrir la mano abajo y cerrar arriba.",
+          "Poner tanto peso que se cargan los codos."
+        ],
+        "en": [
+          "Lifting your forearms off your thighs.",
+          "Doing half reps: open your hand at the bottom and close at the top.",
+          "Using so much weight that your elbows strain."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Curl de muñeca con mancuernas.",
+          "Curl de muñeca sobre un banco.",
+          "Curl de muñeca con barra tras la espalda."
+        ],
+        "en": [
+          "Dumbbell wrist curl.",
+          "Wrist curl on a bench.",
+          "Behind-the-back barbell wrist curl."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/seated-barbell-wrist-curl-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/seated-barbell-wrist-curl-f.jpg"
@@ -7095,6 +10023,30 @@
           "Stand with feet shoulder-width apart and hold the barbell behind you with palms facing backward.",
           "Keep arms straight and lift the barbell by curling only your wrists upward.",
           "Slowly lower the barbell back to the starting position, controlling the movement."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Doblar los codos para ayudarte.",
+          "Separar la barra de los glúteos.",
+          "Encoger los hombros."
+        ],
+        "en": [
+          "Bending your elbows to assist.",
+          "Separating the barbell from your glutes.",
+          "Shrugging your shoulders."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Curl de muñeca sentado con barra.",
+          "Curl de muñeca con mancuernas.",
+          "Curl de muñeca sobre banco."
+        ],
+        "en": [
+          "Seated barbell wrist curl.",
+          "Dumbbell wrist curl.",
+          "Wrist curl over bench."
         ]
       },
       "images": {
@@ -7145,6 +10097,30 @@
           "Lower the dumbbells slowly to the starting position and repeat."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Levantar los antebrazos del banco.",
+          "Recorrido corto, sin dejar que la mancuerna ruede hacia los dedos.",
+          "Cargar demasiado y tirar con el codo."
+        ],
+        "en": [
+          "Lifting your forearms off the bench.",
+          "Using a short range of motion without letting the dumbbell roll to your fingers.",
+          "Loading too much weight and pulling with your elbow."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Curl de muñeca sentado con barra.",
+          "Curl de muñeca con barra sobre banco.",
+          "Curl de muñeca inverso."
+        ],
+        "en": [
+          "Seated barbell wrist curl.",
+          "Barbell wrist curl over bench.",
+          "Reverse wrist curl."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/dumbbell-wrist-curl-over-bench-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/dumbbell-wrist-curl-over-bench-f.jpg"
@@ -7193,6 +10169,30 @@
           "Lower the bar slowly to the starting position and repeat."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Levantar los antebrazos del banco.",
+          "Agarrar la barra con las muñecas rígidas y no dejarla bajar.",
+          "Poner tanto peso que se carga el codo."
+        ],
+        "en": [
+          "Lifting your forearms off the bench.",
+          "Gripping the bar with rigid wrists and not letting it lower.",
+          "Using so much weight that it strains your elbow."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Curl de muñeca con mancuernas sobre banco.",
+          "Curl de muñeca sentado.",
+          "Curl de muñeca inverso de pie."
+        ],
+        "en": [
+          "Dumbbell wrist curl over bench.",
+          "Seated wrist curl.",
+          "Standing reverse wrist curl."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/barbell-wrist-curl-over-bench-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/barbell-wrist-curl-over-bench-f.jpg"
@@ -7239,6 +10239,30 @@
           "Keep your elbows straight and close to your body: only the wrists move.",
           "Raise your knuckles toward your forearms by extending your wrists and hold briefly at the top.",
           "Lower the bar slowly until your wrists are relaxed again and repeat."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Cambiar el agarre a supino sin darte cuenta: aquí las palmas miran hacia atrás.",
+          "Doblar los codos para ayudarte.",
+          "Cargar demasiado: aquí se mueve muy poco peso."
+        ],
+        "en": [
+          "Switching to a supine grip without noticing: here palms face backward.",
+          "Bending your elbows to assist.",
+          "Loading too much weight: here you move very little weight."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Curl de muñeca inverso apoyado en un banco.",
+          "Curl de muñeca normal.",
+          "Curl martillo para el antebrazo."
+        ],
+        "en": [
+          "Reverse wrist curl on a bench.",
+          "Regular wrist curl.",
+          "Hammer curl for forearms."
         ]
       },
       "images": {
@@ -7300,6 +10324,30 @@
           "Return slowly to the starting position and alternate sides on each repetition."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Girar la cadera al levantar la pierna.",
+          "Subir la pierna más alto que la espalda y arquear la lumbar.",
+          "Ir rápido: el ejercicio es de control, no de repeticiones."
+        ],
+        "en": [
+          "Rotating your hip as you lift your leg.",
+          "Raising your leg higher than your back and arching your lower back.",
+          "Going fast: the exercise is about control, not repetitions."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Solo brazo o solo pierna, hasta controlar el equilibrio.",
+          "Dead bug tumbado.",
+          "Plancha con antebrazos."
+        ],
+        "en": [
+          "Arm only or leg only, until you master balance.",
+          "Dead bug lying down.",
+          "Forearm plank."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/bird-dog-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/bird-dog-f.jpg"
@@ -7354,6 +10402,30 @@
           "Hold the position without letting your lower back come off the floor; bend your knees if it is too hard."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Despegar la lumbar del suelo: es el fallo que lo invalida.",
+          "Aguantar la respiración.",
+          "Subir demasiado las piernas para que sea más fácil."
+        ],
+        "en": [
+          "Lifting your lower back off the floor: this is the mistake that invalidates it.",
+          "Holding your breath.",
+          "Raising your legs too high to make it easier."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Hollow con las rodillas dobladas.",
+          "Dead bug.",
+          "Plancha con antebrazos."
+        ],
+        "en": [
+          "Hollow with bent knees.",
+          "Dead bug.",
+          "Forearm plank."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/hollow-hold-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/hollow-hold-f.jpg"
@@ -7406,6 +10478,30 @@
           "Keep that rigid shape and rock backwards, bringing your shoulders low.",
           "Rock forwards, bringing your hips low and your shoulders high, without losing the shape.",
           "Rock continuously and under control, without letting your feet or head touch the floor."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Romper la forma de banana y mecerte a trozos.",
+          "Impulsarte con los brazos o las piernas.",
+          "Golpear la cabeza contra el suelo al ir hacia atrás."
+        ],
+        "en": [
+          "Breaking the banana shape and rocking in segments.",
+          "Using momentum from your arms or legs.",
+          "Hitting your head on the floor when rocking back."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Hollow hold estático.",
+          "Hollow rock con las rodillas dobladas.",
+          "Dead bug lento."
+        ],
+        "en": [
+          "Static hollow hold.",
+          "Hollow rock with bent knees.",
+          "Slow dead bug."
         ]
       },
       "images": {
@@ -7467,6 +10563,30 @@
           "Bring the handle slowly back to your chest and repeat; switch sides after the set."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Dejar que el cable te gire el tronco al estirar los brazos.",
+          "Mover los pies para compensar.",
+          "Poner tanto peso que solo aguantas con los brazos."
+        ],
+        "en": [
+          "Letting the cable rotate your torso as you extend your arms.",
+          "Shifting your feet to compensate.",
+          "Loading so much weight that you only hold with your arms."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Press Pallof con banda elástica.",
+          "Plancha lateral.",
+          "Paseo del granjero con una mano."
+        ],
+        "en": [
+          "Band Pallof press.",
+          "Side plank.",
+          "Single-arm farmer's walk."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/pallof-press-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/pallof-press-f.jpg"
@@ -7524,6 +10644,30 @@
           "Brace your core so you do not lean towards the loaded side.",
           "Walk in a straight line with short, firm steps, keeping your shoulders level.",
           "Cover the set distance, switch hands and repeat."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Inclinarte hacia el lado que lleva el peso.",
+          "Encoger el hombro cargado.",
+          "Dar pasos largos y perder la postura."
+        ],
+        "en": [
+          "Leaning towards the weighted side.",
+          "Shrugging the loaded shoulder.",
+          "Taking long steps and losing posture."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Paseo con las dos manos cargadas.",
+          "Plancha lateral.",
+          "Press Pallof."
+        ],
+        "en": [
+          "Loaded carry with both hands.",
+          "Side plank.",
+          "Pallof press."
         ]
       },
       "images": {
@@ -7585,6 +10729,30 @@
           "Push the floor away until your arms are straight, without arching your lower back."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Abrir los codos hacia fuera.",
+          "Dejar caer la cadera.",
+          "Bajar solo medio recorrido."
+        ],
+        "en": [
+          "Flaring your elbows out.",
+          "Letting your hips sag.",
+          "Lowering only halfway."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Flexión en diamante con las manos elevadas.",
+          "Extensión de tríceps en polea.",
+          "Fondos de tríceps en banco."
+        ],
+        "en": [
+          "Diamond push-up with elevated hands.",
+          "Tricep extension on cable machine.",
+          "Tricep dips on bench."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/diamond-push-up-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/diamond-push-up-f.jpg"
@@ -7642,6 +10810,30 @@
           "Kick up under control until your heels rest against the wall.",
           "Stack hands, shoulders and hips in a vertical line, with your core and glutes tight.",
           "Hold while breathing steadily and come down one leg at a time."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Arquear la lumbar y quedarte en banana.",
+          "Poner las manos demasiado lejos de la pared.",
+          "Aguantar hasta que se te van los brazos y caes de espaldas."
+        ],
+        "en": [
+          "Arching your lower back and forming a banana shape.",
+          "Placing your hands too far from the wall.",
+          "Holding until your arms give out and you fall backward."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Pino con los pies apoyados en la pared a la altura de la cadera.",
+          "Press de hombros con mancuernas.",
+          "Plancha con el peso adelantado sobre las manos."
+        ],
+        "en": [
+          "Handstand with feet on the wall at hip height.",
+          "Dumbbell shoulder press.",
+          "Plank with weight shifted forward over hands."
         ]
       },
       "images": {
@@ -7703,6 +10895,30 @@
           "Bend your elbows and pull them back into a W, squeezing your shoulder blades, then return to the start."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Usar mancuernas pesadas: aquí sobra peso.",
+          "Encoger los hombros hacia las orejas.",
+          "Despegar el pecho del banco para dar impulso."
+        ],
+        "en": [
+          "Using heavy dumbbells: weight is unnecessary here.",
+          "Shrugging your shoulders towards your ears.",
+          "Lifting your chest off the bench to gain momentum."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "El mismo movimiento tumbado boca abajo en el suelo, sin peso.",
+          "Face pull en polea.",
+          "Pájaros con mancuernas."
+        ],
+        "en": [
+          "The same movement lying face down on the floor, no weight.",
+          "Face pull on cable machine.",
+          "Dumbbell reverse fly."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/y-t-w-raise-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/y-t-w-raise-f.jpg"
@@ -7755,6 +10971,30 @@
           "Glide your head straight backwards, pulling your chin in towards your throat to make a double chin.",
           "Do not tilt your gaze up or down: the movement is horizontal.",
           "Hold for two or three seconds and return slowly to the starting position."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Bajar la barbilla al pecho en vez de deslizar la cabeza atrás.",
+          "Encoger los hombros.",
+          "Hacerlo con tirones fuertes."
+        ],
+        "en": [
+          "Dropping your chin to your chest instead of sliding your head back.",
+          "Shrugging your shoulders.",
+          "Using jerky movements."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "El mismo movimiento tumbado boca arriba.",
+          "Ángeles de pared.",
+          "Extensión torácica sobre banco."
+        ],
+        "en": [
+          "The same movement lying on your back.",
+          "Wall angels.",
+          "Thoracic extension on a bench."
         ]
       },
       "images": {
@@ -7816,6 +11056,30 @@
           "Drive through the heel to stand back up, using the arm only as much as you need, then switch legs."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Tirar del soporte con el brazo en vez de apoyarte lo justo.",
+          "Dejar caer la cadera de golpe al bajar.",
+          "Levantar el talón de la pierna de apoyo."
+        ],
+        "en": [
+          "Pulling on the support with your arm instead of just using it for balance.",
+          "Dropping your hip suddenly as you lower.",
+          "Lifting the heel of your supporting leg."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Sentadilla a cajón a una pierna.",
+          "Sentadilla búlgara.",
+          "Sentadilla sin peso a dos piernas si aún no controlas el equilibrio."
+        ],
+        "en": [
+          "Single-leg box squat.",
+          "Bulgarian split squat.",
+          "Bodyweight squat if you haven't mastered balance yet."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/assisted-pistol-squat-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/assisted-pistol-squat-f.jpg"
@@ -7873,6 +11137,30 @@
           "Lower slowly until your hips are below your knees.",
           "Keep your heels down, your knees pushed out and your chest upright.",
           "Hold the position while breathing deeply, then stand up using the support."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Levantar los talones.",
+          "Dejar caer el pecho hacia el suelo.",
+          "Aguantar la respiración."
+        ],
+        "en": [
+          "Lifting your heels.",
+          "Dropping your chest towards the floor.",
+          "Holding your breath."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Sentadilla profunda sujetándote a un soporte.",
+          "Poner un disco bajo los talones.",
+          "Sentadilla a cajón."
+        ],
+        "en": [
+          "Deep squat holding onto a support.",
+          "Placing a plate under your heels.",
+          "Box squat."
         ]
       },
       "images": {
@@ -7934,6 +11222,30 @@
           "Go as far as you can while the dowel keeps all three contact points, then stand up by squeezing your glutes."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Doblar las rodillas como en una sentadilla en vez de llevar la cadera atrás.",
+          "Perder el contacto del palo con la espalda alta o el sacro.",
+          "Bajar más de lo que aguanta tu movilidad."
+        ],
+        "en": [
+          "Bending your knees like in a squat instead of pushing your hips back.",
+          "Losing contact of the dowel with your upper back or sacrum.",
+          "Lowering more than your mobility allows."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Bisagra tocando la pared con el glúteo.",
+          "Peso muerto rumano ligero.",
+          "Buenos días con barra vacía."
+        ],
+        "en": [
+          "Hip hinge touching the wall with your glutes.",
+          "Light Romanian deadlift.",
+          "Good mornings with an empty barbell."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/hip-hinge-dowel-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/hip-hinge-dowel-f.jpg"
@@ -7986,6 +11298,30 @@
           "Tuck your pelvis and squeeze the glute of the kneeling leg.",
           "Push your hips forward until you feel the stretch at the front of the kneeling hip.",
           "Reach the arm on that side overhead to increase it, hold, then switch legs."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Arquear la lumbar en vez de meter la pelvis.",
+          "Adelantar la rodilla de delante por encima de la punta del pie.",
+          "Rebotar."
+        ],
+        "en": [
+          "Arching your lower back instead of tucking your pelvis.",
+          "Pushing your front knee past your toes.",
+          "Bouncing."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "El mismo estiramiento con el pie de atrás sobre un banco.",
+          "Zancada baja con rotación.",
+          "Estiramiento de cuádriceps de pie."
+        ],
+        "en": [
+          "Same stretch with back foot on a bench.",
+          "Low lunge with rotation.",
+          "Standing quadriceps stretch."
         ]
       },
       "images": {
@@ -8047,6 +11383,30 @@
           "Bring the hand back down, repeat a few times and switch sides."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Girar desde la cadera en vez de desde la espalda alta.",
+          "Dejar caer el pecho al suelo.",
+          "Ir a tirones."
+        ],
+        "en": [
+          "Rotating from the hip instead of the upper back.",
+          "Dropping your chest to the floor.",
+          "Jerking movements."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Rotación torácica en cuadrupedia.",
+          "Apertura de pecho tumbado (libro abierto).",
+          "Zancada baja sin rotación."
+        ],
+        "en": [
+          "Quadruped thoracic rotation.",
+          "Lying chest opener (open book).",
+          "Low lunge without rotation."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/low-lunge-rotation-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/low-lunge-rotation-f.jpg"
@@ -8099,6 +11459,30 @@
           "Cross one ankle over the opposite knee to make a figure four.",
           "Reach both hands behind the supporting thigh and pull it towards your chest.",
           "Keep your head and shoulders on the floor, hold, then switch sides."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Despegar la cabeza y los hombros del suelo.",
+          "Tirar del pie en vez del muslo.",
+          "Forzar hasta que pinche."
+        ],
+        "en": [
+          "Lifting your head and shoulders off the floor.",
+          "Pulling on your foot instead of your thigh.",
+          "Forcing until it pinches."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "El mismo estiramiento sentado en una silla.",
+          "Postura 90/90 de cadera.",
+          "Estiramiento de glúteo cruzando la pierna de pie."
+        ],
+        "en": [
+          "The same stretch seated in a chair.",
+          "90/90 hip position.",
+          "Standing glute stretch crossing the leg."
         ]
       },
       "images": {
@@ -8155,6 +11539,30 @@
           "Hold while breathing, lower slowly and switch legs."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Doblar la rodilla de la pierna que estiras.",
+          "Despegar la otra pierna del suelo.",
+          "Tirar de la cinta hasta que pinche."
+        ],
+        "en": [
+          "Bending the knee of the leg you're stretching.",
+          "Lifting the other leg off the floor.",
+          "Pulling the strap until it pinches."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Flexión adelante sentado.",
+          "Estiramiento de isquios con el pie en un banco.",
+          "Estiramiento de glúteo (figura 4) si la molestia es más atrás."
+        ],
+        "en": [
+          "Seated forward bend.",
+          "Hamstring stretch with foot on a bench.",
+          "Glute stretch (figure 4) if the discomfort is further back."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/supine-hamstring-stretch-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/supine-hamstring-stretch-f.jpg"
@@ -8207,6 +11615,30 @@
           "Grow tall through the crown of your head to lengthen your spine.",
           "Hinge from your hips and reach your hands towards your feet without rounding your back.",
           "Go as far as you can with your knees straight and hold while breathing."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Encorvar la espalda para llegar a los pies.",
+          "Doblar las rodillas sin querer.",
+          "Rebotar."
+        ],
+        "en": [
+          "Rounding your back to reach your feet.",
+          "Unintentionally bending your knees.",
+          "Bouncing."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "El mismo estiramiento con una cinta en los pies.",
+          "Estiramiento de isquios tumbado.",
+          "Estiramiento de isquios de pie con el pie en un banco."
+        ],
+        "en": [
+          "Same stretch with a strap around your feet.",
+          "Lying hamstring stretch.",
+          "Standing hamstring stretch with foot on a bench."
         ]
       },
       "images": {
@@ -8263,6 +11695,30 @@
           "Rotate both knees over to the other side to switch position and repeat."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Encorvar la espalda al girar.",
+          "Forzar el giro con las manos hasta que pinche la rodilla.",
+          "Dejar el peso sobre una sola nalga."
+        ],
+        "en": [
+          "Rounding your back as you rotate.",
+          "Forcing the rotation with your hands until your knee pinches.",
+          "Leaving the weight on one glute."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Estiramiento de glúteo (figura 4).",
+          "Sentarte con las piernas cruzadas y llevar el pecho al frente.",
+          "Estiramiento de flexores de cadera."
+        ],
+        "en": [
+          "Figure 4 glute stretch.",
+          "Sitting cross-legged and bringing your chest forward.",
+          "Hip flexor stretch."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/hip-90-90-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/hip-90-90-f.jpg"
@@ -8311,6 +11767,30 @@
           "Hold while you feel the stretch in the calf, then switch legs."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Levantar el talón de atrás.",
+          "Doblar la rodilla de atrás: deja de estirar el gemelo.",
+          "Rebotar en vez de aguantar la posición."
+        ],
+        "en": [
+          "Lifting your back heel.",
+          "Bending your back knee: stops stretching the calf.",
+          "Bouncing instead of holding the position."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Estiramiento de gemelo desde un escalón.",
+          "Dorsiflexión de tobillo en pared.",
+          "El mismo estiramiento con la rodilla algo doblada, para el sóleo."
+        ],
+        "en": [
+          "Calf stretch from a step.",
+          "Ankle dorsiflexion on wall.",
+          "Same stretch with slightly bent knee, for the soleus."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/calf-stretch-wall-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/calf-stretch-wall-f.jpg"
@@ -8357,6 +11837,30 @@
           "Rest your hands on the wall or on your front knee.",
           "Drive that knee towards the wall over your toes without letting the heel lift.",
           "Come back and repeat; move the foot further away if it is easy, then switch sides."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Levantar el talón para llegar más lejos.",
+          "Girar el pie hacia fuera para ganar recorrido.",
+          "Empujar a tirones en vez de ir y volver despacio."
+        ],
+        "en": [
+          "Lifting your heel to reach further.",
+          "Turning your foot outward to gain range.",
+          "Pushing in jerks instead of moving slowly back and forth."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Estiramiento de gemelo en pared.",
+          "El mismo movimiento sentado, empujando la rodilla con las manos.",
+          "Bajar y subir el talón desde un escalón."
+        ],
+        "en": [
+          "Calf stretch on wall.",
+          "Same movement seated, pushing the knee with your hands.",
+          "Lowering and raising the heel from a step."
         ]
       },
       "images": {
@@ -8413,6 +11917,30 @@
           "Hold for a few seconds while breathing deeply, then return to neutral."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Arquear la lumbar en vez de la espalda alta.",
+          "Adelantar las caderas por delante de las rodillas.",
+          "Forzar hasta que moleste el hombro."
+        ],
+        "en": [
+          "Arching your lower back instead of your upper back.",
+          "Pushing your hips forward past your knees.",
+          "Forcing until your shoulder feels uncomfortable."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Extensión sobre un foam roller.",
+          "Rotación torácica en cuadrupedia.",
+          "Ángeles de pared."
+        ],
+        "en": [
+          "Foam roller extension.",
+          "Quadruped thoracic rotation.",
+          "Wall angels."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/thoracic-extension-bench-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/thoracic-extension-bench-f.jpg"
@@ -8465,6 +11993,30 @@
           "Rotate your torso, bringing that elbow under your chest towards the supporting arm.",
           "Then open the elbow up towards the ceiling, turning through your upper back and following your hand with your eyes.",
           "Keep your hips still over your knees; repeat and switch sides."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Girar la cadera en vez de la espalda alta.",
+          "Dejar caer el codo de apoyo.",
+          "Ir rápido."
+        ],
+        "en": [
+          "Rotating your hip instead of your upper back.",
+          "Dropping your supporting elbow.",
+          "Going fast."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Apertura de pecho tumbado (libro abierto).",
+          "Extensión torácica sobre banco.",
+          "Giro sentado en una silla."
+        ],
+        "en": [
+          "Open book stretch.",
+          "Thoracic extension on a bench.",
+          "Seated chair twist."
         ]
       },
       "images": {
@@ -8526,6 +12078,30 @@
           "Keep your knees down, hold for a few seconds and switch sides."
         ]
       },
+      "mistakes": {
+        "es": [
+          "Dejar que las rodillas se despeguen del suelo al abrir.",
+          "Forzar el brazo hasta que tire el hombro.",
+          "Aguantar la respiración."
+        ],
+        "en": [
+          "Letting your knees lift off the floor as you open.",
+          "Forcing your arm until it strains your shoulder.",
+          "Holding your breath."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Rotación torácica en cuadrupedia.",
+          "Extensión torácica sobre banco.",
+          "Giro sentado en una silla."
+        ],
+        "en": [
+          "Quadruped thoracic rotation.",
+          "Thoracic extension on a bench.",
+          "Seated chair twist."
+        ]
+      },
       "images": {
         "male": "https://marcmayol.com/exercise-api/images/open-book-stretch-m.jpg",
         "female": "https://marcmayol.com/exercise-api/images/open-book-stretch-f.jpg"
@@ -8578,6 +12154,30 @@
           "Step forward with the foot on the same side.",
           "Turn your torso away from that arm until you feel the stretch across your chest.",
           "Hold while breathing deeply, then switch arms."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Poner el codo más alto que el hombro.",
+          "Girar el cuerpo de golpe.",
+          "Arquear la lumbar para ganar estiramiento."
+        ],
+        "en": [
+          "Placing your elbow higher than your shoulder.",
+          "Twisting your body abruptly.",
+          "Arching your lower back to gain stretch."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Apertura de pecho tumbado (libro abierto).",
+          "El mismo estiramiento con el brazo estirado en la pared.",
+          "Ángeles de pared."
+        ],
+        "en": [
+          "Lying chest opener (open book).",
+          "Same stretch with arm extended on the wall.",
+          "Wall angels."
         ]
       },
       "images": {
@@ -8637,6 +12237,30 @@
           "Press your lower back into the floor and brace your core before you start.",
           "Raise both straight legs to vertical without lifting your hips off the floor.",
           "Lower them slowly until they hover just above the floor, without touching down or arching your back."
+        ]
+      },
+      "mistakes": {
+        "es": [
+          "Despegar la lumbar del suelo al bajar las piernas.",
+          "Dejar caer las piernas de golpe.",
+          "Tirar del cuello con las manos."
+        ],
+        "en": [
+          "Lifting your lower back off the floor as you lower your legs.",
+          "Letting your legs drop suddenly.",
+          "Pulling your neck with your hands."
+        ]
+      },
+      "alternatives": {
+        "es": [
+          "Elevación de piernas con las rodillas dobladas.",
+          "Dead bug.",
+          "Elevación de piernas colgado si dominas el control."
+        ],
+        "en": [
+          "Knee-bent leg raise.",
+          "Dead bug.",
+          "Hanging leg raise if you master the control."
         ]
       },
       "images": {

@@ -36,6 +36,30 @@
       "Return to the starting position in a controlled manner, keeping tension on the quadriceps."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Soltar el peso de golpe en la bajada.",
+      "Usar impulso levantando el cuerpo.",
+      "Cargar tanto que solo hagas medio recorrido."
+    ],
+    "en": [
+      "Dropping the weight suddenly on the descent.",
+      "Using momentum by lifting your body.",
+      "Loading so much that you only do half the range of motion."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Sentadilla goblet.",
+      "Zancadas o sentadilla búlgara.",
+      "Prensa de piernas con pies bajos."
+    ],
+    "en": [
+      "Goblet squat.",
+      "Lunges or Bulgarian split squat.",
+      "Leg press with low foot placement."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/seated-leg-extensions-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/seated-leg-extensions-f.jpg"

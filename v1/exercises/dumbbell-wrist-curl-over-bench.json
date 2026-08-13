@@ -36,6 +36,30 @@
       "Lower the dumbbells slowly to the starting position and repeat."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Levantar los antebrazos del banco.",
+      "Recorrido corto, sin dejar que la mancuerna ruede hacia los dedos.",
+      "Cargar demasiado y tirar con el codo."
+    ],
+    "en": [
+      "Lifting your forearms off the bench.",
+      "Using a short range of motion without letting the dumbbell roll to your fingers.",
+      "Loading too much weight and pulling with your elbow."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Curl de muñeca sentado con barra.",
+      "Curl de muñeca con barra sobre banco.",
+      "Curl de muñeca inverso."
+    ],
+    "en": [
+      "Seated barbell wrist curl.",
+      "Barbell wrist curl over bench.",
+      "Reverse wrist curl."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/dumbbell-wrist-curl-over-bench-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/dumbbell-wrist-curl-over-bench-f.jpg"

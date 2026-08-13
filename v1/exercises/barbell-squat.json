@@ -50,6 +50,30 @@
       "Descend until your thighs are at least parallel to the ground, then push through your heels to return to the starting position."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Levantar los talones del suelo.",
+      "Dejar que las rodillas se metan hacia dentro.",
+      "Subir primero la cadera y quedarte con la espalda doblada."
+    ],
+    "en": [
+      "Lifting your heels off the ground.",
+      "Letting your knees cave inward.",
+      "Raising your hips first and ending up with a bent back."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Sentadilla goblet.",
+      "Prensa de piernas.",
+      "Sentadilla hack en máquina."
+    ],
+    "en": [
+      "Goblet squat.",
+      "Leg press.",
+      "Hack squat on machine."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/barbell-squat-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/barbell-squat-f.jpg"

@@ -42,6 +42,30 @@
       "Slowly lower your shoulders back to the floor without dropping your legs."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Balancear las piernas para subir.",
+      "Tirar del cuello.",
+      "Despegar la lumbar del suelo."
+    ],
+    "en": [
+      "Swinging your legs to lift.",
+      "Pulling on your neck.",
+      "Lifting your lower back off the floor."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Crunch normal.",
+      "Elevación de piernas tumbado.",
+      "Dead bug."
+    ],
+    "en": [
+      "Standard crunch.",
+      "Lying leg raise.",
+      "Dead bug."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/legs-up-crunch-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/legs-up-crunch-f.jpg"

@@ -42,6 +42,30 @@
       "Hold the position, ensuring not to let the hips drop."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Dejar caer la cadera hacia el suelo (rompe la línea del cuerpo).",
+      "Apoyar el codo adelantado o atrasado en vez de justo bajo el hombro.",
+      "Rotar el tronco hacia delante o hacia atrás en vez de quedarte de perfil."
+    ],
+    "en": [
+      "Letting your hip drop towards the floor (breaks body line).",
+      "Placing your elbow forward or backward instead of directly under the shoulder.",
+      "Rotating your torso forward or backward instead of staying side-on."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Plancha lateral con la rodilla de abajo apoyada (más fácil).",
+      "Plancha frontal normal.",
+      "Elevaciones de cadera de lado, apoyado en el antebrazo."
+    ],
+    "en": [
+      "Side plank with bottom knee down (easier).",
+      "Standard front plank.",
+      "Side hip raises, supported on forearm."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/side-plank-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/side-plank-f.jpg"

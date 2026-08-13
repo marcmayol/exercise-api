@@ -42,6 +42,30 @@
       "Slowly lower your shoulders back to the starting position."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Hacer círculos con los hombros.",
+      "Doblar los codos.",
+      "No llegar arriba del todo."
+    ],
+    "en": [
+      "Making circles with your shoulders.",
+      "Bending your elbows.",
+      "Not reaching the top."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Encogimientos con barra.",
+      "Encogimientos en polea.",
+      "Face pull."
+    ],
+    "en": [
+      "Barbell shrugs.",
+      "Cable shrugs.",
+      "Face pull."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/dumbbell-shrug-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/dumbbell-shrug-f.jpg"

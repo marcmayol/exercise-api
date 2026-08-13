@@ -36,6 +36,30 @@
       "Slowly lower your heels until you feel a good stretch in your calves."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Hacer rebotes rápidos sin control.",
+      "Recorrido corto (no estirar abajo ni subir del todo).",
+      "Doblar mucho las rodillas (en la versión de pie)."
+    ],
+    "en": [
+      "Bouncing quickly without control.",
+      "Using a short range of motion (not stretching down or going all the way up).",
+      "Bending your knees too much (in the standing version)."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Elevación de gemelos de pie con mancuerna en la mano.",
+      "Gemelos en prensa (empujando con la punta).",
+      "A una pierna en un escalón."
+    ],
+    "en": [
+      "Standing calf raise with dumbbell in hand.",
+      "Calf press on leg press machine (pushing with the toes).",
+      "Single-leg on a step."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/seated-calf-raises-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/seated-calf-raises-f.jpg"

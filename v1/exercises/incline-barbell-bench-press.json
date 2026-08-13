@@ -47,6 +47,30 @@
       "Lower the bar to the upper chest, then press up until arms are fully extended."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Inclinar el banco de más y convertirlo en press de hombro.",
+      "Rebotar la barra en el pecho.",
+      "Abrir los codos en cruz."
+    ],
+    "en": [
+      "Inclining the bench too much and turning it into a shoulder press.",
+      "Bouncing the bar off your chest.",
+      "Flaring your elbows out wide."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Press inclinado con mancuernas.",
+      "Press inclinado en máquina.",
+      "Pec deck."
+    ],
+    "en": [
+      "Incline dumbbell press.",
+      "Incline machine press.",
+      "Pec deck."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/incline-barbell-bench-press-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/incline-barbell-bench-press-f.jpg"

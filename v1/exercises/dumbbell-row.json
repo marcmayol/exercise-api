@@ -42,6 +42,30 @@
       "4. Lower the dumbbells in a controlled manner and repeat the movement."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Girar el tronco para subir más la mancuerna.",
+      "Tirar solo con el brazo, sin llevar el omóplato atrás.",
+      "Redondear la espalda."
+    ],
+    "en": [
+      "Rotating your torso to lift the dumbbell higher.",
+      "Pulling only with your arm, without moving your shoulder blade back.",
+      "Rounding your back."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Remo en polea sentado.",
+      "Remo en máquina.",
+      "Remo invertido con barra baja."
+    ],
+    "en": [
+      "Seated cable row.",
+      "Machine row.",
+      "Inverted row with low bar."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/dumbbell-row-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/dumbbell-row-f.jpg"

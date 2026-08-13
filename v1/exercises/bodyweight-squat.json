@@ -57,6 +57,30 @@
       "Push through your heels to return to the starting position."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Adelantar los hombros y quedarte de puntillas.",
+      "Bajar solo un palmo.",
+      "Juntar las rodillas al subir."
+    ],
+    "en": [
+      "Leaning your shoulders forward and staying on your toes.",
+      "Lowering only a few inches.",
+      "Bringing your knees together as you rise."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Sentadilla a cajón o silla.",
+      "Sentadilla goblet con una mancuerna ligera.",
+      "Prensa de piernas."
+    ],
+    "en": [
+      "Box or chair squat.",
+      "Goblet squat with a light dumbbell.",
+      "Leg press."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/bodyweight-squat-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/bodyweight-squat-f.jpg"

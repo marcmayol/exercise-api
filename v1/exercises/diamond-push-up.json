@@ -47,6 +47,30 @@
       "Push the floor away until your arms are straight, without arching your lower back."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Abrir los codos hacia fuera.",
+      "Dejar caer la cadera.",
+      "Bajar solo medio recorrido."
+    ],
+    "en": [
+      "Flaring your elbows out.",
+      "Letting your hips sag.",
+      "Lowering only halfway."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Flexión en diamante con las manos elevadas.",
+      "Extensión de tríceps en polea.",
+      "Fondos de tríceps en banco."
+    ],
+    "en": [
+      "Diamond push-up with elevated hands.",
+      "Tricep extension on cable machine.",
+      "Tricep dips on bench."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/diamond-push-up-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/diamond-push-up-f.jpg"

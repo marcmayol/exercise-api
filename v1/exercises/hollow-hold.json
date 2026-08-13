@@ -42,6 +42,30 @@
       "Hold the position without letting your lower back come off the floor; bend your knees if it is too hard."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Despegar la lumbar del suelo: es el fallo que lo invalida.",
+      "Aguantar la respiración.",
+      "Subir demasiado las piernas para que sea más fácil."
+    ],
+    "en": [
+      "Lifting your lower back off the floor: this is the mistake that invalidates it.",
+      "Holding your breath.",
+      "Raising your legs too high to make it easier."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Hollow con las rodillas dobladas.",
+      "Dead bug.",
+      "Plancha con antebrazos."
+    ],
+    "en": [
+      "Hollow with bent knees.",
+      "Dead bug.",
+      "Forearm plank."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/hollow-hold-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/hollow-hold-f.jpg"

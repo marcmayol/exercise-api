@@ -47,6 +47,30 @@
       "4. Lower the barbell slowly back to the starting position, controlling the movement."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Subir los codos muy por encima de los hombros.",
+      "Agarrar la barra demasiado estrecho.",
+      "Dar impulso con las piernas."
+    ],
+    "en": [
+      "Raising your elbows too far above your shoulders.",
+      "Gripping the bar too narrowly.",
+      "Using momentum from your legs."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Elevaciones laterales.",
+      "Face pull en polea.",
+      "Remo al mentón en polea con agarre ancho."
+    ],
+    "en": [
+      "Lateral raises.",
+      "Face pull on cable machine.",
+      "Upright row on cable machine with wide grip."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/upright-row-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/upright-row-f.jpg"

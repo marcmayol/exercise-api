@@ -42,6 +42,30 @@
       "Hold for two or three seconds and return slowly to the starting position."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Bajar la barbilla al pecho en vez de deslizar la cabeza atrás.",
+      "Encoger los hombros.",
+      "Hacerlo con tirones fuertes."
+    ],
+    "en": [
+      "Dropping your chin to your chest instead of sliding your head back.",
+      "Shrugging your shoulders.",
+      "Using jerky movements."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "El mismo movimiento tumbado boca arriba.",
+      "Ángeles de pared.",
+      "Extensión torácica sobre banco."
+    ],
+    "en": [
+      "The same movement lying on your back.",
+      "Wall angels.",
+      "Thoracic extension on a bench."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/chin-tuck-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/chin-tuck-f.jpg"

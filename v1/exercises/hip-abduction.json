@@ -36,6 +36,30 @@
       "Slowly return to the starting position without letting the pads snap together."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Echar el tronco hacia atrás para abrir más.",
+      "Soltar de golpe al cerrar.",
+      "Poner tanto peso que solo abres un palmo."
+    ],
+    "en": [
+      "Leaning your torso back to open more.",
+      "Letting go abruptly when closing.",
+      "Using so much weight that you only open a few inches."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Abducción en polea baja.",
+      "Abducción tumbado de lado.",
+      "Banda elástica por encima de las rodillas."
+    ],
+    "en": [
+      "Cable machine hip abduction.",
+      "Side-lying hip abduction.",
+      "Resistance band above the knees."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/hip-abduction-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/hip-abduction-f.jpg"

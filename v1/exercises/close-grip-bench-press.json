@@ -47,6 +47,30 @@
       "Press the bar upward until your arms are fully extended."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Juntar tanto las manos que se cargan las muñecas.",
+      "Abrir los codos hacia fuera.",
+      "Rebotar la barra en el pecho."
+    ],
+    "en": [
+      "Bringing your hands so close together that your wrists bear the load.",
+      "Flaring your elbows out.",
+      "Bouncing the barbell off your chest."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Press francés.",
+      "Extensión de tríceps en polea.",
+      "Fondos en máquina."
+    ],
+    "en": [
+      "French press.",
+      "Tricep extension on cable machine.",
+      "Machine dips."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/close-grip-bench-press-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/close-grip-bench-press-f.jpg"

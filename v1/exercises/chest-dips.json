@@ -47,6 +47,30 @@
       "Push up to return to the starting position."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Bajar más de lo que aguanta tu hombro.",
+      "Quedarte vertical: para pecho hay que inclinar el tronco hacia delante.",
+      "Encoger los hombros al bajar."
+    ],
+    "en": [
+      "Lowering more than your shoulder can handle.",
+      "Staying vertical: for chest, lean your torso forward.",
+      "Shrugging your shoulders as you lower."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Fondos en máquina asistida.",
+      "Press de pecho declinado.",
+      "Flexiones con los pies elevados."
+    ],
+    "en": [
+      "Assisted dip machine.",
+      "Decline bench press.",
+      "Feet-elevated push-ups."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/chest-dips-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/chest-dips-f.jpg"

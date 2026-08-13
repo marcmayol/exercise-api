@@ -40,6 +40,30 @@
       "Fully extend your arms without locking your elbows, then slowly lower the dumbbells back to the starting position."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Girar las muñecas de golpe.",
+      "Arquear la lumbar al empujar.",
+      "Bajar los codos por detrás del cuerpo."
+    ],
+    "en": [
+      "Jerking your wrists.",
+      "Arching your lower back as you push.",
+      "Lowering your elbows behind your body."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Press de hombros con mancuernas.",
+      "Press de hombros en máquina.",
+      "Press militar con barra."
+    ],
+    "en": [
+      "Dumbbell shoulder press.",
+      "Machine shoulder press.",
+      "Barbell military press."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/arnold-press-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/arnold-press-f.jpg"

@@ -45,6 +45,30 @@
       "Engage your core muscles and hold the position, breathing steadily."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Subir el culo o hundir la cadera.",
+      "Aguantar la respiración.",
+      "Dejar caer la cabeza o mirar al frente forzando el cuello."
+    ],
+    "en": [
+      "Raising your butt or sinking your hips.",
+      "Holding your breath.",
+      "Dropping your head or looking forward straining your neck."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Plancha con rodillas apoyadas (más fácil).",
+      "Plancha alta (sobre las manos).",
+      "Dead bug o abdominales hipopresivos."
+    ],
+    "en": [
+      "Knee plank (easier).",
+      "High plank (on hands).",
+      "Dead bug or hypopressive abs."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/plank-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/plank-f.jpg"

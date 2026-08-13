@@ -42,6 +42,30 @@
       "Press the bar upwards until arms are fully extended, without locking the elbows."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Bajar la barra demasiado alta, hacia el esternón.",
+      "Rebotar la barra.",
+      "Soltar las piernas del anclaje y resbalar."
+    ],
+    "en": [
+      "Lowering the bar too high, towards the sternum.",
+      "Bouncing the bar.",
+      "Releasing your legs from the anchor and slipping."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Press de banca plano.",
+      "Fondos en paralelas.",
+      "Press de pecho en máquina."
+    ],
+    "en": [
+      "Flat bench press.",
+      "Dips on parallel bars.",
+      "Chest press on machine."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/decline-bench-press-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/decline-bench-press-f.jpg"

@@ -42,6 +42,30 @@
       "Slowly return to the starting position, controlling the movement."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Doblar los codos: entonces trabaja el tríceps.",
+      "Encorvar la espalda.",
+      "Usar tanto peso que el cuerpo se balancea."
+    ],
+    "en": [
+      "Bending your elbows: then it works the triceps.",
+      "Rounding your back.",
+      "Using so much weight that your body sways."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Pullover en polea.",
+      "Pullover con mancuerna.",
+      "Jalón al pecho."
+    ],
+    "en": [
+      "Cable pullover.",
+      "Dumbbell pullover.",
+      "Lat pulldown."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/straight-arm-pulldown-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/straight-arm-pulldown-f.jpg"

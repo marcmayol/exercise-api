@@ -51,6 +51,30 @@
       "Keep a steady pace and breathe regularly."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Agarrarte a los pasamanos y descargar el peso.",
+      "Mirar los pies en vez de al frente.",
+      "Poner una inclinación tan alta que acabas colgado de la máquina."
+    ],
+    "en": [
+      "Holding onto the handrails and unloading your weight.",
+      "Looking at your feet instead of ahead.",
+      "Setting an incline so high that you end up hanging onto the machine."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Caminar o correr al aire libre.",
+      "Elíptica si te molestan las rodillas.",
+      "Bicicleta estática."
+    ],
+    "en": [
+      "Walking or running outdoors.",
+      "Elliptical if your knees bother you.",
+      "Stationary bike."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/treadmill-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/treadmill-f.jpg"

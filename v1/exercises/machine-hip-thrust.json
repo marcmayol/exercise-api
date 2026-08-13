@@ -47,6 +47,30 @@
       "Lower your hips slowly back to the starting position, maintaining control."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Arquear la lumbar arriba en vez de apretar el glúteo.",
+      "Recorrido corto.",
+      "Colocar mal la almohadilla: debe quedar sobre la cadera."
+    ],
+    "en": [
+      "Arching your lower back instead of squeezing your glutes.",
+      "Using a short range of motion.",
+      "Misplacing the pad: it should be over your hips."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Hip thrust con barra.",
+      "Puente de glúteo en el suelo.",
+      "Patada de glúteo en polea."
+    ],
+    "en": [
+      "Barbell hip thrust.",
+      "Floor glute bridge.",
+      "Cable glute kickback."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/machine-hip-thrust-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/machine-hip-thrust-f.jpg"

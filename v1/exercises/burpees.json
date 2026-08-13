@@ -62,6 +62,30 @@
       "Perform a push-up, then jump your feet forward and rise up with a jump."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Dejar caer la cadera en la flexión.",
+      "Aterrizar con las rodillas hacia dentro.",
+      "Encadenar repeticiones sin control cuando ya estás cansado."
+    ],
+    "en": [
+      "Letting your hips sag during the push-up.",
+      "Landing with your knees caving in.",
+      "Chaining repetitions without control when you're already tired."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Burpee sin flexión ni salto.",
+      "Escaladores.",
+      "Jumping jacks."
+    ],
+    "en": [
+      "Burpee without push-up or jump.",
+      "Mountain climbers.",
+      "Jumping jacks."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/burpees-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/burpees-f.jpg"

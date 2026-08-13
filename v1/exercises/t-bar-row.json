@@ -52,6 +52,30 @@
       "Pull the bar towards your chest, squeezing your shoulder blades, then lower slowly."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Redondear la espalda al tirar.",
+      "Incorporarte con cada repetición.",
+      "Abrir mucho los codos."
+    ],
+    "en": [
+      "Rounding your lower back as you lift.",
+      "Standing up with each rep.",
+      "Flaring your elbows too much."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Remo con barra.",
+      "Remo en máquina con apoyo de pecho.",
+      "Remo con mancuerna."
+    ],
+    "en": [
+      "Barbell row.",
+      "Chest-supported machine row.",
+      "Dumbbell row."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/t-bar-row-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/t-bar-row-f.jpg"

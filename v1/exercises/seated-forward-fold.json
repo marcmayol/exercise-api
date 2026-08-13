@@ -42,6 +42,30 @@
       "Go as far as you can with your knees straight and hold while breathing."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Encorvar la espalda para llegar a los pies.",
+      "Doblar las rodillas sin querer.",
+      "Rebotar."
+    ],
+    "en": [
+      "Rounding your back to reach your feet.",
+      "Unintentionally bending your knees.",
+      "Bouncing."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "El mismo estiramiento con una cinta en los pies.",
+      "Estiramiento de isquios tumbado.",
+      "Estiramiento de isquios de pie con el pie en un banco."
+    ],
+    "en": [
+      "Same stretch with a strap around your feet.",
+      "Lying hamstring stretch.",
+      "Standing hamstring stretch with foot on a bench."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/seated-forward-fold-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/seated-forward-fold-f.jpg"

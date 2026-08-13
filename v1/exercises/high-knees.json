@@ -45,6 +45,30 @@
       "Quickly alternate knees, moving arms in sync."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Subir poco la rodilla.",
+      "Echar el tronco hacia atrás.",
+      "Aterrizar con el talón de golpe."
+    ],
+    "en": [
+      "Not lifting your knee high enough.",
+      "Leaning your torso back.",
+      "Landing heavily on your heel."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Marcha elevando rodillas, sin correr.",
+      "Escaladores.",
+      "Comba."
+    ],
+    "en": [
+      "Marching with high knees, not running.",
+      "Mountain climbers.",
+      "Jump rope."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/high-knees-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/high-knees-f.jpg"

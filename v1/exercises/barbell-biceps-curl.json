@@ -42,6 +42,30 @@
       "Slowly lower the bar back to the starting position."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Echar la espalda atrás para subir el peso.",
+      "Adelantar los codos al final del recorrido.",
+      "No estirar del todo el brazo abajo."
+    ],
+    "en": [
+      "Leaning your back backward to lift the weight.",
+      "Pushing your elbows forward at the end of the movement.",
+      "Not fully extending your arm at the bottom."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Curl con mancuernas.",
+      "Curl en polea baja.",
+      "Barra Z si te molestan las muñecas."
+    ],
+    "en": [
+      "Dumbbell curl.",
+      "Low cable curl.",
+      "EZ bar if your wrists hurt."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/barbell-biceps-curl-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/barbell-biceps-curl-f.jpg"

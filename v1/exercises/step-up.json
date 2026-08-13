@@ -52,6 +52,30 @@
       "Lower down with control and repeat with the other leg."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Impulsarte con la pierna de abajo en vez de subir con la de arriba.",
+      "Usar un cajón tan alto que la rodilla se va hacia dentro.",
+      "Bajar de golpe."
+    ],
+    "en": [
+      "Pushing off with your lower leg instead of stepping up with your upper leg.",
+      "Using a box so high that your knee caves inward.",
+      "Dropping down abruptly."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Step-up sin peso o con cajón más bajo.",
+      "Zancadas.",
+      "Sentadilla búlgara."
+    ],
+    "en": [
+      "Step-up without weight or with a lower box.",
+      "Lunges.",
+      "Bulgarian split squat."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/step-up-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/step-up-f.jpg"

@@ -47,6 +47,30 @@
       "Push through the heel of the front foot to return to the starting position."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Poner el pie de delante demasiado cerca del banco.",
+      "Apoyar el peso en la pierna de atrás.",
+      "Perder el equilibrio por mirar al suelo."
+    ],
+    "en": [
+      "Placing your front foot too close to the bench.",
+      "Putting weight on your back leg.",
+      "Losing balance by looking at the ground."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Zancadas normales.",
+      "Sentadilla a una pierna asistida.",
+      "Prensa a una pierna."
+    ],
+    "en": [
+      "Regular lunges.",
+      "Assisted single-leg squat.",
+      "Single-leg press."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/bulgarian-split-squat-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/bulgarian-split-squat-f.jpg"

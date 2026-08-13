@@ -42,6 +42,30 @@
       "Rock continuously and under control, without letting your feet or head touch the floor."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Romper la forma de banana y mecerte a trozos.",
+      "Impulsarte con los brazos o las piernas.",
+      "Golpear la cabeza contra el suelo al ir hacia atrás."
+    ],
+    "en": [
+      "Breaking the banana shape and rocking in segments.",
+      "Using momentum from your arms or legs.",
+      "Hitting your head on the floor when rocking back."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Hollow hold estático.",
+      "Hollow rock con las rodillas dobladas.",
+      "Dead bug lento."
+    ],
+    "en": [
+      "Static hollow hold.",
+      "Hollow rock with bent knees.",
+      "Slow dead bug."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/hollow-rock-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/hollow-rock-f.jpg"

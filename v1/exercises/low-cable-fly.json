@@ -42,6 +42,30 @@
       "Slowly return to the starting position, controlling the movement."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Doblar los codos y convertirlo en un press.",
+      "Subir las manos por encima de los hombros.",
+      "Encoger los hombros al juntar."
+    ],
+    "en": [
+      "Bending your elbows and turning it into a press.",
+      "Raising your hands above your shoulders.",
+      "Shrugging your shoulders as you bring them together."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Cruce de poleas clásico.",
+      "Pec deck.",
+      "Aperturas con mancuernas en banco inclinado."
+    ],
+    "en": [
+      "Classic cable crossover.",
+      "Pec deck.",
+      "Incline bench dumbbell flyes."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/low-cable-fly-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/low-cable-fly-f.jpg"

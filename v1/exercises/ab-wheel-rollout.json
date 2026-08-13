@@ -40,6 +40,30 @@
       "Stop when you feel you can't maintain proper form, then roll back to the starting position."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Arquear la zona lumbar al estirarte: es el fallo que hace daño.",
+      "Salir tan lejos que ya no puedes volver sin dar un tirón.",
+      "Levantar la cadera antes que el tronco al regresar."
+    ],
+    "en": [
+      "Arching your lower back as you stretch out: it's the mistake that causes injury.",
+      "Rolling out so far that you can't return without jerking.",
+      "Raising your hips before your torso as you return."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Plancha con antebrazos, aguantando más tiempo.",
+      "Rueda desde rodillas y con recorrido corto.",
+      "Dead bug lento."
+    ],
+    "en": [
+      "Forearm plank, holding longer.",
+      "Kneeling rollout with short range.",
+      "Slow dead bug."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/ab-wheel-rollout-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/ab-wheel-rollout-f.jpg"

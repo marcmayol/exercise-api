@@ -42,6 +42,30 @@
       "Slowly return the bar to the starting position, controlling the movement."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Echar mucho el cuerpo hacia atrás y tirar con impulso.",
+      "Llevar la barra detrás de la nuca.",
+      "Tirar solo con los brazos sin juntar los omóplatos."
+    ],
+    "en": [
+      "Leaning too far back and pulling with momentum.",
+      "Bringing the bar behind your neck.",
+      "Pulling only with your arms without squeezing your shoulder blades together."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Dominadas (asistidas con goma o negativas si no llegas).",
+      "Pullover con mancuerna tumbado en banco.",
+      "Jalón en cualquier polea alta con maneral neutro o triángulo."
+    ],
+    "en": [
+      "Assisted pull-ups (with band or negatives if needed).",
+      "Dumbbell pullover lying on a bench.",
+      "Pulldown on any high cable machine with a neutral grip or triangle handle."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/chest-pulldown-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/chest-pulldown-f.jpg"

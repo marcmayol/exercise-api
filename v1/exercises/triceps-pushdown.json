@@ -36,6 +36,30 @@
       "Slowly return the bar to the starting position without moving the elbows."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Despegar los codos del cuerpo y ayudarte con el hombro.",
+      "Inclinarte sobre la polea para empujar con el peso del cuerpo.",
+      "No estirar del todo el codo abajo."
+    ],
+    "en": [
+      "Lifting your elbows away from your body and using your shoulder.",
+      "Leaning over the cable machine to push with your body weight.",
+      "Not fully extending your elbow at the bottom."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Press francés con mancuerna o barra Z.",
+      "Extensión de tríceps por encima de la cabeza con mancuerna.",
+      "Fondos en banco o en máquina."
+    ],
+    "en": [
+      "Dumbbell or EZ bar French press.",
+      "Overhead triceps extension with dumbbell.",
+      "Bench or machine dips."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/triceps-pushdown-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/triceps-pushdown-f.jpg"

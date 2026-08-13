@@ -45,6 +45,30 @@
       "Push through your heels to return to the starting position, keeping your back straight."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Bajar tanto que la cadera se despega del respaldo.",
+      "Poner los pies muy bajos y cargar la rodilla.",
+      "Bloquear las rodillas de golpe arriba."
+    ],
+    "en": [
+      "Lowering so much that your hips lift off the backrest.",
+      "Placing your feet too low and straining your knee.",
+      "Locking your knees abruptly at the top."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Prensa de piernas.",
+      "Sentadilla goblet.",
+      "Sentadilla con barra."
+    ],
+    "en": [
+      "Leg press.",
+      "Goblet squat.",
+      "Barbell squat."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/hack-squat-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/hack-squat-f.jpg"

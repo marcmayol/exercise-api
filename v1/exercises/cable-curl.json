@@ -42,6 +42,30 @@
       "Slowly lower the bar back to the starting position, controlling the movement."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Adelantar los codos al final del recorrido.",
+      "Echarte hacia atrás para subir el peso.",
+      "Soltar de golpe en la bajada."
+    ],
+    "en": [
+      "Pushing your elbows forward at the end of the movement.",
+      "Leaning back to lift the weight.",
+      "Releasing abruptly on the way down."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Curl con barra.",
+      "Curl con mancuernas.",
+      "Curl en banco predicador."
+    ],
+    "en": [
+      "Barbell curl.",
+      "Dumbbell curl.",
+      "Preacher curl."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/cable-curl-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/cable-curl-f.jpg"

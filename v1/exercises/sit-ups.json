@@ -42,6 +42,30 @@
       "Slowly lower back to the starting position without dropping your body."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Tirar del cuello con las manos.",
+      "Coger impulso con los brazos.",
+      "Anclar los pies y tirar con los flexores de cadera."
+    ],
+    "en": [
+      "Pulling your neck with your hands.",
+      "Using your arms for momentum.",
+      "Anchoring your feet and pulling with your hip flexors."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Crunch: menos recorrido y menos lumbar.",
+      "Dead bug.",
+      "Plancha."
+    ],
+    "en": [
+      "Crunch: less range and less lower back.",
+      "Dead bug.",
+      "Plank."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/sit-ups-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/sit-ups-f.jpg"

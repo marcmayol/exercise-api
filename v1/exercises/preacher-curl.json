@@ -42,6 +42,30 @@
       "Slowly lower back to the starting position, controlling the movement."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Despegar los codos del atril para dar impulso.",
+      "No estirar del todo abajo.",
+      "Dejar caer el peso en la bajada."
+    ],
+    "en": [
+      "Lifting your elbows off the bench to gain momentum.",
+      "Not fully extending at the bottom.",
+      "Letting the weight drop on the descent."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Curl inclinado con mancuerna.",
+      "Curl con barra Z de pie.",
+      "Curl en polea baja."
+    ],
+    "en": [
+      "Incline dumbbell curl.",
+      "Standing EZ bar curl.",
+      "Low cable curl."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/preacher-curl-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/preacher-curl-f.jpg"

@@ -47,6 +47,30 @@
       "Hold while breathing steadily and come down one leg at a time."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Arquear la lumbar y quedarte en banana.",
+      "Poner las manos demasiado lejos de la pared.",
+      "Aguantar hasta que se te van los brazos y caes de espaldas."
+    ],
+    "en": [
+      "Arching your lower back and forming a banana shape.",
+      "Placing your hands too far from the wall.",
+      "Holding until your arms give out and you fall backward."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Pino con los pies apoyados en la pared a la altura de la cadera.",
+      "Press de hombros con mancuernas.",
+      "Plancha con el peso adelantado sobre las manos."
+    ],
+    "en": [
+      "Handstand with feet on the wall at hip height.",
+      "Dumbbell shoulder press.",
+      "Plank with weight shifted forward over hands."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/wall-handstand-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/wall-handstand-f.jpg"

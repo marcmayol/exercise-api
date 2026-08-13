@@ -47,6 +47,30 @@
       "Lower them slowly until they hover just above the floor, without touching down or arching your back."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Despegar la lumbar del suelo al bajar las piernas.",
+      "Dejar caer las piernas de golpe.",
+      "Tirar del cuello con las manos."
+    ],
+    "en": [
+      "Lifting your lower back off the floor as you lower your legs.",
+      "Letting your legs drop suddenly.",
+      "Pulling your neck with your hands."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Elevación de piernas con las rodillas dobladas.",
+      "Dead bug.",
+      "Elevación de piernas colgado si dominas el control."
+    ],
+    "en": [
+      "Knee-bent leg raise.",
+      "Dead bug.",
+      "Hanging leg raise if you master the control."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/lying-leg-raise-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/lying-leg-raise-f.jpg"

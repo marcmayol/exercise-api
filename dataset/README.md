@@ -14,7 +14,7 @@ python make_dataset.py     # produce ./build/
 | Archivo | Filas | Uso |
 |---|---|---|
 | `images/` + `metadata.jsonl` | 302 | **Visión / multimodal**: clasificación de imagen e image-to-text (captioning / VQA). Formato Hugging Face `imagefolder`. |
-| `instructions.jsonl` | 1208 | **Fine-tuning de LLM**: pares instrucción→respuesta bilingües. |
+| `instructions.jsonl` | 1812 | **Fine-tuning de LLM**: pares instrucción→respuesta bilingües. |
 | `exercises.jsonl` / `exercises.csv` | 151 | **Tabla plana**: una fila por ejercicio. |
 | `README.md` | — | Dataset card (con front-matter YAML de Hugging Face). |
 

@@ -47,6 +47,30 @@
       "Slowly return to the starting position, maintaining control."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Inclinar demasiado el banco (se convierte en press de hombro).",
+      "Sacar los codos del todo hacia atrás al bajar.",
+      "Usar impulso en vez de controlar el peso."
+    ],
+    "en": [
+      "Tilting the bench too much (turns into a shoulder press).",
+      "Pulling your elbows all the way back as you lower.",
+      "Using momentum instead of controlling the weight."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Pec deck (aperturas en máquina).",
+      "Press inclinado con mancuernas.",
+      "Press de pecho plano si no hay banco inclinable."
+    ],
+    "en": [
+      "Pec deck.",
+      "Incline dumbbell press.",
+      "Flat chest press if no incline bench is available."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/incline-chest-press-machine-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/incline-chest-press-machine-f.jpg"

@@ -42,6 +42,30 @@
       "Hold for a few seconds while breathing deeply, then return to neutral."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Arquear la lumbar en vez de la espalda alta.",
+      "Adelantar las caderas por delante de las rodillas.",
+      "Forzar hasta que moleste el hombro."
+    ],
+    "en": [
+      "Arching your lower back instead of your upper back.",
+      "Pushing your hips forward past your knees.",
+      "Forcing until your shoulder feels uncomfortable."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Extensión sobre un foam roller.",
+      "Rotación torácica en cuadrupedia.",
+      "Ángeles de pared."
+    ],
+    "en": [
+      "Foam roller extension.",
+      "Quadruped thoracic rotation.",
+      "Wall angels."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/thoracic-extension-bench-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/thoracic-extension-bench-f.jpg"

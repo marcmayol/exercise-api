@@ -42,6 +42,30 @@
       "Inhale as you slowly return to the starting position without letting the weights touch."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Abrir demasiado atrás (estira en exceso el hombro).",
+      "Usar impulso o soltar el peso al abrir.",
+      "Encoger los hombros hacia las orejas."
+    ],
+    "en": [
+      "Opening too far back (overstretching the shoulder).",
+      "Using momentum or dropping the weight as you open.",
+      "Shrugging your shoulders towards your ears."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Aperturas con mancuernas en banco.",
+      "Press de pecho en máquina.",
+      "Cruce de poleas (cable crossover)."
+    ],
+    "en": [
+      "Dumbbell fly on bench.",
+      "Chest press on machine.",
+      "Cable crossover."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/butterflies-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/butterflies-f.jpg"

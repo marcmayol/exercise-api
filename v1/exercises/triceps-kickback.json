@@ -36,6 +36,30 @@
       "Slowly return to the starting position without moving your shoulders."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Bajar el codo en vez de mantener el brazo paralelo al suelo.",
+      "Girar el tronco para lanzar el peso.",
+      "Usar una mancuerna tan pesada que no puedes estirar del todo."
+    ],
+    "en": [
+      "Lowering your elbow instead of keeping your arm parallel to the floor.",
+      "Twisting your torso to throw the weight.",
+      "Using a dumbbell so heavy you can't fully extend."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Extensión de tríceps en polea.",
+      "Extensión sobre la cabeza con mancuerna.",
+      "Fondos de tríceps en banco."
+    ],
+    "en": [
+      "Triceps extension on cable machine.",
+      "Overhead dumbbell extension.",
+      "Triceps dips on bench."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/triceps-kickback-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/triceps-kickback-f.jpg"

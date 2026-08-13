@@ -42,6 +42,30 @@
       "Lower your hips slowly back to the ground and repeat."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Arquear la zona lumbar en vez de empujar con el glúteo.",
+      "No subir del todo (recorrido corto).",
+      "Apoyar el cuello en vez de la parte alta de la espalda."
+    ],
+    "en": [
+      "Arching your lower back instead of driving with your glutes.",
+      "Not fully extending (short range of motion).",
+      "Resting your neck instead of your upper back."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Puente de glúteos en el suelo con disco.",
+      "Hip thrust en máquina específica.",
+      "Patada de glúteo en polea."
+    ],
+    "en": [
+      "Floor glute bridge with plate.",
+      "Hip thrust on a specific machine.",
+      "Cable glute kickback."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/barbell-hip-thrust-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/barbell-hip-thrust-f.jpg"

@@ -67,6 +67,30 @@
       "Lower the bar back to the ground in a controlled manner, maintaining form."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Redondear la espalda al despegar la barra.",
+      "Separar la barra del cuerpo.",
+      "Tirar con los brazos en vez de empujar el suelo con las piernas."
+    ],
+    "en": [
+      "Rounding your lower back as you lift.",
+      "Letting the bar drift away from your body.",
+      "Pulling with your arms instead of pushing the floor with your legs."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Peso muerto rumano con mancuernas.",
+      "Bisagra de cadera con palo para aprender el patrón.",
+      "Hip thrust si la espalda molesta."
+    ],
+    "en": [
+      "Romanian deadlift with dumbbells.",
+      "Hip hinge with a stick to learn the pattern.",
+      "Hip thrust if your back hurts."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/deadlift-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/deadlift-f.jpg"

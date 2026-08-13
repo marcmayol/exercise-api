@@ -42,6 +42,30 @@
       "Hold while breathing, lower slowly and switch legs."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Doblar la rodilla de la pierna que estiras.",
+      "Despegar la otra pierna del suelo.",
+      "Tirar de la cinta hasta que pinche."
+    ],
+    "en": [
+      "Bending the knee of the leg you're stretching.",
+      "Lifting the other leg off the floor.",
+      "Pulling the strap until it pinches."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Flexión adelante sentado.",
+      "Estiramiento de isquios con el pie en un banco.",
+      "Estiramiento de glúteo (figura 4) si la molestia es más atrás."
+    ],
+    "en": [
+      "Seated forward bend.",
+      "Hamstring stretch with foot on a bench.",
+      "Glute stretch (figure 4) if the discomfort is further back."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/supine-hamstring-stretch-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/supine-hamstring-stretch-f.jpg"

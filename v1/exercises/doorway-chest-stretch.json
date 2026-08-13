@@ -42,6 +42,30 @@
       "Hold while breathing deeply, then switch arms."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Poner el codo más alto que el hombro.",
+      "Girar el cuerpo de golpe.",
+      "Arquear la lumbar para ganar estiramiento."
+    ],
+    "en": [
+      "Placing your elbow higher than your shoulder.",
+      "Twisting your body abruptly.",
+      "Arching your lower back to gain stretch."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Apertura de pecho tumbado (libro abierto).",
+      "El mismo estiramiento con el brazo estirado en la pared.",
+      "Ángeles de pared."
+    ],
+    "en": [
+      "Lying chest opener (open book).",
+      "Same stretch with arm extended on the wall.",
+      "Wall angels."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/doorway-chest-stretch-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/doorway-chest-stretch-f.jpg"

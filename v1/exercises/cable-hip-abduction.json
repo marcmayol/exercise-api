@@ -36,6 +36,30 @@
       "Slowly return to the starting position and repeat."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Inclinar el tronco hacia el lado contrario para abrir más.",
+      "Girar la punta del pie hacia fuera.",
+      "Soltar de golpe al cerrar."
+    ],
+    "en": [
+      "Leaning your torso to the opposite side to increase range.",
+      "Turning your toe outward.",
+      "Releasing abruptly when closing."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Abductores en máquina.",
+      "Abducción tumbado de lado.",
+      "Banda elástica por encima de las rodillas."
+    ],
+    "en": [
+      "Machine hip abduction.",
+      "Side-lying abduction.",
+      "Resistance band above the knees."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/cable-hip-abduction-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/cable-hip-abduction-f.jpg"

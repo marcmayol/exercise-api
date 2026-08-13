@@ -47,6 +47,30 @@
       "Keep your core tight and breathe steadily throughout the exercise."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Subir la cadera con cada rodilla.",
+      "Dejar caer la zona lumbar.",
+      "Apoyar las manos por delante de los hombros."
+    ],
+    "en": [
+      "Raising your hips with each knee.",
+      "Dropping your lower back.",
+      "Placing your hands in front of your shoulders."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Escaladores lentos, sin saltar.",
+      "Plancha.",
+      "Rodillas altas de pie."
+    ],
+    "en": [
+      "Slow climbers, no jumping.",
+      "Plank.",
+      "Standing high knees."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/mountain-climbers-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/mountain-climbers-f.jpg"

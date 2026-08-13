@@ -47,6 +47,30 @@
       "4. Maintain a steady rhythm and land softly on the balls of your feet."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Saltar demasiado alto.",
+      "Girar con todo el brazo en vez de con la muñeca.",
+      "Caer con las piernas rígidas."
+    ],
+    "en": [
+      "Jumping too high.",
+      "Rotating with your whole arm instead of your wrist.",
+      "Landing with stiff legs."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Saltos sin cuerda en el sitio.",
+      "Rodillas altas.",
+      "Jumping jacks."
+    ],
+    "en": [
+      "Rope-less jumps in place.",
+      "High knees.",
+      "Jumping jacks."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/jump-rope-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/jump-rope-f.jpg"

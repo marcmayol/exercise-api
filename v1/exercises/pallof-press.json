@@ -47,6 +47,30 @@
       "Bring the handle slowly back to your chest and repeat; switch sides after the set."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Dejar que el cable te gire el tronco al estirar los brazos.",
+      "Mover los pies para compensar.",
+      "Poner tanto peso que solo aguantas con los brazos."
+    ],
+    "en": [
+      "Letting the cable rotate your torso as you extend your arms.",
+      "Shifting your feet to compensate.",
+      "Loading so much weight that you only hold with your arms."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Press Pallof con banda elástica.",
+      "Plancha lateral.",
+      "Paseo del granjero con una mano."
+    ],
+    "en": [
+      "Band Pallof press.",
+      "Side plank.",
+      "Single-arm farmer's walk."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/pallof-press-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/pallof-press-f.jpg"

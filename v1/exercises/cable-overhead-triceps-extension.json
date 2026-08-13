@@ -36,6 +36,30 @@
       "Slowly return to the starting position without moving your elbows."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Abrir los codos hacia fuera.",
+      "Arquear la lumbar para llevar el peso atrás.",
+      "Mover los hombros en cada repetición."
+    ],
+    "en": [
+      "Flaring your elbows out.",
+      "Arching your lower back to move the weight back.",
+      "Moving your shoulders with each repetition."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Extensión sobre la cabeza con mancuerna.",
+      "Extensión de tríceps en polea por delante.",
+      "Press francés."
+    ],
+    "en": [
+      "Overhead dumbbell extension.",
+      "Front cable triceps extension.",
+      "French press."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/cable-overhead-triceps-extension-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/cable-overhead-triceps-extension-f.jpg"

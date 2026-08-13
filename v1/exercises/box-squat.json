@@ -47,6 +47,30 @@
       "Push through your heels to return to the starting position."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Dejarte caer de golpe sobre el cajón.",
+      "Que las rodillas se vayan hacia dentro.",
+      "Redondear la espalda al bajar."
+    ],
+    "en": [
+      "Dropping onto the box.",
+      "Letting your knees cave in.",
+      "Rounding your back as you lower."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Sentadilla goblet con mancuerna.",
+      "Prensa de piernas.",
+      "Sentadilla libre sin cajón (si controlas la técnica)."
+    ],
+    "en": [
+      "Goblet squat with dumbbell.",
+      "Leg press.",
+      "Free squat without box (if you control the technique)."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/box-squat-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/box-squat-f.jpg"

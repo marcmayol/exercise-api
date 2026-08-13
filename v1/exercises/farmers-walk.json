@@ -47,6 +47,30 @@
       "Cover the set distance, switch hands and repeat."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Inclinarte hacia el lado que lleva el peso.",
+      "Encoger el hombro cargado.",
+      "Dar pasos largos y perder la postura."
+    ],
+    "en": [
+      "Leaning towards the weighted side.",
+      "Shrugging the loaded shoulder.",
+      "Taking long steps and losing posture."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Paseo con las dos manos cargadas.",
+      "Plancha lateral.",
+      "Press Pallof."
+    ],
+    "en": [
+      "Loaded carry with both hands.",
+      "Side plank.",
+      "Pallof press."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/farmers-walk-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/farmers-walk-f.jpg"

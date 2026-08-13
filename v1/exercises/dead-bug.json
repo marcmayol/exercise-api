@@ -42,6 +42,30 @@
       "Return to the starting position and repeat with your left arm and right leg."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Arquear la zona lumbar: debe quedar pegada al suelo todo el rato.",
+      "Ir rápido o con impulso en vez de movimiento lento y controlado.",
+      "Aguantar la respiración (espira al estirar brazo y pierna)."
+    ],
+    "en": [
+      "Arching your lower back: it should stay flat on the floor at all times.",
+      "Going fast or using momentum instead of a slow, controlled movement.",
+      "Holding your breath (exhale as you extend arm and leg)."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Dead bug solo con las piernas (brazos quietos) si te cuesta coordinar.",
+      "Bird dog (a cuatro patas, estirar brazo y pierna contraria).",
+      "Plancha frontal si prefieres un isométrico."
+    ],
+    "en": [
+      "Dead bug with legs only (arms still) if coordination is difficult.",
+      "Bird dog (on all fours, extend opposite arm and leg).",
+      "Front plank if you prefer an isometric exercise."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/dead-bug-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/dead-bug-f.jpg"

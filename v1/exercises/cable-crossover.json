@@ -40,6 +40,30 @@
       "Cross your hands in front of you, squeezing your chest, then slowly return to the starting position."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Doblar los codos para ayudarte.",
+      "Abrir demasiado atrás y forzar el hombro.",
+      "Dar impulso con el tronco."
+    ],
+    "en": [
+      "Bending your elbows to assist.",
+      "Opening too far back and straining your shoulder.",
+      "Using momentum with your torso."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Pec deck.",
+      "Aperturas con mancuernas.",
+      "Cruce de poleas de abajo arriba."
+    ],
+    "en": [
+      "Pec deck.",
+      "Dumbbell flyes.",
+      "Low-to-high cable crossover."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/cable-crossover-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/cable-crossover-f.jpg"

@@ -47,6 +47,30 @@
       "Push up with your arms to return to the starting position."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Bajar tanto que el hombro queda por debajo del codo.",
+      "Separar el cuerpo del banco: carga el hombro en vez del tríceps.",
+      "Ayudarte con las piernas cuando aún puedes con los brazos."
+    ],
+    "en": [
+      "Lowering so much that your shoulder goes below your elbow.",
+      "Moving your body away from the bench: loads the shoulder instead of the triceps.",
+      "Using your legs for assistance when you can still manage with your arms."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Extensión de tríceps en polea.",
+      "Fondos en máquina asistida.",
+      "Flexiones con manos juntas."
+    ],
+    "en": [
+      "Tricep extension on cable machine.",
+      "Assisted dips.",
+      "Close-grip push-ups."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/bench-dips-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/bench-dips-f.jpg"

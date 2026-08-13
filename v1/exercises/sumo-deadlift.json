@@ -55,6 +55,30 @@
       "Lift the bar by extending your hips and knees until you stand upright."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Meter las rodillas hacia dentro.",
+      "Subir la cadera antes que el pecho.",
+      "Separar la barra del cuerpo."
+    ],
+    "en": [
+      "Letting your knees cave in.",
+      "Raising your hips before your chest.",
+      "Letting the bar drift away from your body."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Peso muerto convencional.",
+      "Peso muerto rumano.",
+      "Sentadilla goblet ancha."
+    ],
+    "en": [
+      "Conventional deadlift.",
+      "Romanian deadlift.",
+      "Wide goblet squat."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/sumo-deadlift-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/sumo-deadlift-f.jpg"

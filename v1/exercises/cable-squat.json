@@ -47,6 +47,30 @@
       "Return to the starting position by pushing through your heels, maintaining control of the cable."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Dejar que el cable te tire hacia delante.",
+      "Levantar los talones.",
+      "Bajar solo un palmo."
+    ],
+    "en": [
+      "Letting the cable pull you forward.",
+      "Lifting your heels.",
+      "Lowering only a few inches."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Sentadilla goblet.",
+      "Prensa de piernas.",
+      "Sentadilla sin peso."
+    ],
+    "en": [
+      "Goblet squat.",
+      "Leg press.",
+      "Bodyweight squat."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/cable-squat-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/cable-squat-f.jpg"

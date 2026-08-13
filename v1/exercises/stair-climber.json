@@ -52,6 +52,30 @@
       "Step down alternating feet and repeat the movement."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Colgarte de los pasamanos.",
+      "Subir de puntillas sin apoyar el talón.",
+      "Inclinar mucho el tronco hacia delante."
+    ],
+    "en": [
+      "Hanging onto the handrails.",
+      "Stepping on your toes without heel support.",
+      "Leaning your torso too far forward."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Cinta con inclinación.",
+      "Step-up con peso.",
+      "Elíptica."
+    ],
+    "en": [
+      "Incline treadmill.",
+      "Weighted step-up.",
+      "Elliptical."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/stair-climber-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/stair-climber-f.jpg"

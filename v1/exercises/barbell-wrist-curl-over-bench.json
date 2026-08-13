@@ -36,6 +36,30 @@
       "Lower the bar slowly to the starting position and repeat."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Levantar los antebrazos del banco.",
+      "Agarrar la barra con las muñecas rígidas y no dejarla bajar.",
+      "Poner tanto peso que se carga el codo."
+    ],
+    "en": [
+      "Lifting your forearms off the bench.",
+      "Gripping the bar with rigid wrists and not letting it lower.",
+      "Using so much weight that it strains your elbow."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Curl de muñeca con mancuernas sobre banco.",
+      "Curl de muñeca sentado.",
+      "Curl de muñeca inverso de pie."
+    ],
+    "en": [
+      "Dumbbell wrist curl over bench.",
+      "Seated wrist curl.",
+      "Standing reverse wrist curl."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/barbell-wrist-curl-over-bench-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/barbell-wrist-curl-over-bench-f.jpg"

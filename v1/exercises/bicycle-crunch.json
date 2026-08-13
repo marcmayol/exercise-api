@@ -39,6 +39,30 @@
       "Alternate the movement by bringing your left elbow towards your right knee, maintaining a steady pace."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Tirar del cuello con las manos.",
+      "Ir rápido y dejar de girar el tronco.",
+      "Despegar la lumbar del suelo."
+    ],
+    "en": [
+      "Pulling on your neck with your hands.",
+      "Going fast and stopping torso rotation.",
+      "Lifting your lower back off the floor."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Crunch con piernas elevadas.",
+      "Dead bug.",
+      "Plancha lateral."
+    ],
+    "en": [
+      "Crunch with elevated legs.",
+      "Dead bug.",
+      "Side plank."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/bicycle-crunch-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/bicycle-crunch-f.jpg"

@@ -36,6 +36,30 @@
       "Slowly lower the barbell back to the starting position, maintaining control."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Despegar los antebrazos de los muslos.",
+      "Hacer medio recorrido: hay que abrir la mano abajo y cerrar arriba.",
+      "Poner tanto peso que se cargan los codos."
+    ],
+    "en": [
+      "Lifting your forearms off your thighs.",
+      "Doing half reps: open your hand at the bottom and close at the top.",
+      "Using so much weight that your elbows strain."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Curl de muñeca con mancuernas.",
+      "Curl de muñeca sobre un banco.",
+      "Curl de muñeca con barra tras la espalda."
+    ],
+    "en": [
+      "Dumbbell wrist curl.",
+      "Wrist curl on a bench.",
+      "Behind-the-back barbell wrist curl."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/seated-barbell-wrist-curl-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/seated-barbell-wrist-curl-f.jpg"

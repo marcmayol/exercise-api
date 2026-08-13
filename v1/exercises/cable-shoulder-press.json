@@ -42,6 +42,30 @@
       "Slowly return to the starting position, avoiding weights from clashing."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Arquear la lumbar para empujar.",
+      "Colocarte demasiado lejos de la polea y quedar inclinado.",
+      "Bloquear los codos de golpe arriba."
+    ],
+    "en": [
+      "Arching your lower back to push.",
+      "Standing too far from the cable machine and leaning forward.",
+      "Locking your elbows abruptly at the top."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Press de hombros con mancuernas.",
+      "Press de hombros en máquina.",
+      "Press militar con barra."
+    ],
+    "en": [
+      "Dumbbell shoulder press.",
+      "Machine shoulder press.",
+      "Barbell military press."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/cable-shoulder-press-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/cable-shoulder-press-f.jpg"

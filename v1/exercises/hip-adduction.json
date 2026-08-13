@@ -36,6 +36,30 @@
       "Return to the starting position in a controlled manner, avoiding the pads from slamming."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Cerrar de golpe soltando el peso.",
+      "Echar el tronco hacia atrás.",
+      "Abrir tanto al inicio que se fuerza la ingle."
+    ],
+    "en": [
+      "Slamming the weights shut.",
+      "Leaning your torso back.",
+      "Opening so wide at the start that it strains the groin."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Aductores en polea baja.",
+      "Sentadilla sumo.",
+      "Aductor tumbado de lado."
+    ],
+    "en": [
+      "Cable machine adductors.",
+      "Sumo squat.",
+      "Side-lying adductor."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/hip-adduction-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/hip-adduction-f.jpg"

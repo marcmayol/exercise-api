@@ -45,6 +45,30 @@
       "Return to the starting position by bringing your feet together and lowering your arms."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Caer con las rodillas rígidas.",
+      "No estirar los brazos del todo arriba.",
+      "Perder el ritmo y acabar dando saltos torcidos."
+    ],
+    "en": [
+      "Landing with stiff knees.",
+      "Not fully extending your arms overhead.",
+      "Losing rhythm and ending up with uneven jumps."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Jumping jacks sin salto, saliendo con un pie cada vez.",
+      "Rodillas altas.",
+      "Comba."
+    ],
+    "en": [
+      "Low-impact jumping jacks, stepping out one foot at a time.",
+      "High knees.",
+      "Jump rope."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/jumping-jacks-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/jumping-jacks-f.jpg"

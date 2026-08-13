@@ -45,6 +45,30 @@
       "Lower your body slowly without touching the bench, controlling the movement."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Doblar la cadera y convertirlo en una elevación de piernas.",
+      "Dejar caer el cuerpo de golpe al bajar.",
+      "Cargar el cuello en vez de agarrarte bien al banco."
+    ],
+    "en": [
+      "Bending at the hips and turning it into a leg raise.",
+      "Dropping your body suddenly on the way down.",
+      "Straining your neck instead of gripping the bench securely."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Bandera del dragón con las rodillas dobladas.",
+      "Elevación de piernas tumbado.",
+      "Hollow hold."
+    ],
+    "en": [
+      "Dragon flag with bent knees.",
+      "Lying leg raise.",
+      "Hollow hold."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/dragon-flag-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/dragon-flag-f.jpg"

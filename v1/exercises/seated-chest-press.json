@@ -47,6 +47,30 @@
       "Slowly return to the starting position, controlling the movement."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Bajar/soltar el peso de golpe en vez de controlar la vuelta.",
+      "Despegar la espalda del respaldo o arquear mucho la zona lumbar.",
+      "Bloquear los codos de golpe al final del empuje."
+    ],
+    "en": [
+      "Dropping the weight abruptly instead of controlling the return.",
+      "Lifting your back off the seat or excessively arching your lower back.",
+      "Locking your elbows abruptly at the end of the press."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Pec deck o aperturas en máquina.",
+      "Press con mancuernas en banco plano.",
+      "Flexiones (si no hay máquina libre)."
+    ],
+    "en": [
+      "Pec deck or machine fly.",
+      "Flat bench dumbbell press.",
+      "Push-ups (if no machine is available)."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/seated-chest-press-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/seated-chest-press-f.jpg"

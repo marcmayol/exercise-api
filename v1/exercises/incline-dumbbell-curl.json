@@ -42,6 +42,30 @@
       "Slowly lower the dumbbells back to the starting position, controlling the movement."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Adelantar el hombro para ayudarte.",
+      "No estirar del todo abajo: es justo lo que aporta este ejercicio.",
+      "Poner el banco demasiado tumbado y cargar el hombro."
+    ],
+    "en": [
+      "Bringing your shoulder forward to help.",
+      "Not fully extending at the bottom: that's exactly what this exercise offers.",
+      "Setting the bench too reclined and loading the shoulder."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Curl de bíceps de pie.",
+      "Curl en banco predicador.",
+      "Curl en polea baja."
+    ],
+    "en": [
+      "Standing bicep curl.",
+      "Preacher bench curl.",
+      "Low cable curl."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/incline-dumbbell-curl-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/incline-dumbbell-curl-f.jpg"

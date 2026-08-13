@@ -47,6 +47,30 @@
       "Lower yourself slowly back to the starting position without touching the ground."
     ]
   },
+  "mistakes": {
+    "es": [
+      "Dejar caer la cadera.",
+      "Tirar solo con los brazos sin juntar los omóplatos.",
+      "Poner la barra tan alta que casi no hay recorrido."
+    ],
+    "en": [
+      "Letting your hips drop.",
+      "Pulling only with your arms without squeezing your shoulder blades.",
+      "Setting the bar so high that there's almost no range of motion."
+    ]
+  },
+  "alternatives": {
+    "es": [
+      "Remo en polea sentado.",
+      "Remo con mancuerna.",
+      "Remo invertido con las rodillas dobladas para quitar peso."
+    ],
+    "en": [
+      "Seated cable row.",
+      "Dumbbell row.",
+      "Inverted row with bent knees to reduce weight."
+    ]
+  },
   "images": {
     "male": "https://marcmayol.com/exercise-api/images/inverted-row-m.jpg",
     "female": "https://marcmayol.com/exercise-api/images/inverted-row-f.jpg"
