@@ -1,0 +1,54 @@
+{
+  "slug": "hip-90-90",
+  "name": {
+    "es": "Postura 90/90 de cadera",
+    "en": "90/90 hip switch"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "adductors",
+      "es": "Aductores",
+      "en": "Adductors"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Siéntate en el suelo con una pierna delante y la otra al lado, ambas dobladas a 90 grados.",
+      "Mantén el tronco erguido y apoya las manos ligeramente en el suelo.",
+      "Aguanta unos segundos notando el estiramiento en las caderas.",
+      "Gira las dos rodillas hacia el otro lado para cambiar de posición y repite."
+    ],
+    "en": [
+      "Sit on the floor with one leg in front and the other out to the side, both bent to 90 degrees.",
+      "Keep your torso upright and rest your hands lightly on the floor.",
+      "Hold for a few seconds, feeling the stretch in both hips.",
+      "Rotate both knees over to the other side to switch position and repeat."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/hip-90-90-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/hip-90-90-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/hip-90-90.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/hip-90-90.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/hip-90-90-f.svg"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "open-book-stretch",
+  "name": {
+    "es": "Apertura de pecho tumbado (libro abierto)",
+    "en": "Open book stretch"
+  },
+  "group": {
+    "id": "back",
+    "es": "Espalda",
+    "en": "Back"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "upper-back",
+      "es": "Dorsal",
+      "en": "Upper back"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "chest",
+      "es": "Pectoral",
+      "en": "Chest"
+    },
+    {
+      "id": "obliques",
+      "es": "Oblicuos",
+      "en": "Obliques"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Túmbate de lado con las rodillas dobladas a 90 grados, una encima de la otra.",
+      "Estira los dos brazos juntos al frente, a la altura de los hombros.",
+      "Abre el brazo de arriba en semicírculo hacia el suelo del otro lado, girando la espalda alta.",
+      "Mantén las rodillas apoyadas, aguanta unos segundos y cambia de lado."
+    ],
+    "en": [
+      "Lie on your side with your knees bent to 90 degrees and stacked on top of each other.",
+      "Extend both arms together in front of you at shoulder height.",
+      "Sweep the top arm in an arc towards the floor on the other side, rotating through your upper back.",
+      "Keep your knees down, hold for a few seconds and switch sides."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/open-book-stretch-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/open-book-stretch-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/open-book-stretch.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/open-book-stretch.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/open-book-stretch-f.svg"
+  }
+}

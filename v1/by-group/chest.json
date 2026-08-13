@@ -4,7 +4,7 @@
     "es": "Pecho",
     "en": "Chest"
   },
-  "count": 14,
+  "count": 16,
   "exercises": [
     {
       "slug": "seated-chest-press",
@@ -313,6 +313,50 @@
         "female": "https://marcmayol.com/exercise-api/images/low-cable-fly-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/low-cable-fly.json"
+    },
+    {
+      "slug": "diamond-push-up",
+      "name": {
+        "es": "Flexión en diamante",
+        "en": "Diamond push-up"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/diamond-push-up-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/diamond-push-up-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/diamond-push-up.json"
+    },
+    {
+      "slug": "doorway-chest-stretch",
+      "name": {
+        "es": "Estiramiento de pecho en marco de puerta",
+        "en": "Doorway chest stretch"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/doorway-chest-stretch-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/doorway-chest-stretch-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/doorway-chest-stretch.json"
     }
   ]
 }

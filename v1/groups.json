@@ -3,21 +3,21 @@
     "id": "chest",
     "es": "Pecho",
     "en": "Chest",
-    "count": 14,
+    "count": 16,
     "url": "https://marcmayol.com/exercise-api/v1/by-group/chest.json"
   },
   {
     "id": "back",
     "es": "Espalda",
     "en": "Back",
-    "count": 15,
+    "count": 19,
     "url": "https://marcmayol.com/exercise-api/v1/by-group/back.json"
   },
   {
     "id": "shoulders",
     "es": "Hombros",
     "en": "Shoulders",
-    "count": 16,
+    "count": 18,
     "url": "https://marcmayol.com/exercise-api/v1/by-group/shoulders.json"
   },
   {
@@ -31,14 +31,14 @@
     "id": "legs",
     "es": "Piernas",
     "en": "Legs",
-    "count": 30,
+    "count": 41,
     "url": "https://marcmayol.com/exercise-api/v1/by-group/legs.json"
   },
   {
     "id": "core",
     "es": "Core",
     "en": "Core",
-    "count": 19,
+    "count": 24,
     "url": "https://marcmayol.com/exercise-api/v1/by-group/core.json"
   },
   {

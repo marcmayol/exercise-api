@@ -1,0 +1,59 @@
+{
+  "slug": "hip-hinge-dowel",
+  "name": {
+    "es": "Bisagra de cadera con palo",
+    "en": "Hip hinge with dowel"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    },
+    {
+      "id": "lower-back",
+      "es": "Lumbar",
+      "en": "Lower back"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Coloca un palo en vertical a lo largo de la espalda, tocando la cabeza, la espalda alta y el sacro.",
+      "Sujétalo con una mano por detrás del cuello y la otra por detrás de la cintura.",
+      "Lleva las caderas atrás y deja que el tronco se incline, con las rodillas algo flexionadas.",
+      "Baja hasta donde el palo siga tocando los tres puntos y vuelve apretando los glúteos."
+    ],
+    "en": [
+      "Hold a dowel vertically along your spine so it touches your head, upper back and tailbone.",
+      "Grip it with one hand behind your neck and the other behind your lower back.",
+      "Push your hips backwards and let your torso tip forward, knees slightly bent.",
+      "Go as far as you can while the dowel keeps all three contact points, then stand up by squeezing your glutes."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/hip-hinge-dowel-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/hip-hinge-dowel-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/hip-hinge-dowel.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/hip-hinge-dowel.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/hip-hinge-dowel-f.svg"
+  }
+}

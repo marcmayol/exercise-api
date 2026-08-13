@@ -1,0 +1,59 @@
+{
+  "slug": "y-t-w-raise",
+  "name": {
+    "es": "Y-T-W en banco inclinado",
+    "en": "Y-T-W raise on incline bench"
+  },
+  "group": {
+    "id": "shoulders",
+    "es": "Hombros",
+    "en": "Shoulders"
+  },
+  "equipment": {
+    "id": "dumbbell",
+    "es": "Mancuerna",
+    "en": "Dumbbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "upper-back",
+      "es": "Dorsal",
+      "en": "Upper back"
+    },
+    {
+      "id": "trapezius",
+      "es": "Trapecio",
+      "en": "Trapezius"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Túmbate boca abajo sobre un banco inclinado con una mancuerna ligera en cada mano y los brazos colgando.",
+      "Sube los brazos estirados hacia delante y arriba formando una Y.",
+      "Ábrelos después a los lados, a la altura de los hombros, formando una T.",
+      "Dobla los codos y llévalos atrás formando una W, juntando los omóplatos, y vuelve al inicio."
+    ],
+    "en": [
+      "Lie chest down on an incline bench with a light dumbbell in each hand and your arms hanging down.",
+      "Raise your straight arms forward and up into a Y shape.",
+      "Open them out to the sides at shoulder height into a T shape.",
+      "Bend your elbows and pull them back into a W, squeezing your shoulder blades, then return to the start."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/y-t-w-raise-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/y-t-w-raise-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/y-t-w-raise.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/y-t-w-raise.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/y-t-w-raise-f.svg"
+  }
+}

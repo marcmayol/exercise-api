@@ -1,0 +1,48 @@
+{
+  "slug": "calf-stretch-wall",
+  "name": {
+    "es": "Estiramiento de gemelos en pared",
+    "en": "Calf stretch against wall"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "calves",
+      "es": "Gemelos",
+      "en": "Calves"
+    }
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "es": [
+      "Apoya las dos manos en la pared a la altura de los hombros.",
+      "Da un paso largo atrás con una pierna, con el pie recto y el talón en el suelo.",
+      "Inclínate hacia la pared doblando la pierna de delante y manteniendo la de atrás estirada.",
+      "Aguanta notando el estiramiento en el gemelo y cambia de pierna."
+    ],
+    "en": [
+      "Place both hands on the wall at shoulder height.",
+      "Take a long step back with one leg, foot pointing forward and heel on the floor.",
+      "Lean into the wall, bending the front leg and keeping the back leg straight.",
+      "Hold while you feel the stretch in the calf, then switch legs."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/calf-stretch-wall-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/calf-stretch-wall-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/calf-stretch-wall.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/calf-stretch-wall.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/calf-stretch-wall-f.svg"
+  }
+}

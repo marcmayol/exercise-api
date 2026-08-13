@@ -1,0 +1,54 @@
+{
+  "slug": "hip-flexor-stretch",
+  "name": {
+    "es": "Estiramiento de flexores de cadera",
+    "en": "Hip flexor stretch"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Apoya una rodilla en el suelo y coloca el otro pie delante, con la rodilla a 90 grados.",
+      "Mete la pelvis y aprieta el glúteo de la pierna de atrás.",
+      "Empuja las caderas hacia delante hasta notar el estiramiento en la ingle de la pierna arrodillada.",
+      "Sube el brazo de ese lado para aumentarlo, aguanta y cambia de pierna."
+    ],
+    "en": [
+      "Kneel on one knee and place the other foot in front, that knee bent to 90 degrees.",
+      "Tuck your pelvis and squeeze the glute of the kneeling leg.",
+      "Push your hips forward until you feel the stretch at the front of the kneeling hip.",
+      "Reach the arm on that side overhead to increase it, hold, then switch legs."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/hip-flexor-stretch-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/hip-flexor-stretch-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/hip-flexor-stretch.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/hip-flexor-stretch.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/hip-flexor-stretch-f.svg"
+  }
+}

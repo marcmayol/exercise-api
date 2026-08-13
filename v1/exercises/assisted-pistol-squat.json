@@ -1,0 +1,59 @@
+{
+  "slug": "assisted-pistol-squat",
+  "name": {
+    "es": "Sentadilla a una pierna asistida",
+    "en": "Assisted pistol squat"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    },
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Sujétate con una mano a un soporte firme y apóyate sobre una sola pierna.",
+      "Estira la otra pierna al frente, sin que toque el suelo.",
+      "Baja despacio flexionando la rodilla de apoyo, con el talón pegado al suelo y el pecho alto.",
+      "Empuja con el talón para subir, ayudándote lo justo con el brazo, y cambia de pierna."
+    ],
+    "en": [
+      "Hold a firm support with one hand and stand on one leg.",
+      "Extend the other leg forward, keeping it off the floor.",
+      "Lower slowly by bending the supporting knee, keeping that heel down and your chest up.",
+      "Drive through the heel to stand back up, using the arm only as much as you need, then switch legs."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/assisted-pistol-squat-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/assisted-pistol-squat-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/assisted-pistol-squat.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/assisted-pistol-squat.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/assisted-pistol-squat-f.svg"
+  }
+}

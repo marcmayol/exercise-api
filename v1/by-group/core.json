@@ -4,7 +4,7 @@
     "es": "Core",
     "en": "Core"
   },
-  "count": 19,
+  "count": 24,
   "exercises": [
     {
       "slug": "plank",
@@ -423,6 +423,116 @@
         "female": "https://marcmayol.com/exercise-api/images/dragon-flag-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/dragon-flag.json"
+    },
+    {
+      "slug": "bird-dog",
+      "name": {
+        "es": "Bird dog",
+        "en": "Bird dog"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/bird-dog-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/bird-dog-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/bird-dog.json"
+    },
+    {
+      "slug": "hollow-hold",
+      "name": {
+        "es": "Hollow hold",
+        "en": "Hollow hold"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/hollow-hold-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/hollow-hold-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/hollow-hold.json"
+    },
+    {
+      "slug": "hollow-rock",
+      "name": {
+        "es": "Hollow rock",
+        "en": "Hollow rock"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/hollow-rock-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/hollow-rock-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/hollow-rock.json"
+    },
+    {
+      "slug": "pallof-press",
+      "name": {
+        "es": "Press Pallof",
+        "en": "Pallof press"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/pallof-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/pallof-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/pallof-press.json"
+    },
+    {
+      "slug": "farmers-walk",
+      "name": {
+        "es": "Paseo del granjero",
+        "en": "Farmer's walk"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/farmers-walk-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/farmers-walk-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/farmers-walk.json"
     }
   ]
 }

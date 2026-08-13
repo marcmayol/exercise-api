@@ -1,0 +1,48 @@
+{
+  "slug": "ankle-dorsiflexion-wall",
+  "name": {
+    "es": "Dorsiflexión de tobillo en pared",
+    "en": "Ankle dorsiflexion at wall"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "calves",
+      "es": "Gemelos",
+      "en": "Calves"
+    }
+  ],
+  "secondaryMuscles": [],
+  "instructions": {
+    "es": [
+      "Ponte de rodillas frente a la pared y adelanta un pie a un palmo de ella.",
+      "Apoya las manos en la pared o en la rodilla de delante.",
+      "Lleva la rodilla hacia la pared por encima de los dedos, sin levantar el talón.",
+      "Vuelve atrás y repite; aleja el pie si llegas con facilidad, y cambia de lado."
+    ],
+    "en": [
+      "Kneel facing the wall and place one foot a hand's width from it.",
+      "Rest your hands on the wall or on your front knee.",
+      "Drive that knee towards the wall over your toes without letting the heel lift.",
+      "Come back and repeat; move the foot further away if it is easy, then switch sides."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/ankle-dorsiflexion-wall-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/ankle-dorsiflexion-wall-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/ankle-dorsiflexion-wall.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/ankle-dorsiflexion-wall.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/ankle-dorsiflexion-wall-f.svg"
+  }
+}

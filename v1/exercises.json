@@ -1,5 +1,5 @@
 {
-  "count": 126,
+  "count": 150,
   "exercises": [
     {
       "slug": "seated-chest-press",
@@ -3183,6 +3183,606 @@
       "url": "https://marcmayol.com/exercise-api/v1/exercises/standing-barbell-reverse-wrist-curl.json",
       "primaryMuscles": [
         "forearm"
+      ]
+    },
+    {
+      "slug": "bird-dog",
+      "name": {
+        "es": "Bird dog",
+        "en": "Bird dog"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/bird-dog-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/bird-dog-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/bird-dog.json",
+      "primaryMuscles": [
+        "abs"
+      ]
+    },
+    {
+      "slug": "hollow-hold",
+      "name": {
+        "es": "Hollow hold",
+        "en": "Hollow hold"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/hollow-hold-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/hollow-hold-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/hollow-hold.json",
+      "primaryMuscles": [
+        "abs"
+      ]
+    },
+    {
+      "slug": "hollow-rock",
+      "name": {
+        "es": "Hollow rock",
+        "en": "Hollow rock"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/hollow-rock-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/hollow-rock-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/hollow-rock.json",
+      "primaryMuscles": [
+        "abs"
+      ]
+    },
+    {
+      "slug": "pallof-press",
+      "name": {
+        "es": "Press Pallof",
+        "en": "Pallof press"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/pallof-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/pallof-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/pallof-press.json",
+      "primaryMuscles": [
+        "obliques"
+      ]
+    },
+    {
+      "slug": "farmers-walk",
+      "name": {
+        "es": "Paseo del granjero",
+        "en": "Farmer's walk"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/farmers-walk-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/farmers-walk-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/farmers-walk.json",
+      "primaryMuscles": [
+        "obliques"
+      ]
+    },
+    {
+      "slug": "diamond-push-up",
+      "name": {
+        "es": "Flexión en diamante",
+        "en": "Diamond push-up"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/diamond-push-up-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/diamond-push-up-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/diamond-push-up.json",
+      "primaryMuscles": [
+        "triceps"
+      ]
+    },
+    {
+      "slug": "wall-handstand",
+      "name": {
+        "es": "Pino contra la pared",
+        "en": "Wall handstand"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/wall-handstand-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/wall-handstand-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/wall-handstand.json",
+      "primaryMuscles": [
+        "deltoids"
+      ]
+    },
+    {
+      "slug": "y-t-w-raise",
+      "name": {
+        "es": "Y-T-W en banco inclinado",
+        "en": "Y-T-W raise on incline bench"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/y-t-w-raise-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/y-t-w-raise-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/y-t-w-raise.json",
+      "primaryMuscles": [
+        "deltoids"
+      ]
+    },
+    {
+      "slug": "chin-tuck",
+      "name": {
+        "es": "Retracción de barbilla (chin tuck)",
+        "en": "Chin tuck"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/chin-tuck-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/chin-tuck-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/chin-tuck.json",
+      "primaryMuscles": [
+        "trapezius"
+      ]
+    },
+    {
+      "slug": "assisted-pistol-squat",
+      "name": {
+        "es": "Sentadilla a una pierna asistida",
+        "en": "Assisted pistol squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/assisted-pistol-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/assisted-pistol-squat-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/assisted-pistol-squat.json",
+      "primaryMuscles": [
+        "quadriceps"
+      ]
+    },
+    {
+      "slug": "deep-squat-hold",
+      "name": {
+        "es": "Sentadilla profunda mantenida",
+        "en": "Deep squat hold"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/deep-squat-hold-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/deep-squat-hold-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/deep-squat-hold.json",
+      "primaryMuscles": [
+        "quadriceps"
+      ]
+    },
+    {
+      "slug": "hip-hinge-dowel",
+      "name": {
+        "es": "Bisagra de cadera con palo",
+        "en": "Hip hinge with dowel"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/hip-hinge-dowel-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/hip-hinge-dowel-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/hip-hinge-dowel.json",
+      "primaryMuscles": [
+        "hamstring"
+      ]
+    },
+    {
+      "slug": "hip-flexor-stretch",
+      "name": {
+        "es": "Estiramiento de flexores de cadera",
+        "en": "Hip flexor stretch"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/hip-flexor-stretch-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/hip-flexor-stretch-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/hip-flexor-stretch.json",
+      "primaryMuscles": [
+        "quadriceps"
+      ]
+    },
+    {
+      "slug": "low-lunge-rotation",
+      "name": {
+        "es": "Zancada baja con rotación",
+        "en": "Low lunge with rotation"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/low-lunge-rotation-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/low-lunge-rotation-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/low-lunge-rotation.json",
+      "primaryMuscles": [
+        "quadriceps"
+      ]
+    },
+    {
+      "slug": "figure-4-stretch",
+      "name": {
+        "es": "Estiramiento de glúteo (figura 4)",
+        "en": "Figure-4 glute stretch"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/figure-4-stretch-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/figure-4-stretch-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/figure-4-stretch.json",
+      "primaryMuscles": [
+        "gluteal"
+      ]
+    },
+    {
+      "slug": "supine-hamstring-stretch",
+      "name": {
+        "es": "Estiramiento de isquios tumbado",
+        "en": "Supine hamstring stretch"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/supine-hamstring-stretch-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/supine-hamstring-stretch-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/supine-hamstring-stretch.json",
+      "primaryMuscles": [
+        "hamstring"
+      ]
+    },
+    {
+      "slug": "seated-forward-fold",
+      "name": {
+        "es": "Flexión adelante sentado",
+        "en": "Seated forward fold"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/seated-forward-fold-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/seated-forward-fold-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-forward-fold.json",
+      "primaryMuscles": [
+        "hamstring"
+      ]
+    },
+    {
+      "slug": "hip-90-90",
+      "name": {
+        "es": "Postura 90/90 de cadera",
+        "en": "90/90 hip switch"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/hip-90-90-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/hip-90-90-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/hip-90-90.json",
+      "primaryMuscles": [
+        "gluteal"
+      ]
+    },
+    {
+      "slug": "calf-stretch-wall",
+      "name": {
+        "es": "Estiramiento de gemelos en pared",
+        "en": "Calf stretch against wall"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/calf-stretch-wall-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/calf-stretch-wall-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/calf-stretch-wall.json",
+      "primaryMuscles": [
+        "calves"
+      ]
+    },
+    {
+      "slug": "ankle-dorsiflexion-wall",
+      "name": {
+        "es": "Dorsiflexión de tobillo en pared",
+        "en": "Ankle dorsiflexion at wall"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/ankle-dorsiflexion-wall-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/ankle-dorsiflexion-wall-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/ankle-dorsiflexion-wall.json",
+      "primaryMuscles": [
+        "calves"
+      ]
+    },
+    {
+      "slug": "thoracic-extension-bench",
+      "name": {
+        "es": "Extensión torácica sobre banco",
+        "en": "Thoracic extension over bench"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/thoracic-extension-bench-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/thoracic-extension-bench-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/thoracic-extension-bench.json",
+      "primaryMuscles": [
+        "upper-back"
+      ]
+    },
+    {
+      "slug": "quadruped-thoracic-rotation",
+      "name": {
+        "es": "Rotación torácica en cuadrupedia",
+        "en": "Quadruped thoracic rotation"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/quadruped-thoracic-rotation-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/quadruped-thoracic-rotation-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/quadruped-thoracic-rotation.json",
+      "primaryMuscles": [
+        "upper-back"
+      ]
+    },
+    {
+      "slug": "open-book-stretch",
+      "name": {
+        "es": "Apertura de pecho tumbado (libro abierto)",
+        "en": "Open book stretch"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/open-book-stretch-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/open-book-stretch-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/open-book-stretch.json",
+      "primaryMuscles": [
+        "upper-back"
+      ]
+    },
+    {
+      "slug": "doorway-chest-stretch",
+      "name": {
+        "es": "Estiramiento de pecho en marco de puerta",
+        "en": "Doorway chest stretch"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/doorway-chest-stretch-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/doorway-chest-stretch-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/doorway-chest-stretch.json",
+      "primaryMuscles": [
+        "chest"
       ]
     }
   ]

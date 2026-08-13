@@ -1776,5 +1776,348 @@
       "forearm"
     ],
     "secondary": []
+  },
+  {
+    "slug": "bird-dog",
+    "es": "Bird dog",
+    "en": "Bird dog",
+    "group_es": "Core",
+    "group_en": "Core",
+    "equipment": "bodyweight",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "lower-back",
+      "gluteal"
+    ]
+  },
+  {
+    "slug": "hollow-hold",
+    "es": "Hollow hold",
+    "en": "Hollow hold",
+    "group_es": "Core",
+    "group_en": "Core",
+    "equipment": "bodyweight",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "quadriceps"
+    ]
+  },
+  {
+    "slug": "hollow-rock",
+    "es": "Hollow rock",
+    "en": "Hollow rock",
+    "group_es": "Core",
+    "group_en": "Core",
+    "equipment": "bodyweight",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "obliques"
+    ]
+  },
+  {
+    "slug": "pallof-press",
+    "es": "Press Pallof",
+    "en": "Pallof press",
+    "group_es": "Core",
+    "group_en": "Core",
+    "equipment": "cable",
+    "primary": [
+      "obliques"
+    ],
+    "secondary": [
+      "abs",
+      "deltoids"
+    ]
+  },
+  {
+    "slug": "farmers-walk",
+    "es": "Paseo del granjero",
+    "en": "Farmer's walk",
+    "group_es": "Core",
+    "group_en": "Core",
+    "equipment": "dumbbell",
+    "primary": [
+      "obliques"
+    ],
+    "secondary": [
+      "trapezius",
+      "forearm"
+    ]
+  },
+  {
+    "slug": "diamond-push-up",
+    "es": "Flexión en diamante",
+    "en": "Diamond push-up",
+    "group_es": "Pecho",
+    "group_en": "Chest",
+    "equipment": "bodyweight",
+    "primary": [
+      "triceps"
+    ],
+    "secondary": [
+      "chest",
+      "deltoids"
+    ]
+  },
+  {
+    "slug": "wall-handstand",
+    "es": "Pino contra la pared",
+    "en": "Wall handstand",
+    "group_es": "Hombros",
+    "group_en": "Shoulders",
+    "equipment": "bodyweight",
+    "primary": [
+      "deltoids"
+    ],
+    "secondary": [
+      "triceps",
+      "trapezius"
+    ]
+  },
+  {
+    "slug": "y-t-w-raise",
+    "es": "Y-T-W en banco inclinado",
+    "en": "Y-T-W raise on incline bench",
+    "group_es": "Hombros",
+    "group_en": "Shoulders",
+    "equipment": "dumbbell",
+    "primary": [
+      "deltoids"
+    ],
+    "secondary": [
+      "upper-back",
+      "trapezius"
+    ]
+  },
+  {
+    "slug": "chin-tuck",
+    "es": "Retracción de barbilla (chin tuck)",
+    "en": "Chin tuck",
+    "group_es": "Espalda",
+    "group_en": "Back",
+    "equipment": "bodyweight",
+    "primary": [
+      "trapezius"
+    ],
+    "secondary": [
+      "upper-back"
+    ]
+  },
+  {
+    "slug": "assisted-pistol-squat",
+    "es": "Sentadilla a una pierna asistida",
+    "en": "Assisted pistol squat",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "bodyweight",
+    "primary": [
+      "quadriceps"
+    ],
+    "secondary": [
+      "gluteal",
+      "hamstring"
+    ]
+  },
+  {
+    "slug": "deep-squat-hold",
+    "es": "Sentadilla profunda mantenida",
+    "en": "Deep squat hold",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "bodyweight",
+    "primary": [
+      "quadriceps"
+    ],
+    "secondary": [
+      "gluteal",
+      "adductors"
+    ]
+  },
+  {
+    "slug": "hip-hinge-dowel",
+    "es": "Bisagra de cadera con palo",
+    "en": "Hip hinge with dowel",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "bodyweight",
+    "primary": [
+      "hamstring"
+    ],
+    "secondary": [
+      "gluteal",
+      "lower-back"
+    ]
+  },
+  {
+    "slug": "hip-flexor-stretch",
+    "es": "Estiramiento de flexores de cadera",
+    "en": "Hip flexor stretch",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "bodyweight",
+    "primary": [
+      "quadriceps"
+    ],
+    "secondary": [
+      "gluteal"
+    ]
+  },
+  {
+    "slug": "low-lunge-rotation",
+    "es": "Zancada baja con rotación",
+    "en": "Low lunge with rotation",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "bodyweight",
+    "primary": [
+      "quadriceps"
+    ],
+    "secondary": [
+      "gluteal",
+      "obliques"
+    ]
+  },
+  {
+    "slug": "figure-4-stretch",
+    "es": "Estiramiento de glúteo (figura 4)",
+    "en": "Figure-4 glute stretch",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "bodyweight",
+    "primary": [
+      "gluteal"
+    ],
+    "secondary": [
+      "lower-back"
+    ]
+  },
+  {
+    "slug": "supine-hamstring-stretch",
+    "es": "Estiramiento de isquios tumbado",
+    "en": "Supine hamstring stretch",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "bodyweight",
+    "primary": [
+      "hamstring"
+    ],
+    "secondary": [
+      "calves"
+    ]
+  },
+  {
+    "slug": "seated-forward-fold",
+    "es": "Flexión adelante sentado",
+    "en": "Seated forward fold",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "bodyweight",
+    "primary": [
+      "hamstring"
+    ],
+    "secondary": [
+      "lower-back"
+    ]
+  },
+  {
+    "slug": "hip-90-90",
+    "es": "Postura 90/90 de cadera",
+    "en": "90/90 hip switch",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "bodyweight",
+    "primary": [
+      "gluteal"
+    ],
+    "secondary": [
+      "adductors"
+    ]
+  },
+  {
+    "slug": "calf-stretch-wall",
+    "es": "Estiramiento de gemelos en pared",
+    "en": "Calf stretch against wall",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "bodyweight",
+    "primary": [
+      "calves"
+    ],
+    "secondary": []
+  },
+  {
+    "slug": "ankle-dorsiflexion-wall",
+    "es": "Dorsiflexión de tobillo en pared",
+    "en": "Ankle dorsiflexion at wall",
+    "group_es": "Piernas",
+    "group_en": "Legs",
+    "equipment": "bodyweight",
+    "primary": [
+      "calves"
+    ],
+    "secondary": []
+  },
+  {
+    "slug": "thoracic-extension-bench",
+    "es": "Extensión torácica sobre banco",
+    "en": "Thoracic extension over bench",
+    "group_es": "Espalda",
+    "group_en": "Back",
+    "equipment": "bodyweight",
+    "primary": [
+      "upper-back"
+    ],
+    "secondary": [
+      "chest"
+    ]
+  },
+  {
+    "slug": "quadruped-thoracic-rotation",
+    "es": "Rotación torácica en cuadrupedia",
+    "en": "Quadruped thoracic rotation",
+    "group_es": "Espalda",
+    "group_en": "Back",
+    "equipment": "bodyweight",
+    "primary": [
+      "upper-back"
+    ],
+    "secondary": [
+      "obliques"
+    ]
+  },
+  {
+    "slug": "open-book-stretch",
+    "es": "Apertura de pecho tumbado (libro abierto)",
+    "en": "Open book stretch",
+    "group_es": "Espalda",
+    "group_en": "Back",
+    "equipment": "bodyweight",
+    "primary": [
+      "upper-back"
+    ],
+    "secondary": [
+      "chest",
+      "obliques"
+    ]
+  },
+  {
+    "slug": "doorway-chest-stretch",
+    "es": "Estiramiento de pecho en marco de puerta",
+    "en": "Doorway chest stretch",
+    "group_es": "Pecho",
+    "group_en": "Chest",
+    "equipment": "bodyweight",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "deltoids"
+    ]
   }
 ]

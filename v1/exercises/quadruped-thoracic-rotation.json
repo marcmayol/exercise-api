@@ -1,0 +1,54 @@
+{
+  "slug": "quadruped-thoracic-rotation",
+  "name": {
+    "es": "Rotación torácica en cuadrupedia",
+    "en": "Quadruped thoracic rotation"
+  },
+  "group": {
+    "id": "back",
+    "es": "Espalda",
+    "en": "Back"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "upper-back",
+      "es": "Dorsal",
+      "en": "Upper back"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "obliques",
+      "es": "Oblicuos",
+      "en": "Obliques"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Colócate a cuatro patas y lleva una mano detrás de la cabeza, con el codo abierto.",
+      "Gira el tronco llevando ese codo por debajo del pecho, hacia el brazo de apoyo.",
+      "Abre después el codo hacia el techo girando desde la espalda alta y sigue la mano con la mirada.",
+      "Mantén las caderas quietas sobre las rodillas; repite y cambia de lado."
+    ],
+    "en": [
+      "Get on all fours and place one hand behind your head, elbow out to the side.",
+      "Rotate your torso, bringing that elbow under your chest towards the supporting arm.",
+      "Then open the elbow up towards the ceiling, turning through your upper back and following your hand with your eyes.",
+      "Keep your hips still over your knees; repeat and switch sides."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/quadruped-thoracic-rotation-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/quadruped-thoracic-rotation-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/quadruped-thoracic-rotation.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/quadruped-thoracic-rotation.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/quadruped-thoracic-rotation-f.svg"
+  }
+}

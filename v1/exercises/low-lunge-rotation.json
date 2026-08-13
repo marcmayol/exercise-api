@@ -1,0 +1,59 @@
+{
+  "slug": "low-lunge-rotation",
+  "name": {
+    "es": "Zancada baja con rotación",
+    "en": "Low lunge with rotation"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    },
+    {
+      "id": "obliques",
+      "es": "Oblicuos",
+      "en": "Obliques"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Desde una zancada con la rodilla de atrás en el suelo, apoya las dos manos por dentro del pie de delante.",
+      "Mantén el pecho alto y la cadera de atrás baja.",
+      "Gira el tronco y sube el brazo de dentro hacia el techo, siguiendo la mano con la mirada.",
+      "Vuelve a apoyar la mano, repite unas cuantas veces y cambia de lado."
+    ],
+    "en": [
+      "From a lunge with your back knee on the floor, place both hands inside your front foot.",
+      "Keep your chest up and your back hip low.",
+      "Rotate your torso and reach the inside arm up towards the ceiling, following your hand with your eyes.",
+      "Bring the hand back down, repeat a few times and switch sides."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/low-lunge-rotation-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/low-lunge-rotation-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/low-lunge-rotation.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/low-lunge-rotation.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/low-lunge-rotation-f.svg"
+  }
+}

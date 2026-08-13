@@ -4,7 +4,7 @@
     "es": "Espalda",
     "en": "Back"
   },
-  "count": 15,
+  "count": 19,
   "exercises": [
     {
       "slug": "chest-pulldown",
@@ -335,6 +335,94 @@
         "female": "https://marcmayol.com/exercise-api/images/dead-hang-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/dead-hang.json"
+    },
+    {
+      "slug": "chin-tuck",
+      "name": {
+        "es": "Retracción de barbilla (chin tuck)",
+        "en": "Chin tuck"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/chin-tuck-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/chin-tuck-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/chin-tuck.json"
+    },
+    {
+      "slug": "thoracic-extension-bench",
+      "name": {
+        "es": "Extensión torácica sobre banco",
+        "en": "Thoracic extension over bench"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/thoracic-extension-bench-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/thoracic-extension-bench-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/thoracic-extension-bench.json"
+    },
+    {
+      "slug": "quadruped-thoracic-rotation",
+      "name": {
+        "es": "Rotación torácica en cuadrupedia",
+        "en": "Quadruped thoracic rotation"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/quadruped-thoracic-rotation-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/quadruped-thoracic-rotation-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/quadruped-thoracic-rotation.json"
+    },
+    {
+      "slug": "open-book-stretch",
+      "name": {
+        "es": "Apertura de pecho tumbado (libro abierto)",
+        "en": "Open book stretch"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/open-book-stretch-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/open-book-stretch-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/open-book-stretch.json"
     }
   ]
 }

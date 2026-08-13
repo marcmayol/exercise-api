@@ -4,7 +4,7 @@
     "es": "Hombros",
     "en": "Shoulders"
   },
-  "count": 41,
+  "count": 46,
   "exercises": [
     {
       "slug": "seated-chest-press",
@@ -907,6 +907,116 @@
         "female": "https://marcmayol.com/exercise-api/images/dead-hang-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/dead-hang.json"
+    },
+    {
+      "slug": "pallof-press",
+      "name": {
+        "es": "Press Pallof",
+        "en": "Pallof press"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/pallof-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/pallof-press-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/pallof-press.json"
+    },
+    {
+      "slug": "diamond-push-up",
+      "name": {
+        "es": "Flexión en diamante",
+        "en": "Diamond push-up"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/diamond-push-up-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/diamond-push-up-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/diamond-push-up.json"
+    },
+    {
+      "slug": "wall-handstand",
+      "name": {
+        "es": "Pino contra la pared",
+        "en": "Wall handstand"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/wall-handstand-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/wall-handstand-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/wall-handstand.json"
+    },
+    {
+      "slug": "y-t-w-raise",
+      "name": {
+        "es": "Y-T-W en banco inclinado",
+        "en": "Y-T-W raise on incline bench"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/y-t-w-raise-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/y-t-w-raise-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/y-t-w-raise.json"
+    },
+    {
+      "slug": "doorway-chest-stretch",
+      "name": {
+        "es": "Estiramiento de pecho en marco de puerta",
+        "en": "Doorway chest stretch"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/doorway-chest-stretch-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/doorway-chest-stretch-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/doorway-chest-stretch.json"
     }
   ]
 }

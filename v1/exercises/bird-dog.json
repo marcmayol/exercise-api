@@ -1,0 +1,59 @@
+{
+  "slug": "bird-dog",
+  "name": {
+    "es": "Bird dog",
+    "en": "Bird dog"
+  },
+  "group": {
+    "id": "core",
+    "es": "Core",
+    "en": "Core"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "abs",
+      "es": "Abdomen",
+      "en": "Abs"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "lower-back",
+      "es": "Lumbar",
+      "en": "Lower back"
+    },
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Colócate a cuatro patas, con las manos bajo los hombros y las rodillas bajo las caderas.",
+      "Aprieta el abdomen y mantén la espalda plana y la mirada hacia el suelo.",
+      "Estira a la vez un brazo hacia delante y la pierna contraria hacia atrás, hasta dejarlos a la altura de la espalda.",
+      "Vuelve despacio al apoyo inicial y alterna el lado en cada repetición."
+    ],
+    "en": [
+      "Get on all fours, with your hands under your shoulders and your knees under your hips.",
+      "Brace your core and keep your back flat and your gaze towards the floor.",
+      "Extend one arm forward and the opposite leg backwards at the same time, until both are level with your back.",
+      "Return slowly to the starting position and alternate sides on each repetition."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/bird-dog-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/bird-dog-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/bird-dog.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/bird-dog.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/bird-dog-f.svg"
+  }
+}

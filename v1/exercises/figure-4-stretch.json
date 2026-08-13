@@ -1,0 +1,54 @@
+{
+  "slug": "figure-4-stretch",
+  "name": {
+    "es": "Estiramiento de glúteo (figura 4)",
+    "en": "Figure-4 glute stretch"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "lower-back",
+      "es": "Lumbar",
+      "en": "Lower back"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Túmbate boca arriba con las rodillas dobladas y los pies apoyados.",
+      "Cruza un tobillo sobre la rodilla contraria formando un cuatro.",
+      "Pasa las manos por detrás del muslo de apoyo y tíralo hacia el pecho.",
+      "Mantén la cabeza y los hombros en el suelo, aguanta y cambia de lado."
+    ],
+    "en": [
+      "Lie face up with your knees bent and your feet on the floor.",
+      "Cross one ankle over the opposite knee to make a figure four.",
+      "Reach both hands behind the supporting thigh and pull it towards your chest.",
+      "Keep your head and shoulders on the floor, hold, then switch sides."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/figure-4-stretch-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/figure-4-stretch-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/figure-4-stretch.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/figure-4-stretch.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/figure-4-stretch-f.svg"
+  }
+}

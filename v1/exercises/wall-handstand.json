@@ -1,0 +1,59 @@
+{
+  "slug": "wall-handstand",
+  "name": {
+    "es": "Pino contra la pared",
+    "en": "Wall handstand"
+  },
+  "group": {
+    "id": "shoulders",
+    "es": "Hombros",
+    "en": "Shoulders"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    },
+    {
+      "id": "trapezius",
+      "es": "Trapecio",
+      "en": "Trapezius"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Apoya las manos en el suelo a un palmo de la pared, con los brazos estirados y las manos a la anchura de los hombros.",
+      "Sube las piernas con una patada controlada hasta apoyar los talones en la pared.",
+      "Alinea manos, hombros y caderas en vertical, con el abdomen y los glúteos apretados.",
+      "Aguanta respirando de forma constante y baja una pierna primero para salir."
+    ],
+    "en": [
+      "Place your hands on the floor a hand's width from the wall, arms straight and hands shoulder-width apart.",
+      "Kick up under control until your heels rest against the wall.",
+      "Stack hands, shoulders and hips in a vertical line, with your core and glutes tight.",
+      "Hold while breathing steadily and come down one leg at a time."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/wall-handstand-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/wall-handstand-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/wall-handstand.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/wall-handstand.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/wall-handstand-f.svg"
+  }
+}

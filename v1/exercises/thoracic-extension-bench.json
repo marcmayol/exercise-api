@@ -1,0 +1,54 @@
+{
+  "slug": "thoracic-extension-bench",
+  "name": {
+    "es": "Extensión torácica sobre banco",
+    "en": "Thoracic extension over bench"
+  },
+  "group": {
+    "id": "back",
+    "es": "Espalda",
+    "en": "Back"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "upper-back",
+      "es": "Dorsal",
+      "en": "Upper back"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "chest",
+      "es": "Pectoral",
+      "en": "Chest"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Arrodíllate frente a un banco bajo y apoya los codos en él, con las manos juntas.",
+      "Mantén las caderas por encima de las rodillas y el abdomen activo.",
+      "Hunde el pecho hacia el suelo dejando que la espalda alta se extienda.",
+      "Aguanta unos segundos respirando hondo y vuelve a la posición neutra."
+    ],
+    "en": [
+      "Kneel in front of a low bench and rest your elbows on it, hands together.",
+      "Keep your hips above your knees and your core engaged.",
+      "Sink your chest towards the floor, letting your upper back extend.",
+      "Hold for a few seconds while breathing deeply, then return to neutral."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/thoracic-extension-bench-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/thoracic-extension-bench-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/thoracic-extension-bench.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/thoracic-extension-bench.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/thoracic-extension-bench-f.svg"
+  }
+}

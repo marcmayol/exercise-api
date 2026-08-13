@@ -1,0 +1,59 @@
+{
+  "slug": "diamond-push-up",
+  "name": {
+    "es": "Flexión en diamante",
+    "en": "Diamond push-up"
+  },
+  "group": {
+    "id": "chest",
+    "es": "Pecho",
+    "en": "Chest"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "triceps",
+      "es": "Tríceps",
+      "en": "Triceps"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "chest",
+      "es": "Pectoral",
+      "en": "Chest"
+    },
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ponte en posición de flexión con las manos juntas bajo el pecho, formando un rombo con índices y pulgares.",
+      "Mantén el cuerpo recto desde la cabeza hasta los talones y el abdomen apretado.",
+      "Baja el pecho hacia las manos con los codos pegados al cuerpo.",
+      "Empuja el suelo hasta estirar los brazos, sin arquear la zona lumbar."
+    ],
+    "en": [
+      "Get into a push-up position with your hands together under your chest, index fingers and thumbs forming a diamond.",
+      "Keep your body straight from head to heels and your core braced.",
+      "Lower your chest towards your hands, keeping your elbows close to your ribs.",
+      "Push the floor away until your arms are straight, without arching your lower back."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/diamond-push-up-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/diamond-push-up-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/diamond-push-up.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/diamond-push-up.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/diamond-push-up-f.svg"
+  }
+}

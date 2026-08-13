@@ -1,0 +1,54 @@
+{
+  "slug": "chin-tuck",
+  "name": {
+    "es": "Retracción de barbilla (chin tuck)",
+    "en": "Chin tuck"
+  },
+  "group": {
+    "id": "back",
+    "es": "Espalda",
+    "en": "Back"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "trapezius",
+      "es": "Trapecio",
+      "en": "Trapezius"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "upper-back",
+      "es": "Dorsal",
+      "en": "Upper back"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Ponte de pie o sentado con la espalda recta y los hombros relajados.",
+      "Desliza la cabeza hacia atrás llevando la barbilla hacia la garganta, como si hicieras papada.",
+      "No subas ni bajes la mirada: el movimiento es horizontal.",
+      "Mantén dos o tres segundos y vuelve despacio a la posición inicial."
+    ],
+    "en": [
+      "Stand or sit with your back straight and your shoulders relaxed.",
+      "Glide your head straight backwards, pulling your chin in towards your throat to make a double chin.",
+      "Do not tilt your gaze up or down: the movement is horizontal.",
+      "Hold for two or three seconds and return slowly to the starting position."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/chin-tuck-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/chin-tuck-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/chin-tuck.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/chin-tuck.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/chin-tuck-f.svg"
+  }
+}

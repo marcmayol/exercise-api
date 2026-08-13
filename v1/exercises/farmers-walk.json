@@ -1,0 +1,59 @@
+{
+  "slug": "farmers-walk",
+  "name": {
+    "es": "Paseo del granjero",
+    "en": "Farmer's walk"
+  },
+  "group": {
+    "id": "core",
+    "es": "Core",
+    "en": "Core"
+  },
+  "equipment": {
+    "id": "dumbbell",
+    "es": "Mancuerna",
+    "en": "Dumbbell"
+  },
+  "primaryMuscles": [
+    {
+      "id": "obliques",
+      "es": "Oblicuos",
+      "en": "Obliques"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "trapezius",
+      "es": "Trapecio",
+      "en": "Trapezius"
+    },
+    {
+      "id": "forearm",
+      "es": "Antebrazo",
+      "en": "Forearm"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Coge una mancuerna pesada con una mano y ponte de pie con el pecho alto y los hombros atrás.",
+      "Aprieta el abdomen para no inclinarte hacia el lado cargado.",
+      "Camina en línea recta con pasos cortos y firmes, manteniendo los hombros a la misma altura.",
+      "Recorre la distancia marcada, cambia de mano y repite."
+    ],
+    "en": [
+      "Pick up a heavy dumbbell in one hand and stand tall with your chest up and your shoulders back.",
+      "Brace your core so you do not lean towards the loaded side.",
+      "Walk in a straight line with short, firm steps, keeping your shoulders level.",
+      "Cover the set distance, switch hands and repeat."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/farmers-walk-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/farmers-walk-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/farmers-walk.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/farmers-walk.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/farmers-walk-f.svg"
+  }
+}

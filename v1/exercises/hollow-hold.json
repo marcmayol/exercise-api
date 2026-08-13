@@ -1,0 +1,54 @@
+{
+  "slug": "hollow-hold",
+  "name": {
+    "es": "Hollow hold",
+    "en": "Hollow hold"
+  },
+  "group": {
+    "id": "core",
+    "es": "Core",
+    "en": "Core"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "abs",
+      "es": "Abdomen",
+      "en": "Abs"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Túmbate boca arriba y pega la zona lumbar al suelo.",
+      "Estira los brazos por detrás de la cabeza y eleva las piernas rectas unos centímetros del suelo.",
+      "Despega también la cabeza y los omóplatos, formando una banana con el cuerpo.",
+      "Aguanta la posición sin que la lumbar se separe del suelo; si te cuesta, dobla las rodillas."
+    ],
+    "en": [
+      "Lie face up and press your lower back into the floor.",
+      "Extend your arms behind your head and lift your straight legs a few centimetres off the floor.",
+      "Lift your head and shoulder blades as well, so your body forms a shallow banana shape.",
+      "Hold the position without letting your lower back come off the floor; bend your knees if it is too hard."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/hollow-hold-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/hollow-hold-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/hollow-hold.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/hollow-hold.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/hollow-hold-f.svg"
+  }
+}

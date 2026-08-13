@@ -1,0 +1,99 @@
+{
+  "_comentario": "slug -> nombre EN y técnica EN para el generador de ilustraciones (gpt-image). Mismo formato que el dict EXERCISES de CatalogoEjercicios/generador/gen_circuits.py: dos fotogramas, inicio y final del movimiento.",
+  "bird-dog": {
+    "name_en": "Bird dog",
+    "technique": "On all fours with hands under the shoulders and knees under the hips, extend one arm straight forward and the opposite leg straight back until both are level with the flat back, then return to all fours. Two frames: neutral quadruped position and the opposite arm and leg fully extended."
+  },
+  "hollow-hold": {
+    "name_en": "Hollow hold",
+    "technique": "Lie on the back with the lower back pressed flat into the floor, arms extended overhead and straight legs lifted a few centimetres off the ground, forming a shallow banana shape held still. Two frames: side view of the held hollow position and a slightly easier version with the knees bent."
+  },
+  "hollow-rock": {
+    "name_en": "Hollow rock",
+    "technique": "From a hollow body position (arms overhead, straight legs off the floor, lower back pressed down), rock the whole rigid body back and forth like a rocking chair without losing the shape. Two frames: rocked toward the shoulders and rocked toward the hips."
+  },
+  "pallof-press": {
+    "name_en": "Pallof press",
+    "technique": "Stand side-on to a cable machine at chest height holding the handle with both hands at the chest, feet shoulder width. Press the handle straight forward until the arms are extended, resisting the pull that tries to rotate the torso, then bring it back to the chest. Two frames: hands at the chest and arms fully extended forward. Show the cable machine and handle."
+  },
+  "farmers-walk": {
+    "name_en": "Farmer's walk (single arm)",
+    "technique": "Walk upright holding a heavy dumbbell in one hand at the side, shoulders level and torso straight, resisting the lean toward the loaded side. Two frames showing consecutive steps of the walk carrying the dumbbell on one side."
+  },
+  "diamond-push-up": {
+    "name_en": "Diamond push-up",
+    "technique": "In a push-up position with the hands together under the chest, index fingers and thumbs touching to form a diamond shape, lower the chest to the hands keeping the elbows close to the body, then press back up. Two frames: top position with arms extended and bottom position with the chest near the hands."
+  },
+  "wall-handstand": {
+    "name_en": "Wall handstand hold",
+    "technique": "Upside down with straight arms and hands on the floor a few centimetres from a wall, body vertical and heels resting lightly against the wall, held still. Two frames: kicking up into the handstand and the held vertical position against the wall."
+  },
+  "y-t-w-raise": {
+    "name_en": "Y-T-W raise on incline bench",
+    "technique": "Lie chest down on an incline bench holding very light dumbbells with straight arms hanging down. Raise the arms into a Y shape, then out to the sides into a T, then bend the elbows into a W, squeezing the shoulder blades. Two frames: the Y position and the T position on the incline bench."
+  },
+  "chin-tuck": {
+    "name_en": "Chin tuck",
+    "technique": "Standing or sitting upright against a wall, glide the head straight backwards pulling the chin in toward the throat, making a double chin, without tilting the head up or down. Two frames: head in the forward resting posture and head retracted with the chin tucked."
+  },
+  "assisted-pistol-squat": {
+    "name_en": "Assisted single leg squat",
+    "technique": "Standing on one leg holding a support (a post or door frame) with one hand, squat down on that leg with the other leg extended forward off the floor, then stand back up. Two frames: standing upright and the deep single leg squat position holding the support."
+  },
+  "deep-squat-hold": {
+    "name_en": "Assisted deep squat hold",
+    "technique": "Hold the bottom of a deep squat with the heels flat on the floor and the chest upright, lightly holding onto a fixed support in front with both hands for balance. Two frames: lowering into the squat and the held deep bottom position."
+  },
+  "hip-hinge-dowel": {
+    "name_en": "Hip hinge with dowel",
+    "technique": "Standing with a broomstick or dowel held vertically along the spine touching the head, upper back and tailbone, push the hips backwards and let the torso tip forward keeping the back flat and all three contact points, then stand back up. Two frames: standing tall and hinged forward with the dowel against the spine."
+  },
+  "hip-flexor-stretch": {
+    "name_en": "Kneeling hip flexor stretch",
+    "technique": "In a low lunge with the back knee on the floor and the front foot flat, tuck the pelvis and push the hips forward to stretch the front of the back hip, then raise the arm on the kneeling side overhead. Two frames: the low lunge position and the same lunge with the arm reaching overhead."
+  },
+  "low-lunge-rotation": {
+    "name_en": "Low lunge with rotation",
+    "technique": "From a low lunge with the back knee down and both hands on the floor beside the front foot, rotate the torso and reach the inside arm up toward the ceiling, following the hand with the eyes. Two frames: hands on the floor and the arm rotated up overhead."
+  },
+  "figure-4-stretch": {
+    "name_en": "Supine figure-4 glute stretch",
+    "technique": "Lying on the back, cross one ankle over the opposite knee forming a number four, then reach through and pull the supporting thigh toward the chest to stretch the crossed glute. Two frames: ankle crossed with the foot on the floor and the thigh pulled toward the chest."
+  },
+  "supine-hamstring-stretch": {
+    "name_en": "Supine hamstring stretch with strap",
+    "technique": "Lying flat on the back with one leg straight on the floor, loop a strap or towel around the other foot and pull that straight leg up toward the ceiling until a stretch is felt behind the thigh. Two frames: leg partly raised and leg pulled up near vertical with the strap."
+  },
+  "seated-forward-fold": {
+    "name_en": "Seated forward fold",
+    "technique": "Sitting on the floor with both legs straight in front, hinge from the hips keeping the back long and reach the hands toward the feet without rounding the spine. Two frames: sitting tall and folded forward reaching toward the feet."
+  },
+  "hip-90-90": {
+    "name_en": "90/90 hip switch",
+    "technique": "Sitting on the floor with the front leg bent 90 degrees in front and the back leg bent 90 degrees to the side, torso upright; rotate both knees over to the other side to switch positions. Two frames: the 90/90 position on one side and the switch to the opposite side."
+  },
+  "calf-stretch-wall": {
+    "name_en": "Standing calf stretch against wall",
+    "technique": "Facing a wall with both hands on it, step one foot well back with the leg straight and the heel pressed flat into the floor, then lean forward into the wall to stretch that calf. Two frames: setting up the split stance and leaning into the wall with the back heel down."
+  },
+  "ankle-dorsiflexion-wall": {
+    "name_en": "Ankle dorsiflexion at wall",
+    "technique": "In a half kneeling position facing a wall with the front foot a few centimetres from it, drive the front knee forward over the toes toward the wall keeping the heel flat on the floor, then return. Two frames: knee back and knee driven forward touching the wall."
+  },
+  "thoracic-extension-bench": {
+    "name_en": "Thoracic extension over bench",
+    "technique": "Kneeling in front of a low bench with the elbows resting on it and the hands together, sink the chest down between the arms letting the upper back extend, then return. Two frames: neutral kneeling position and the chest sunk down with the upper back extended."
+  },
+  "quadruped-thoracic-rotation": {
+    "name_en": "Quadruped thoracic rotation",
+    "technique": "On all fours with one hand behind the head, rotate that elbow down under the body and then open it up toward the ceiling, turning through the upper back while the hips stay still. Two frames: elbow tucked down under the chest and elbow rotated open pointing up."
+  },
+  "open-book-stretch": {
+    "name_en": "Open book chest stretch",
+    "technique": "Lying on one side with the knees bent at 90 degrees and both arms extended together in front at shoulder height, open the top arm across the body toward the floor behind, rotating the upper back while the knees stay down. Two frames: both arms together in front and the top arm opened out behind."
+  },
+  "doorway-chest-stretch": {
+    "name_en": "Doorway chest stretch",
+    "technique": "Standing in a door frame with the forearm resting on the frame and the elbow at shoulder height, step forward with the same side foot and turn the torso away to stretch the front of the chest and shoulder. Two frames: forearm placed on the frame and the torso turned away into the stretch. Show the door frame."
+  }
+}

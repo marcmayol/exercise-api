@@ -4,7 +4,7 @@
     "es": "Lumbar",
     "en": "Lower back"
   },
-  "count": 11,
+  "count": 15,
   "exercises": [
     {
       "slug": "plank",
@@ -247,6 +247,94 @@
         "female": "https://marcmayol.com/exercise-api/images/dragon-flag-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/dragon-flag.json"
+    },
+    {
+      "slug": "bird-dog",
+      "name": {
+        "es": "Bird dog",
+        "en": "Bird dog"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/bird-dog-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/bird-dog-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/bird-dog.json"
+    },
+    {
+      "slug": "hip-hinge-dowel",
+      "name": {
+        "es": "Bisagra de cadera con palo",
+        "en": "Hip hinge with dowel"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/hip-hinge-dowel-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/hip-hinge-dowel-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/hip-hinge-dowel.json"
+    },
+    {
+      "slug": "figure-4-stretch",
+      "name": {
+        "es": "Estiramiento de glúteo (figura 4)",
+        "en": "Figure-4 glute stretch"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/figure-4-stretch-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/figure-4-stretch-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/figure-4-stretch.json"
+    },
+    {
+      "slug": "seated-forward-fold",
+      "name": {
+        "es": "Flexión adelante sentado",
+        "en": "Seated forward fold"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/seated-forward-fold-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/seated-forward-fold-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/seated-forward-fold.json"
     }
   ]
 }

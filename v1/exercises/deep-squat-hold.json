@@ -1,0 +1,59 @@
+{
+  "slug": "deep-squat-hold",
+  "name": {
+    "es": "Sentadilla profunda mantenida",
+    "en": "Deep squat hold"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "quadriceps",
+      "es": "Cuádriceps",
+      "en": "Quadriceps"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "gluteal",
+      "es": "Glúteo",
+      "en": "Glutes"
+    },
+    {
+      "id": "adductors",
+      "es": "Aductores",
+      "en": "Adductors"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Sujétate con las dos manos a un soporte a la altura del pecho, con los pies algo más abiertos que los hombros.",
+      "Baja despacio hasta que las caderas queden por debajo de las rodillas.",
+      "Mantén los talones en el suelo, las rodillas abiertas y el pecho erguido.",
+      "Aguanta la posición respirando hondo y sube ayudándote del soporte."
+    ],
+    "en": [
+      "Hold a support at chest height with both hands, feet slightly wider than your shoulders.",
+      "Lower slowly until your hips are below your knees.",
+      "Keep your heels down, your knees pushed out and your chest upright.",
+      "Hold the position while breathing deeply, then stand up using the support."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/deep-squat-hold-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/deep-squat-hold-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/deep-squat-hold.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/deep-squat-hold.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/deep-squat-hold-f.svg"
+  }
+}

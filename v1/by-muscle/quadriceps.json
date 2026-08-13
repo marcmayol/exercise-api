@@ -4,7 +4,7 @@
     "es": "Cuádriceps",
     "en": "Quadriceps"
   },
-  "count": 32,
+  "count": 37,
   "exercises": [
     {
       "slug": "leg-press",
@@ -709,6 +709,116 @@
         "female": "https://marcmayol.com/exercise-api/images/cable-squat-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/cable-squat.json"
+    },
+    {
+      "slug": "hollow-hold",
+      "name": {
+        "es": "Hollow hold",
+        "en": "Hollow hold"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/hollow-hold-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/hollow-hold-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/hollow-hold.json"
+    },
+    {
+      "slug": "assisted-pistol-squat",
+      "name": {
+        "es": "Sentadilla a una pierna asistida",
+        "en": "Assisted pistol squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/assisted-pistol-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/assisted-pistol-squat-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/assisted-pistol-squat.json"
+    },
+    {
+      "slug": "deep-squat-hold",
+      "name": {
+        "es": "Sentadilla profunda mantenida",
+        "en": "Deep squat hold"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/deep-squat-hold-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/deep-squat-hold-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/deep-squat-hold.json"
+    },
+    {
+      "slug": "hip-flexor-stretch",
+      "name": {
+        "es": "Estiramiento de flexores de cadera",
+        "en": "Hip flexor stretch"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/hip-flexor-stretch-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/hip-flexor-stretch-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/hip-flexor-stretch.json"
+    },
+    {
+      "slug": "low-lunge-rotation",
+      "name": {
+        "es": "Zancada baja con rotación",
+        "en": "Low lunge with rotation"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/low-lunge-rotation-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/low-lunge-rotation-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/low-lunge-rotation.json"
     }
   ]
 }

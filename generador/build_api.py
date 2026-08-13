@@ -109,9 +109,12 @@ def main():
         src = os.path.join(GEN_IMGS, f"{slug}-{gender}.png")
         if not os.path.exists(src): return None
         im = Image.open(src).convert("RGB")
-        bb = ImageChops.difference(im, Image.new("RGB",im.size,(255,255,255))).getbbox()
-        if bb:
-            p=14;l,t,r,b=bb; im=im.crop((max(0,l-p),max(0,t-p),min(im.size[0],r+p),min(im.size[1],b+p)))
+        # Los modelos devuelven el fondo a 250-254, no blanco puro (gpt-image-2 sobre todo): lo
+        # normalizamos a 255 para que ninguna ficha se vea como un rectángulo grisáceo sobre la
+        # tarjeta blanca de la landing.
+        # NO se recorta al contenido: todo el catálogo comparte el mismo encuadre 3:2 y recortar
+        # cada ficha a su silueta dejaría unas apaisadas y otras cuadradas.
+        im = im.point(lambda p: 255 if p >= 248 else p)
         if im.width>1024: im=im.resize((1024,round(im.height*1024/im.width)))
         rel = f"images/{slug}-{suffix}.jpg"; im.save(os.path.join(ROOT,rel),quality=85)
         return f"{BASE}/{rel}"

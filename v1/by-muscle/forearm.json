@@ -4,7 +4,7 @@
     "es": "Antebrazo",
     "en": "Forearm"
   },
-  "count": 22,
+  "count": 23,
   "exercises": [
     {
       "slug": "alternating-dumbbell-biceps-curl",
@@ -489,6 +489,28 @@
         "female": "https://marcmayol.com/exercise-api/images/standing-barbell-reverse-wrist-curl-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/standing-barbell-reverse-wrist-curl.json"
+    },
+    {
+      "slug": "farmers-walk",
+      "name": {
+        "es": "Paseo del granjero",
+        "en": "Farmer's walk"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/farmers-walk-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/farmers-walk-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/farmers-walk.json"
     }
   ]
 }

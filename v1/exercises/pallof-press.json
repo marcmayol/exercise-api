@@ -1,0 +1,59 @@
+{
+  "slug": "pallof-press",
+  "name": {
+    "es": "Press Pallof",
+    "en": "Pallof press"
+  },
+  "group": {
+    "id": "core",
+    "es": "Core",
+    "en": "Core"
+  },
+  "equipment": {
+    "id": "cable",
+    "es": "Polea",
+    "en": "Cable"
+  },
+  "primaryMuscles": [
+    {
+      "id": "obliques",
+      "es": "Oblicuos",
+      "en": "Obliques"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "abs",
+      "es": "Abdomen",
+      "en": "Abs"
+    },
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Coloca la polea a la altura del pecho y sitúate de lado a ella, con los pies a la anchura de las caderas.",
+      "Sujeta el agarre con las dos manos pegado al esternón y sepárate hasta tensar el cable.",
+      "Estira los brazos al frente resistiendo la rotación que tira de ti hacia la polea.",
+      "Vuelve despacio al pecho y repite; cambia de lado al terminar la serie."
+    ],
+    "en": [
+      "Set the pulley at chest height and stand side-on to it, feet hip-width apart.",
+      "Hold the handle with both hands against your sternum and step away until the cable is taut.",
+      "Press your arms straight forward, resisting the rotation that pulls you towards the pulley.",
+      "Bring the handle slowly back to your chest and repeat; switch sides after the set."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/pallof-press-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/pallof-press-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/pallof-press.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/pallof-press.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/pallof-press-f.svg"
+  }
+}

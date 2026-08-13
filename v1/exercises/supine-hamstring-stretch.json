@@ -1,0 +1,54 @@
+{
+  "slug": "supine-hamstring-stretch",
+  "name": {
+    "es": "Estiramiento de isquios tumbado",
+    "en": "Supine hamstring stretch"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "calves",
+      "es": "Gemelos",
+      "en": "Calves"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Túmbate boca arriba con una pierna estirada en el suelo.",
+      "Pasa una cinta o una toalla por la planta del otro pie y sujétala con las dos manos.",
+      "Sube esa pierna recta hasta notar tensión detrás del muslo, sin doblar la rodilla.",
+      "Aguanta respirando y baja despacio; cambia de pierna."
+    ],
+    "en": [
+      "Lie face up with one leg straight on the floor.",
+      "Loop a strap or towel around the sole of the other foot and hold it with both hands.",
+      "Raise that straight leg until you feel tension behind the thigh, keeping the knee locked.",
+      "Hold while breathing, lower slowly and switch legs."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/supine-hamstring-stretch-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/supine-hamstring-stretch-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/supine-hamstring-stretch.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/supine-hamstring-stretch.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/supine-hamstring-stretch-f.svg"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "doorway-chest-stretch",
+  "name": {
+    "es": "Estiramiento de pecho en marco de puerta",
+    "en": "Doorway chest stretch"
+  },
+  "group": {
+    "id": "chest",
+    "es": "Pecho",
+    "en": "Chest"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "chest",
+      "es": "Pectoral",
+      "en": "Chest"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "deltoids",
+      "es": "Hombros",
+      "en": "Shoulders"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Apoya el antebrazo en el marco de la puerta con el codo a la altura del hombro.",
+      "Da un paso adelante con el pie del mismo lado.",
+      "Gira el tronco hacia el lado contrario hasta notar el estiramiento en el pecho.",
+      "Aguanta respirando hondo y cambia de brazo."
+    ],
+    "en": [
+      "Rest your forearm against the door frame with your elbow at shoulder height.",
+      "Step forward with the foot on the same side.",
+      "Turn your torso away from that arm until you feel the stretch across your chest.",
+      "Hold while breathing deeply, then switch arms."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/doorway-chest-stretch-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/doorway-chest-stretch-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/doorway-chest-stretch.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/doorway-chest-stretch.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/doorway-chest-stretch-f.svg"
+  }
+}

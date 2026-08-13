@@ -4,7 +4,7 @@
     "es": "Aductores",
     "en": "Adductors"
   },
-  "count": 5,
+  "count": 7,
   "exercises": [
     {
       "slug": "goblet-squats",
@@ -115,6 +115,50 @@
         "female": "https://marcmayol.com/exercise-api/images/sumo-deadlift-f.jpg"
       },
       "url": "https://marcmayol.com/exercise-api/v1/exercises/sumo-deadlift.json"
+    },
+    {
+      "slug": "deep-squat-hold",
+      "name": {
+        "es": "Sentadilla profunda mantenida",
+        "en": "Deep squat hold"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/deep-squat-hold-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/deep-squat-hold-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/deep-squat-hold.json"
+    },
+    {
+      "slug": "hip-90-90",
+      "name": {
+        "es": "Postura 90/90 de cadera",
+        "en": "90/90 hip switch"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "image": {
+        "male": "https://marcmayol.com/exercise-api/images/hip-90-90-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/hip-90-90-f.jpg"
+      },
+      "url": "https://marcmayol.com/exercise-api/v1/exercises/hip-90-90.json"
     }
   ]
 }

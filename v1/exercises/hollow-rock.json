@@ -1,0 +1,54 @@
+{
+  "slug": "hollow-rock",
+  "name": {
+    "es": "Hollow rock",
+    "en": "Hollow rock"
+  },
+  "group": {
+    "id": "core",
+    "es": "Core",
+    "en": "Core"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "abs",
+      "es": "Abdomen",
+      "en": "Abs"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "obliques",
+      "es": "Oblicuos",
+      "en": "Obliques"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Colócate en posición hollow: lumbar pegada al suelo, brazos estirados detrás de la cabeza y piernas rectas elevadas.",
+      "Mantén esa forma rígida y balancéate hacia atrás llevando los hombros abajo.",
+      "Balancéate hacia delante llevando las caderas abajo y los hombros arriba, sin romper la postura.",
+      "Mécete de forma continua y controlada, sin apoyar los pies ni la cabeza."
+    ],
+    "en": [
+      "Set up in the hollow position: lower back pressed down, arms extended behind your head and straight legs lifted.",
+      "Keep that rigid shape and rock backwards, bringing your shoulders low.",
+      "Rock forwards, bringing your hips low and your shoulders high, without losing the shape.",
+      "Rock continuously and under control, without letting your feet or head touch the floor."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/hollow-rock-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/hollow-rock-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/hollow-rock.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/hollow-rock.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/hollow-rock-f.svg"
+  }
+}

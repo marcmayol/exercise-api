@@ -1,0 +1,54 @@
+{
+  "slug": "seated-forward-fold",
+  "name": {
+    "es": "Flexión adelante sentado",
+    "en": "Seated forward fold"
+  },
+  "group": {
+    "id": "legs",
+    "es": "Piernas",
+    "en": "Legs"
+  },
+  "equipment": {
+    "id": "bodyweight",
+    "es": "Peso corporal",
+    "en": "Bodyweight"
+  },
+  "primaryMuscles": [
+    {
+      "id": "hamstring",
+      "es": "Femoral",
+      "en": "Hamstrings"
+    }
+  ],
+  "secondaryMuscles": [
+    {
+      "id": "lower-back",
+      "es": "Lumbar",
+      "en": "Lower back"
+    }
+  ],
+  "instructions": {
+    "es": [
+      "Siéntate en el suelo con las piernas estiradas y juntas y las puntas de los pies hacia ti.",
+      "Crece desde la cabeza para alargar la espalda.",
+      "Inclínate desde las caderas llevando las manos hacia los pies, sin encorvar la espalda.",
+      "Llega hasta donde puedas con las rodillas estiradas y aguanta respirando."
+    ],
+    "en": [
+      "Sit on the floor with your legs straight and together and your toes pulled towards you.",
+      "Grow tall through the crown of your head to lengthen your spine.",
+      "Hinge from your hips and reach your hands towards your feet without rounding your back.",
+      "Go as far as you can with your knees straight and hold while breathing."
+    ]
+  },
+  "images": {
+    "male": "https://marcmayol.com/exercise-api/images/seated-forward-fold-m.jpg",
+    "female": "https://marcmayol.com/exercise-api/images/seated-forward-fold-f.jpg"
+  },
+  "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-forward-fold.svg",
+  "muscleMaps": {
+    "male": "https://marcmayol.com/exercise-api/muscle-maps/seated-forward-fold.svg",
+    "female": "https://marcmayol.com/exercise-api/muscle-maps/seated-forward-fold-f.svg"
+  }
+}

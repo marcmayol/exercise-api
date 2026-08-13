@@ -1,27 +1,27 @@
 {
   "name": "Exercise API dataset",
   "base": "https://marcmayol.com/exercise-api",
-  "generated": "2026-08-05",
-  "count": 126,
+  "generated": "2026-08-13",
+  "count": 150,
   "license": "Ilustraciones y datos propios · mapas musculares a partir de react-native-body-highlighter (MIT)",
   "groups": [
     {
       "id": "chest",
       "es": "Pecho",
       "en": "Chest",
-      "count": 14
+      "count": 16
     },
     {
       "id": "back",
       "es": "Espalda",
       "en": "Back",
-      "count": 15
+      "count": 19
     },
     {
       "id": "shoulders",
       "es": "Hombros",
       "en": "Shoulders",
-      "count": 16
+      "count": 18
     },
     {
       "id": "arms",
@@ -33,13 +33,13 @@
       "id": "legs",
       "es": "Piernas",
       "en": "Legs",
-      "count": 30
+      "count": 41
     },
     {
       "id": "core",
       "es": "Core",
       "en": "Core",
-      "count": 19
+      "count": 24
     },
     {
       "id": "cardio",
@@ -136,13 +136,13 @@
       "id": "cable",
       "es": "Polea",
       "en": "Cable",
-      "count": 19
+      "count": 20
     },
     {
       "id": "dumbbell",
       "es": "Mancuerna",
       "en": "Dumbbell",
-      "count": 23
+      "count": 25
     },
     {
       "id": "barbell",
@@ -154,7 +154,7 @@
       "id": "bodyweight",
       "es": "Peso corporal",
       "en": "Bodyweight",
-      "count": 34
+      "count": 55
     },
     {
       "id": "cardio",
@@ -7249,6 +7249,1345 @@
       "muscleMaps": {
         "male": "https://marcmayol.com/exercise-api/muscle-maps/standing-barbell-reverse-wrist-curl.svg",
         "female": "https://marcmayol.com/exercise-api/muscle-maps/standing-barbell-reverse-wrist-curl-f.svg"
+      }
+    },
+    {
+      "slug": "bird-dog",
+      "name": {
+        "es": "Bird dog",
+        "en": "Bird dog"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "abs",
+          "es": "Abdomen",
+          "en": "Abs"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "lower-back",
+          "es": "Lumbar",
+          "en": "Lower back"
+        },
+        {
+          "id": "gluteal",
+          "es": "Glúteo",
+          "en": "Glutes"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Colócate a cuatro patas, con las manos bajo los hombros y las rodillas bajo las caderas.",
+          "Aprieta el abdomen y mantén la espalda plana y la mirada hacia el suelo.",
+          "Estira a la vez un brazo hacia delante y la pierna contraria hacia atrás, hasta dejarlos a la altura de la espalda.",
+          "Vuelve despacio al apoyo inicial y alterna el lado en cada repetición."
+        ],
+        "en": [
+          "Get on all fours, with your hands under your shoulders and your knees under your hips.",
+          "Brace your core and keep your back flat and your gaze towards the floor.",
+          "Extend one arm forward and the opposite leg backwards at the same time, until both are level with your back.",
+          "Return slowly to the starting position and alternate sides on each repetition."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/bird-dog-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/bird-dog-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/bird-dog.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/bird-dog.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/bird-dog-f.svg"
+      }
+    },
+    {
+      "slug": "hollow-hold",
+      "name": {
+        "es": "Hollow hold",
+        "en": "Hollow hold"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "abs",
+          "es": "Abdomen",
+          "en": "Abs"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "quadriceps",
+          "es": "Cuádriceps",
+          "en": "Quadriceps"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Túmbate boca arriba y pega la zona lumbar al suelo.",
+          "Estira los brazos por detrás de la cabeza y eleva las piernas rectas unos centímetros del suelo.",
+          "Despega también la cabeza y los omóplatos, formando una banana con el cuerpo.",
+          "Aguanta la posición sin que la lumbar se separe del suelo; si te cuesta, dobla las rodillas."
+        ],
+        "en": [
+          "Lie face up and press your lower back into the floor.",
+          "Extend your arms behind your head and lift your straight legs a few centimetres off the floor.",
+          "Lift your head and shoulder blades as well, so your body forms a shallow banana shape.",
+          "Hold the position without letting your lower back come off the floor; bend your knees if it is too hard."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/hollow-hold-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/hollow-hold-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/hollow-hold.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/hollow-hold.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/hollow-hold-f.svg"
+      }
+    },
+    {
+      "slug": "hollow-rock",
+      "name": {
+        "es": "Hollow rock",
+        "en": "Hollow rock"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "abs",
+          "es": "Abdomen",
+          "en": "Abs"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "obliques",
+          "es": "Oblicuos",
+          "en": "Obliques"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Colócate en posición hollow: lumbar pegada al suelo, brazos estirados detrás de la cabeza y piernas rectas elevadas.",
+          "Mantén esa forma rígida y balancéate hacia atrás llevando los hombros abajo.",
+          "Balancéate hacia delante llevando las caderas abajo y los hombros arriba, sin romper la postura.",
+          "Mécete de forma continua y controlada, sin apoyar los pies ni la cabeza."
+        ],
+        "en": [
+          "Set up in the hollow position: lower back pressed down, arms extended behind your head and straight legs lifted.",
+          "Keep that rigid shape and rock backwards, bringing your shoulders low.",
+          "Rock forwards, bringing your hips low and your shoulders high, without losing the shape.",
+          "Rock continuously and under control, without letting your feet or head touch the floor."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/hollow-rock-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/hollow-rock-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/hollow-rock.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/hollow-rock.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/hollow-rock-f.svg"
+      }
+    },
+    {
+      "slug": "pallof-press",
+      "name": {
+        "es": "Press Pallof",
+        "en": "Pallof press"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "cable",
+        "es": "Polea",
+        "en": "Cable"
+      },
+      "primaryMuscles": [
+        {
+          "id": "obliques",
+          "es": "Oblicuos",
+          "en": "Obliques"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "abs",
+          "es": "Abdomen",
+          "en": "Abs"
+        },
+        {
+          "id": "deltoids",
+          "es": "Hombros",
+          "en": "Shoulders"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Coloca la polea a la altura del pecho y sitúate de lado a ella, con los pies a la anchura de las caderas.",
+          "Sujeta el agarre con las dos manos pegado al esternón y sepárate hasta tensar el cable.",
+          "Estira los brazos al frente resistiendo la rotación que tira de ti hacia la polea.",
+          "Vuelve despacio al pecho y repite; cambia de lado al terminar la serie."
+        ],
+        "en": [
+          "Set the pulley at chest height and stand side-on to it, feet hip-width apart.",
+          "Hold the handle with both hands against your sternum and step away until the cable is taut.",
+          "Press your arms straight forward, resisting the rotation that pulls you towards the pulley.",
+          "Bring the handle slowly back to your chest and repeat; switch sides after the set."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/pallof-press-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/pallof-press-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/pallof-press.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/pallof-press.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/pallof-press-f.svg"
+      }
+    },
+    {
+      "slug": "farmers-walk",
+      "name": {
+        "es": "Paseo del granjero",
+        "en": "Farmer's walk"
+      },
+      "group": {
+        "id": "core",
+        "es": "Core",
+        "en": "Core"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "primaryMuscles": [
+        {
+          "id": "obliques",
+          "es": "Oblicuos",
+          "en": "Obliques"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "trapezius",
+          "es": "Trapecio",
+          "en": "Trapezius"
+        },
+        {
+          "id": "forearm",
+          "es": "Antebrazo",
+          "en": "Forearm"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Coge una mancuerna pesada con una mano y ponte de pie con el pecho alto y los hombros atrás.",
+          "Aprieta el abdomen para no inclinarte hacia el lado cargado.",
+          "Camina en línea recta con pasos cortos y firmes, manteniendo los hombros a la misma altura.",
+          "Recorre la distancia marcada, cambia de mano y repite."
+        ],
+        "en": [
+          "Pick up a heavy dumbbell in one hand and stand tall with your chest up and your shoulders back.",
+          "Brace your core so you do not lean towards the loaded side.",
+          "Walk in a straight line with short, firm steps, keeping your shoulders level.",
+          "Cover the set distance, switch hands and repeat."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/farmers-walk-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/farmers-walk-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/farmers-walk.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/farmers-walk.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/farmers-walk-f.svg"
+      }
+    },
+    {
+      "slug": "diamond-push-up",
+      "name": {
+        "es": "Flexión en diamante",
+        "en": "Diamond push-up"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "triceps",
+          "es": "Tríceps",
+          "en": "Triceps"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "chest",
+          "es": "Pectoral",
+          "en": "Chest"
+        },
+        {
+          "id": "deltoids",
+          "es": "Hombros",
+          "en": "Shoulders"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Ponte en posición de flexión con las manos juntas bajo el pecho, formando un rombo con índices y pulgares.",
+          "Mantén el cuerpo recto desde la cabeza hasta los talones y el abdomen apretado.",
+          "Baja el pecho hacia las manos con los codos pegados al cuerpo.",
+          "Empuja el suelo hasta estirar los brazos, sin arquear la zona lumbar."
+        ],
+        "en": [
+          "Get into a push-up position with your hands together under your chest, index fingers and thumbs forming a diamond.",
+          "Keep your body straight from head to heels and your core braced.",
+          "Lower your chest towards your hands, keeping your elbows close to your ribs.",
+          "Push the floor away until your arms are straight, without arching your lower back."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/diamond-push-up-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/diamond-push-up-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/diamond-push-up.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/diamond-push-up.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/diamond-push-up-f.svg"
+      }
+    },
+    {
+      "slug": "wall-handstand",
+      "name": {
+        "es": "Pino contra la pared",
+        "en": "Wall handstand"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "deltoids",
+          "es": "Hombros",
+          "en": "Shoulders"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "triceps",
+          "es": "Tríceps",
+          "en": "Triceps"
+        },
+        {
+          "id": "trapezius",
+          "es": "Trapecio",
+          "en": "Trapezius"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Apoya las manos en el suelo a un palmo de la pared, con los brazos estirados y las manos a la anchura de los hombros.",
+          "Sube las piernas con una patada controlada hasta apoyar los talones en la pared.",
+          "Alinea manos, hombros y caderas en vertical, con el abdomen y los glúteos apretados.",
+          "Aguanta respirando de forma constante y baja una pierna primero para salir."
+        ],
+        "en": [
+          "Place your hands on the floor a hand's width from the wall, arms straight and hands shoulder-width apart.",
+          "Kick up under control until your heels rest against the wall.",
+          "Stack hands, shoulders and hips in a vertical line, with your core and glutes tight.",
+          "Hold while breathing steadily and come down one leg at a time."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/wall-handstand-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/wall-handstand-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/wall-handstand.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/wall-handstand.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/wall-handstand-f.svg"
+      }
+    },
+    {
+      "slug": "y-t-w-raise",
+      "name": {
+        "es": "Y-T-W en banco inclinado",
+        "en": "Y-T-W raise on incline bench"
+      },
+      "group": {
+        "id": "shoulders",
+        "es": "Hombros",
+        "en": "Shoulders"
+      },
+      "equipment": {
+        "id": "dumbbell",
+        "es": "Mancuerna",
+        "en": "Dumbbell"
+      },
+      "primaryMuscles": [
+        {
+          "id": "deltoids",
+          "es": "Hombros",
+          "en": "Shoulders"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "upper-back",
+          "es": "Dorsal",
+          "en": "Upper back"
+        },
+        {
+          "id": "trapezius",
+          "es": "Trapecio",
+          "en": "Trapezius"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Túmbate boca abajo sobre un banco inclinado con una mancuerna ligera en cada mano y los brazos colgando.",
+          "Sube los brazos estirados hacia delante y arriba formando una Y.",
+          "Ábrelos después a los lados, a la altura de los hombros, formando una T.",
+          "Dobla los codos y llévalos atrás formando una W, juntando los omóplatos, y vuelve al inicio."
+        ],
+        "en": [
+          "Lie chest down on an incline bench with a light dumbbell in each hand and your arms hanging down.",
+          "Raise your straight arms forward and up into a Y shape.",
+          "Open them out to the sides at shoulder height into a T shape.",
+          "Bend your elbows and pull them back into a W, squeezing your shoulder blades, then return to the start."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/y-t-w-raise-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/y-t-w-raise-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/y-t-w-raise.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/y-t-w-raise.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/y-t-w-raise-f.svg"
+      }
+    },
+    {
+      "slug": "chin-tuck",
+      "name": {
+        "es": "Retracción de barbilla (chin tuck)",
+        "en": "Chin tuck"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "trapezius",
+          "es": "Trapecio",
+          "en": "Trapezius"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "upper-back",
+          "es": "Dorsal",
+          "en": "Upper back"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Ponte de pie o sentado con la espalda recta y los hombros relajados.",
+          "Desliza la cabeza hacia atrás llevando la barbilla hacia la garganta, como si hicieras papada.",
+          "No subas ni bajes la mirada: el movimiento es horizontal.",
+          "Mantén dos o tres segundos y vuelve despacio a la posición inicial."
+        ],
+        "en": [
+          "Stand or sit with your back straight and your shoulders relaxed.",
+          "Glide your head straight backwards, pulling your chin in towards your throat to make a double chin.",
+          "Do not tilt your gaze up or down: the movement is horizontal.",
+          "Hold for two or three seconds and return slowly to the starting position."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/chin-tuck-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/chin-tuck-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/chin-tuck.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/chin-tuck.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/chin-tuck-f.svg"
+      }
+    },
+    {
+      "slug": "assisted-pistol-squat",
+      "name": {
+        "es": "Sentadilla a una pierna asistida",
+        "en": "Assisted pistol squat"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "quadriceps",
+          "es": "Cuádriceps",
+          "en": "Quadriceps"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "gluteal",
+          "es": "Glúteo",
+          "en": "Glutes"
+        },
+        {
+          "id": "hamstring",
+          "es": "Femoral",
+          "en": "Hamstrings"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Sujétate con una mano a un soporte firme y apóyate sobre una sola pierna.",
+          "Estira la otra pierna al frente, sin que toque el suelo.",
+          "Baja despacio flexionando la rodilla de apoyo, con el talón pegado al suelo y el pecho alto.",
+          "Empuja con el talón para subir, ayudándote lo justo con el brazo, y cambia de pierna."
+        ],
+        "en": [
+          "Hold a firm support with one hand and stand on one leg.",
+          "Extend the other leg forward, keeping it off the floor.",
+          "Lower slowly by bending the supporting knee, keeping that heel down and your chest up.",
+          "Drive through the heel to stand back up, using the arm only as much as you need, then switch legs."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/assisted-pistol-squat-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/assisted-pistol-squat-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/assisted-pistol-squat.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/assisted-pistol-squat.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/assisted-pistol-squat-f.svg"
+      }
+    },
+    {
+      "slug": "deep-squat-hold",
+      "name": {
+        "es": "Sentadilla profunda mantenida",
+        "en": "Deep squat hold"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "quadriceps",
+          "es": "Cuádriceps",
+          "en": "Quadriceps"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "gluteal",
+          "es": "Glúteo",
+          "en": "Glutes"
+        },
+        {
+          "id": "adductors",
+          "es": "Aductores",
+          "en": "Adductors"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Sujétate con las dos manos a un soporte a la altura del pecho, con los pies algo más abiertos que los hombros.",
+          "Baja despacio hasta que las caderas queden por debajo de las rodillas.",
+          "Mantén los talones en el suelo, las rodillas abiertas y el pecho erguido.",
+          "Aguanta la posición respirando hondo y sube ayudándote del soporte."
+        ],
+        "en": [
+          "Hold a support at chest height with both hands, feet slightly wider than your shoulders.",
+          "Lower slowly until your hips are below your knees.",
+          "Keep your heels down, your knees pushed out and your chest upright.",
+          "Hold the position while breathing deeply, then stand up using the support."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/deep-squat-hold-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/deep-squat-hold-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/deep-squat-hold.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/deep-squat-hold.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/deep-squat-hold-f.svg"
+      }
+    },
+    {
+      "slug": "hip-hinge-dowel",
+      "name": {
+        "es": "Bisagra de cadera con palo",
+        "en": "Hip hinge with dowel"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "hamstring",
+          "es": "Femoral",
+          "en": "Hamstrings"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "gluteal",
+          "es": "Glúteo",
+          "en": "Glutes"
+        },
+        {
+          "id": "lower-back",
+          "es": "Lumbar",
+          "en": "Lower back"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Coloca un palo en vertical a lo largo de la espalda, tocando la cabeza, la espalda alta y el sacro.",
+          "Sujétalo con una mano por detrás del cuello y la otra por detrás de la cintura.",
+          "Lleva las caderas atrás y deja que el tronco se incline, con las rodillas algo flexionadas.",
+          "Baja hasta donde el palo siga tocando los tres puntos y vuelve apretando los glúteos."
+        ],
+        "en": [
+          "Hold a dowel vertically along your spine so it touches your head, upper back and tailbone.",
+          "Grip it with one hand behind your neck and the other behind your lower back.",
+          "Push your hips backwards and let your torso tip forward, knees slightly bent.",
+          "Go as far as you can while the dowel keeps all three contact points, then stand up by squeezing your glutes."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/hip-hinge-dowel-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/hip-hinge-dowel-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/hip-hinge-dowel.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/hip-hinge-dowel.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/hip-hinge-dowel-f.svg"
+      }
+    },
+    {
+      "slug": "hip-flexor-stretch",
+      "name": {
+        "es": "Estiramiento de flexores de cadera",
+        "en": "Hip flexor stretch"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "quadriceps",
+          "es": "Cuádriceps",
+          "en": "Quadriceps"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "gluteal",
+          "es": "Glúteo",
+          "en": "Glutes"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Apoya una rodilla en el suelo y coloca el otro pie delante, con la rodilla a 90 grados.",
+          "Mete la pelvis y aprieta el glúteo de la pierna de atrás.",
+          "Empuja las caderas hacia delante hasta notar el estiramiento en la ingle de la pierna arrodillada.",
+          "Sube el brazo de ese lado para aumentarlo, aguanta y cambia de pierna."
+        ],
+        "en": [
+          "Kneel on one knee and place the other foot in front, that knee bent to 90 degrees.",
+          "Tuck your pelvis and squeeze the glute of the kneeling leg.",
+          "Push your hips forward until you feel the stretch at the front of the kneeling hip.",
+          "Reach the arm on that side overhead to increase it, hold, then switch legs."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/hip-flexor-stretch-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/hip-flexor-stretch-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/hip-flexor-stretch.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/hip-flexor-stretch.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/hip-flexor-stretch-f.svg"
+      }
+    },
+    {
+      "slug": "low-lunge-rotation",
+      "name": {
+        "es": "Zancada baja con rotación",
+        "en": "Low lunge with rotation"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "quadriceps",
+          "es": "Cuádriceps",
+          "en": "Quadriceps"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "gluteal",
+          "es": "Glúteo",
+          "en": "Glutes"
+        },
+        {
+          "id": "obliques",
+          "es": "Oblicuos",
+          "en": "Obliques"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Desde una zancada con la rodilla de atrás en el suelo, apoya las dos manos por dentro del pie de delante.",
+          "Mantén el pecho alto y la cadera de atrás baja.",
+          "Gira el tronco y sube el brazo de dentro hacia el techo, siguiendo la mano con la mirada.",
+          "Vuelve a apoyar la mano, repite unas cuantas veces y cambia de lado."
+        ],
+        "en": [
+          "From a lunge with your back knee on the floor, place both hands inside your front foot.",
+          "Keep your chest up and your back hip low.",
+          "Rotate your torso and reach the inside arm up towards the ceiling, following your hand with your eyes.",
+          "Bring the hand back down, repeat a few times and switch sides."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/low-lunge-rotation-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/low-lunge-rotation-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/low-lunge-rotation.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/low-lunge-rotation.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/low-lunge-rotation-f.svg"
+      }
+    },
+    {
+      "slug": "figure-4-stretch",
+      "name": {
+        "es": "Estiramiento de glúteo (figura 4)",
+        "en": "Figure-4 glute stretch"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "gluteal",
+          "es": "Glúteo",
+          "en": "Glutes"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "lower-back",
+          "es": "Lumbar",
+          "en": "Lower back"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Túmbate boca arriba con las rodillas dobladas y los pies apoyados.",
+          "Cruza un tobillo sobre la rodilla contraria formando un cuatro.",
+          "Pasa las manos por detrás del muslo de apoyo y tíralo hacia el pecho.",
+          "Mantén la cabeza y los hombros en el suelo, aguanta y cambia de lado."
+        ],
+        "en": [
+          "Lie face up with your knees bent and your feet on the floor.",
+          "Cross one ankle over the opposite knee to make a figure four.",
+          "Reach both hands behind the supporting thigh and pull it towards your chest.",
+          "Keep your head and shoulders on the floor, hold, then switch sides."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/figure-4-stretch-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/figure-4-stretch-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/figure-4-stretch.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/figure-4-stretch.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/figure-4-stretch-f.svg"
+      }
+    },
+    {
+      "slug": "supine-hamstring-stretch",
+      "name": {
+        "es": "Estiramiento de isquios tumbado",
+        "en": "Supine hamstring stretch"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "hamstring",
+          "es": "Femoral",
+          "en": "Hamstrings"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "calves",
+          "es": "Gemelos",
+          "en": "Calves"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Túmbate boca arriba con una pierna estirada en el suelo.",
+          "Pasa una cinta o una toalla por la planta del otro pie y sujétala con las dos manos.",
+          "Sube esa pierna recta hasta notar tensión detrás del muslo, sin doblar la rodilla.",
+          "Aguanta respirando y baja despacio; cambia de pierna."
+        ],
+        "en": [
+          "Lie face up with one leg straight on the floor.",
+          "Loop a strap or towel around the sole of the other foot and hold it with both hands.",
+          "Raise that straight leg until you feel tension behind the thigh, keeping the knee locked.",
+          "Hold while breathing, lower slowly and switch legs."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/supine-hamstring-stretch-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/supine-hamstring-stretch-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/supine-hamstring-stretch.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/supine-hamstring-stretch.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/supine-hamstring-stretch-f.svg"
+      }
+    },
+    {
+      "slug": "seated-forward-fold",
+      "name": {
+        "es": "Flexión adelante sentado",
+        "en": "Seated forward fold"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "hamstring",
+          "es": "Femoral",
+          "en": "Hamstrings"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "lower-back",
+          "es": "Lumbar",
+          "en": "Lower back"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Siéntate en el suelo con las piernas estiradas y juntas y las puntas de los pies hacia ti.",
+          "Crece desde la cabeza para alargar la espalda.",
+          "Inclínate desde las caderas llevando las manos hacia los pies, sin encorvar la espalda.",
+          "Llega hasta donde puedas con las rodillas estiradas y aguanta respirando."
+        ],
+        "en": [
+          "Sit on the floor with your legs straight and together and your toes pulled towards you.",
+          "Grow tall through the crown of your head to lengthen your spine.",
+          "Hinge from your hips and reach your hands towards your feet without rounding your back.",
+          "Go as far as you can with your knees straight and hold while breathing."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/seated-forward-fold-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/seated-forward-fold-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/seated-forward-fold.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/seated-forward-fold.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/seated-forward-fold-f.svg"
+      }
+    },
+    {
+      "slug": "hip-90-90",
+      "name": {
+        "es": "Postura 90/90 de cadera",
+        "en": "90/90 hip switch"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "gluteal",
+          "es": "Glúteo",
+          "en": "Glutes"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "adductors",
+          "es": "Aductores",
+          "en": "Adductors"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Siéntate en el suelo con una pierna delante y la otra al lado, ambas dobladas a 90 grados.",
+          "Mantén el tronco erguido y apoya las manos ligeramente en el suelo.",
+          "Aguanta unos segundos notando el estiramiento en las caderas.",
+          "Gira las dos rodillas hacia el otro lado para cambiar de posición y repite."
+        ],
+        "en": [
+          "Sit on the floor with one leg in front and the other out to the side, both bent to 90 degrees.",
+          "Keep your torso upright and rest your hands lightly on the floor.",
+          "Hold for a few seconds, feeling the stretch in both hips.",
+          "Rotate both knees over to the other side to switch position and repeat."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/hip-90-90-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/hip-90-90-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/hip-90-90.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/hip-90-90.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/hip-90-90-f.svg"
+      }
+    },
+    {
+      "slug": "calf-stretch-wall",
+      "name": {
+        "es": "Estiramiento de gemelos en pared",
+        "en": "Calf stretch against wall"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "calves",
+          "es": "Gemelos",
+          "en": "Calves"
+        }
+      ],
+      "secondaryMuscles": [],
+      "instructions": {
+        "es": [
+          "Apoya las dos manos en la pared a la altura de los hombros.",
+          "Da un paso largo atrás con una pierna, con el pie recto y el talón en el suelo.",
+          "Inclínate hacia la pared doblando la pierna de delante y manteniendo la de atrás estirada.",
+          "Aguanta notando el estiramiento en el gemelo y cambia de pierna."
+        ],
+        "en": [
+          "Place both hands on the wall at shoulder height.",
+          "Take a long step back with one leg, foot pointing forward and heel on the floor.",
+          "Lean into the wall, bending the front leg and keeping the back leg straight.",
+          "Hold while you feel the stretch in the calf, then switch legs."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/calf-stretch-wall-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/calf-stretch-wall-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/calf-stretch-wall.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/calf-stretch-wall.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/calf-stretch-wall-f.svg"
+      }
+    },
+    {
+      "slug": "ankle-dorsiflexion-wall",
+      "name": {
+        "es": "Dorsiflexión de tobillo en pared",
+        "en": "Ankle dorsiflexion at wall"
+      },
+      "group": {
+        "id": "legs",
+        "es": "Piernas",
+        "en": "Legs"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "calves",
+          "es": "Gemelos",
+          "en": "Calves"
+        }
+      ],
+      "secondaryMuscles": [],
+      "instructions": {
+        "es": [
+          "Ponte de rodillas frente a la pared y adelanta un pie a un palmo de ella.",
+          "Apoya las manos en la pared o en la rodilla de delante.",
+          "Lleva la rodilla hacia la pared por encima de los dedos, sin levantar el talón.",
+          "Vuelve atrás y repite; aleja el pie si llegas con facilidad, y cambia de lado."
+        ],
+        "en": [
+          "Kneel facing the wall and place one foot a hand's width from it.",
+          "Rest your hands on the wall or on your front knee.",
+          "Drive that knee towards the wall over your toes without letting the heel lift.",
+          "Come back and repeat; move the foot further away if it is easy, then switch sides."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/ankle-dorsiflexion-wall-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/ankle-dorsiflexion-wall-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/ankle-dorsiflexion-wall.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/ankle-dorsiflexion-wall.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/ankle-dorsiflexion-wall-f.svg"
+      }
+    },
+    {
+      "slug": "thoracic-extension-bench",
+      "name": {
+        "es": "Extensión torácica sobre banco",
+        "en": "Thoracic extension over bench"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "upper-back",
+          "es": "Dorsal",
+          "en": "Upper back"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "chest",
+          "es": "Pectoral",
+          "en": "Chest"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Arrodíllate frente a un banco bajo y apoya los codos en él, con las manos juntas.",
+          "Mantén las caderas por encima de las rodillas y el abdomen activo.",
+          "Hunde el pecho hacia el suelo dejando que la espalda alta se extienda.",
+          "Aguanta unos segundos respirando hondo y vuelve a la posición neutra."
+        ],
+        "en": [
+          "Kneel in front of a low bench and rest your elbows on it, hands together.",
+          "Keep your hips above your knees and your core engaged.",
+          "Sink your chest towards the floor, letting your upper back extend.",
+          "Hold for a few seconds while breathing deeply, then return to neutral."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/thoracic-extension-bench-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/thoracic-extension-bench-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/thoracic-extension-bench.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/thoracic-extension-bench.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/thoracic-extension-bench-f.svg"
+      }
+    },
+    {
+      "slug": "quadruped-thoracic-rotation",
+      "name": {
+        "es": "Rotación torácica en cuadrupedia",
+        "en": "Quadruped thoracic rotation"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "upper-back",
+          "es": "Dorsal",
+          "en": "Upper back"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "obliques",
+          "es": "Oblicuos",
+          "en": "Obliques"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Colócate a cuatro patas y lleva una mano detrás de la cabeza, con el codo abierto.",
+          "Gira el tronco llevando ese codo por debajo del pecho, hacia el brazo de apoyo.",
+          "Abre después el codo hacia el techo girando desde la espalda alta y sigue la mano con la mirada.",
+          "Mantén las caderas quietas sobre las rodillas; repite y cambia de lado."
+        ],
+        "en": [
+          "Get on all fours and place one hand behind your head, elbow out to the side.",
+          "Rotate your torso, bringing that elbow under your chest towards the supporting arm.",
+          "Then open the elbow up towards the ceiling, turning through your upper back and following your hand with your eyes.",
+          "Keep your hips still over your knees; repeat and switch sides."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/quadruped-thoracic-rotation-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/quadruped-thoracic-rotation-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/quadruped-thoracic-rotation.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/quadruped-thoracic-rotation.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/quadruped-thoracic-rotation-f.svg"
+      }
+    },
+    {
+      "slug": "open-book-stretch",
+      "name": {
+        "es": "Apertura de pecho tumbado (libro abierto)",
+        "en": "Open book stretch"
+      },
+      "group": {
+        "id": "back",
+        "es": "Espalda",
+        "en": "Back"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "upper-back",
+          "es": "Dorsal",
+          "en": "Upper back"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "chest",
+          "es": "Pectoral",
+          "en": "Chest"
+        },
+        {
+          "id": "obliques",
+          "es": "Oblicuos",
+          "en": "Obliques"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Túmbate de lado con las rodillas dobladas a 90 grados, una encima de la otra.",
+          "Estira los dos brazos juntos al frente, a la altura de los hombros.",
+          "Abre el brazo de arriba en semicírculo hacia el suelo del otro lado, girando la espalda alta.",
+          "Mantén las rodillas apoyadas, aguanta unos segundos y cambia de lado."
+        ],
+        "en": [
+          "Lie on your side with your knees bent to 90 degrees and stacked on top of each other.",
+          "Extend both arms together in front of you at shoulder height.",
+          "Sweep the top arm in an arc towards the floor on the other side, rotating through your upper back.",
+          "Keep your knees down, hold for a few seconds and switch sides."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/open-book-stretch-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/open-book-stretch-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/open-book-stretch.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/open-book-stretch.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/open-book-stretch-f.svg"
+      }
+    },
+    {
+      "slug": "doorway-chest-stretch",
+      "name": {
+        "es": "Estiramiento de pecho en marco de puerta",
+        "en": "Doorway chest stretch"
+      },
+      "group": {
+        "id": "chest",
+        "es": "Pecho",
+        "en": "Chest"
+      },
+      "equipment": {
+        "id": "bodyweight",
+        "es": "Peso corporal",
+        "en": "Bodyweight"
+      },
+      "primaryMuscles": [
+        {
+          "id": "chest",
+          "es": "Pectoral",
+          "en": "Chest"
+        }
+      ],
+      "secondaryMuscles": [
+        {
+          "id": "deltoids",
+          "es": "Hombros",
+          "en": "Shoulders"
+        }
+      ],
+      "instructions": {
+        "es": [
+          "Apoya el antebrazo en el marco de la puerta con el codo a la altura del hombro.",
+          "Da un paso adelante con el pie del mismo lado.",
+          "Gira el tronco hacia el lado contrario hasta notar el estiramiento en el pecho.",
+          "Aguanta respirando hondo y cambia de brazo."
+        ],
+        "en": [
+          "Rest your forearm against the door frame with your elbow at shoulder height.",
+          "Step forward with the foot on the same side.",
+          "Turn your torso away from that arm until you feel the stretch across your chest.",
+          "Hold while breathing deeply, then switch arms."
+        ]
+      },
+      "images": {
+        "male": "https://marcmayol.com/exercise-api/images/doorway-chest-stretch-m.jpg",
+        "female": "https://marcmayol.com/exercise-api/images/doorway-chest-stretch-f.jpg"
+      },
+      "muscleMap": "https://marcmayol.com/exercise-api/muscle-maps/doorway-chest-stretch.svg",
+      "muscleMaps": {
+        "male": "https://marcmayol.com/exercise-api/muscle-maps/doorway-chest-stretch.svg",
+        "female": "https://marcmayol.com/exercise-api/muscle-maps/doorway-chest-stretch-f.svg"
       }
     }
   ]
