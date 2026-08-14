@@ -61,7 +61,23 @@ def medir(path):
     return dict(tinte=tinte, brillo=brillo, alto=alto, ancho=ancho, densidad=densidad)
 
 
+def rota(path):
+    """Imagen negra o sin fondo blanco: el modelo devuelve una así de vez en cuando y
+    en la landing se ve como un rectángulo negro (le pasó a legs-up-crunch-m)."""
+    im = Image.open(path).convert("L").resize((64, 43))
+    px = list(im.getdata())
+    return sum(px) / len(px) < 120 or sum(1 for v in px if v > 240) / len(px) < 0.25
+
+
 def main():
+    rotas = [os.path.basename(f) for f in sorted(glob.glob(os.path.join(IMGS, "*.jpg")))
+             if rota(f)]
+    if rotas:
+        print(f"*** {len(rotas)} ROTAS (negras o sin fondo blanco), hay que regenerarlas:")
+        for r in rotas:
+            print("   ", r)
+        print()
+
     filas = []
     for f in sorted(glob.glob(os.path.join(IMGS, "*.jpg"))):
         d = medir(f)
