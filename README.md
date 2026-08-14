@@ -37,6 +37,13 @@ ex.alternatives.es;      // [ "Sentadilla goblet.", … ]
 ex.images.female;        // .../leg-press-f.jpg
 ```
 
+## Añadir o cambiar ejercicios
+
+Nada de `v1/`, `images/` ni `muscle-maps/` se edita a mano: todo se genera desde
+`exercises_seed.json`. El flujo completo (ilustraciones, instrucciones, errores y
+alternativas, publicación) y las trampas conocidas están en
+[`generador/README.md`](generador/README.md).
+
 ## Licencia
 
 Estilo MIT **con atribución obligatoria** — puedes usarlo (incluso comercialmente),
