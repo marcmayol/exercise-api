@@ -4,3 +4,5 @@ generador/__pycache__/
 
 # dataset generado (regenerable con make_dataset.py; se sube a HF, no al repo)
 dataset/build/
+generador/contactos/
+generador/auditoria.csv
