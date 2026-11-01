@@ -1,0 +1,201 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Exercise API",
+    "version": "1.0.0",
+    "summary": "Open, free gym exercise data in Spanish and English.",
+    "description": "Read-only static JSON served from GitHub Pages. No API key, open CORS. Each exercise has names, instructions, common mistakes and alternatives in Spanish and English, plus male and female illustrations and a muscle map. Every use must credit Marc Mayol and link to https://github.com/marcmayol/exercise-api (see the license).",
+    "contact": { "name": "Marc Mayol", "url": "https://marcmayol.com/contacto/en/" },
+    "license": { "name": "MIT-style with mandatory attribution", "url": "https://marcmayol.com/exercise-api/LICENSE" }
+  },
+  "externalDocs": { "description": "Full documentation (ES/EN)", "url": "https://marcmayol.com/exercise-api/docs.html" },
+  "servers": [{ "url": "https://marcmayol.com/exercise-api" }],
+  "paths": {
+    "/v1/exercises.json": {
+      "get": {
+        "operationId": "listExercises",
+        "summary": "List every exercise (summary form)",
+        "responses": {
+          "200": { "description": "All exercises", "content": { "application/json": { "schema": { "$ref": "#/components/schemas/ExerciseList" } } } }
+        }
+      }
+    },
+    "/v1/exercises/{slug}.json": {
+      "get": {
+        "operationId": "getExercise",
+        "summary": "Get the full record of one exercise",
+        "parameters": [
+          { "name": "slug", "in": "path", "required": true, "description": "Exercise slug from listExercises, for example leg-press", "schema": { "type": "string", "pattern": "^[a-z0-9-]+$" } }
+        ],
+        "responses": {
+          "200": { "description": "The exercise", "content": { "application/json": { "schema": { "$ref": "#/components/schemas/Exercise" } } } },
+          "404": { "description": "No exercise with that slug (the body is an HTML page)" }
+        }
+      }
+    },
+    "/v1/muscles.json": {
+      "get": {
+        "operationId": "listMuscles",
+        "summary": "List the muscle taxonomy",
+        "responses": {
+          "200": { "description": "Muscles", "content": { "application/json": { "schema": { "type": "array", "items": { "$ref": "#/components/schemas/Term" } } } } }
+        }
+      }
+    },
+    "/v1/groups.json": {
+      "get": {
+        "operationId": "listGroups",
+        "summary": "List the muscle groups, with counts",
+        "responses": {
+          "200": { "description": "Groups", "content": { "application/json": { "schema": { "type": "array", "items": { "$ref": "#/components/schemas/CountedTerm" } } } } }
+        }
+      }
+    },
+    "/v1/equipment.json": {
+      "get": {
+        "operationId": "listEquipment",
+        "summary": "List the equipment types, with counts",
+        "responses": {
+          "200": { "description": "Equipment types", "content": { "application/json": { "schema": { "type": "array", "items": { "$ref": "#/components/schemas/CountedTerm" } } } } }
+        }
+      }
+    },
+    "/v1/by-group/{group}.json": {
+      "get": {
+        "operationId": "listExercisesByGroup",
+        "summary": "List the exercises of one muscle group",
+        "parameters": [
+          { "name": "group", "in": "path", "required": true, "schema": { "type": "string", "enum": ["arms", "back", "cardio", "chest", "core", "legs", "shoulders"] } }
+        ],
+        "responses": {
+          "200": {
+            "description": "Exercises of the group",
+            "content": { "application/json": { "schema": {
+              "type": "object",
+              "required": ["group", "count", "exercises"],
+              "properties": { "group": { "$ref": "#/components/schemas/Term" }, "count": { "type": "integer" }, "exercises": { "type": "array", "items": { "$ref": "#/components/schemas/ExerciseSummary" } } }
+            } } }
+          }
+        }
+      }
+    },
+    "/v1/by-muscle/{muscle}.json": {
+      "get": {
+        "operationId": "listExercisesByMuscle",
+        "summary": "List the exercises that work one muscle",
+        "parameters": [
+          { "name": "muscle", "in": "path", "required": true, "schema": { "type": "string", "enum": ["abs", "adductors", "biceps", "calves", "chest", "deltoids", "forearm", "gluteal", "hamstring", "lower-back", "obliques", "quadriceps", "trapezius", "triceps", "upper-back"] } }
+        ],
+        "responses": {
+          "200": {
+            "description": "Exercises for the muscle",
+            "content": { "application/json": { "schema": {
+              "type": "object",
+              "required": ["muscle", "count", "exercises"],
+              "properties": { "muscle": { "$ref": "#/components/schemas/Term" }, "count": { "type": "integer" }, "exercises": { "type": "array", "items": { "$ref": "#/components/schemas/ExerciseSummary" } } }
+            } } }
+          }
+        }
+      }
+    },
+    "/v1/by-equipment/{equipment}.json": {
+      "get": {
+        "operationId": "listExercisesByEquipment",
+        "summary": "List the exercises that use one type of equipment",
+        "parameters": [
+          { "name": "equipment", "in": "path", "required": true, "schema": { "type": "string", "enum": ["barbell", "bodyweight", "cable", "cardio", "dumbbell", "machine"] } }
+        ],
+        "responses": {
+          "200": {
+            "description": "Exercises for the equipment",
+            "content": { "application/json": { "schema": {
+              "type": "object",
+              "required": ["equipment", "count", "exercises"],
+              "properties": { "equipment": { "$ref": "#/components/schemas/Term" }, "count": { "type": "integer" }, "exercises": { "type": "array", "items": { "$ref": "#/components/schemas/ExerciseSummary" } } }
+            } } }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Localized": {
+        "type": "object",
+        "required": ["es", "en"],
+        "properties": { "es": { "type": "string" }, "en": { "type": "string" } }
+      },
+      "LocalizedList": {
+        "type": "object",
+        "required": ["es", "en"],
+        "properties": {
+          "es": { "type": "array", "items": { "type": "string" } },
+          "en": { "type": "array", "items": { "type": "string" } }
+        }
+      },
+      "Term": {
+        "type": "object",
+        "required": ["id", "es", "en"],
+        "properties": { "id": { "type": "string" }, "es": { "type": "string" }, "en": { "type": "string" } }
+      },
+      "CountedTerm": {
+        "type": "object",
+        "required": ["id", "es", "en", "count", "url"],
+        "properties": {
+          "id": { "type": "string" },
+          "es": { "type": "string" },
+          "en": { "type": "string" },
+          "count": { "type": "integer" },
+          "url": { "type": "string", "format": "uri" }
+        }
+      },
+      "GenderedUrls": {
+        "type": "object",
+        "required": ["male", "female"],
+        "properties": {
+          "male": { "type": "string", "format": "uri" },
+          "female": { "type": "string", "format": "uri" }
+        }
+      },
+      "ExerciseSummary": {
+        "type": "object",
+        "required": ["slug", "name", "group", "equipment", "image", "url"],
+        "properties": {
+          "slug": { "type": "string" },
+          "name": { "$ref": "#/components/schemas/Localized" },
+          "group": { "$ref": "#/components/schemas/Term" },
+          "equipment": { "$ref": "#/components/schemas/Term" },
+          "image": { "$ref": "#/components/schemas/GenderedUrls" },
+          "url": { "type": "string", "format": "uri", "description": "Full record of this exercise" },
+          "primaryMuscles": { "type": "array", "items": { "type": "string" }, "description": "Muscle ids. Only present in listExercises, not in the by-group, by-muscle or by-equipment lists." }
+        }
+      },
+      "ExerciseList": {
+        "type": "object",
+        "required": ["count", "exercises"],
+        "properties": {
+          "count": { "type": "integer" },
+          "exercises": { "type": "array", "items": { "$ref": "#/components/schemas/ExerciseSummary" } }
+        }
+      },
+      "Exercise": {
+        "type": "object",
+        "required": ["slug", "name", "group", "equipment", "primaryMuscles", "secondaryMuscles", "instructions", "mistakes", "alternatives", "images", "muscleMap", "muscleMaps"],
+        "properties": {
+          "slug": { "type": "string" },
+          "name": { "$ref": "#/components/schemas/Localized" },
+          "group": { "$ref": "#/components/schemas/Term" },
+          "equipment": { "$ref": "#/components/schemas/Term" },
+          "primaryMuscles": { "type": "array", "items": { "$ref": "#/components/schemas/Term" } },
+          "secondaryMuscles": { "type": "array", "items": { "$ref": "#/components/schemas/Term" } },
+          "instructions": { "$ref": "#/components/schemas/LocalizedList" },
+          "mistakes": { "$ref": "#/components/schemas/LocalizedList" },
+          "alternatives": { "$ref": "#/components/schemas/LocalizedList" },
+          "images": { "$ref": "#/components/schemas/GenderedUrls" },
+          "muscleMap": { "type": "string", "format": "uri", "deprecated": true, "description": "Same as muscleMaps.male" },
+          "muscleMaps": { "$ref": "#/components/schemas/GenderedUrls" }
+        }
+      }
+    }
+  }
+}
